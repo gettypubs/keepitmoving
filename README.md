@@ -1,1 +1,1 @@
-This is repository for Keep It Moving? Conserving Kinetic Art.
+This is the repository for Keep It Moving? Conserving Kinetic Art.
