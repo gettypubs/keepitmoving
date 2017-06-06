@@ -8,8 +8,8 @@
 # {{ .Site.Data.book.title.main }} => "Catalogue Template"
 #
 title:
-  main: Book Title
-  subtitle: Book Subtitle
+  main: Keep It Moving?
+  subtitle: Conserving Kinetic Art
   edition: # First, revised, etc.
   short: Quire Starter Kit
 pub_date: 2017-01-01
