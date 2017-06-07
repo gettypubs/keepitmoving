@@ -9,7 +9,7 @@ contributor:
    affiliation:
 abstract: |
     *Death of a moment* (2007) is a kinetic, room-size installation created by the Swiss Neo-Dada artist Urs Fischer (b. 1973). The installation’s floor-to-ceiling mounted mirrors are set in motion by a hydraulic system, making the space appear to distort and fluctuate. Acquired by the Dakis Joannou Collection in 2007, it was installed as a permanent artwork at the DESTE Foundation in Athens, Greece. This project presented numerous challenges related to the artwork’s production and long-term presentation, including site obstruction, the availability of components, coordination with various specialists, and spatial planning. This paper discusses the solutions adopted by the Dakis Joannou Collection to install and maintain *Death of a moment*, and to plan for its long-term preservation.
-weight:
+weight: 206
 ---
 
 Born in Zurich, Urs Fischer (b. 1973) is a prominent contemporary artist who uses a wide variety of media and materials to create assemblages, paintings, digital montages, spatial installations, kinetic objects, and texts. *Death of a moment* (2007) is a site-specific installation consisting of a wall (13.5 × 3.2m) mounted with floor-to-ceiling mirrors (**fig. 21.1**). The mirrors perform a regular, barely noticeable tilting motion, which creates a disturbing effect on spatial perception. Visitors and other artworks in the space are reflected, multiplied, and distorted, which, in conjunction with the motion of the mirrors, creates a sense of malaise.

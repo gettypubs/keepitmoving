@@ -11,7 +11,7 @@ contributor:
    affiliation:
 abstract: |
     More consideration is given today to the early kinetic works of the ZERO founders Otto Piene (1928–2014), Heinz Mack (b. 1931), and Günther Uecker (b. 1930). But is this hype a stroke of luck or misfortune for the preservation of their works? Through three case studies, this paper analyzes the influences of a growing public interest on the preservation and presentation of kinetic artworks by examining the following aspects in more detail: 1) a changing evaluation of work components; 2) rediscovery and value enhancement; and 3) influences of exhibitions.
-weight:
+weight: 112
 ---
 
 ### Introduction

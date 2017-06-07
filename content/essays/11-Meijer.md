@@ -14,7 +14,7 @@ contributor:
    affiliation:
 abstract: |
     Swiss artist Jean Tinguely (1925–1991) was a member of the New Realists and the ZERO movement, and he is known for his kinetic sculptures and reliefs. His association with the Stedelijk Museum began with two exhibitions, *Bewogen Beweging* (Moving movement) in 1961 and *Dylaby* in 1962, and lasted until his death. The thirteen three-dimensional Tinguely artworks in the collection are being examined and, if possible, will be treated under the multidisciplinary Tinguely Conservation Project. This paper discusses the main focus and structure of the project and highlights some important issues and dilemmas that arose.
-weight:
+weight: 111
 ---
 
 ### Tinguely and the Stedelijk Museum Amsterdam

@@ -15,7 +15,7 @@ contributor:
    affiliation:
 abstract: |
     Chris Burden’s *Metropolis II* is an elaborate kinetic sculpture modeled after a frenetic modern city. Steel tubing forms a grid interwoven with an elaborate system of roadways and train tracks with miniature cars speeding through the sculpture’s dense network of buildings. This paper discusses the maintenance and operation of the sculpture and highlights many of the problems inherent in the acquisition of kinetic works of art.
-weight:
+weight: 103
 ---
 
 ### Introduction

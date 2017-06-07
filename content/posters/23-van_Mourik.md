@@ -9,7 +9,7 @@ contributor:
    affiliation:
 abstract: |
     This paper describes the decision-making process used in the conservation of *Hout Auto (Wood Car)* by Joost Conijn (b. 1971). One of the crucial questions behind conservation strategies was whether to interpret the vehicle as a kinetic artwork or as a motionless relic. Possible approaches toward the work’s preservation were discussed with the artist and with a panel of professionals from various disciplines. These discussions, which resulted in the decision to preserve the vehicle as a static sculpture, brought new insights to different analytical approaches.
-weight:
+weight: 208
 ---
 
 ### The Artwork

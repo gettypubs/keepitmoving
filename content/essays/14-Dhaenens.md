@@ -15,7 +15,7 @@ contributor:
    affiliation:
 abstract: |
     The collection of Nicolas Schöffer’s works is composed of cybernetic art that interacts aesthetically with its environment. This paper investigates the transition of these artworks from the artist’s studio to the museum from the perspective of the conservator’s twofold role. The first considers relationships with the rights-holder for the transmission of the artist’s intent and “studio knowledge.” The second concerns practical challenges for the preservation of Schöffer’s works. This is a complex exercise of transmission that includes collaboration with the different stakeholders, and the conservator’s role in this process is critical to the continued existence of these artworks in their new environment.
-weight:
+weight: 114
 ---
 
 ### Into the Artist’s Studio: From Kinetic to Cybernetic

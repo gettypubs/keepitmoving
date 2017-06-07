@@ -11,7 +11,7 @@ contributor:
    affiliation:
 abstract: |
     Kinetic light artist Thomas Wilfred (1889–1968) created *Lumia Suite, Opus 158* as a complex construction of polished and painted metal, projectors, electric motors, fans, mirrors, and a rear projection screen. Meant to be seen in a dedicated, darkened room, it was commissioned in 1963 by New York’s Museum of Modern Art and on view nearly continuously until it was deinstalled in 1981. It was in storage for the past thirty-five years. In preparation for the Yale University Art Gallery’s 2017 exhibition *Lumia: Thomas Wilfred and the Art of Light*, the installation was unpacked, assessed, conserved, repaired, and reconstructed to bring it to working, exhibitable condition.
-weight:
+weight: 104
 ---
 
 ### Thomas Wilfred: The Unrecognized Pioneer

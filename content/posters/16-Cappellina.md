@@ -14,7 +14,7 @@ abstract: |
     Developing a single protocol for the preservation of kinetic artifacts in technical and scientific museums can be challenging. Many factors need to be taken into consideration, such as the number of identical technical and scientific artifacts produced and displayed in other collections, their productive processes, and whether they are serial or handcrafted as unique pieces. The museum also needs to address essential issues such as long-term storage of artifacts, perishable machines, whether or not to display objects with parts in motion, and how an exhibit can help visitors understand the movement of a machine.
 
     Technical and scientific museums are involved daily with the issue of preserving objects with moving parts. A display of moving machines provides an immersive experience for the visitor, but it can generate risks to the objects’ materials and components. Unlike unique works created by an artist with aesthetic intentions, technical and scientific machines were developed for practical purposes and often have a productive function. They can also be handcrafted, as in the case of scientific instruments, models, or replicas. For this reason, the development of a single preservation strategy can be difficult. The case studies below illustrate some of the challenges routinely faced by the museum.
-weight:
+weight: 201
 ---
 
 ### Cockcroft-Walton Generator

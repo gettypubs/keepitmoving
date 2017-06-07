@@ -15,7 +15,7 @@ contributor:
    affiliation:
 abstract: |
     “From Flickering to Light” was a master thesis project carried out in 2014 at the Institut für Konservierung und Restaurierung, Akademie der Bildenden Künste. It was based on *Strutturazione cinevisuale abitabile* (1964), a light-kinetic artwork by Milanese artist Gianni Colombo (1937–1993), now in the collection of Austria’s Neue Galerie Graz, Universalmuseum Joanneum. Malfunctioning technical components restricted exhibition of the artwork. Based on in-depth research into the artist’s conception, the history of the object, and its technology, preservation strategies were developed that focused on the installation’s electrical and technical issues.
-weight:
+weight: 205
 ---
 
 ### Gianni Colombo’s *Strutturazione cinevisuale abitabile*

@@ -8,7 +8,7 @@ contributor:
    affiliation:
 abstract: |
     How do we incorporate artist intent into the preservation of kinetic works when such art is both performative and  sculptural? Questions focused on artist intent tend to be passed from artists to art professionals as these works age. Frequently, initial preservation attempts affect future discussions around maintenance, replication, and retirement. As a result, conservators face a unique set of concerns that touch upon evolving technology, art historical discourse, and the contextual presentation. The case studies below, which range from the modern to the contemporary, highlight the artist’s point of view.
-weight:
+weight: 101
 ---
 
 When the intention of a kinetic artwork is its movement, is it still a kinetic artwork when it does not move? Do we “keep it moving” even when motion is detrimental to its existence? The challenge associated with the preservation of kinetic artwork is encapsulated in this simple conundrum: Is retirement from movement an appropriate method of preservation for an artwork meant to move?

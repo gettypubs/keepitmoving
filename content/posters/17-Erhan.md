@@ -9,7 +9,7 @@ contributor:
    affiliation:
 abstract: |
     Artist Jonathan Borofsky (b. 1942) is famous for his large, kinetic, outdoor sculptures. This paper presents the conservation of *Ballerina Clown*, an outdoor sculpture in the Collection Museum Ludwig Forum Aachen (Germany), and gives an overview of the history, technology, and conservation of the mechanism inside the sculpture. Conservation and restoration treatments became necessary following damage due to vandalism. During the conservation process, the motion of the leg was adjusted.
-weight:
+weight: 202
 ---
 
 ### Artwork and Art History

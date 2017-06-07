@@ -9,7 +9,7 @@ contributor:
    affiliation:
 abstract: |
     Kinetic art installations can be interpreted and staged in different ways. This paper addresses how the limits of permissible scope for interpretation can be defined and explores the boundaries between interpretation and “overinterpretation,” referencing theoretical concepts formulated by Umberto Eco. The discussion of three kinetic installations from the 1960s by ZERO artists Heinz Mack, Otto Piene, and Günther Uecker focuses on reconstructions as a preservation strategy and concludes that while we cannot be sure if an interpretation of a work is correct, we can recognize if it is wrong.
-weight:
+weight: 102
 ---
 
 ### Interpretation and Overinterpretation

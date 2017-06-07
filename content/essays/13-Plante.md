@@ -9,7 +9,7 @@ contributor:
    affiliation:
 abstract: |
     In the 1960s, kineticism[^1] attracted a wide audience and exhibitions of kinetic art drew large crowds, apparently fulfilling the most ambitious objective of the avant-garde: to integrate art and life. Some kinetic objects were made in series: the idea of multiples was at the core of these artists’ strategies of “demystifying” art objects by avoiding the uniqueness fetish. The idea of an industrial production of kinetic multiples made it possible to imagine the extension to a wider audience of the optically destabilizing effects of the visual artifacts. This paper analyzes kinetic multiples as an artistic production that discovered its limits and contradictions amid arguments about culture, standardization, and consumption around 1968.
-weight:
+weight: 113
 ---
 
 In 1966, Julio Le Parc represented Argentina in the Venice Biennale (**fig. 13.1**) and received the international grand prize in painting. According to the reviews, his space was one of the most visited.[^2] As the appeal of kinetic art continued to grow and draw crowds to museums, it seemed to meet the most ambitious objective of the avant-garde: to integrate art and life.

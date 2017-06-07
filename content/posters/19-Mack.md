@@ -14,7 +14,7 @@ contributor:
    affiliation:
 abstract: |
     Large-scale, outdoor kinetic sculptures by artists such as Alexander Calder, George Rickey, and Pol Bury face new and formidable challenges from the effects of global climate change. Although the sculptures are well engineered, and many have been on continuous outdoor display for decades, more powerful and frequent storms brought about by climate change are creating both catastrophic and small-scale damage as well as increasing the overall rate of wear. Protocols need to be developed and implemented to address this rising threat. Innovative site-specific analysis and the implementation of protections by the Fondation Beyeler for Calder’s *Tree* (1966) present a possible model for long-term outdoor display of similar kinetic objects.
-weight:
+weight: 204
 ---
 
 Meteorological science has documented that climate change has resulted in more storms and increasing storm intensity over recent decades ([**Melillo, Richmond, and Yohe 2014**](#bib)). These new weather-related challenges necessitate that new display protocols for outdoor sculpture be adopted by the field, just as recommendations for indoor museum environments were standardized in 1978 with the publication of Garry Thomson’s *Museum Environment*. Although some work is currently being done, a better understanding of the risks, the limits of the materials, and the means to mitigate damages is needed.

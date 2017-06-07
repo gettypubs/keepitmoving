@@ -12,7 +12,7 @@ contributor:
    affiliation:
 abstract: |
     In 2012 Greek artist Takis (b. 1925) became the focus of a collaborative project between the curatorial and conservation departments of the Menil Collection. Takis uses magnets and electrical components to create static and kinetic three-dimensional art that explores the energies of an invisible fourth dimension. The project addressed the challenges and complexities that often arise when working with a living artist, including balancing the artist’s preferences with the ethics and standards of traditional conservation practice. The ability to achieve that balance resulted in the first survey exhibition of the artist’s work in the United States.
-weight:
+weight: 107
 ---
 
 ### Introduction
