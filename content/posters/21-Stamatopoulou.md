@@ -1,6 +1,6 @@
 ---
 id: "21"
-title: *Death of a moment*
+title: <em>Death of a moment</em>
 subtitle: Management, Installation, and Maintenance of a Site-Specific Kinetic Sculpture
 type: essay
 contributor:
