@@ -18,7 +18,7 @@ menu: true
 
 - [List of Contributors]({{< ref "contributors.md" >}})
 - [List of Participants]({{< ref "participants.md" >}})
-- [Selected Bibliography]({{< ref "bibliography.md" >}})
+- [Selected Bibliography]({{< ref "selected-bibliography.md" >}})
 - [About]({{< ref "about.md" >}})
 
 {{% /quire-toc %}}
