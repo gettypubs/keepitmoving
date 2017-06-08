@@ -15,7 +15,7 @@ contributor:
    bio: In 2001 David Strivay earned his PhD in physics, in the field of ion-beam analysis techniques. He has been the director of the archaeometry research center of the Université de Liège (Belgium) since 2005. His main fields of research are the development and optimization of mobile noninvasive analytical and imaging techniques, technical art history, atomic and nuclear physics and ion-beam analysis, and modification of materials.
 abstract: |
     The collection of Nicolas Schöffer’s works is composed of cybernetic art that interacts aesthetically with its environment. This paper investigates the transition of these artworks from the artist’s studio to the museum from the perspective of the conservator’s twofold role. The first considers relationships with the rights-holder for the transmission of the artist’s intent and “studio knowledge.” The second concerns practical challenges for the preservation of Schöffer’s works. This is a complex exercise of transmission that includes collaboration with the different stakeholders, and the conservator’s role in this process is critical to the continued existence of these artworks in their new environment.
-weight: 114
+weight: 403
 ---
 
 ### Into the Artist’s Studio: From Kinetic to Cybernetic

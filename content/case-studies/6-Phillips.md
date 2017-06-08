@@ -12,7 +12,7 @@ contributor:
    bio: Marcel Verner is a professional engineer (PEng, Canada) with degrees in electrical and mechanical engineering. At the National Research Council of Canada, he researched robotics for use in medical and automotive industries. Currently at PV Labs in Burlington, Ontario, he is responsible for the design and development of aerial robotic imaging systems. He loves a good technical challenge.
 abstract: |
     *As Yet Untitled* (1992–95), a robotic arm and photograph installation by Toronto-based artist Max Dean, was a critical success from its first exhibition, but it is also a temperamental and unreliable machine. The refurbishment project for this kinetic work at the Art Gallery of Ontario (AGO) was initiated by a loan request from a Montreal gallery for a 2013 exhibition. Like most variable-media works of art, *As Yet Untitled* challenged the traditional framework for the conservation of art. To successfully restore it to working order, a volunteer mechatronics engineer and the artist provided crucial support for conservation staff.
-weight: 106
+weight: 204
 ---
 
 ### Introduction

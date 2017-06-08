@@ -15,7 +15,7 @@ contributor:
    bio: Richard Sandomeno was formerly trained and certified as an industrial diesel mechanic. In 2002 he left that career and transitioned into custom metal, jewelry, and art fabrication, and he worked at CB Studio (Chris Burden) as a fabricator on *Metropolis II* from 2007 to 2012. After working to install *Metropolis II* at the Los Angeles County Museum of Art, he was hired by the museum’s conservation department (2012–present) to maintain and repair the sculpture. Since 2001, Sandomeno has owned and operated Spragwerks Inc., his design and fabrication business.
 abstract: |
     Chris Burden’s *Metropolis II* is an elaborate kinetic sculpture modeled after a frenetic modern city. Steel tubing forms a grid interwoven with an elaborate system of roadways and train tracks with miniature cars speeding through the sculpture’s dense network of buildings. This paper discusses the maintenance and operation of the sculpture and highlights many of the problems inherent in the acquisition of kinetic works of art.
-weight: 103
+weight: 201
 ---
 
 ### Introduction

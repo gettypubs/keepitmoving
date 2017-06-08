@@ -9,7 +9,7 @@ contributor:
    bio: Mine Erhan is a conservator for contemporary art and paintings. As project manager for the conservation studio Die Schmiede, she specializes in contemporary art, kinetic art, and outdoor sculptures. She applies two- and three-dimensional image-processing-based digital technologies to improve conservation and restoration treatments. Erhan studied at HfBK Dresden and the Academy of Fine Arts, Vienna.
 abstract: |
     Artist Jonathan Borofsky (b. 1942) is famous for his large, kinetic, outdoor sculptures. This paper presents the conservation of *Ballerina Clown*, an outdoor sculpture in the Collection Museum Ludwig Forum Aachen (Germany), and gives an overview of the history, technology, and conservation of the mechanism inside the sculpture. Conservation and restoration treatments became necessary following damage due to vandalism. During the conservation process, the motion of the leg was adjusted.
-weight: 202
+weight: 502
 ---
 
 ### Artwork and Art History

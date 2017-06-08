@@ -9,7 +9,7 @@ contributor:
    bio: Arthur van Mourik, who earned his BA in Amsterdam in 1980, is collection manager at the Centraal Museum Utrecht, where he specializes in preserving contemporary artworks. He has worked for several institutions, including the Rijksmuseum Amsterdam and the Van Abbemuseum (Eindhoven, Netherlands). He was selected by the Mondriaan Fund for a research project at Instituto Buena Bista platform for contemporary art in Curaçao in 2016.
 abstract: |
     This paper describes the decision-making process used in the conservation of *Hout Auto (Wood Car)* by Joost Conijn (b. 1971). One of the crucial questions behind conservation strategies was whether to interpret the vehicle as a kinetic artwork or as a motionless relic. Possible approaches toward the work’s preservation were discussed with the artist and with a panel of professionals from various disciplines. These discussions, which resulted in the decision to preserve the vehicle as a static sculpture, brought new insights to different analytical approaches.
-weight: 208
+weight: 508
 ---
 
 ### The Artwork
