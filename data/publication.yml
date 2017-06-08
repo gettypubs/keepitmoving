@@ -7,9 +7,8 @@
 #
 # {{ .Site.Data.book.title.main }} => "Catalogue Template"
 #
-title:
-  main: Keep It Moving?
-  subtitle: Conserving Kinetic Art
-  edition: # First, revised, etc.
-  short: Kinetic Art
+title: Keep It Moving?
+subtitle: Conserving Kinetic Art
+edition: # First, revised, etc.
+short_title: Kinetic Art
 pub_date: 2017-01-01
