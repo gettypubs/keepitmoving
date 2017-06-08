@@ -305,7 +305,7 @@ biblio_list:
     reference_for: "11"
 
   - short: Beerkens, Hummelen, and Sillé 1999
-    full: "Beerkens, Lydia, IJsbrand Hummelen, and Dionne Sillé, ed. 1999. *Modern Art: Who Cares? An Interdisciplinary Research Project and an International Symposium on the Conservation of Modern Art*, edited by IJsbrand Hummelen and Dionne Sillé. Amsterdam: Foundation for the Conservation of Modern Art; Netherlands Institute for Cultural Heritage."
+    full: "Beerkens, Lydia, IJsbrand Hummelen, and Dionne Sillé, eds. 1999. *Modern Art: Who Cares? An Interdisciplinary Research Project and an International Symposium on the Conservation of Modern Art*, edited by IJsbrand Hummelen and Dionne Sillé. Amsterdam: Foundation for the Conservation of Modern Art; Netherlands Institute for Cultural Heritage."
     reference_for: "11"
 
   - short: Jobse and Catrien 2014
@@ -432,6 +432,174 @@ biblio_list:
     full: "Rousseau, Pascal. 2005. “‘Folklore planétaire.’ Le sujet cybernétique dans l’art optique des années 1960.” In *L’oeil moteur: Art optique et cinétique, 1950–1975*, edited by Emmanuel Guignon and Arnauld Pierre. Strasbourg: Musée d’Art Contemporain de Strasbourg."
     reference_for: "13"
 
-  - short: Amigo, Dolinko, and Rossi 2010
-    full: "Amigo, Roberto, Silvia Dolinko, and Cristina Rossi, eds. 2010. *Palabra de artista. Textos sobre arte argentino 1961–1981*. Buenos Aires: Fundación Espigas and Fondo Nacional de las Artes."
-    reference_for: "13"
+  - short: Beunen 2005
+    full: "Beunen, Annemarie. 2005. “Moral Rights in Modern Art: An International Survey.” In Hummelen and Sillé 2005: 222–32."
+    reference_for: "14"
+
+  - short: Caple 2000
+    full: "Caple, Chris. 2000. *Conservation Skills: Judgment, Method and Decision Making*. New York: Routledge."
+    reference_for: "14"
+
+  - short: Davenport 1995
+    full: "Davenport, Kimberly. 1995. “Impossible Liberties: Contemporary Artists on the Life of Their Work over Time.” *Art Journal* 54 (2): 40–52."
+    reference_for: "14"
+
+  - short: Davies and Heuman 2004
+    full: "Davies, Laura, and Jackie Heuman. 2004. “Meaning Matters: Collaborating with Contemporary Artists.” In *Modern Art, New Museums: Contributions to the Bilbao Congress, September 13–17, 2004*, 30–33. London: International Institute for Conservation."
+    reference_for: "14"
+
+  - short: Dazord 2013
+    full: "Dazord, Cécile. 2013. “Conserver à l’heure du consommable.” *Techné: Conserver l’art contemporain à l’ère de l’obsolescence technologique* 7 (3): 11–19. Paris: Centre de Recherche et de Restauration des Musées de France."
+    reference_for: "14"
+
+  - short: D'haenens 2016
+    full: "D’haenens, Manon. 2016. “The Conservation of the Cybernetic Tower of Nicolas Schöffer: Between the Continuity and Historicity of the Production.” In *Authenticity in Transition, Changing Practices in Art Making and Conservation, Proceedings of the NeCCAR Conference,* Glasgow, December 2014, 46–53. London: Archetype."
+    reference_for: "14"
+
+  - short: Gagneux 2007
+    full: "Gagneux, Dominique. 2007. “Doit-on entretenir le mouvement d’une oeuvre d’art cinétique?” *Coré: conservation et restauration du patrimoine culturel* 19 (December): 13–18."
+    reference_for: "14"
+
+  - short: Hummelen and Sillé 2005
+    full: "Hummelen, IJsbrand, and Dionne Sillé, eds. 2005. *Modern Art: Who Cares? An Interdisciplinary Research Project and an International Symposium on the Conservation of Modern and Contemporary Art*. London: Archetype."
+    reference_for: "14"
+
+  - short: Huys 2011
+    full: "Huys, Frederika. 2011. “The Artist Is Involved! Documenting Complex Works of Art in Cooperation with the Artist.” In Scholte and Wharton 2011: 105–17."
+    reference_for: "14"
+
+  - short: Imbert 2000
+    full: "Imbert, Nicolas. 2000. “La restauration et la conservation des oeuvres animées, problèmes de méthodes illustrées par deux cas pratiques.” *Conservation-restauration des biens culturels* (16): 33–37."
+    reference_for: "14"
+
+  - short: Lacroix 2006
+    full: "Lacroix, Laurier. 2006. “L’atelier-musée, paradoxe de l’expérience totale de l’oeuvre d’art” *Anthropologie et sociétés* 30 (3): 29–44."
+    reference_for: "14"
+
+  - short: Moles 1970
+    full: "Moles, Abraham. 1970. “Art et ordinateur” *Communication et langages* (7): 24–33."
+    reference_for: "14"
+
+  - short: Pierre 2011
+    full: "Pierre, Arnauld. 2011. “La machine à gouverner. Art et science du cyberpouvoir selon Nicolas Schöffer.” *Les cahiers du MNAM* (119): 41–61."
+    reference_for: "14"
+
+  - short: Poirier 2007
+    full: "Poirier, Matthieu. 2007. “L’oeuvre cinétique à l’épreuve de ses spectateurs et d’elle-même.” *Coré: conservation et restauration du patrimoine culturel* (19): 4–12."
+    reference_for: "14"
+
+  - short: Pullen 2005
+    full: "Pullen, Derek. 2005. “Electronic Media: Thinking the Conservator’s Role.” In Hummelen and Sillé 2005:300–301."
+    reference_for: "14"
+
+  - short: Quirot 2007
+    full: "Quirot, Chantal. 2007. “De la nécessité du contrat d’acquisition” In *Restauration et non-restauration en art contemporain 1,* Actes des journées d’études: *Du refus ou de l’impossibilité de la restauration,* et *Répliques et restitution*, École Supérieure des Beaux-Arts, Tours (1): 73–75. Tours: ARSET."
+    reference_for: "14"
+
+  - short: Rodriguez 2013
+    full: "Rodriguez, Véronique. 2013. “Exposition d’oeuvres d’art et variation, pratique des artistes post-studio” In *Variations et pérennité des oeuvres contemporaines?*, edited by Francine Couture, 7–44. Montréal: Éditions MultiMondes."
+    reference_for: "14"
+
+  - short: Schöffer 1970
+    full: "Schöffer, Nicolas. 1970. *Le nouvel esprit artistique*. Paris: Denoël Gonthier."
+    reference_for: "14"
+
+  - short: Scholte and Wharton 2011
+    full: "Scholte, Tatja, and Glenn Wharton, eds. 2011. *Inside Installations: Theory and Practice in the Care of Complex Artworks*. Amsterdam: Amsterdam University Press."
+    reference_for: "14"
+
+  - short: Smith and Harman 2009
+    full: "Smith, Polly, and Ben Harman. 2009. “The Artist’s Role in Installation and Future Display at the Gallery of Modern Art, Glasgow.” In *Art, Conservation and Authenticities: Material, Concept, Context*, edited by Erma Hermens and Tina Fiske, 217–26. London: Archetype."
+    reference_for: "14"
+
+  - short: Sommermeyer 2011
+    full: "Sommermeyer, Barbara. 2011. “Who’s Right, the Artist or the Conservator?” In Scholte and Wharton 2011: 143–51."
+    reference_for: "14"
+
+  - short: Szmelter 2011
+    full: "Szmelter, Iwona. 2011. “Shaping the Legacy of Krzysztof M. Bednarski: A Model for Artist/Conservator/Curator Collaboration.” In Scholte and Wharton 2011: 119–30."
+    reference_for: "14"
+
+  - short: Van de Vall 2005
+    full: "Van de Vall, Renee. 2005. “Painful Decisions: Philosophical Considerations on a Decision-Making Model.” In Hummelen and Sillé 2005:196–200."
+    reference_for: "14"
+
+  - short: van Saaze 2007
+    full: "van Saaze, Vivian. 2009. “From Intention to Interaction: Reframing the Artist’s Interview in Conservation Research.” In *Art d’aujourd’hui, patrimoine de demain, Conservation-restauration des oeuvres contemporaines*, 20–28. Paris: SFIIC, Paris."
+    reference_for: "14"
+
+  - short: van Wegen 2005
+    full: "van Wegen, D. H. 2005. “Between Fetish and Scores: The Position of the Curator of Contemporary Art.” In Hummelen and Sillé 2005: 201–9."
+    reference_for: "14"
+
+  - short: Barr and Barr 2014
+    full: "Barr, Jim, and Mary Barr. 2014. “One Day in New Plymouth Art in Public Places Trust Boardroom.” *Over the Net*. November 18, 2014. Accessed November 10, 2016. [**overthenet.blogspot.co.nz/2014/11/one-day-in-len-lye-trust-boardroom.html**](http://overthenet.blogspot.co.nz/2014/11/one-day-in-len-lye-trust-boardroom.html)."
+    reference_for: "15"
+
+  - short: Barr and Barr 2016
+    full: "Barr, Jim, and Mary Barr. 2016. “12 Cool Things Kiwi (Visual) Artists Have Achieved in the Past Year.” *Over the Net*. May 17, 2016. Accessed November 10, 2016. [**overthenet.blogspot.co.nz/2016/05/12-cool-things-kiwi-visual-artists-have.html**](http://overthenet.blogspot.co.nz/2016/05/12-cool-things-kiwi-visual-artists-have.html)."
+    reference_for: "15"
+
+  - short: Blundell 2006
+    full: "Blundell, Sally. 2006. “Whose Lye Is It Anyway?” *The Listener*, July 22. Accessed November 15, 2016. [**www.listener.co.nz/culture/whose-lye-is-it-anyway**](http://www.listener.co.nz/culture/whose-lye-is-it-anyway/)"
+    reference_for: "15"
+
+  - short: Brett and Cotter 2000
+    full: "Brett, Guy, and Suzanne Cotter. 2000. *Force Fields: Phases of the Kinetic*. Barcelona: Museu d’Art Contemporani de Barcelona."
+    reference_for: "15"
+
+  - short: Brobbel 2015
+    full: "Brobbel, Paul. 2015. *Len Lye: Four Fountains*. New Plymouth, New Zealand: Govett-Brewster Art Gallery."
+    reference_for: "15"
+
+  - short: Cann 2007
+    full: "Cann, Tyler. 2007. *Len Lye: Five Fountains and a Firebush*. New Plymouth, New Zealand: Govett-Brewster Art Gallery."
+    reference_for: "15"
+
+  - short: Leider 1966
+    full: "Leider, Philip. 1966. *Artforum*."
+    reference_for: "15"
+
+  - short: Lye 1965
+    full: "Lye, Len. 1965. “Notes on Programmed Sculpture.” Unpublished Mss., Len Lye Foundation Collection and Archive, Govett-Brewster Art Gallery."
+    reference_for: "15"
+
+  - short: Lye 1966
+    full: "Lye, Len. 1966. “Sounds of Len Lye Sculpture.” Unpublished Mss., Len Lye Foundation Collection and Archive, Govett-Brewster Art Gallery."
+    reference_for: "15"
+
+  - short: Lye 1984
+    full: "Lye, Len. 1984. “Art That Moves,” “Considering a Temple,” “Tangible Motion Sculpture,” and “Why I Scratch, or How I Got to Particles.” In *Figures of Motion: Len Lye, Selected Writings*, edited by Wystan Curnow and Roger Horrocks. Auckland: Auckland University Press."
+    reference_for: "15"
+
+  - short: Lye 1975
+    full: "Lye, Len, and Ray Thorburn. 1975. “Ray Thorburn Interviews Len Lye.” *Art International*, 64–68."
+    reference_for: "15"
+
+  - short: Matthews 1980
+    full: "Matthews, John. 1980. “The New Zealand Collection.” *Art New Zealand*. Auckland."
+    reference_for: "15"
+
+  - short: Newman and Bloom 2011
+    full: "Newman, George, and Paul Bloom. 2011. “Art and Authenticity: The Importance of Originals in Judgments of Value.” *Journal of Experimental Psychology* 141, no. 3."
+    reference_for: "15"
+
+  - short: Webb 1996
+    full: "Webb, Evan. 1996. “Wind Wand: The Magic of Len Lye and the Toronto Affair.” *Art New Zealand*. Auckland."
+    reference_for: "15"
+
+  - short: Clari 2004
+    full: "Clari, Jean. 2004. *The Great Parade: Portrait of the Artist as Clown*. New Haven, CT: Yale University Press."
+    reference_for: "17"
+
+  - short: Ottinger 2004
+    full: "Ottinger, Didier. 2004. “The Circus of Cruelty: A Portrait of the Contemporary Clown as Sisyphus,” 35–45. In *The Great Parade: Portrait of the Artist as Clown*, by Jean Clari. New Haven, CT: Yale University Press."
+    reference_for: "17"
+
+  - short: Kunstmuseum Basel 1983
+    full: "Kunstmuseum Basel. 1983. *Jonathan Borofsky*: *Zeichnungen 1960*–*1983*. Basel, Switzerland: Kunstmuseum Basel."
+    reference_for: "17"
+
+  - short: Melillo, Richmond, and Yohe 1983
+    full: "Melillo, Jerry M., Terese (T. C.) Richmond, and Gary W. Yohe, eds. 2014. *Climate Change Impacts in the United States: The Third National Climate Assessment*. Washington, D.C.: U.S. Global Change Research Program. [doi:10.7930/J0Z31WJ2](http://s3.amazonaws.com/nca2014/low/NCA3_Full_Report_0a_Front_Matter_LowRes.pdf?download=1)."
+    reference_for: "19"
