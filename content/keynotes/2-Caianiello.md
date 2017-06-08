@@ -12,7 +12,7 @@ abstract: |
 weight: 102
 ---
 
-### Interpretation and Overinterpretation
+## Interpretation and Overinterpretation
 
 All professionals engaged with the conservation and restoration of kinetic objects are familiar with this tool: the screwdriver. This paper is about the use of a screwdriver; however, it does not explain how to use it to open a case and repair a motor. Rather, it employs it as a metaphor to explore the boundaries between interpretation and overinterpretation.
 
@@ -40,7 +40,7 @@ Eco intends to demonstrate that “it is not true that everything goes”:
 
 In this context, Eco considered the “consensus of the community” as a reliable parameter for judging if an interpretation was far-fetched. People from the same culture attribute a certain meaning to particular forms and materials. Besides, according to Eco, objects can suggest how to interact with them, since their characteristics are associated with particular uses ([**Eco 1992**](#bib):144–45). You can use an object in different ways. In the case of the screwdriver, you can also use it to open a box or a bottle with crown cork, or to crush ice and so on. You cannot say that one of these uses is better than another. As long as it works, each use is acceptable. However, there are uses that are simply impossible: a screwdriver doesn’t have any cavities, so you cannot drink out of it and you cannot use it as an ashtray (**fig. 2.1**).
 
-### Acquiring, Reconstructing, and Staging Kinetic Art Installations
+## Acquiring, Reconstructing, and Staging Kinetic Art Installations
 
 Kinetic installations cannot be experienced if they have not been installed: in order to have access to them, they must be fully assembled, with the kinetic components working. However, in some cases, museums and other institutions acquire kinetic installations that are dismantled and need to be reconstructed. Such reconstructions can be challenging.
 
@@ -57,7 +57,7 @@ The way we interpret and present a kinetic installation depends to some degree o
 
 The following case studies illustrate the relevance of these questions.
 
-#### *Lichtraum (Hommage à Fontana)* by Heinz Mack, Otto Piene, and Günther Uecker
+### *Lichtraum (Hommage à Fontana)* by Heinz Mack, Otto Piene, and Günther Uecker
 
 The artists Heinz Mack (b. 1931), Otto Piene (1928–2014), and Günther Uecker (b. 1930) often used the same kinetic light objects for different installations,[^2] adapting the selection and arrangement of pieces to the spatial circumstances in which they were displayed. Because each single object also has an artistic value, the objects can be sold either as individual pieces or as part of an installation. Consequently, if a museum intends to buy a particular installation, it could discover that not all the objects in the original installation are still available, as some may have been purchased separately.
 
@@ -65,7 +65,7 @@ This happened in 1991, when the Kunstmuseum Düsseldorf (today called Museum Kun
 
 Uecker, who made a replica of *Lichtscheibe* in 1993, had realized different “light disks” since the beginning of the 1960s. These were disks covered with nails that were rotated by an electric motor, so that the nails threw constantly changing shadows on the disk’s white surface. When the Kunstmuseum Düsseldorf acquired *Lichtraum (Hommage à Fontana)*, the *Lichtscheibe* in the Kröller-Müller Museum could not serve as a reference for the display of the replica, because it no longer had a motor and was presented on the wall. The replica was finally displayed horizontally on the floor (**fig. 2.2**).[^4] However, while researching my doctoral dissertation at the Documenta-Archive, I discovered a photograph (**fig. 2.3**) showing *Lichtscheibe* in a vertical position ([**Caianiello 2005**](#bib):63, 86). A video was later found of documenta 3 that clearly shows Uecker’s work positioned vertically and rotating on a tripod.[^5] Archival research can have a determinant role in the reconstruction and presentation of installations; however, it is difficult to say if the replica would have been made differently in the 1990s if the photograph or video had been known at that time. Regardless, it would have been helpful to know that *Lichtscheibe* had been displayed in a vertical position at documenta 3. I wouldn’t say, however, that *Lichtraum (Hommage à Fontana)* was overinterpreted merely because the *Lichtscheibe* replica differed from the version displayed at documenta 3. The replica was validated by other installations in which Uecker had presented another light disk horizontally on the floor. In fact, the work might have been displayed vertically at documenta 3 because the space under the Fridericianum ceiling was narrow. There, the artists decided to collocate all the objects on one side of the room, leaving the other side free for visitors. There was no such constriction in the larger space of Museum Kunstpalast, so the *Lichtscheibe* could be positioned horizontally on the floor without hindering the visitors who explored the installation.
 
-#### Heinz Mack’s *Zwischen Himmel und Erde*
+### Heinz Mack’s *Zwischen Himmel und Erde*
 
 Another example is the kinetic installation *Zwischen Himmel und Erde* (Between heaven and earth) that Mack realized in 1966 for the exhibition *Zero in Bonn* at the Städtische Kunstsammlungen Bonn. The work had not survived, and Mack replicated it in 2005 for the exhibition *Light Art from Artificial Light* at the ZKM in Karlsruhe ([**Weibel and Jansen 2006**](#bib): 122). On that occasion, he changed the presentation form of the work and probably gave it its title. A photograph of the replica shows narrow nets (aluminum honeycombed structures) hanging from a black ceiling, which conceals the motors that rotate the nets at different speeds and in opposite directions. Metal sticks are inserted through the nets. Mirroring stainless-steel panels cover a platform at the bottom of the installation (**fig. 2.4**).
 
@@ -81,7 +81,7 @@ Is the presentation of the work in its first version comparable to the exposure 
 
 Unlike the exposure of an older layer in a painting, our intervention with *Zwischen Himmel und Erde* is reversible. It doesn’t preclude us for showing the 2005 version in the future. However, our presentation will leave traces in the history of the work and will influence its future reception.
 
-#### Otto Piene’s *Lichtballett “Hommage à New York”*
+### Otto Piene’s *Lichtballett “Hommage à New York”*
 
 The exhibition *Zero in Bonn* also included Piene’s *Lichtballett “Hommage à New York”* (Light ballet “Homage to New York”) (**fig. 2.6**), a programmed multimedia installation, with light filaments and slides projected on colored screens, walls, and ceiling, fully immersing the viewer in an environment of color. Images of New York City are projected by two carousel slide projectors. Organic forms hand-painted by the artist on glass slides are shown on the third projector. The projections are accompanied by sound consisting of noises recorded by Piene in the New York City streets.
 
@@ -95,13 +95,13 @@ Choosing among Piene’s hand-painted glass slides was more arbitrary. Piene’s
 
 Every reconstruction implies an interpretation. A certain range for decision making cannot be avoided even in the case of reconstructions based on the most comprehensive documentation ([**Caianiello 2013**](#bib):212). The label for *Lichtballett “Hommage à New York”* in the exhibition *Zero ist gut für Dich* indicated both the year of creation (1966) and the year of reconstruction (2016) to make clear that the presentation reflected a today’s interpretation of the original work. In the reconstruction process, a relevant question was, Which role did the different light machines and the single slides play in the overall effect of the installation? We interpreted the work as an immersive environment with simultaneous light and slide projections that didn’t allow a linear reading of the projected images. Consequently, we did not consider the single slides and light machines to be as important as the whole effect of the installation. This interpretation justifies the use of light machines that are not original and a certain freedom in selecting and ordering the slides. Setting up the installation with Piene’s chief assistant and discussing the reconstruction with other professionals[^11] gave us the sense that our interpretation worked in the main, but is it definitely valid?
 
-### Conclusions
+## Conclusions
 
 Although reconstructions leave considerable room for interpretation, they also present clear advantages: They bring forgotten works back to the collective memory and are an occasion to conduct in-depth research on the works and to exchange ideas with colleagues. They also ensure the conservation of original components.
 
 A reconstruction or a new staging reflects an interpretation of the work. We will never be able to draw a clear demarcation line between a right and a wrong interpretation; therefore, we can never be sure if a reconstruction or a staging is correct, although the consensus of the scientific community can give us an orientation. An interpretation can always be invalidated by new archival findings, new methodological approaches, and by interpretations that are more economical and consistent. So we will never know if our conjecture is definitely valid. But we can know if it is definitely wrong, if “it is not the case” ([**Eco 2012**](#bib)). If we try to use a screwdriver as an ashtray, we will notice that it doesn’t work.
 
-### Bibliography
+## Bibliography
 
 Caianiello, Tiziana. 2005. *Der “Lichtraum (Hommage à Fontana)” und das
 “Creamcheese” im museum kunst palast: Zur Musealisierung der

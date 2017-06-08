@@ -17,13 +17,13 @@ abstract: |
 weight: 304
 ---
 
-### Behavioral Kinetics
+## Behavioral Kinetics
 
 Giacomo Balla’s *Bambina che corre sul balcone* (Girl running on a balcony), from 1912, is in the collection of the Galleria d’Arte Moderna in Milan and is currently undergoing restoration in Ferriani’s studio (**fig. 10.1**). It has a direct relationship with photodynamic research on the kinetics and behavior of the body, and the artwork features an experimental technique. *Bambina che corre sul balcone* is one of the masterpieces of Futurism: the Italian root for the immersive, physical, tactile experience of movement—or, better, of space through movement. This kind of direct tactile and immersive interaction is a characteristic of the kinetic artworks we discuss, and it has generally been achieved by the artists’ explicit choice of an elementary technology.
 
 A human figure in motion means physical and psychical involvement, which is the topic of this paper. Images depicting human bodies in motion, such as *Bambina che corre sul balcone*, could be compared to Ugo Mulas’s 1970 photograph showing artist Gianni Colombo walking inside one of his environments, *Topoestesia (Tre zone contigue—Itinerario programmato)* (Topoesthesia \[Three contiguous zones—Programmed itinerary\]) from 1965–70 (**fig. 10.2**).
 
-### Case Study 1
+## Case Study 1
 
 Gabriele Devecchi’s *Scultura da prendere a calci* (Sculpture to kick) (1959), one of the earliest kinetic behavioral pieces (**fig. 10.3**), was first presented after the artist’s death (2011) at the exhibition *Tecnica mista: Come è fatta l’arte del Novecento*, at Milan’s Museo del Novecento in 2012.
 
@@ -33,7 +33,7 @@ The work is composed of eight expanded polyurethane parallelepipeds linked toget
 
 As the life span of the work is extremely short—sometimes just a few hours—while exhibitions generally last from one day to several months, replicas were created for the Museo del Novecento exhibition, to make it possible to replace them when the elastic strings broke. Despite this, all the replicas had broken within a few weeks; at the request of the artist’s archive, a solution was found that would preserve the interactivity of the piece for a longer amount of time. To allow the elastic string to slide, we ran it through a small transparent tube, which was placed where the two polyurethane blocks meet. We also used a glue with an elasticity much closer to that of polyurethane. Although the modification is not visible, we let the curators decide how to show the work: As originally conceived by Devecchi, despite its short life span? Or as newly remade, which sacrifices the original technique but allows a longer-lasting display? In agreement with the artist’s archive, the curators decided to display the new version during the exhibition.
 
-### Case Study 2
+## Case Study 2
 
 In Gianni Colombo’s 1967 artwork *Spazio elastico—due cubi* (Elastic space—two cubes), the outline of two cubes sinks into a metallic surface in slow motion. The effect of movement is further enhanced by the reflectivity of the metal panel (**fig. 10.4**). The work is made of a flat, chromed metal surface inserted into a black-painted wooden frame. Eight holes in the metal plate allow eight metal tubes in the shape of two cubes to be pulled in and out. The back-and-forth movement of the cubes is created by two small, synchronized, single-phase motors. Inside the work, each cube is attached to a plastic plate. Each motor moves two levers, which in turn move two small wheels, raising and lowering the plastic plates, thereby moving the cubes up and down.
 
@@ -43,7 +43,7 @@ With the assistance of an elderly technician who has a well-supplied warehouse, 
 
 The surface degradation posed a more difficult question: Should it be left as is? Or would it be better to re-chrome it? This treatment, although common in the art market, would have meant irreversibly tampering with the original and different aging of the various components, giving the work an imbalanced and incorrect appearance. We decided to create a replica of the chromed metal piece. This way, the work can be shown in its present state, as witness to its history, or the original motors and the chromed piece can be replaced, to give the work its original appearance.
 
-### Case Study 3
+## Case Study 3
 
 These two pieces by Gianni Colombo—*Spazio elastico: doppio quadrato bianco intermutabile* (Elastic space: Intermutable double white square) from 1973–80 and *Spazio elastico: rettangolo* (Elastic space: rectangle) from 1974—belong to his cycle of Intermutabili, or Intermutables, which address painted versus physical geometry. They feature a grid of elastic strings or tubes with springs superimposed on a background of painted wood. The viewer can alter the shape of the grid by hooking the ends of the elastic elements to different fixed nails. The monochrome background is in contrast to the tone of the elastic elements. In some works, the symmetrical form of the grid is painted on the bottom, and it interferes with any alteration made by the observer. The piece is meant to be a true physical and metaphorical “exercise of freedom,” with the spectator’s hands on the surface, interacting with it.
 
@@ -59,7 +59,7 @@ Pola was faced with a similar dilemma for the Intermutabili in *Gianni Colombo: 
 
 A similar solution was adopted for Jean Tinguely’s *Méta-Matic* *No. 10* (1959). Exhibition copies are never allowed for these works by Tinguely, and curators sometimes provide a video of the artwork in action, as a documentation and presentation resource. However, we would like to underline that because *Méta-Matic* is about automatic motion, the video solution is practical. For Colombo’s work, a video cannot replace the action of the spectator interacting with the art: the point of *Méta-Matic* is not the spectator’s choice (as it is in Colombo’s work) but the anonymity of the mechanical drawing.
 
-### Case Study 4
+## Case Study 4
 
 Gianni Colombo’s *Topoestesia* (*Tre zone contigue—Itinerario programmato*) (Topoesthesia \[Three contiguous zones—Programmed itinerary\]) from 1965–70 is the most immersive work of these case studies (**fig. 10.8**). This environment can be experienced at the Museo del Novecento in Milan, where it was first reconstructed in 2012. It was presented in London in 2015, its first appearance outside Italy. The Archivio Gianni Colombo has the original drawings, detailed projects, and even samples of original materials, so an exact replica of the original could be made using new materials. Immersive and “walkable” interactive environments such as this are not objects but experiences. They are more like a performance to be acted by the spectator than an image or object to be looked at. Every time a performance is interpreted, it is not a reenactment but the real piece. We could ask ourselves: Can we apply this kind of performative category to Colombo’s “behavioral” environments?
 
@@ -73,7 +73,7 @@ Colombo’s intentions were expressed in the work’s original installation at *
 
 The reconstruction of this environment in 2015, as well as the reconstructions of all Colombo’s environments, was carried out by the Archivio Gianni Colombo. As Marco Scotini, director of the archive, has stated: “Colombo’s environment is a repeatable spatial device, a device which operates autonomously and, in some measure, anonymously . . . \[and\] which requires the direct participation of the spectator” ([**Ferriani and Pugliese 2013**](#bib):100).
 
-### Conclusion
+## Conclusion
 
 The purpose of this paper was to demonstrate how kinetic art, even more than other forms of artistic expression, requires a close collaboration between conservators and art historians/curators to ensure that it is conserved and displayed correctly. We are aware that the choices made to conserve artistic heritage often result from current approaches, not immutable criteria, and we have kept a range of solutions open to consideration.
 
@@ -81,7 +81,7 @@ We have attempted to identify, on a case-by-case basis, solutions that will main
 
 Kinetic art is often interactive, and only in the exchange of information between curators and conservators is it possible to understand the limits and accuracy of conservation strategies, and at the same time have these strategies allow a correct use of and involvement with the kinetic works, as close as possible to the meaning envisioned within their original concept.
 
-### Bibliography
+## Bibliography
 
 Ferriani, Barbara, and Marina Pugliese. 2013. *Ephemeral Monuments:
 History and Conservation of Installation Art*. Los Angeles: Getty

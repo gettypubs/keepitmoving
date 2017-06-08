@@ -111,7 +111,7 @@ It was a sentiment the artist expressed himself during the 1960s, frustrated at 
 
 Lye’s claim to be “pretty good for the 21st century” became more than a realization that his work could only be partially executed under his own watch but also a rejection of the environment he was required to work in. Anticipating what could be achieved in the future, he was similarly invested in the value of kinetic art and reticent to rely on his contemporaries to maintain that value. The development of the Len Lye Foundation and, thirty-five years later, the Len Lye Centre falls short of his hopes for a temple of motion, but they are an active and essential part of Lye’s vision . . . for inventing another program.
 
-### Bibliography
+## Bibliography
 
 Barr, Jim, and Mary Barr. 2014. “One Day in New Plymouth Art in Public
 Places Trust Boardroom.” *Over the Net*. November 18, 2014. Accessed

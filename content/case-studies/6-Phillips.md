@@ -15,13 +15,13 @@ abstract: |
 weight: 204
 ---
 
-### Introduction
+## Introduction
 
 Without loan requests, some of the most fascinating and challenging conservation projects would end up languishing on to-do lists. Complex projects tend to be event-driven rather than the result of strategic long-term planning ([**Smithsonian Institution 2010**](#bib)). The restoration of *As Yet Untitled* began in 2013 with a loan request from VOX, Centre de l’Image Contemporaine, a leading public gallery in Montreal. To loan the work, the Art Gallery of Ontario (AGO) had to ensure that it would operate reliably and without constant repairs. A review of the artwork’s file revealed that *As Yet Untitled* had been popular, engaging, and a critical success but was also considered a temperamental and seemingly incomprehensible machine.
 
 The robotic arm and photograph installation *As Yet Untitled* (1992–95) was created by Toronto-based artist Max Dean. It was first exhibited at the AGO in 1996 and eventually acquired as part of the permanent collection in 2007, with full knowledge of its history and the challenges it presented. Before coming into the collection, the piece had toured internationally with Dean and his technical assistants.[^1] As with most kinetic art, maintenance is essential to the operation and appreciation of the piece. *As Yet Untitled* was developed and constructed in the artist’s studio with a team of mechanical and computer specialists, whom Dean describes as “tinkerers.”[^2]
 
-### Overview of the Installation
+## Overview of the Installation
 
 In *As Yet Untitled* (**fig. 6.1**), found photographs are presented to the viewer by a robotic arm. The motion is relentless; the robot operates whether or not someone is present. The arm is programmed to pick up a photograph from the feeder on the right, present it to the viewers, and then wait a few seconds for a response before proceeding. Viewers can intervene by covering one or both of the hand silhouettes in front of them, and the robot will place the photo in an archive box on the left. Should viewers choose not to act (or if no one is present), the robot will place the photo in a shredder, and the shredded photo will be conveyed to a pile. The robot runs continuously when the gallery is open to the public.
 
@@ -31,7 +31,7 @@ The installation is reminiscent of a choreographed performance, and the actions 
 
 *As Yet Untitled* had not been installed for several years and had the reputation of being unreliable. Fortunately, the artist is based in Toronto and was keen to participate in the project. He is remarkably well connected to a diverse community of professionals and was able to reach out to Marcel Verner, a systems engineer with a strong commitment to volunteerism. Phillips readily acknowledges that the restoration project would not have been possible without Verner’s generous participation and Dean’s patience with the minutiae of restoration. Verner in turn knew of Dr. Richard Voyles, whose company, Mark V Automation Corp, specializes in retrofitting Unimation Puma technology. In addition to this happy confluence, VOX, the gallery in Montreal that requested the loan, was willing to share in the cost of the restoration.
 
-### Stage One: Opening the Crates
+## Stage One: Opening the Crates
 
 As we began to work more deeply with the components, we realized that there would be two stages to the restoration process: pre- and post-exhibition at VOX. Stage one focused on bringing *As Yet Untitled* to a minimum level of viability for the loan. Various components of the installation still worked, but the robot controller was nonfunctional and the original operational program was obsolete. We repaired or replaced some mechanical aspects of the installation, specifically the air compressor and conveyor motor, and installed upgraded software and safety protocols, but the artwork would still require considerable support through the entire exhibition. All studio-built furniture components such as stands or supports were in excellent condition with no need for intervention.
 
@@ -39,30 +39,30 @@ Stage two would begin when *As Yet Untitled* was returned to the AGO; that is, c
 
 Preparing the robot and installation components for loan was a logistical challenge. We were awash in unassembled and scattered components, too many for the conservation studio. We used empty gallery spaces, but we were displaced four times before our work was complete (**fig. 6.2**).
 
-#### Photographs
+### Photographs
 Originally the supply of found photographs was sourced through unclaimed stock at photographic developing shops, or through donations. Newly sourced photos for the loan to VOX, however, produced an unexpected complication: contemporary photo paper has a different texture than the photo paper commonly used in 1996, and the photo separator tabs on the front edge of the feeder could no longer reliably separate the photos. The shredder can manage up to three photographs without jamming but, ideally, only one photo at a time should be presented to the visitor. A colleague with experience working in mail rooms recalled that envelope sorters use brushes to separate mail. Using a band saw, we cut a new bristle brush into single rows and attached them to the delivery end of the photo feeder. This worked well. This solution was intended to be temporary, but Dean felt the change was in the spirit of the piece so the brushes remain in place.
 
-#### Photo Feeder
+### Photo Feeder
 
 Pneumatic technology is used to pick up the photos in the mechanical feeder as well as supply air to the robot gripper. The air compressor is located under the conveyor belt. Ideally, a single photograph is brought forward by the pneumatic suction cup and picked up by the robot gripper.
 
 Dean supplied two air compressors but neither one worked; we acquired a new compressor of the same brand. Our reasoning for replacement was simple: for some components, it’s much less expensive to replace than to repair. The new model doesn’t quite fit into the available space under the conveyor, but it is much quieter than the original. Dean’s original choice of compressor was based on the quietest unit then available so viewers can better focus on the robot. We decided not to adapt the conveyor stand to hide the larger compressor; the slight extra length of the new compressor is not visible from the viewer’s main vantage point and an intervention would have involved a substantial rebuild.
 
-#### Hands
+### Hands
 
 Photoelectric cells are embedded in the silhouettes of the hands. The sensors register a visitor’s intervention (the action of covering one or both hands) to signal the robot to archive a photo. If the hands are not covered, the robot shreds the photo.
 
-#### Archival Box
+### Archival Box
 
 Photos selected for archive acknowledge the visitor’s conscious decisions to save specific images, and these are stored post-exhibition as archival material.
 
-#### Shredder and Conveyor
+### Shredder and Conveyor
 
 The conveyor belt and motor are commercially sourced but custom-sized for the installation. The original conveyor motor was refurbished by an outside company. The seals had decayed and oil had leaked while the artwork was in storage. Changing our storage approach to establish a maintenance protocol, that is, rotating the unit to redistribute the oil and preserve the seals, will improve the preservation of mechanical elements.
 
 The average shredding capacity of the robot is eighty photos (4 × 6 in.) an hour. There are two paper shredder units, and both are currently in working order. They could be replaced with new models provided they fit into the studio-made shredder housing and create long strips of photographs. Shredded photos are discarded discreetly at the end of the exhibition period.
 
-#### Robot, Controller, and Software
+### Robot, Controller, and Software
 
 Dean chose a Unimation Puma 550 industrial robot arm with a gripper attachment mounted on a studio-built metal stand. These robots—relatively simple to program, operate, and repair—can still be found in robotics classrooms as teaching tools. Dean originally thought he would build his own robotic arm but chose the Puma 550 after a visit to Antenen Robotics in West Chester, Ohio.
 
@@ -82,15 +82,15 @@ The purchase of the new controller, a cost-effective means of updating and refur
 
 The original scripting of the commercial software in the 1990s had not been migrated, nor had the sequencing been extracted in a format readable by humans, and the software resided on two laptops of questionable operational status (**fig. 6.4**) and a set of floppy disks. The artist’s belief in multiple redundancies paid off: it was possible to retrieve the sequencing choreography and software flow of the installation from one of the laptops. This information was converted to a state machine or flowchart of actions (**fig. 6.5**), software-speak for a flowchart describing the behavior of a system that governs the operation of the exhibit that the viewer experiences as *As Yet Untitled*. The sequencing experienced as *As Yet Untitled* was re-sequenced using the new robot control software.
 
-#### Documentation
+### Documentation
 
 We created two manuals: one for a programmer, and another for the relatively nontechnical installer. The programmer manual will assist in the identification of communication links and faults between components and controller. The installer’s manual is image-heavy, with a lot of repetition to the instructions.
 
-### Stage Two: Post VOX
+## Stage Two: Post VOX
 
 *As Yet Untitled* operated reliably in Montreal—daily for more than seven weeks—monitored by an in-house installation technician (with telephone and e-mail access to the project engineer for advice), but the program and refurbishment was not complete.
 
-#### Robot
+### Robot
 
 After the robot returned to AGO, coding and subsequent testing of commands in the script eventually revealed that index pulses were not working properly. Verner found the root cause in failing encoder signals in arm-joint motor number 3. An encoder is an electrical device used to measure position in space, and index pulses, also called reference pulses or points, are signals generated by the encoder. We could either replace the malfunctioning joint motor, or try to write the code around it and maintain a temperamental machine; we opted for replacement.
 
@@ -98,13 +98,13 @@ We also realized that a significant reason for the machine’s unfortunate reput
 
 The original laptops and controller are in storage. They are now part of *As Yet Untitled*’s history. The new controller produced by Mark V Automation and the newly written software may undergo the same fate someday.
 
-#### Sequencing of Motion
+### Sequencing of Motion
 
 *As Yet Untitled*’s original 1996 performance at the AGO and its subsequent installations were not fully documented. Dean’s participation in preparation for the loan to VOX, however, meant that we were able to build upon the program extracted from the old laptop.
 
 It was necessary to change the original motion routines to better align with the actual limits of the machine and the program. A new start-up process for alignment of components has been added, as well as a few subtle changes from the original choreography, because the original performance was not coded in accordance with the robot’s functional limits. Dean fully supports the variation and believes that an enriched understanding of the machine through a specialist engineer’s participation has led to overall improvement in its operation and function and, consequently, the performance. We adjusted, for example, velocities and joints. The arm’s original motion—a single sweep, with a large wrist flip from feeder to presentation to the viewer—resulted in slow speed, a droop in the arm, and a jerky motion at the waist joint. The motion was changed so that the wrist flip occurred at the conclusion of the arm sweep, resulting in a smoother, slightly faster arm sweep and concluding with a smaller wrist gesture before the final extension and presentation to the viewer.
 
-#### Safety
+### Safety
 
 Some changes to the installation were necessary for health and safety. Working to provincial electrical safety standards is AGO policy, and we also reviewed industrial safety standards for robotic installation. Two emergency stops have been added, one on the controller, another on an auxiliary box, which is meant to be moved to an accessible location during operation of the piece. At least two people must be involved in the installation, and there must be an attendant close to the robot at all times.
 
@@ -112,7 +112,7 @@ Stanchions and cord to indicate a perimeter barrier are original to the piece. T
 
 We maintained programmed responses to unexpected variables, like a jammed shredder or no photo pick-up. This seems like improvisation and contributes to the tendency of visitors to anthropomorphize the robot, to believe the robot is thinking and responding. Now, however, error prompts are coupled with instructions for the operator in accessible language on the monitor at the back of the work, and supported by instructions in the operational manual (**fig. 6.6**). The robot also has its own Gmail and Dropbox accounts so that software updates and troubleshooting can be performed remotely if required.
 
-### Future
+## Future
 
 There is no current need to replace the robot or other major components of the installation, but the artist has said it is an acceptable option. Working closely with the artist means we can record his tolerances for future preservation strategies.
 
@@ -122,13 +122,13 @@ Artists and their studio assistants may develop a project with incomplete knowle
 
 If there is a major shift in computers/robotics, equipment, and software, then all processors, the I/O board, and written software may have to be replaced. Any program or computing language compatible with robots in general should work as long as the programmer follows the state diagram and documented lines of code. We have been able to largely preserve the original integrity of the installation; our future colleagues may be faced with very different decisions, but they will be guided by documentation of Dean’s intention. There is a range of options for future decisions on behalf of *As Yet Untitled*, options that ultimately are to keep the work kinetic.
 
-### Conclusion
+## Conclusion
 
 According to Max Dean, this restoration project took *As Yet Untitled* to a state that he would have wanted in the original but which his early team of tinkerers was incapable of realizing.[^4] Our project has resulted in an iteration of the original computer program. It is a version of the old, based on a clearer understanding of the machine and with new and necessary safety features. The artist’s collaboration on the project, together with a conservator’s tendency toward restraint and an engineer’s ingenuity, meant that the result is not an interpretation or relic of the original, but rather a reliable and robust performance by the original mechanical components. Working collaboratively with specialists and the artist was necessary and complicated but also professionally and personally enriching.
 
 If the restoration of *As Yet Untitled* had not been completed after the Montreal loan, it would have been difficult for others to pick up where we left off, and appropriate restoration may have been impossible. Like any kinetic object, it will remain susceptible to mechanical wear and tear. As the original components age, and as replacement parts become obsolete, the robot may even regain its temperamental attitude. Building on our work, however, a new team should be able to face the challenge with confidence.
 
-### Bibliography
+## Bibliography
 
 Corzo, Miguel Angel, ed. 1999. *Mortality Immortality? The Legacy of
 20th-Century Art*. Los Angeles: Getty Conservation Institute.

@@ -12,7 +12,7 @@ abstract: |
 weight: 502
 ---
 
-### Artwork and Art History
+## Artwork and Art History
 
 *Ballerina Clown* (1990) by Jonathan Borofsky (b. 1942) is composed of a female ballerina body wearing a male clown mask. This “transvestite figure (half clown, half ballerina)” ([**Ottinger 2004**](#bib):39) dances on top of a box in front of a curtain. The figure’s arms are outstretched, and one leg sways gently, “kicking” in the air. The work is accompanied by Frank Sinatra’s “My Way” sung in a creepy, hollow voice by Borofsky. The figure holds a “flying” golden ring and lights illuminate the kinetic sculpture at night.
 
@@ -22,7 +22,7 @@ The artwork is as high as a two-story building (about 9 × 5.7 × 6.4m) and is m
 
 The motion of the leg is powered by an electric motor that rotates a flywheel. Through a coupling rod, a gearwheel with an attached chain turns back and forth, and the sculpture’s leg is moved by a second gearwheel that is installed as a “knee joint.” Both gearwheels are connected through attached chains and a steel rope. Two guide rollers determine the direction of the steel rope (**fig. 17.1b**). Amplifiers, speakers, and a cassette recorder play the song, and lights illuminate the sculpture at night. The artwork can be activated by a switch in a nearby building.
 
-### Damage and Treatments
+## Damage and Treatments
 
 Since 1991 *Ballerina Clown* has been exhibited in the courtyard of the Museum Ludwig Forum Aachen. Conservation and restoration treatments were necessary after it was vandalized. The mechanism that allows the clown’s leg to swing was broken, and sections of the original surface were cracked and damaged. Additionally, the paint had whitened through chalking, and partial delamination, cracks, and losses emerged.
 
@@ -30,7 +30,7 @@ When the movable leg was examined to replace the torn steel rope, it was evident
 
 Additional treatments were performed to stabilize frail parts of the GRP, consolidate delamination, fill losses, and retouch this painted outdoor sculpture.
 
-### Bibliography
+## Bibliography
 
 Clari, Jean. 2004. *The Great Parade: Portrait of the Artist as Clown*.
 New Haven, CT: Yale University Press.

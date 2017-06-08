@@ -18,13 +18,13 @@ abstract: |
 weight: 403
 ---
 
-### Into the Artist’s Studio: From Kinetic to Cybernetic
+## Into the Artist’s Studio: From Kinetic to Cybernetic
 
 With more than six hundred objects, the collection of Nicolas Schöffer (1912–1992) is nearly complete. Currently installed in his Paris studio, it contains most of his unique artworks and at least one work from each of his series. In addition to paintings, drawings, archives, and plans, the collection is composed of kinetic, but mostly cybernetic, sculptures by the artist (**fig. 14.1**). His widow, Mrs. Eléonore de Lavandeyra Schöffer, manages their maintenance and exhibition and offers guided visits of the studio.
 
 As early as 1948, Schöffer included space in his sculptures with *spatiodynamism* (**fig. 14.2a**), using dynamism to create a sensation of dematerialization through the perception of movement. He opened them to light with *luminodynamism* (**fig. 14.2b**), which unfolds energy and aesthetic potential, and to time with *chronodynamism* (**fig. 14.2c**), in which artworks move in space, light, and time with a precise program and with almost infinite and unpredictable possibilities.[^1] To do so, he introduced cybernetics—the science of self-regulated systems ([**Pierre 2011**](#bib))—in art via interaction with external factors such as light, movements, or sounds. With this purpose in mind, he integrated the most innovative contemporary technology available, with the support of the Philips company. In fact, this kind of permutational system delimits a broad field of possible combinations and produces a finite but immense number of potential works ([**Moles 1970**](#bib)). Schöffer’s artworks must continuously communicate practical information using aesthetic language with no repetition: they must constantly differ and have a societal impact ([**Schöffer 1970**](#bib)).
 
-### Museum Project
+## Museum Project
 
 The idea of a Schöffer museum has existed since the 1980s, with the first project developed by Nicolas and Eléonore Schöffer.[^2] Recently, there was an opportunity in Belgium to assemble the artist’s collection around his first permanent cybernetic achievement: the *Cybernetic Tower* of Liège. The collection is to be transferred to the Fédération Wallonie-Bruxelles of Belgium, where it will be preserved in the city of Liège. The ongoing project involves the transfer of the artist’s entire oeuvre to a new public museum, which differs from an artist’s studio-museum,[^3] for enhanced access and study, allowing specific interpretation and analyses.[^4]
 
@@ -34,7 +34,7 @@ The first task was to bring both parties together. The concept of the transfer p
 
 The *Musiscope*, a representative artwork in Schöffer’s oeuvre, is used below as a case study exemplifying these implications (**fig. 14.3**). Created in 1960, this work is a visual organ with an electronic keyboard and a screen (2 × 2m) in front of a complex installation of visual elements moved by engines and illuminated by lights. This unique artwork is composed of functional electronic components as well as handmade aesthetic elements in plastic and aluminum sheets for light effects; it requires a person’s interaction to be operated.
 
-### Transmission and Interpretation
+## Transmission and Interpretation
 
 When entering the studio, the visitor is immersed in the universe of the living and evolving works of Nicolas Schöffer. Eléonore Schöffer passionately runs the space full time; she is closely linked to the artworks because she completed some of them with her husband and continually maintains their existence, following his desire to actualize his works with new technologies. From a museum perspective, a form of collaboration is needed to ensure the future variability of these contemporary artworks ([**Sommermeyer 2011**](#bib)). The trust and confidence (including empathy and emotion) of artist, or the artist’s proxies, in the conservator are helpful when considering interventions that may need subjectivity or, in part, continuity of the artwork production ([**D’haenens 2016**](#bib)) and to understanding the context behind the display ([**Szmelter 2011**](#bib)).
 
@@ -44,7 +44,7 @@ There is an equal demand to maintain a necessary distance to work efficiently. B
 
 I strive to analyze these discussions and relationships, taking a step back to meet conservation objectives. According to the literature, the conservator is often considered to possess the ethics and skills to ensure that the artworks are respected, to manage the subjectivities of the different stakeholders, and to process information with the focus on the artworks ([**Caple 2000**](#bib); [**Sommermeyer 2011**](#bib); [**Davenport 1995**](#bib); [**van Wegen 2005**](#bib)). This collaborative work has also emphasized that the artist’s close relations may have a natural blind confidence in every small trace of the artist. For example, a simple note that said “red” on a spotlight in the *Musiscope* structure becomes sufficient evidence that it has to be changed to a red light. While the artist’s relatives have a deep knowledge of the context that allows interpretation of each sign of the artist, as a conservator, I still need to systematically question everything. Combining discussions with Mrs. Schöffer with a study of the archives, the plans and documentation of the artworks, books by and on Nicolas Schöffer, and meetings with other stakeholders, I have tried to increase the number of sources to verify information through cross-referencing prior to the intervention: the practical interpretation. The process of investigating the artist’s intent in contemporary art conservation, considered as a basis for interpretation in decision making, also participates in the artworks’ variation in the future museum.[^5]
 
-### Preservation and Functionality
+## Preservation and Functionality
 
 A collection transfer to the museum implies practical challenges. I began by identifying the artworks spread throughout Schöffer’s whole apartment and making a comprehensive inventory: comparing the physical state of the artworks in Paris, in another storage location, and in the archives with the previous partial inventory and historical information found in a handmade catalogue by the Galerie Denise René. The collection comprises more than two hundred graphic works, approximately one hundred works in relief, and about three hundred functioning artworks creating light and/or movement effects in space and time. There are also pieces to be reassembled, documentation for nearly every artwork, and old, functional parts that had been replaced (like light filament bulbs). Each artwork created by Schöffer is an improvement on the previous work, the development of his idea one step further, and having full access to the entire collection helps us to better understand and manage these artworks. For example, the current *Musiscope*, which had already been conserved and modified by Mrs. Schöffer under the artist’s supervision, has a piano-type keyboard—a replacement from a more technological keyboard—for the effect of a more intuitive aesthetic transition. It is important to grasp the different creation and/or conservation steps to understand the current work.
 
@@ -54,7 +54,7 @@ If some obsolete technological industrialized parts are considered replaceable, 
 
 In this context, “studio knowledge” is an important part of the transmission, and it is attained by collaborative conservation work in the studio. Keeping a step back to remain analytical, I needed to adapt my understanding to their practice in order to document it. The aim is also to learn the specificity of the works, such as value of the cybernetic parameters of Schöffer’s artworks or the effects of obsolete parts, but not to become an artist’s assistant. We discussed our differences in practices during conservation of the *Musiscope*. Artist and assistant Santiago Torres wanted to preserve the original materials as much as possible, and made an aesthetic intervention for better light effects, also required by Mrs. Schöffer. I was looking for a more reversible or limited intervention in a long-term perspective. This approach, as well as learning from previous examples, experiences, and failures, helped us to understand each other: we both had the same aim, simply different ways that could be combined to reach it. It helps to specify the values and key parameters of the effects of the artist’s works on one side and highlight the input of the conservation profession on the other.
 
-### From the Artist’s Studio to the Museum: The Conservator’s Role
+## From the Artist’s Studio to the Museum: The Conservator’s Role
 
 Artworks owned by an artist, or even by his rights-holder, are still connected to a creation process and have both moral and property rights. When these artworks enter a museum, the institutional process will stabilize them and change their relation to time, with historical values and the need for long-term conservation ([**Rodriguez 2013**](#bib)). This raises and will continue to raise many issues, like those discussed here, between the conservator and the widow but also helps define the transfer contract. The process highlights that variability may be preserved within a museum framework that is discussed with the artist and based on ethics about interpretation and replacement. It is more difficult to consider the sales, production, or reedition of artworks based on plans (for which Mrs. Schöffer has moral rights) for works that were never sanctioned by the artist and differ greatly from reproduction. More in-depth documentation is also needed, beginning with the archives and a project on different documentation types, including electronic programs. Finally, presentation and use of artworks will make them accessible to more people although in a more restrictive way, even for artworks that require essential public interaction such as the *Musiscope*, which has to be played to perform the artwork.
 
@@ -68,11 +68,11 @@ Finally, practical skills and approaches remain essential for these extremely fr
 
 The transition of this cybernetic collection from the artist’s studio to the museum—wherever it will take place—is a complex exercise of transmission in which the role of the conservator, working with the different stakeholders, is critical in a global, upstream, and integrated approach.
 
-### Acknowledgments
+## Acknowledgments
 
 I would particularly like to thank Mrs. Eléonore de Lavandeyra Schöffer for her collaboration and authorization to disseminate interviews and photos for research purposes. I also thank Jean-Marc Gay from the city of Liège for collaborating on this project.
 
-### Bibliography
+## Bibliography
 
 Beunen, Annemarie. 2005. “Moral Rights in Modern Art: An International
 Survey.” In Hummelen and Sillé 2005:222–32.

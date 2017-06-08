@@ -23,7 +23,7 @@ abstract: |
 weight: 203
 ---
 
-### The Context of Kinetic Art Conservation at Tate
+## The Context of Kinetic Art Conservation at Tate
 
 Tate acquired its first kinetic work in 1951 (Lynn Chadwick’s *Dragonfly*), and there are now approximately sixty kinetic sculptures in the collection, including mobiles, interactive works, and motorized works. Each artwork has its own complexities relating to display; therefore, conservation needs are reviewed on an individual basis and require a variety of implementation approaches. The following three sculptures highlight some, but not all, of the different approaches that could be applied to Tsai’s *Umbrella*, based on previous work within Tate conservation.
 
@@ -35,7 +35,7 @@ Another example of Tate’s approach to kinetic works is partial or full replica
 
 Gabo used primitive techniques and reclaimed materials in the manufacture of *Kinetic Construction (Standing Wave)*, and it often failed during display. Despite many conservation attempts, it was decided in 1974 that a replica of the work should be made. During a discussion with his assistant, Charles Wilson, Gabo implied that “it was only the sculptural idea or image that was important . . . he personally did not attach any great significance to the notion of the original work of art” ([**Lodder 2007**](#bib)). Working in close collaboration with the artist, we produced a replica with the goal of re-creating the effect of the original without getting too far away from the original appearance.[^7] The resolution of this work is important not only because of the collaboration with the artist himself but also because Gabo and *Standing Wave* strongly influenced Wen-Ying Tsai’s artworks.
 
-### Wen-Ying Tsai’s *Umbrella*
+## Wen-Ying Tsai’s *Umbrella*
 
 Wen-Ying Tsai (1928–2013) began to make cybernetic sculpture in 1966. Each sculpture consists of a number of stainless-steel rods set on a platform, vibrating at a constant rate of 20Hz to 30Hz (cycles per second). These vibrating rods are lit by high-frequency strobes that capture their movement, allowing the viewer to see them as slowly undulating standing waves. The standing waves appear to immediately respond to a loud noise—the clap of a hand, or a loud voice—by quickening their motion ([**Alley 1981**](#bib)).
 
@@ -47,7 +47,7 @@ The central crown’s broken rods meant that the work could not be displayed, an
 
 Subsequently, the work was put into storage until 2014, when it was reviewed with the hope that it could be placed on view in the new Tate Modern. The challenges of displaying the sculpture were revisited, and the review considered a range of options for the artwork’s components: the central crown, the strobe unit, and the audio control unit. Some parts had failed previously, and others are now considered obsolete, irreplaceable technology. To ensure that the public could fully enjoy *Umbrella* at the Tate Modern, we focused on operability, reliability, and longevity, with each component considered in detail and in relation to these criteria. The artist’s viewpoint is central to Tate’s decision-making process, and the process of ensuring that a kinetic sculpture is functional is complex and challenging. The role of the conservator is to understand where these challenges arise and engage in conversations to ensure a successful outcome ([**Lawson and Cane 2016**](#bib)).
 
-### Collaboration
+## Collaboration
 
 Collaborating with the artist’s foundation and our various conservation teams (and considering our various working practices) was central to the delivery of *Umbrella* to the Tate Modern. Work with the Tsai Art and Science Foundation began in early 2016 with Ming-Yi Tsai, the artist’s son and a foundation board member, and later included other members of the foundation (**fig. 5.4**). This was the first time Tate and the foundation had worked together, and it was important to establish a relationship based on trust and clear communication, with an understanding of Tate’s commitment to the care of the sculpture. The initial meeting included viewing the sculpture and discussing both the foundation’s and Tate conservation’s concerns. The emphasis was on ensuring the sculpture’s longevity and functionality balanced against the artist’s intent and conservation philosophy.
 
@@ -75,17 +75,17 @@ The Tsai Foundation re-created the audio unit, since there are many different ty
 
 The treatment of each component enabled the sculpture to be displayed at the new Tate Modern when it opened on June 17, 2016. The work was initially installed according to the artist’s specific written instructions; however, now set against a black background, it seemed visually very different compared to its previous installation against a white background. The visual effect for the viewer was more muted, as the original high positioning of the strobe light limited its reflection off the moving rods. Against the white wall, the darker silhouettes of the rods had been easy to discern. When foundation members viewed *Umbrella* with the conservation team, we could fully assess the effect of the artwork and position the strobe unit lower to more effectively illuminate the central crown and capture its undulating movement. This alteration was captured within the conservation documentation.
 
-### Conclusion
+## Conclusion
 
 At the outset, the collaboration aimed to ensure the longevity and functionality in both the display and long-term preservation of *Umbrella*. This was achieved through the analysis of previous treatments of kinetic works at Tate, which helped inform our conservation strategies for Tsai’s artwork. Through the realization of the project and the conservation treatment, *Umbrella* is now functional and displayable. The work’s longevity has been achieved through the creation of a new strobe unit and a new audio control unit, both of which were constructed using durable and replaceable digital and solid-state technologies. This was also an opportunity to further document the work and define and capture its significant characteristics, which can be used to re-create any of *Umbrella*’s three major components.
 
 The project was successful primarily due to the ongoing collaboration of all parties involved, both external and internal to Tate, including the artist’s foundation, Tate curatorial, and Tate conservation (both sculpture and time-based media). The artist’s family and foundation provided advice and guidance, and considered every recommendation. It was important to have continuous and transparent dialogue, but also to meet in person and establish trust as we progressed with the work’s treatment. Tate curators guided the overall preservation process and the realization of the display into the new Tate Modern, and they were essential to informing the conversations about the artwork. Finally, Tate conservators provided a range of conservation strategies to consider and actively guided and carried out the treatments. The collaborative approach, and the engagement of each person involved, was essential to *Umbrella*’s installation at the new Tate Modern, forty-four years after its acquisition.
 
-### Acknowledgments
+## Acknowledgments
 
 We thank the Tsai family and the Tsai Art and Science Foundation for their ongoing support and insight. They made this a truly remarkable project to be a part of, and we are very proud of what we achieved collectively.
 
-### Bibliography
+## Bibliography
 
 Alley, Ronald. 1981. *Catalogue of the Tate Gallery’s Collection of
 Modern Art Other than Works by British Artists*. London: Tate Gallery

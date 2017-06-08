@@ -14,7 +14,7 @@ abstract: |
 weight: 202
 ---
 
-### Thomas Wilfred: The Unrecognized Pioneer
+## Thomas Wilfred: The Unrecognized Pioneer
 
 Thomas Wilfred (1889–1968) was born Richard Edgar Løvstrøm in Naestved on the island of Zealand, Denmark. In Copenhagen, as a precocious sixteen year old, he began experimenting with light as an artistic medium, using a cigar box, incandescent light, and colored glass to create colored projections. Later, when he studied painting at the Sorbonne, he expanded his setup to several cardboard boxes, lenses, and a bedsheet screen. His painting instructor discouraged him from pursuing his experimentation with light, as opposed to traditional painting, but undaunted, Wilfred persevered with his passion. During his early, experimental years as a light artist, Wilfred supplemented his income by performing medieval music on the archaic, twelve-string archlute; he performed to international acclaim until 1914, when he was called to duty in World War I. After his service, he immigrated to the United States in 1916 to continue his experiments with light art and work out its presentation to the public. By 1919 he abandoned his career as a musician to devote himself to the art of light.
 Artists and musicians from the sixteenth through the early nineteenth centuries had dreamed of seamlessly marrying color and sound in a single instrument,[^1] usually called a “color organ” or, more elaborately, a kaleidoscope, *clavier à lumières*, Chromola, Optophonic Piano, Sarabet, and Chromopiano, each of which joined music with light projections. Most often, a single performer played the music and coordinated the light, but there are orchestral scores combining light projections and music.[^2] Like all of the other precursors and contemporaneous artists who worked with projected light, the presentation relied on at least one performer.[^3] However, Wilfred’s unique contribution was to present kinetic colored light performances without the music: a silent, purely visual experience.[^4]
@@ -27,7 +27,7 @@ Wilfred had perfected his first clavilux by 1921, and the next year had his firs
 
 In the first part of the twentieth century, it would have been unusual to have someone perform in galleries devoted to paintings. And how would such works have entered private collections? Wilfred addressed these thorny issues by developing a clavilux that no longer required an operator for performances. By 1928 Wilfred created his first internally programmed clavilux, a projector that could play lumia compositions by itself. Two years later he founded the Art Institute of Light in New York City as a nonprofit entity for research on lumia. Soon after, an article in the *New York Times* reported on his invention of a new kind of painting with light as a medium that could be displayed at home like a painting. Wilfred said about the quality and permanence of lumia: “These pictures are built up in three dimensions as a sculptor shapes a statue. They have a depth impossible to attain with oils or watercolors, and furthermore they are imperishable, since the colors are fused in glass.”[^5] In 1933 Wilfred opened a theater with surrounding studios and laboratories in Grand Central Palace, a performance hall above New York’s Grand Central train station ([**Wilfred 1947**](#bib):251).
 
-### Wilfred’s Exhibitions
+## Wilfred’s Exhibitions
 
 From the 1930s until his death in 1968, Wilfred continued to create and advocate for his lumia as the eighth art form, always feeling unappreciated because museums did not buy his work and private collectors, however enthusiastic, were a small group. A 1959 commission for the Clairol headquarters in New York seems to have been his first and last relationship with a corporate collection. In 1967 he showed with Nam June Paik at the Howard Wise Gallery in New York; by this time a new era of time-based media art had begun but Wilfred, a prime innovator, was neither featured nor given credit for his farsighted inventions.
 
@@ -37,7 +37,7 @@ Nearly forty years after Wilfred’s death, his lumia were shown in the 2005 exh
 
 At present, there are lumia compositions in collections across the United States, from New Haven to Honolulu, yet only Wilfred’s final work, *Lucatta, Opus 162*, remains on view as a loan to the Los Angeles County Museum of Art; all other extant works have been allocated to museum storage, are in private collections, or have been lost. We express gratitude to passionate lumia collectors and mechanical experts Eugene Epstein and A. J. Epstein, who have saved, preserved, and restored numerous works by Wilfred and made nearly every recent exhibition of Wilfred’s oeuvre possible.
 
-### Wilfred and the Museum of Modern Art, New York
+## Wilfred and the Museum of Modern Art, New York
 
 Wilfred’s long-awaited major breakthrough in the museum world came in 1942, when the Museum of Modern Art (MoMA) purchased his *Vertical Sequence II, Opus 137* (1941),[^7] his first lumia composition to enter a museum collection. A decade later, MoMA further advanced Wilfred’s career by including him in the exhibition *15 Americans* (1952) alongside fourteen other artists: William Baziotes, Edward Corbett, Edwin Dickinson, Herbert Ferber, Joseph Glasco, Herbert Katzman, Frederick Kiesler, Irving Kriesberg, Richard Lippold, Jackson Pollock, Herman Rose, Mark Rothko, Clyfford Still, and Bradley Walker Tomlin. An outlier in the exhibition of eleven painters and three sculptors, Wilfred was nonetheless appreciated by some as the only truly original artist in the exhibition ([**Turrell 2013**](#bib)). In 1961 MoMA acquired a second Wilfred, *Aspiration*.[^8] Both are domestically sized, internally programmed lumia compositions shown in wooden cabinets, with small screens (approximately 38 × 38cm), a far cry from the giant, projected images of the concert stage.
 
@@ -45,7 +45,7 @@ In 1963 MoMA again supported Wilfred by commissioning a new installation for its
 
 When MoMA closed its galleries for the 1981–84 expansion of its campus, *Lumia Suite* was dismantled and carefully stored. It has been in storage ever since (**fig. 4.3**). In December 2014 the Yale University Art Gallery requested *Lumia Suite* for its 2017 exhibition *Lumia: Thomas Wilfred and the Art of Light*, in which fifteen kinetic light works dating from 1928 to 1968 would be on view. Having *Lumia Suite* in working order was essential; without it, there would be no exhibition.
 
-### Resurrecting Wilfred’s *Lumia Suite, Opus 158*
+## Resurrecting Wilfred’s *Lumia Suite, Opus 158*
 
 After unpacking the numerous crates and boxes sent by MoMA to Yale in early 2015, eighty-five items, ranging from Wilfred’s tools to spare sheets of mica, were catalogued into the database and tracked with barcodes. It took days to sort the main components for *Lumia Suite* from the spare parts and hardware, but it led to a better appreciation of Wilfred’s foresight in guaranteeing that his lumia would last into the future. In correspondence to MoMA, Wilfred stated: “It will probably be a long time before any of the spare items will be needed, and by that time the manufacturers may have changed their models and replacements may take a long time.”[^10] The Rosetta stone among all of the items was Wilfred’s technical manual, written for the museum conservator at MoMA and staff of the Art Institute of Light, without which the resurrection of *Lumia Suite* would not have been possible ([**Wilfred 1964**](#bib)).
 
@@ -67,7 +67,7 @@ A critical part of any treatment of kinetic art is documentation that includes h
 
 Wilfred’s groundbreaking contribution to kinetic art and time-based media is finally being reevaluated through a long-awaited retrospective in 2017 and the scholarly consideration that accompanies such an endeavor. The exhibition would be impoverished without the inclusion of Wilfred’s magnum opus, *Lumia Suite, Opus 158*. Our conservation and restoration of the physical and electrical components of this masterwork allow it to be safely exhibited for the first time in over three decades, and the small upgrades ensure that the installation can be enjoyed long into the future.
 
-### Bibliography
+## Bibliography
 
 Farmer, Virginia. 1920. “Mobile Colour: A New Art.” *Vanity Fair*
 (December): 53, 116.
@@ -86,7 +86,7 @@ Modern Art in New York City during June and July, 1964.” Unpublished.
 Museum Collection Files, Thomas Wilfred, Lumia Suite, Opus 158.
 Department of Painting and Sculpture, Museum of Modern Art, New York.
 
-### Materials and Suppliers
+## Materials and Suppliers
 
 > Extruded aluminum: manufactured by 80/20<sup>®</sup> Inc., [**www.8020.net**](https://www.8020.net/); distributed by AIR, Inc., [**airinc.net/8020-extrusion**](http://airinc.net/8020-extrusion/). >
 

@@ -18,13 +18,13 @@ abstract: |
 weight: 201
 ---
 
-### Introduction
+## Introduction
 
 Artist Chris Burden (1946–2015) designed and fabricated *Metropolis II* (2011), an intense kinetic sculpture modeled after a frenetic modern city (**fig. 3.1**). Steel tubing (Unistrut®) forms a structural grid interwoven with an elaborate system of eighteen roadways, including a six-lane freeway, and HO-scale[^1] train tracks. Miniature cars speed through the city at 240 scale miles per hour; every hour, the equivalent of approximately one hundred thousand cars circulates through the sculpture’s dense network of buildings. According to Burden, “The noise, the continuous flow of the trains, and the speeding toy cars produce in the viewer the stress of living in a dynamic, active and bustling 21st century city” ([**Schader 2012**](#bib)). Burden described its fabrication as a “string and felt tip pen operation”; that is, no computer renderings or plans were used ([**Schader 2012**](#bib)). The sculpture took five years to build, and the development of the architecture was very organic, with Burden in the studio every day making aesthetic decisions. Purchased by the Nicholas Berggruen Foundation, *Metropolis II* is on loan through 2022 to the Los Angeles County Museum of Art (LACMA), and it has been on display and in continuous operation since January 2012. It took almost three months to disassemble the sculpture and four and a half months to install at LACMA.
 
 We discuss the exhibition of this contemporary sculpture, focusing on specific maintenance and repair issues—foreseen and unforeseen—that illustrate many of the problems inherent to the acquisition and operation of kinetic works of art. We discuss LACMA’s overall philosophy and approach to the operation and maintenance of *Metropolis II*, including the repair and replacement of damaged parts, in the context of both the artist’s and the owner’s expectations as well as the demands of the museum’s exhibition program. We also focus on the costs associated with the sculpture’s long-term operation and how best to assess the artwork’s condition and predict or anticipate mechanical failure.
 
-### *Metropolis II*
+## *Metropolis II*
 
 When installed, the sculpture is approximately 6.4m wide by 9.1m long (**fig. 3.2**); it is approximately 3m tall at its highest point. The main structure of the sculpture breaks apart into nine separate sections, or modules, which connect via telescoping steel tubing (Unistrut®). Each module is designed to fit into a shipping container for ease of transport. The core module houses the three conveyor systems, including their motors, conveyor belts, conveyor ramps, and associated control devices that operate the sculpture. Each module has leveling feet (eighty-six total) that are used to calibrate the sculpture and align the tracks on adjacent modules. All car and train tracks bridging adjoining modules, which number more than one hundred pieces, must be removed for the deinstallation/installation process.
 
@@ -39,7 +39,7 @@ The cars, trains, and trolleys weave through a maze of buildings of varying shap
 It should be noted that the 21st Century Museum of Contemporary Art in
 Kanazawa, Japan, owns an earlier version of this kinetic sculpture, *Metropolis I* (2004). It is one-third the size of *Metropolis II*, with four trains and eighty cars (modified Hot Wheels). Unlike *Metropolis II*, this version requires two operators and is currently not on view.
 
-### Operation
+## Operation
 
 LACMA is the first and, thus far, only venue that has exhibited *Metropolis II*, and we had essentially no data or information to assist us in determining the work’s longevity, the key component of which is its operation. To maximize viewership while minimizing wear and tear on the sculpture, the museum ultimately decided to operate *Metropolis II* on Fridays, Saturdays, and Sundays (the busiest days), as well as for holidays and special events. On the regularly scheduled days, the sculpture is operated four times: starting thirty minutes after the museum opens, the sculpture is run every other hour, for an hour. This allows the operator to rest (it is extremely cramped and noisy inside the sculpture), retrieve any cars that jumped the track, answer patrons’ questions, and make notes on the sculpture’s performance. Operating *Metropolis II* on a schedule was also in keeping with the artist’s desire not to run the sculpture continuously: Burden liked the juxtaposition of chaos and quiet, which mimicked the stop-and-go of life in a major city. Also, the frenetic pace of the cars can be exhausting to the viewer, for even a short time. For this reason, the artist designed a balcony in the gallery for viewers so they could step back from the noise and excitement and observe the sculpture as a whole from a distance.
 
@@ -47,7 +47,7 @@ The operators monitor the movement of the trains and trolleys and makes sure the
 
 The sculpture has a number of built-in safety features including overload switches (circuit breakers) for each conveyor motor, one photo-eye sensor for each conveyor belt, and one photo-eye sensor for each lower conveyor sprocket. There is also an emergency button that shuts down the entire system.
 
-### Care and Maintenance
+## Care and Maintenance
 
 Proper maintenance of *Metropolis II* proved critical to its overall operation and function. The entire sculpture is vacuumed once a week to remove dust and debris that has accumulated from the gallery. The sculpture is also inspected frequently to assess wear and identify any issues that may cause a problem in the future.
 
@@ -65,15 +65,15 @@ The base layer of the sculpture is composed of colored resin-coated plywood (phe
 
 The motors that drive the conveyor system also require periodic maintenance. Intentionally installed upside down for aesthetic reasons, the oil seals are destined to fail. Because the seals were not designed to handle upside-down pressure, oil has leaked out of the gearboxes and contaminated the rest of the motor. As a precautionary measure, we are gradually replacing the original motors with oil-less motors of the same kind. In addition, as problems arose, we replaced various sensors and overload switches (motor circuit breakers) with more robust, industrial versions to improve performance.
 
-### Documentation
+## Documentation
 
 Because *Metropolis II* is on loan to LACMA, it is necessary to document the condition of the sculpture over time and account for damaged cars, trains, and trolleys; however, this also proved critical to assessing the long-term operation and maintenance costs of the artwork. *Metropolis II* operates almost 650 hours per year, with an average of 554 run hours before a car is retired. Each car is individually numbered, and the oldest car to date has run for more than 1,234 hours. LACMA has retired a total of 5,143 cars since the sculpture was installed in January 2012: 1,758 (in 2012), 1,090 (in 2013), 961 (in 2014), and 1,334 (in 2015). Remarkably, not a single scheduled run of *Metropolis II* has been missed, although the sculpture has at times been operated without several trains or trolleys. The artist approved operation of the sculpture under these conditions as long as all the cars were functional.
 
-### Conclusions
+## Conclusions
 
 Kinetic sculptures present a range of issues and challenges, some of which are unique to the artwork. Their installation and exhibition is both costly and time-consuming, and many museums, ill prepared to meet these challenges, frequently underestimate the resources that must be devoted to ensure their proper function and operation. Preventive maintenance is key, though it is important to have a clear understanding of how the sculpture functions, the artist’s intent, and what changes the artist will allow and support as technology changes. The exhibition of *Metropolis II* has proven successful primarily because LACMA was willing to take a more multidisciplinary approach to its care and preservation, embraced the assistance of the artist’s studio and staff, and allowed professional fabricators and artists to play a large role, under the guidance and direction of the museum’s conservation staff.
 
-### Bibliography
+## Bibliography
 
 Schader, Susan. 2012. “‘It exists.’ Artist Chris Burden on *Metropolis
 II*.” *Words & Images* (blog).

@@ -14,7 +14,7 @@ abstract: |
 weight: 401
 ---
 
-### Introduction
+## Introduction
 
 In 1958, in search of a new artistic beginning—a Stunde Null, or “zero hour”—Otto Piene (1928–2014) and Heinz Mack (b. 1931) founded the artist magazine *ZERO*, which was later to give its name to an international art movement. In 1961, Günther Uecker (b. 1930) began to collaborate closely with Piene and Mack. They quickly gained considerable popularity through their light-kinetics, and they initiated numerous projects that involved other artists such as Jean Tinguely, Lucio Fontana, and Yves Klein. In 1966 Piene, Mack, and Uecker ended their collaboration and went different ways. Inspired by the 2006 retrospective exhibition in Düsseldorf, the ZERO Foundation[^1] was established in 2008 with the aim to preserve, present, research, and support the oeuvre of the movement. Since then, numerous international solo and group exhibitions, including huge retrospectives in Paris, New York, Berlin, and Amsterdam, which ran from 2013 to 2015, reflect the new public appreciation of the ZERO movement.
 
@@ -24,7 +24,7 @@ In the early years of ZERO, and into the following decades, the artists or their
 
 However, a significant crossroads was reached when Piene passed away in 2014. The well-established practice of involving artists in the mounting of their exhibitions and in the decision-making process of preserving their artworks is now possible only to a limited extent.
 
-### Case Study I: The Rolandschule in Düsseldorf
+## Case Study I: The Rolandschule in Düsseldorf
 
 In 1960 the architect Paul Schneider-Esleben, who designed and executed Rolandschule, a primary school in Düsseldorf, hired four young local artists—Piene, Mack, Uecker, and Joseph Beuys—to each create an artwork for the school. The work by Beuys was less appreciated at the time, and the school decided to return it to him shortly after the opening. *Lichtballett* by Piene, *Farborgel* by Mack, and *Schattenspiel* by Uecker were installed at the school, where they are still in situ today. They form a successful symbiosis of social architecture, functionality, and modern art.
 
@@ -34,7 +34,7 @@ However, two days after the school opened, a girl ran into a pane of glass and i
 
 As early as 1989 artist and lecturer (for media pedagogy) Ulrike Scheffler-Rother supported the conservation of the works, and the Rolandschule was classified as a very important building for the city’s architectural history ([**Scheffler-Rother 2004**](#bib)). The building and its contents has been listed as protected monument since 1990 ([**Heimeshoff 2001**](#bib):217).
 
-#### The Conservation Project
+### The Conservation Project
 
 The recent increased public awareness and enhancement in value of ZERO artworks led the ZERO Foundation to initiate a project for the preservation and mediation of the works in the Rolandschule, in collaboration with the city of Düsseldorf and the Cologne Institute of Conservation Sciences (CICS) ([**Heydenreich 2012**](#bib)). The goal of conservation treatment was to present the artworks as authentically as possible and to make them accessible to the children. The students of the CICS, in collaboration with the artists and a longtime artist’s assistant, developed conservation concepts that were then executed with the assistance of external companies.
 
@@ -44,35 +44,35 @@ For Piene’s *Lichtballett*, priority was given to improving its safety and to 
 
 Using traditional conservation strategies such as minimal intervention and re-treatability, Uecker’s *Schattenspiel* and Mack’s *Farborgel* were cleaned, consolidated, and retouched. Both were equipped with new barriers that guarantee the artworks’ and the children’s safety, and allow the children to actively engage with the artworks. These new barriers (see figs. 12.2, 12.3) are not as incongruous as the old (see fig. 12.4). Because Rolandschule is a public building, the possible improper use of the artworks had to be taken into consideration, as well as the possible risk of injury from chain drives or insufficient wall anchorage, issues that are rather different from a museum context. Finally, fifty years after its creation, Uecker’s *Schattenspiel* was—for the first time—presented in accordance with the artist’s intention. However, the children are only allowed to enter the space behind the barrier and play with the works when a teacher is present.
 
-#### First Interim Conclusion
+### First Interim Conclusion
 
 For the artworks in the Rolandschule, renewed appreciation for the ZERO movement has had positive consequences: a treatment was financed, and works that had been written off by the artists were brought back to life, with only minor changes and can be appreciated once again. The conservation treatments reflect our shift in the approach toward early ZERO artworks in public settings. Interestingly, the artworks’ preservation was also due to a growing awareness and the influence of the Ancient Monuments Protection Act. Works that had been shut down shortly after their creation survived several decades, motionless and nonoperational. Shutting down the artworks helped preserve them, and they are now considered to be among the most important site-specific and authentically preserved light-kinetic installations by the ZERO artists. However, the lack of maintenance provides a challenge for the future preservation. Although a contract for regular maintenance of the works was suggested, it has not yet been implemented.
 
-### Case Study II: *Lichtraum (Hommage à Fontana)*
+## Case Study II: *Lichtraum (Hommage à Fontana)*
 
 In 1964, Piene, Uecker, and Mack assembled seven artworks to create *Lichtraum (Hommage à Fontana)* at documenta 3 in Kassel (**fig. 12.5a**). The installation included both individual and collective works, as well as a slide projector that projected a photograph of a painting by Lucio Fontana on the wall. Because they were late to receive their invitation to the documenta, all the exhibition spaces had been reserved for other artists, and *Lichtraum* was exhibited in the Fridericianum garret. This small, long, angled room had a low, gabled roof, and it was windowless and very dark. The concrete walls were initially untreated, but they were painted white before the exhibition opened.
 
-#### 1992 Kunstmuseum Düsseldorf
+### 1992 Kunstmuseum Düsseldorf
 
 In 1991 the Kunstmuseum Düsseldorf acquired the available artworks from *Lichtraum (Hommage à Fontana)*, and in 1992 the artists were invited to reconstruct the installation in a museum context (**fig. 12.5b**). To complete *Lichtraum*, Mack made a replica of *Weißer Dynamo*. Uecker’s *Lichtscheibe* was initially borrowed from the Kröller-Müller Museum in Otterlo, but it was also replaced by an artist’s replica in 1993. In the new presentation, *Lichtscheibe* was not displayed on an easel, as it had been in 1964, but was laid horizontally on the floor ([**Caianiello 2005**](#bib):71). The new room was much bigger and brighter than the Fridericianum garret and did not have a slanted ceiling. The artists tried to reconstruct the original installation, but the differences in the rooms’ floor plans meant they had to arrange the artworks facing one another along a central aisle. This new arrangement also required some adjustments to the operating sequence for the different motors and light units. In Kassel, visitors had been allowed to experience the artworks up close; in Düsseldorf, two white lines separated the visitors from the art—for the artists, a very unsatisfactory safety measure.[^4]
 
-#### 2001/2005 Relocations
+### 2001/2005 Relocations
 
 With the growing interest in ZERO, the Kunstmuseum Düsseldorf wanted to show *Lichtraum (Hommage à Fontana)* in a more central exhibition space, and a new room was provided in 2001. It was significantly smaller than the 1992 space, and Piene again changed the artworks’ arrangement and adjusted their operating sequences. Although Mack criticized the new iteration, he accepted it; Uecker did not participate. In 2005 the installation was again changed, this time replicating the first presentation sequence in 1964 in Kassel (**fig. 12.5c**). Uecker considered this result to be highly successful.
 
-#### 2013–15 Exhibitions in Paris, New York, Berlin, Amsterdam
+### 2013–15 Exhibitions in Paris, New York, Berlin, Amsterdam
 
 The kinetic objects composing *Lichtraum* are very fragile, and loan requests were rejected for decades. However, after a long discussion phase while planning the ZERO exhibitions in Paris, New York, Berlin, and Amsterdam,[^5] the Kunstmuseum Düsseldorf decided to lend *Lichtraum* on the condition that replicas be used for the original light panels from *Weiße Lichtmühle* and *Lichtkugel*. For the New York exhibition, Guggenheim curators reconstructed the spatial impression of the 1964 presentation by using fabric panels to suggest the slope of the ceiling, which unfortunately did not provide an ideal surface for slide projection (**fig. 12.5d**). Piene had previously rejected this type of historicizing reconstruction.[^6] In Berlin, curators at Martin-Gropius-Bau arranged the artworks in a row in a comparatively large, bright exhibition space (**fig. 12.5e**), with the size of the room predetermined by the museum floor plans. At the Stedelijk Museum, Amsterdam, a relatively small exhibition space was chosen to present *Lichtraum*, and the artworks were installed in a more dense arrangement (**fig. 12.5f**). The strategy to adapt *Lichtraum* to new spatial conditions corresponds to the initial approach of the ZERO artists but caused some conflict with the artworks’ preprogrammed sequences of operation.
 
-#### Second Interim Conclusion
+### Second Interim Conclusion
 
 Since its first presentation in 1964, *Lichtraum (Hommage à Fontana)* has been repeatedly adapted to fit different spatial conditions ([**Caianiello 2005**](#bib):68–75). The work was initially displayed in the cramped, gabled-roof room of the Fridericianum because the other documenta 3 exhibition spaces were already in use; since 1984 the installation has been shown in larger rooms, which has pleased the artists. Since *Lichtraum*’s creation, varying exhibition conditions, financial resources, and artistic and curatorial interpretations have greatly influenced the work’s appearance. At the Guggenheim the specific spatial situation in the 1964 exhibition, with its sloping roof, was reconstructed for the first time. But is this an expression of a rising historicization or nostalgia, a sort of romantic idealization of the past? Does the growing appreciation also bring with it a bias toward historically “accurate” presentation? The strategy of adapting *Lichtraum* to new exhibition spaces also raises the question of who is responsible for setting up *Lichtraum* and, if necessary, adapting the choreography of all the elements when the artists are gone.
 
-### Case Study III: *Weiße Lichtmühle*
+## Case Study III: *Weiße Lichtmühle*
 
 *Weiße Lichtmühle* is a collective work by the three ZERO artists, and it represents their aim to overcome traditional painting. It consists of Piene’s former easel, which serves as a basis for a white rotor by Mack. It was partly nailed by Uecker. The rotor has white blades; Piene created its perforations, through which the light-ballet is projected on the museum walls. *Weiße Lichtmühle* was exhibited in Berlin before documenta 3, and after Kassel it traveled to an exhibition in Philadelphia.[^7] Damaged during transportation, the work returned to Uecker’s studio, where he repaired the base with additional wooden planks, repainted it, and partially re-sprayed it. The combination of aluminum, wooden battens, and numerous paint layers promoted stress cracks and reduced adhesion, with some paint losses, making a loan request untenable.
 
-#### Exhibition Copy, Partial Replica?
+### Exhibition Copy, Partial Replica?
 
 To show *Lichtraum (Hommage à Fontana)* at all exhibition venues, the Kunstmuseum Düsseldorf decided to produce a partial exhibition copy of *Weiße Lichtmühle* by creating a replica of the light panel. Mack was asked to oversee the production of this partial replica, a strategy that, to some extent, continued the approach traditionally taken to maintain *Lichtraum* ([**Köhler 2013**](#bib):26). The partial replica of *Weiße Lichtmühle* was intended to preserve and protect the current condition of the fragile light panel for the duration of the exhibitions. The artwork had been created about fifty years ago, and it was possible to discern the aging of its surfaces.
 
@@ -80,7 +80,7 @@ However, contrary to the agreement with the museum, the artist reworked the orig
 
 In this case Mack followed his artistic practice and prioritized the functionality of the work. The museum asked Mack to guide the production of the partial replica, because this corresponds to the previous practice. The curatorial decision also shows that the concept of the authenticity of this artwork is still closely tied to the involvement of the artist.
 
-### Discussion and Conclusions
+## Discussion and Conclusions
 
 Early ZERO works are still regarded as contemporary art, although they are also transitioning to historical art. Contemplation of the varied treatment of these works over time provides new insight: increased appreciation of the artworks can contribute to their preservation. The ZERO installations at the Rolandschule, for example, were essentially ignored for decades; now they operate in accordance with the artists’ intentions and are considered the most important site-specific ZERO installations in Düsseldorf. Although these artworks are appreciated and promoted, continuous conservation maintenance is still lacking.
 
@@ -96,11 +96,11 @@ Monuments from the 1960s are increasingly being granted special preservation sta
 
 From the experience of the three case studies, it is suggested that the established practice of commissioning artists to perform conservation measures or update their works within the museum context should be thoughtfully reconsidered. There must be a balance when it is important and necessary to involve the artist (of course taking legal aspects into consideration). The guidelines of heritage preservation should be further contemplated by museums to meet the demands of the diverse expressions of contemporary art and address their long-term preservation, keeping them as authentic as possible for future generations by maintaining, retiring, and/or replicating.
 
-### Acknowledgments
+## Acknowledgments
 
 Tiziana Caianiello of the ZERO Foundation, and Ulrik Runeberg of Restaurierungszentrum der Landeshauptstadt Düsseldorf.
 
-### Bibliography
+## Bibliography
 
 Caianiello, Tiziana. 2005. *Der “Lichtraum (Hommage à Fontana)” und das
 “Creamcheese” im Museum kunst palast: Zur Musealisierung der

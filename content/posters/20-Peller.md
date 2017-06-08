@@ -18,7 +18,7 @@ abstract: |
 weight: 505
 ---
 
-### Gianni Colombo’s *Strutturazione cinevisuale abitabile*
+## Gianni Colombo’s *Strutturazione cinevisuale abitabile*
 
 *Strutturazione cinevisuale abitabile* (Inhabitable cinevisual structure) from 1964, a light environment by Milanese artist Gianni Colombo (1937–1993), is composed of two perpendicular square panels[^1] fixed to a wall (**fig. 20.1**). The artwork is meant to be shown in a small, darkened room, with the spectator stepping into the space outlined by the lights. Short and intermittent bursts of light flash simultaneously on each panel.
 

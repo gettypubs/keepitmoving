@@ -17,7 +17,7 @@ abstract: |
 weight: 305
 ---
 
-### Tinguely and the Stedelijk Museum Amsterdam
+## Tinguely and the Stedelijk Museum Amsterdam
 
 The Stedelijk Museum holds thirteen three-dimensional kinetic works by Jean Tinguely (1925–1991). Created between 1954 and 1971, they provide a clear view of Tinguely’s development as an artist. The earliest work in the collection is *Elément détaché III* (1954), a very fragile “thread relief,” and the latest is the heavy machine *Méta II* (1971).
 
@@ -29,13 +29,13 @@ In 1962, *Dylaby* shook the museum world. Tinguely was the project leader of and
 
 *Gismo* (1960) is also of special interest because it was part of “Le Transport” in 1960, in which Tinguely drove his artworks through the streets of Paris (quartier Montparnasse) to the exhibition *L’art fonctionnel* in Galerie des Quatre Saisons ([**Schavemaker, Til, and Wismer 2016**](#bib):60).
 
-### The Tinguely Conservation Project
+## The Tinguely Conservation Project
 
 At the Stedelijk, the thirteen artworks were occasionally restored, primarily to keep them operational. Tinguely’s works present complex conservation issues due to their construction, materials, and the original intention to show them in movement. This last aspect is one of the project’s main concerns: Can the works still function (move) and, if not, can they be returned to a functioning state? The machines are constructed in a way that can subject them to great forces and stresses when in movement, causing welds to break or parts to deform. The moving parts and the motor can suffer from wear, and materials sometimes loosen, fall off, and get lost. Can materials be replaced and, if so, is it ethical to replace them?
 
 Many of the materials Tinguely used were scrap and, from a conservation point of view, already in poor condition when the works were created. Consequently, conservators are confronted with practical and ethical issues related to the discrepancy between the meaning and intended appearance of the works, and their current condition. It had long been a cherished wish of the conservation department to conduct an intensive analysis of the condition of these complex artworks and develop possible conservation and treatment options (see [**Beerkens, Hummelen, and Sillé 1999**](#bib):23–31). That wish became a reality after the museum’s recent renovation and the construction of a new storage building. A new, large, multifunctional workshop, as well as upcoming Tinguely exhibitions, prompted the formation of the Tinguely Conservation Project (2015–16).[^1]
 
-#### Structure and Goals of the Project
+### Structure and Goals of the Project
 
 The project, which is in two phases, aims to document, preserve, and, where necessary, restore the thirteen three-dimensional works by Tinguely in the Stedelijk collection. Phase I includes research on the artworks and a condition assessment to formulate solutions to complex conservation issues. A format was developed to systematically gather and document information concerning the works’ preservation, based on previous Stedelijk conservation projects such as Joan Jonas’s *Vertical Roll* and Edward Kienholz’s *Beanery*.
 
@@ -49,7 +49,7 @@ Phase II involves the treatment of the works. The aim is to bring them to a stab
 
 The presentation of the artworks is also receiving special attention, including the possibility of showing them in an operational state or evoking this by other means (for instance, on video). All artworks in the project are documented photographically, on video, and/or on sound recordings. Phase II is still underway as of the writing of this paper.
 
-### Dilemmas and Issues Arising in the Tinguely Conservation Project
+## Dilemmas and Issues Arising in the Tinguely Conservation Project
 
 Tinguely’s artworks present complex conservation issues due to their construction and materials, as well as the original intention to show them in movement. If a work is too fragile to function any longer (thus removing “movement” from the artwork’s possibilities), we ask ourselves whether it is still truly a “Tinguely.” What are we preserving? And how can we show the public the artwork in its present state and still convey the original expressiveness? If we want to stay or come as close to the intention of the artist and the original appearance as possible, movement is an important part of these kinetic artworks and should, ideally, be present.
 
@@ -57,7 +57,7 @@ During the project, various dilemmas and issues presented themselves, often rela
 
 An additional challenge to conserving these objects is that most of the issues related to movement are not isolated but intertwined. Severe wear and tear can damage the work, influencing, for instance, the sounds produced. Historical functional additions and alterations can prevent wear and tear but sometimes alter the overall appearance. Water as an element of the artwork can cause severe damage to the base materials through corrosion, for example. In addition, many of the materials Tinguely used were scrap and already in a poor condition when the works were made. Briefly discussed below are examples of issues encountered and how they were dealt with.
 
-#### Wear and Tear
+### Wear and Tear
 
 Wear and tear can be caused or accelerated by factors such as corrosion, material degradation, or external forces. Motion, however, is a great catalyst: any artwork shown in movement is subject to extra wear and tear. The intensity of wear is different for each work in this project; sometimes it was limited, but on other occasions the movement is so violent that the artwork is self-damaging. If wear and tear are inevitable, can it be reduced to a degree that is acceptable for preservation? And can that be done in such a way that it is in proportion to its original appearance and the artist’s intention? One effective and widely used option to reduce wear and tear is to impose time limits on an artwork’s operation ([**Bek 2013**](#bib):203). Even though all Tinguely’s artworks in the Stedelijk collection *can* move, they cannot responsibly be made *to* move all the time while on display, or even infrequently.
 
@@ -67,13 +67,13 @@ Another method for reducing wear, in addition to limited operation and non-opera
 
 The non-original ring was replaced with iron wire resembling Tinguely’s original attachment (**figs. 11.4, 11.5a, 11.5b**). The wire breaks fairly easy but is strong enough to hold the traffic sign during motion. This way, the wire wears and breaks before damage to the artwork occurs, and the original parts experience less wear. This principle was also applied to other works in the Tinguely collection.
 
-#### Black Paint
+### Black Paint
 
 Tinguely used a black matte paint on many of his works to give them a more uniform appearance and to obscure the origin of the material (see [**Violand-Hobi 1995**](#bib); [**Hulten 1975**](#bib):275).
 
 Due to wear and tear or degradation, this paint is not always in an optimal condition and sometimes even partly lost. The paint will be conserved and analyzed for both conservation and identification purposes. The results can later be compared with Tinguely works in other museums to gain more knowledge about the type of paints he used, and possibly to establish cross-links with works of a certain time period, to see if there have been changes over time.
 
-#### Alterations and Additions
+### Alterations and Additions
 
 Alterations and additions were made to the artworks in the past, primarily to keep them operational. One recurrent issue was how to deal with those changes, especially if they are still functioning. Would replacing these additions or alterations be intrusive?
 
@@ -89,7 +89,7 @@ If a work is no longer operational, then the removal of these later additions an
 
 Because the public can only experience a nonoperational work through the material (apart from accompanying videos), it should be as authentic as possible. Preserving damaged original parts that could not be maintained in the operational work can be an option in a nonfunctional object. Therefore, in these cases, the material, together with additional (audio-visual) documentation, must be entrusted to tell the story the artist intended.
 
-#### Sound
+### Sound
 
 Tinguely’s kinetic artworks produce sounds through movement: they squeak, clank, and creak. Sound as an element requiring preservation is a challenge: if the material changes due to wear, the sound changes too. Sound is a crucial element of *Radio Dylaby*. The artwork is a “radio” and transmits via the AM broadcast: the speaker produces a “live” sound that confuses the public because the motor arm continually changes the transmitter button, distorting the sound. Although the radio is currently functional, the tubes will no doubt be difficult to obtain in the near future because they will no longer be manufactured (as with, for instance, some types of light bulbs and photographic film).
 
@@ -97,23 +97,23 @@ The AM broadcast band signal is difficult to pick up, especially in the museum, 
 
 To preserve the sound and the local experience of *Radio Dylaby*, it was decided to produce a stand-alone AM transmitter, which can be hidden in the pedestal.[^6] Any audio source can be connected to this transmitter; for instance, digital/FM radio, or historical or contemporary recordings. The radio tubes glow when the radio operates, and the audience can experience the sound. This temporary solution can only be maintained while we have spare tubes, and it is necessary to develop a strategy for the future, when all the tubes fail and can no longer be obtained.
 
-#### Water
+### Water
 
 Tinguely used water as an element in his works, and two of his fountains are in Stedelijk collection. To experience the fountains as he intended, they should spray water, but this conflicts with the artworks’ condition. So what exactly do we preserve without the water? And how do we document these fountains for future reference without good, early footage of them in operation? Can we safely make the fountains operational, if only just once, to see how they work and to obtain new footage? How else can the public and later generations understand and experience these artworks?
 
 Documentation is a key element of this project, and documenting the sound, movement, *and* spraying of the water while we are still able, together with the physical work itself, does preserve the artwork. Such documentation entails a full risk assessment, taking into account possible material loss, before it is performed.
 
-### Conclusion
+## Conclusion
 
 There are many facets to the Tinguely Conservation Project, of which we have highlighted only a few, mostly related to motion issues. A multitude of issues and challenges (creation, techniques, ethics, history, transport, exhibition, etc.) addressed in the project cannot be discussed within the scope of this paper.
 
 Motion is a major component of Tinguely’s works, and one of the most important goals of the project is restoring the movement of the artworks while on display. However, if this cannot be achieved, other means are being explored to preserve it. Fully realizing that there are no clear-cut answers or solutions to many questions, we hope to have given some insight into the Stedelijk Museum’s Tinguely Conservation Project and its ethical and practical challenges.
 
-### Acknowledgments
+## Acknowledgments
 
 The project was generously funded by All Art Initiatives B.V. and BankGiro Loterij. For their valuable contributions, we also thank the Rijksdienst voor het Cultureel Erfgoed (Cultural Heritage Agency of the Netherlands); Museum Tinguely, Basel; Reinhard Bek; Hans van der Weijde; Lydia Beerkens; Evelyne Snijders; the staff of the Stedelijk Museum Amsterdam; and many others.
 
-### Bibliography
+## Bibliography
 
 Beerkens, Lydia, IJsbrand Hummelen, and Dionne Sillé. 1999. “Jean
 Tinguely’s *Gismo*: Reconstruction of a Moving Life.” In *Modern Art:

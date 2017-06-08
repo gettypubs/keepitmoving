@@ -15,13 +15,13 @@ abstract: |
 weight: 301
 ---
 
-### Introduction
+## Introduction
 
 Takis is known for his investigations into the relationship between art and science. His earliest works include bronze forms focused on concepts of force and volume. Later he began his ongoing Signaux series with the development of wind-activated antenna-like structures inspired by radio and radar apparatuses. In the late 1950s he began including magnetism in his paintings and sculptures, employing electromagnets to fix objects in space, generate motion, and elicit sound. A common thread in Takis’s work is an element of aesthetic disinterest in prioritization of concept. This is evident in his experimental use of found objects, unconventional materials, and aggregate technologies and mechanics.
 
 A curatorial research project prompted the Menil conservation department to take a closer look at Takis’s works in the collection. This interdepartmental collaboration in turn led to an interview with the artist and treatment of several of his works in preparation for the exhibition *Takis: The Fourth Dimension* (2015). Takis’s frequent experimentation, combined with the inherent imperfections and inevitable obsolescence of his materials, necessitated ongoing conversations with the artist regarding the relationship between his artistic vision and the practical requirements of exhibiting such works.
 
-### Takis
+## Takis
 
 On the afternoon of January 3, 1969, Takis and a group of his peers walked into the Museum of Modern Art (MoMA) in New York, collected one of his works on display, and carried it into the museum garden, where they staged a sit-in.[^1] This event was to protest the piece being included in the exhibition *The Machine as Seen at the End of the Mechanical Age*. John and Dominique de Menil had donated the work to MoMA, and the museum, as owner, had the right to exhibit the work at its discretion. However, Takis felt the piece did not represent his current aesthetic and believed he should have control over its display, regardless of who owned it. The purpose of his demonstration was to prompt open dialogue between “museum directors, artists, and the public” regarding museum policy and artists’ rights. Ultimately, MoMA agreed to remove the piece from the exhibition, and the event served as a catalyst for the formation of the Art Workers’ Coalition—a group of creatives, critics, and museum staff that campaigned for museum reform, particularly in regards to artists’ rights ([**Lippard 1970**](#bib)).
 
@@ -43,7 +43,7 @@ Takis’s use of magnets is one of the most complex and diverse aspects of his a
 
 Takis is well known in much of Europe, having lived and worked most of his life in France and Greece, but his work is less known in the United States. The Menil Collection has the largest institutional body of Takis’s work outside Europe. In 2012 that work became the focus of a collaborative project between the Menil Collection’s conservation and curatorial departments.
 
-### Takis at the Menil Collection
+## Takis at the Menil Collection
 
 In 2012 Melissa Warak, a curatorial fellow at the Menil Collection, included Takis in her research on the relationship between art and music. Her study prompted the conservation department to take a closer look at Menil’s holdings of Takis’s work, most of which, unfortunately, had not been exhibited since the museum opened in 1985. The initial assessment resulted in two conclusions. First, an updated survey was recommended to pinpoint any serious condition issues and prepare for the possibility of treating the work. Second, it became clear that more information was required regarding the proper installation and function of several of the pieces. Two works became the focus of the project: *Magnetic Tableau No. 7*, from the Magnetic Tableaux series, and *Ballet Magnetique*, from the eponymous series.
 
@@ -53,7 +53,7 @@ Even less was known about the installation of *Ballet Magnetique* because no pre
 
 The two works also had condition issues. *Magnetic Tableau No. 7* had metallic debris, abrasions, and discolored overpaint around the magnet that drew focus away from the space between the magnet and suspended elements. In addition, the magnet had shifted from a parallel line to a slightly diagonal position. There were abrasions and metallic transfer on the back of the canvas where the magnet used to sit, and an image on file from 1962 showed the magnet in a parallel orientation (**fig. 7.3**). *Ballet Magnetique*’s surfaces were abraded and spotted with superficial corrosion, the wires were frayed, and the plug was missing from the power supply cord (**fig. 7.4**). Temporary replacement of the plug and testing of the work produced sparks and smoke, and overheated the selenium rectifier. The work could not be operated long enough to determine if the electromagnet itself still worked.
 
-### Artist Interview
+## Artist Interview
 
 At that point a chance encounter took the project in an interesting direction. Dr. Maria Kokkori, science fellow from the Art Institute of Chicago, visited the conservation labs and heard about the project. She had been acquainted with Takis since childhood, when her father and the artist ran in the same political and social circles in Greece. This presented a potential opportunity to begin a dialogue with a living artist. Dr. Kokkori offered to assist the conservation department by contacting Takis to request an interview. At his advanced age, the artist rarely travels outside Greece, and it was not feasible to conduct an interview remotely. Eventually Takis consented to a meeting in Greece, and Dr. Kokkori graciously agreed to assist as an interpreter.
 
@@ -67,7 +67,7 @@ Shortly after the initial interview with Takis, the project began to generate se
 
 With an exhibition imminent, conservation treatment and installation details moved forward, with the majority of the project focused on *Magnetic Tableau No. 7* and *Ballet Magnetique*.
 
-### Conservation
+## Conservation
 
 The treatment of *Magnetic Tableau No. 7* was conservative, to return focus to the space between the magnet and hanging elements without undermining Takis’s opinion regarding aesthetics. First, the magnet was returned to its original parallel position through incremental movements that were followed by localized humidifying action and drying to allow the canvas to adapt to each shift. Layers of foam, blotter, and cotton provided support to the area, and strategically placed twill tape exerted gentle and even pressure. When the magnet was in the correct orientation, two basswood blocks were secured to the cross brace under each side of the magnet to prevent future movement (**fig. 7.7**).
 
@@ -77,7 +77,7 @@ The kinetic nature of *Ballet Magnetique* required a more complex and invasive t
 
 Treatment of the work focused on restoring its function, and the abrasions and superficial spots of corrosion were left untreated to respect Takis’s aesthetic detachment. A new circuit-board-format bridge rectifier and heat sink were wired into position and connected to the long pins with crimp connectors. The new configuration was secured with a short screw, using an existing hole in the underside of the base. The original selenium rectifier was retained, although it was removed for the duration of the exhibition. All wire connections were reestablished with twist-on connectors to avoid soldering. Several frayed wires were replaced for safety reasons, but the originals were retained. At that point the electromagnet was turned on for testing, and the springs and bend of the relay coupon were adjusted to get maximum contact when closed and maximum spread when open. Finally, the power cord was replaced by splicing the lead inside the wooden box and adding an electrical-tape stop just inside the inner wall. A thumbwheel actuator was added for ease of operation during exhibition, but once again the original cord was retained (**fig. 7.8**).
 
-### Exhibition Planning for *Takis: The Fourth Dimension*
+## Exhibition Planning for *Takis: The Fourth Dimension*
 
 Takis sent a diagram with detailed instructions for the installation of *Ballet Magnetique*. Unfortunately, testing of the installation setup revealed two complications: the tethers often became tangled and significantly impaired the movement of the suspended elements; and the elements collided frequently and with enough force to cause concern about their long-term preservation.
 
@@ -87,15 +87,15 @@ The original elements appeared to be painted fishing bobbins made from now-solid
 
 For the installation of *Magnetic Tableau No. 7*, Takis sent several images that included a copy of the same installation diagram the Menil had on file, confirming that the original information came from the artist. However, he also sent images of scaffolding that was similar to the scaffolding seen in images uncovered during the research phase of the project. The time, funds, and space required for scaffolding were not practical for the Menil so an alternative was presented to Takis. At some point during the project, a friend of Melissa Warak had visited Paris and photographed a Magnetic Tableau installed at the Centre Pompidou. There appeared to be a partial wall hanging from the ceiling opposite the painting from which the elements could be suspended. Takis granted the Menil permission to create a simplified version of that design using thin metal rods. This allowed successful viewing of the piece while maintaining the correct angles in the work and respecting its focus (**fig. 7.11**).
 
-### Conclusion
+## Conclusion
 
 This project was a study in collaboration, diplomacy, creativity, and compromise that produced a very successful exhibition for the Menil Collection. Everyone involved had the full experience of working with a living artist. All aspects of the project required a thoughtful review of conservation ethics and standards.
 
-### Acknowledgments
+## Acknowledgments
 
 Sincere thanks to Takis and the Menil Foundation and Menil Collection staff, with special recognition of Bradford Epley, Toby Kamps, Tom Walsh, Adam Baker, Tobin Becker, Tony Rubio, Melissa Warak, Lisa Barkley, and Consuelo Gutierrez; Dr. Maria Kokkori of the Art Institute of Chicago; J. D. Wise and Don Johnson of Rice University’s George R. Brown School of Engineering; Florin Dragan, Jeff Lieberman, and Laura Knott; and Giorgos Nakoudis, director of Takis K.E.T.E. Research Center for the Arts and Sciences.
 
-### Bibliography
+## Bibliography
 
 Galerie Alexandre Iolas (Paris, France), and Jean Clay. 1966. *Takis*.
 New York: A. Iolas.

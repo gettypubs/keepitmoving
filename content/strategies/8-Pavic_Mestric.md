@@ -15,7 +15,7 @@ abstract: |
 weight: 302
 ---
 
-### Srnec and His Luminoplastics
+## Srnec and His Luminoplastics
 
 Aleksandar Srnec (Zagreb, 1924–2010) was a prominent Croatian artist whose work developed between 1950 and 1970, a vital period for the arts as well as for international culture, politics, and economics. Srnec was a member of the EXAT 51 group, active in the early 1950s, which sought to introduce experimentation into art and based its activities on the theories and traditions of Russian Constructivism, Bauhaus, and Neoplasticism. EXAT 51 was followed in the 1960s by the New Tendencies movement, which highlighted the need for the socialization and democratization of art and played a crucial role in the development of both the Croatian art scene (then Yugoslavia) and the international art scene. New Tendencies attracted artists who were experimenting with optical, kinetic, and luminokinetic art, in addition to influential scholars of Neo-Constructivist and kinetic art and information theory such as Giulio Carlo Argan, Abraham Moles, Matko Meštrović, and Alberto Biasi.[^1] Srnec’s creative drive found its basis in research and experimentation and, in 1953, led him to a key achievement of the EXAT 51 period, *Space Modulator* (**fig. 8.1**), the first object to give three dimensions to lines; in other words, to turn a drawing into a space. *Space Modulator* holds a special place in his oeuvre because it was the first of a series of kinetic and luminokinetic settings, which Srnec constructed and exhibited at New Tendencies shows during the 1960s. There is an obvious link with one of László Moholy-Nagy’s most important luminokinetic objects, *Light Space Modulator* (1930), but only at the formal level. Moholy-Nagy experimented with light and movement to create the ambience, while Srnec, using light and movement, transformed the two-dimensional line motif into a three-dimensional medium.
 
@@ -27,11 +27,11 @@ Srnec constructed *Luminoplastic 1* between 1965 and 1967, and it is an extremel
 
 This work was on display during the opening of the new MSU building in 2009, in the museum’s first permanent collection exhibition since its establishment in 1954.[^3] The constant use to which *Luminoplastic 1* was subjected, eight hours per day, caused several faults to occur in the electric motor and slide projector. The exacting requirements for exhibiting *Luminoplastic 1* prompted us to analyze the materials in detail and consider strategies for maintenance and display. This required a systematic and interdisciplinary approach as these elements, when becoming part of an art object, change their habitus, their original intent, and are used for a purpose for which they had not originally been intended. Thus, the curators and conservators faced a number of challenges relating to the maintenance and protection of the work, as well as the optimal way of exhibiting it. To approach the conservation decision-making process systematically, it was necessary to understand the object’s history and artistic-historical position as well as its mechanics and materials (metals, rubber, plastic, and photographic media). It was obvious that we would need the assistance of experts in various fields.
 
-### The Electric Motor
+## The Electric Motor
 
 The first problem was the electric motor that activates *Luminoplastic 1*, which had originally not been intended to run constantly. In an attempt to prevent further faults, we placed sensors that would activate the motor only when visitors approached the object. However, after a certain period, the motor stopped working. Conservators of modern art are well acquainted with the problem of obsolete technology and parts and, with the goal of preserving the object’s function, we chose not to adopt a “fetishist” approach ([**Muñoz Viñas 2005**](#bib):90) to certain parts, because it was inevitable that they would have to be replaced. Srnec had used electric motors produced by the Bagat Company, which was very successful during the era of the former Yugoslavia in the 1960s. Srnec mostly used two types of electric motor: Ruža and Danica. (Interestingly, the company had given women’s names to its various sewing machine models, most of which today sound old-fashioned.) A few years ago, when the electric motor of the second *Luminoplastic* object developed an irreparable fault, the former head of the conservation department, Zlatko Bielen, succeeded in finding one of these two motor types in a small shop. However, when the motor on *Luminoplastic 1* stopped working in 2015, the original Ruža and Danica models were no longer available. An electrical engineer helped repair the fault (the coil had burnt out), and it was thought that the motor would have a few years’ life left. Should an alternative to the existing motor be necessary, it was proposed to replace it with a brushless motor and speed regulator, although the mechanics would need to be adapted. Also, one of the two leather belts within the construction needed to be replaced, as the material had split and lost elasticity over time, putting extra pressure on the motor. We ordered a belt of the same diameter from a sewing machine supply shop, along with a replacement electric motor (for future use, if necessary) that had been made along the same principles as Ruža and Danica but produced in Taiwan.
 
-### Slide Projector and Slides: A Time-Based Media Issue
+## Slide Projector and Slides: A Time-Based Media Issue
 
 Further analysis of the construction elements showed that the artwork’s slide projector was not the original from 1967, as that one had burnt out during Srnec’s lifetime. On the advice of Srnec’s colleagues, the MSU acquired (around 2006) the new Kodak Ektalite 2000 analogue slide projector that is still in use today.
 
@@ -64,7 +64,7 @@ An additional complication in producing copies of the slides was that, at the ti
 
 Another option was to film *Luminoplastic 1* in operation, and present it so that the nonfunctioning original would be on display next to a projected video of the functioning work. This has become standard practice in museum exhibitions in recent times. However, in that case, our work would have been a documentation of the original.
 
-### Considerations under Permanent Revision
+## Considerations under Permanent Revision
 
 Luminokinetic objects like Luminoplastics create a constantly changing space in which the idea of the artist, that is, the performativity of the artwork, is realized. Since context and function are crucial to their identity, it is difficult to focus solely on the material aspect during conservation and presentation.
 
@@ -80,7 +80,7 @@ The interpretative role of museum professionals who are entrusted with showing a
 
 This highlights the responsibility that all museum professionals have in deciding how to show a work of art so that its meaning is interpreted faithfully.
 
-### Bibliography
+## Bibliography
 
 Ashley-Smith, Jonathan. 2009. “The Basic of Conservation Ethics.” In
 *Conservation Principles, Dilemmas and Uncomfortable Truths*, edited by

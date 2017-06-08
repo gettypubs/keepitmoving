@@ -19,7 +19,7 @@ With such opposite perspectives, where does this leave the current and future st
 
 Knowing how artists respond to the challenge of preserving their own artwork, and the context of their responses, is invaluable to any preservation approach. Some artists and artists’ studios initiate maintenance and preservation from a solely exhibition-focused perspective. This values the artist’s intention above all. However, once a work becomes historical and, specifically, enters a collection or museum setting, the “active” mode for an artwork is frequently limited due to concerns about its durability. It is important to bridge the gap between the artist’s and the art professional’s approaches when establishing guidelines for decision making. The following six case studies underscore three options—retirement, replication, and maintenance—available to conservators of kinetic works.
 
-### Retirement, Replication, and Maintenance
+## Retirement, Replication, and Maintenance
 
 Retirement is the most extreme method to conserve the material presence of an artwork. It is considered when excessive wear and tear, neglect, or technological obsolescence prevents the work from functioning. It is the point where an artwork may be considered a relic. In 1989, for the Centre Pompidou, Jean Tinguely chose this option for his *Sculpture méta-mécanique automobile* (1954).
 
@@ -27,7 +27,7 @@ Replication involves the re-creation of the action as a duplicate or new iterati
 
 Maintenance of an original artwork is the preferred option, when there is little evidence of wear and tear, or when repair issues are centered on sourcing available parts and supplies. However, over time works originally in this category may well move to replication and eventually retirement. The works of Otto Piene, Liz Larner, and Leo Villareal establish a pathway of escalating intervention. The following discussion draws on these case studies, in chronological order, to illustrate the evolution of such concerns through the last decade.
 
-### Naum Gabo
+## Naum Gabo
 
 In 1919, Naum Gabo (1890–1977) fabricated one of the first artworks commonly associated with kinetic sculpture, *Kinetic Construction (Standing Wave)* (1919–20) (**fig. 1.1**). For the groundbreaking exhibition *The Machine as Seen at the End of the Mechanical Age*, organized by the art historian Pontus Hulten in 1969 at the Museum of Modern Art, New York, Gabo recounted how this sculpture was made, his intention as its creator, and his thoughts about its longevity. His comments were published in the magazine *Techne* the same year. *Standing Wave*, Gabo explained,
 
@@ -60,7 +60,7 @@ The difficulty of his innovative effort is underscored by his comment that “it
 
 Gabo provided a clearly articulated explanation of his intention, a description of materials, and the role of experimentation in the act of creating. With his consent for the production of a replica, the artist himself made a strong case for replication, highlighting his workmanship and ingenuity in the first iteration of the work. It also supports a desire to hold his original effort encapsulated in its moment of creation. Therefore, when Gabo’s *Standing Wave* entered the Tate collection in 1966, although in working condition, these considerations resulted in the decision to retire the original work of art from its function. With the artist’s consent, several copies were fabricated to permit the conceptual intention of the artist to reside in its replication.
 
-### Jean Tinguely
+## Jean Tinguely
 
 Jean Tinguely (1925–1991) also opted to retire his *Sculpture méta-mécanique automobile* of 1954 (**fig. 1.2**) in 1988, prior to his retrospective at the Centre Pompidou that same year. Such a decision is surprising considering that thirty years earlier, in his 1959 manifesto *Für Statik*, Tinguely proclaimed: “Everything moves, there is no standstill” . . . “stop resisting change” . . . “Bind the anxiety and resist the weakness to want to stop movement.”[^1] Through such statements, he appeared to oppose standstill in general and instead propose flow and vitality, underscoring his belief that art and life should be in constant movement. Ironically, he criticized museums as mausoleums, yet held the most important shows of his career in such institutions. In later years he donated important works to major museums, in addition to planning his own museum.
 
@@ -88,7 +88,7 @@ Both the original *Méta-Matic No. 10* and its replica are in the collection of 
 
 Tinguely’s and Gabo’s decisions to replicate *Sculpture méta-mécanique automobile* and *Méta-Matic No. 10* demonstrate a respect for the historical value of the original artwork as the best fragments of the past that we have available. Correspondingly, concepts embedded in the work are valued for the important role they play in engaging public interaction.
 
-### Otto Piene
+## Otto Piene
 
 In the late 1960s, with the abundance of off-the-shelf technology available to artists, kinetic and Op Art evolved from artisanal to industrial fabrication, bringing issues of obsolescence to the forefront of conservation. Otto Piene (1928–2014), a founding member of the group ZERO, established in 1958, epitomized the group’s approach to art making. ZERO questioned the role of the artist’s hand and placed greater importance on materials and the interaction of the artwork with light and space.
 
@@ -118,7 +118,7 @@ Piene conveyed several important points. He confirmed that there is no alternati
 
 Maintaining *Neon Medusa* is still possible by performing acceptable and unnoticeable repairs. In the future, the controller box containing the programming may be replaced with a contemporary version running an identical program. Additionally, a search for bulb sources can continue in anticipation of the day that the replacements are no longer viable.
 
-### Liz Larner
+## Liz Larner
 
 Art historian Piper Marshall described *Corner Basher* (**fig. 1.9**) by California artist Liz Larner (b. 1960)
 as
@@ -135,7 +135,7 @@ The question of *Corner Basher*’s physical decline in relation to its performa
 
 > Liz worked with a couple different people for the construction of this piece. First she came up with the concept and created the design. Afterwards she met with her friend Keith Sawa, the owner of a machine shop, and they brainstormed about what needed to be accomplished. She then gathered together all of the necessary parts (motor, chain, ball, coupling, wheels, bearing, etc.), and brought them back to Keith at his shop. Liz worked with Keith to put everything together, and then had it welded at a different small shop, located in the same alley, by a retired aircraft welder. Liz was a young female artist at the time, and the space where it was to be shown (LACE) was rather worried about her installing such a destructive piece. They required her to consult with Mark Pauline from Survival Research Laboratories, and get his ok before installing the piece.[^4]
 
-### Leo Villareal
+## Leo Villareal
 
 This case study discusses the work of a member of a younger generation of artists who depend mainly on off-the-shelf hardware and produce their own proprietary software. It illustrates how kinetic art and contemporary technology intersect and reveals their similar conservation challenges. *Flowers 8* (**figs. 1.11, 1.12**) from 2005 by Leo Villareal (b. 1967) comprises eight flowers, each of which consists of sixteen LED fixtures, for a total of 128 LED fixtures. The lights display a range of RGB-color- and light-changing effects. Twelve programmed DMX512[^5] sequences are randomly run off two data units linked to the eight flowers, resulting in a colorful light concert.
 
@@ -145,7 +145,7 @@ To preserve *Flowers 8*’s outdoor installation, the owner and the artist agree
 
 Some artists would like the appearance of the replica to remain as close to the original as possible. Villareal has specified that the ornamental appearance of the lamp cables is an important feature of the flowers, that all visible parts of *Flowers 8* are of both functional and aesthetic importance. However, the invisible technical components, such as the power/data supplies, may prove to be the greatest challenge. While these elements are exchangeable, they are also dependent on software compatibility. This compatibility or incompatibility may inevitably influence future iterations and is an ongoing discussion with the artist. We anticipate a replication of *Flowers 8* with a completely new setup within the next three to eight years.
 
-### Conclusion
+## Conclusion
 
 Conservators continue to encounter complexities of care with historical kinetic and Op Art. Our challenges are not limited to the mechanical but extend into the digital, and our main challenge may be the evolution of technology. The ubiquity of technology gives almost anyone the capability of programing and controlling complex operating systems or interactive, computer-based installations. There is a clear tendency by young artists toward custom-built code, computer-controlled showcases, and robotics. At the same time, artists are becoming very aware of the limits of technology as they are challenged by art professionals to collaborate on the installation and repair of their work.
 
