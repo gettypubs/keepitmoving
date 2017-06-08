@@ -6,7 +6,7 @@ menu: true
 contributor:
  - first_name: Iolanda
    last_name: Ratti
-   affiliation: Tate Gallery
+   bio: Iolanda Ratti obtained an MA and a postgraduate diploma in contemporary art history at the Università degli Studi di Milano (University of Milan), with a thesis on the conservation of video installations. She was at Museo del Novecento, Milan, from 2004 to 2010, and then joined the Time-Based Media Conservation Department at the Tate, London. In 2013 she was a conservator at Pirelli HangarBicocca, Milan, and in 2014 she became collections curator at the Museo del Novecento.
 weight:
 ---
 

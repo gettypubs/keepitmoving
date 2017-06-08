@@ -6,13 +6,13 @@ type: essay
 contributor:
  - first_name: Mark
    last_name: Gilberg
-   affiliation:
+   bio: Mark Gilberg received his BS and MS degrees in inorganic chemistry from Stanford University and his PhD in archaeological conservation from the Institute of Archaeology, University College London. He has been director of the Conservation Center at the Los Angeles County Museum of Art since 2005.
  - first_name: Alison
    last_name: Walker
-   affiliation:
+   bio: Alison Walker received her BFA from Otis College of Art and Design (Los Angeles) in 2001 and an MFA from the University of California at Riverside in 2009. She has worked as a fabricator for Carlson & Co. and for CB Studio (Chris Burden). Since 2012, she has been responsible for the care, maintenance, and operation of Burden’s *Metropolis II* at the Los Angeles County Museum of Art. In addition to her professional work, Walker actively maintains her own studio practice.
  - first_name: Richard
    last_name: Sandomeno
-   affiliation:
+   bio: Richard Sandomeno was formerly trained and certified as an industrial diesel mechanic. In 2002 he left that career and transitioned into custom metal, jewelry, and art fabrication, and he worked at CB Studio (Chris Burden) as a fabricator on *Metropolis II* from 2007 to 2012. After working to install *Metropolis II* at the Los Angeles County Museum of Art, he was hired by the museum’s conservation department (2012–present) to maintain and repair the sculpture. Since 2001, Sandomeno has owned and operated Spragwerks Inc., his design and fabrication business.
 abstract: |
     Chris Burden’s *Metropolis II* is an elaborate kinetic sculpture modeled after a frenetic modern city. Steel tubing forms a grid interwoven with an elaborate system of roadways and train tracks with miniature cars speeding through the sculpture’s dense network of buildings. This paper discusses the maintenance and operation of the sculpture and highlights many of the problems inherent in the acquisition of kinetic works of art.
 weight: 103

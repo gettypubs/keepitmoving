@@ -6,22 +6,22 @@ type: essay
 contributor:
  - first_name: Carien
    last_name: van Aubel
-   affiliation:
+   bio: Carien van Aubel holds MAs in chemistry and in the conservation of modern and contemporary art from the University of Amsterdam (UvA). Her background has led her research into the unexplored degradation phenomena related to the use of innovative materials in contemporary art. She is a trainee in modern and contemporary art conservation at the UvA.
  - first_name: Nikki
    last_name: van Basten
-   affiliation:
+   bio: Nikki van Basten, conservator of modern and contemporary art, is on temporary assignment at the Getty Conservation Institute. She has carried out treatments for a broad range of objects and is specialized in the conservation of (outdoor) painted sculptures. She holds a Professional Doctorate in the Conservation of Modern and Contemporary Art from the University of Amsterdam.
  - first_name: Katja
    last_name: van de Braak
-   affiliation:
+   bio: Katja van de Braak holds an MA in modern and contemporary art conservation from the University of Amsterdam (UvA). She has a strong interest in the conservation of modern, unconventional, and temperamental materials. Van de Braak is a trainee in modern and contemporary art conservation at the UvA and is interning at the private conservation studio Bek & Frohnert LLC, New York City.
  - first_name: Sjoukje
    last_name: van der Laan
-   affiliation:
+   bio: Sjoukje van der Laan holds both an MA and a Professional Doctorate in Contemporary Art Conservation. Over the years, she has developed her specialization and practical skills within a broad range of contemporary materials (such as plastics, time-based media, light, and so on), art installations, and conceptual artworks. She is assistant conservator of contemporary art at the Art Gallery of Ontario, Toronto.
  - first_name: Anouk
    last_name: Verbeek
-   affiliation:
+   bio: Muriel Verbeeck holds a PhD from the Université de Liège (Belgium) and an MA in science of information and communication from the Université Libre de Bruxelles. She is currently a professor at the École Supérieure des Arts Saint-Luc Liège (Belgium), in the department of conservation of fine art, and is a scientific attaché to Université de Liège faculty of science. She also worked as a coordination assistant for the ICOM–CC (history and theory of conservation) and is the scientific editor of *CeROArt*.
  - first_name: Marleen
    last_name: Wagenaar
-   affiliation:
+   bio: Marleen is a private conservator, offering specialized services in the field of conservation of contemporary art in a wide variety of materials and techniques. Cofounder of the conservation studio RestauLab, she is responsible for the modern and contemporary art department. Wagenaar holds an MA and a Professional Doctorate in Contemporary Art Conservation from the University of Amsterdam.
 abstract: |
     This paper presents the conservation of seven kinetic artworks created between 1965 and 1969 by Dutch artist Ray Staakman (b. 1941).[^1] The artworks are made of varying materials—aluminum or tin plate in combination with polystyrene sheets, painted chipboard, painted metal, or metal springs—but all contain one or two electric motors. The artworks had malfunctions that were caused by broken motors and the deformation of moving parts. The challenge in this project was finding a balance between respecting the artist’s intent and respecting the authenticity of the original materials. Is it permissible to improve kinetic mechanisms by replacing original parts of the artworks?
 weight: 207

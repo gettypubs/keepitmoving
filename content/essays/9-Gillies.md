@@ -6,10 +6,10 @@ type: essay
 contributor:
  - first_name: Jane
    last_name: Gillies
-   affiliation:
+   bio: Jane C. Gillies earned a BSc from Edinburgh University, Edinburgh, in 1981, and she received her postgraduate diploma from West Dean College (Sussex, United Kingdom) in 1984. She is a professional associate member of the American Institute for Conservation.
  - first_name: Ingrid
    last_name: Seyb
-   affiliation:
+   bio: Ingrid Seyb received an MA in conservation studies from West Dean College (Sussex, United Kingdom), validated by the University of Sussex in 2008. She is a professional associate member of the American Institute for Conservation.
 abstract: |
     Works by Latin American artists Abraham Palatnik, Horacio García Rossi, Gyula Kosice, Gregorio Vardanega, Martha Boto, and Julio Le Parc were conserved prior to an exhibition in 2015 at the Museum of Fine Arts, Houston (MFAH). We examined the authenticity of the current mechanisms, and in some cases replaced components. Where possible through research, we identified aspects of their original operating process such as the speed, color, and configuration of elements. We also considered how these works can be maintained in the future without compromising the artists’ intentions.
 weight: 109

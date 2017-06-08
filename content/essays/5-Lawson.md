@@ -6,16 +6,16 @@ type: essay
 contributor:
  - first_name: Carla
    last_name: Flack
-   affiliation:
+   bio: Carla Flack is a sculpture and installation conservator with eight years’ experience working for various institutions in the United Kingdom and internationally, including the Science Museum (London) and the Statens Museum for Kunst (Copenhagen). She has been with the Tate, London, since 2012. In 2008, Flack received an MA from the University of Lincoln (United Kingdom) in the conservation of historic objects, with a focus on plastics in contemporary art. She collaborates with artists to ensure that the intention of their works is maintained, as well as their longevity.
  - first_name: Louise
    last_name: Lawson
-   affiliation:
+   bio: Louise Lawson, conservation manager at Tate, London, has worked within conservation for nearly twenty years, and her background spans both sculpture and time-based media conservation. She holds a BA and an MA in conservation, along with an MSc in disaster management. Her areas of research and interest focus on replication and reenactment of artworks in collaboration with artists and artists’ estates.
  - first_name: Jack
    last_name: McConchie
-   affiliation:
+   bio: Jack McConchie is a time-based media conservator with ten years’ experience in museum and galleries. He has worked for various institutions across the United Kingdom, in Glasgow and London, and he has worked within the Time-Based Media Conservation team at the Tate, London, since 2013. McConchie graduated from the University of Glasgow with a degree in electronics and music. He has a passion for collaborating with artists on bespoke technical solutions for complex installations.
  - first_name: Ming-Yi
    last_name: Tsai
-   affiliation:
+   bio: Ming-Yi Tsai, PhD, is a scientist researching air pollution, pesticides, and public health. He studied mechanical engineering at the Massachusetts Institute of Technology and environmental health at the University of Washington (Seattle). His passion is developing novel systems that can affordably monitor urban air quality in areas that lack air pollution data. He is on the board of directors of the Tsai Art and Science Foundation.
 abstract: |
     Tate has a long history of displaying and treating kinetic works of art, each of which generates its own unique and challenging technical and ethical questions. Wen-Ying Tsai’s *Umbrella*[^1] highlights the many philosophical and ethical questions raised by the conservation treatment of kinetic artworks. In this paper we consider both the sculptural and technical aspects of the artwork as well as the need to determine the significant characteristics and properties, physical as well as behavioral, to be conserved. We also examine the philosophical and ethical challenges presented by the preservation of kinetic artworks when reviewed against the need for longevity and functionality.
 

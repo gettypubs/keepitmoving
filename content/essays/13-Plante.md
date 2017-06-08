@@ -6,7 +6,7 @@ type: essay
 contributor:
  - first_name: Isabel
    last_name: Plante
-   affiliation:
+   bio: Isabel Plante holds a PhD in art history from the Universidad de Buenos Aires. She is a researcher with the Consejo Nacional de Investigaciones Científicas y Técnicas (National Council of Scientific and Technical Research) at the Universidad Nacional de San Martín, Argentina. Dr. Plante’s doctoral thesis, which includes a chapter on kinetic art, was published in Argentina as *Argentinos de París. Arte y viajes culturales durante los años sesenta* (2013).
 abstract: |
     In the 1960s, kineticism[^1] attracted a wide audience and exhibitions of kinetic art drew large crowds, apparently fulfilling the most ambitious objective of the avant-garde: to integrate art and life. Some kinetic objects were made in series: the idea of multiples was at the core of these artists’ strategies of “demystifying” art objects by avoiding the uniqueness fetish. The idea of an industrial production of kinetic multiples made it possible to imagine the extension to a wider audience of the optically destabilizing effects of the visual artifacts. This paper analyzes kinetic multiples as an artistic production that discovered its limits and contradictions amid arguments about culture, standardization, and consumption around 1968.
 weight: 113

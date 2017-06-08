@@ -5,13 +5,13 @@ type: essay
 contributor:
  - first_name: Abigail
    last_name: Mack
-   affiliation:
+   bio: Abigail Mack established her art conservation practice, Mack Art Conservation, in 2007 in New York’s Hudson Valley. She focuses on modern and contemporary art, with a specific interest in large-scale and monumental sculpture. Mack holds a BFA and an MA in art conservation from SUNY Buffalo State College. Mack is a contract conservator for the Getty Conservation Institute’s Outdoor Painted Sculpture Project.
  - first_name: Friederike
    last_name: Steckling
-   affiliation:
+   bio: Friederike Steckling trained as a paintings conservator at the Conservation Center of New York University, where she received a Certificate of Advanced Study in Conservation and an MA in art history. She has been conservator at the Fondation Beyeler in Basel, Switzerland, since 2001, where she helped establish the conservation department. Steckling is responsible for the care of the classical modern collection and for conservation projects on works in various media.
  - first_name: Sara
    last_name: Levin
-   affiliation:
+   bio: Sara Levin holds an MS in art conservation from Winterthur/University of Delaware. She is assistant objects conservator at Mack Art Conservation (New York), where she works on a range of modern and contemporary objects and sculpture. She is also a project objects conservator at the Brooklyn Museum in New York City and has worked at the Metropolitan Museum of Art, New York, and the Getty Villa.
 abstract: |
     Large-scale, outdoor kinetic sculptures by artists such as Alexander Calder, George Rickey, and Pol Bury face new and formidable challenges from the effects of global climate change. Although the sculptures are well engineered, and many have been on continuous outdoor display for decades, more powerful and frequent storms brought about by climate change are creating both catastrophic and small-scale damage as well as increasing the overall rate of wear. Protocols need to be developed and implemented to address this rising threat. Innovative site-specific analysis and the implementation of protections by the Fondation Beyeler for Calder’s *Tree* (1966) present a possible model for long-term outdoor display of similar kinetic objects.
 weight: 204

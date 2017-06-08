@@ -5,10 +5,10 @@ type: essay
 contributor:
  - first_name: Gunnar
    last_name: Heydenreich
-   affiliation:
+   bio: Dr. Gunnar Heydenreich is professor for conservation of modern and contemporary art at Cologne Institute of Conservation Sciences and head of the Cranach Digital Archive ([lucascranach.org](http://www.lucascranach.org)). He studied paintings conservation at the HfBK Dresden and he gained a PhD from the Courtauld Institute of Art, London. From 1995 to 2009 he was head of paintings and contemporary art conservation at the Restaurierungszentrum in Düsseldorf. He was a founding member of the International Network for the Conservation of Contemporary Art (INCCA) and coorganizer of and participant in several European research projects, including Inside Installations, PRACTICs, NeCCAR, and NACCA.
  - first_name: Julia
    last_name: Giebeler
-   affiliation:
+   bio: Julia Giebeler is a freelance conservator of historical, modern, and contemporary art. In 2012, she completed her MA at the Cologne Institute of Conservation Sciences (CICS) with a thesis on the preservation of Heinz Mack’s early light-kinetics as a case study in conservation theory. Since 2013 Giebeler has been a research assistant at CICS, focusing on theoretical conservation issues in contemporary art.
 abstract: |
     More consideration is given today to the early kinetic works of the ZERO founders Otto Piene (1928–2014), Heinz Mack (b. 1931), and Günther Uecker (b. 1930). But is this hype a stroke of luck or misfortune for the preservation of their works? Through three case studies, this paper analyzes the influences of a growing public interest on the preservation and presentation of kinetic artworks by examining the following aspects in more detail: 1) a changing evaluation of work components; 2) rediscovery and value enhancement; and 3) influences of exhibitions.
 weight: 112

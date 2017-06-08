@@ -6,10 +6,10 @@ type: essay
 contributor:
  - first_name: Erin
    last_name: Stephenson
-   affiliation:
+   bio: Erin Stephenson is the William R. Leisher Fellow in Modern and Contemporary Paintings Conservation at the National Gallery of Art, Washington, D.C., where she specializes in modern and contemporary painting conservation. She earned her MA in art conservation from SUNY Buffalo State College. Stephenson interned with the Fine Arts Museums of San Francisco and held fellowships at the Balboa Art Conservation Center (San Diego, California) and the Menil Collection (Houston, Texas).
  - first_name: Kari
    last_name: Dodson
-   affiliation:
+   bio: Kari Dodson is the assistant objects conservator at the Menil Collection. She holds a BA in physical anthropology from the University of Missouri, Columbia, and an MA/CAS in art conservation from SUNY Buffalo State College. Dodson interned at the National Museums of Malawi, the Barnes Foundation (Philadelphia, Pennsylvania), and the Metropolitan Museum of Art, New York, and she completed a Mellon fellowship at the Worcester Art Museum (Massachusetts). She also serves the American Institute for Conservation as co-editor of the Objects Specialty Group Postprints.
 abstract: |
     In 2012 Greek artist Takis (b. 1925) became the focus of a collaborative project between the curatorial and conservation departments of the Menil Collection. Takis uses magnets and electrical components to create static and kinetic three-dimensional art that explores the energies of an invisible fourth dimension. The project addressed the challenges and complexities that often arise when working with a living artist, including balancing the artist’s preferences with the ethics and standards of traditional conservation practice. The ability to achieve that balance resulted in the first survey exhibition of the artist’s work in the United States.
 weight: 107

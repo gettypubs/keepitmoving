@@ -5,13 +5,13 @@ type: essay
 contributor:
  - first_name: Esther
    last_name: Meijer
-   affiliation:
+   bio: Esther Meijer trained as a metal conservator at the Cultural Heritage Agency of the Netherlands, where she contributed to a number of projects before becoming an independent metal conservator. She is interested in new media and in law and authorship in art, and she obtained a European law degree. Meijer is project conservator for the Tinguely Conservation Project.
  - first_name: Susanne
    last_name: Meijer
-   affiliation:
+   bio: Susanne Meijer studied cultural heritage at the Amsterdam University of the Arts (Reinwardt Academy) in Amsterdam. She trained at the four-year metal conservation program of the Cultural Heritage Agency of the Netherlands in Amsterdam. After graduating in 1999 she was as a freelance metal conservator for nine years. She worked on several projects in various capacities, such as the conservation of the bronzes of the tomb of William of Orange, and she coordinated the conservation of the ethnographic and military collection of Museum Bronbeek in Arnhem. Since 2008, she has been a sculpture conservator at the Sculpture Conservation Department of the Stedelijk Museum Amsterdam, responsible for the conservation and restoration of the collection’s metal and stone sculptures. Meijer is coordinator of the current Tinguely project.
  - first_name: Sandra
    last_name: Weerdenburg
-   affiliation:
+   bio: Sandra Weerdenburg studied art history in Utrecht and later trained as a conservator in the five-year postgraduate course at the Limburg Conservation Institute, Stichting Restauratie Atelier Limburg (SRAL), in Maastricht (Netherlands). She has been a sculpture conservator at the Stedelijk Museum Amsterdam since 1996; since 2006, she has also been head of the Conservation Department. Weerdenburg is supervisor of the Tinguely Conservation Project.
 abstract: |
     Swiss artist Jean Tinguely (1925–1991) was a member of the New Realists and the ZERO movement, and he is known for his kinetic sculptures and reliefs. His association with the Stedelijk Museum began with two exhibitions, *Bewogen Beweging* (Moving movement) in 1961 and *Dylaby* in 1962, and lasted until his death. The thirteen three-dimensional Tinguely artworks in the collection are being examined and, if possible, will be treated under the multidisciplinary Tinguely Conservation Project. This paper discusses the main focus and structure of the project and highlights some important issues and dilemmas that arose.
 weight: 111

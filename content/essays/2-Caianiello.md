@@ -6,7 +6,7 @@ type: essay
 contributor:
  - first_name: Tiziana
    last_name: Caianiello
-   affiliation:
+   bio: Since 2009 Tiziana Caianiello, PhD, has worked as a research associate at the ZERO Foundation in Düsseldorf. She studied art history at the University of Naples (Italy) and the University of Cologne (Germany). Her research primarily focuses on theoretical issues in the conservation of kinetic art and media art installations, performative elements in the visual arts, exhibition history, and art of the 1960s.
 abstract: |
     Kinetic art installations can be interpreted and staged in different ways. This paper addresses how the limits of permissible scope for interpretation can be defined and explores the boundaries between interpretation and “overinterpretation,” referencing theoretical concepts formulated by Umberto Eco. The discussion of three kinetic installations from the 1960s by ZERO artists Heinz Mack, Otto Piene, and Günther Uecker focuses on reconstructions as a preservation strategy and concludes that while we cannot be sure if an interpretation of a work is correct, we can recognize if it is wrong.
 weight: 102

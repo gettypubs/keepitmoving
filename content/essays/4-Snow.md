@@ -5,10 +5,10 @@ type: essay
 contributor:
  - first_name: Carol
    last_name: Snow
-   affiliation:
+   bio: Carol Snow is a graduate of the Winterthur/University of Delaware Program in Art Conservation. While at the Walters Art Museum (Baltimore, Maryland), she participated in archaeological projects around the Mediterranean and received a Fulbright to work in Turkey. She has been a conservator in private practice for twenty years. She is deputy chief conservator and the Alan J. Dworsky Senior Conservator of Objects at the Yale University Art Gallery (New Haven, Connecticut).
  - first_name: Lynda
    last_name: Zycherman
-   affiliation:
+   bio: Lynda Zycherman is a graduate of the Conservation Center, Institute of Fine Arts, New York University. She has served as conservator of sculpture at the Museum of Modern Art, New York, for three decades. Previously she worked at the Freer Gallery of Art, Washington, D.C., where she specialized in the technical examination of ancient Chinese bronzes. Zycherman also trained at the Metropolitan Museum of Art, New York, and the Corning Museum of Glass, New York.
 abstract: |
     Kinetic light artist Thomas Wilfred (1889–1968) created *Lumia Suite, Opus 158* as a complex construction of polished and painted metal, projectors, electric motors, fans, mirrors, and a rear projection screen. Meant to be seen in a dedicated, darkened room, it was commissioned in 1963 by New York’s Museum of Modern Art and on view nearly continuously until it was deinstalled in 1981. It was in storage for the past thirty-five years. In preparation for the Yale University Art Gallery’s 2017 exhibition *Lumia: Thomas Wilfred and the Art of Light*, the installation was unpacked, assessed, conserved, repaired, and reconstructed to bring it to working, exhibitable condition.
 weight: 104

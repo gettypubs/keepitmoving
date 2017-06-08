@@ -6,10 +6,10 @@ type: essay
 contributor:
  - first_name: Mirta
    last_name: Pavić
-   affiliation:
+   bio: Mirta Pavić is the head of the Conservation Department at the Museum of Contemporary Art, Zagreb. She received her MA in conservation from the University of Ljubljana, Academy of Fine Arts and Design (Slovenia). Pavić teaches modern and contemporary art conservation at the University of Split (Croatia) and is a visiting lecturer at the University of Ljubljana.
  - first_name: Vesna
    last_name: Meštrić
-   affiliation:
+   bio: Vesna Meštrić is a senior curator at the Museum of Contemporary Art, Zagreb, in charge of the Vjenceslav Richter and Nada Kareš Richter Collection. Her research interests include interpretation and presentation of collections, conservation, and avant-garde and postmodern movements. She has curated various solo and problem-oriented exhibitions and participated in several international scientific conferences and workshops.
 abstract: |
     Aleksandar Srnec was a renowned member of the international New Tendencies movement (1961–73), and he created the first light-in-movement object in Croatian art (1967). Srnec’s luminokinetic objects, Luminoplastics, are a highlight of the Museum of Contemporary Art (MSU) in Zagreb, Croatia. Luminoplastics are activated by electric motors from sewing machines, and the combination of materials and “amateur” construction achieve a dynamic of movement and color. The first Luminoplastic, along with sound and movement, features a slide projection, which raises additional conservation issues. This paper presents the conservation strategy adopted for *Luminoplastic 1*, which included interdisciplinary research and individual decisions regarding the various components and materials that compose this exceptional work of art.
 weight: 108

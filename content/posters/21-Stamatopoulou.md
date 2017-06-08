@@ -6,7 +6,7 @@ type: essay
 contributor:
  - first_name: Eugenia
    last_name: Stamatopoulou
-   affiliation:
+   bio: Eugenia Stamatopoulou graduated from the Université Paris 1 Panthéon-Sorbonne with an MA in art history and an MSc in conservation, both focused on contemporary art. She acquired an MPhil in monuments conservation at the National Technical University of Athens, Architecture Department, where she is also a PhD candidate. She has been a conservator and collections manager for museums and galleries in France and Canada. For several years, she has been in charge of the management, installation, and conservation of the Dakis Joannou Collection, Athens.
 abstract: |
     *Death of a moment* (2007) is a kinetic, room-size installation created by the Swiss Neo-Dada artist Urs Fischer (b. 1973). The installation’s floor-to-ceiling mounted mirrors are set in motion by a hydraulic system, making the space appear to distort and fluctuate. Acquired by the Dakis Joannou Collection in 2007, it was installed as a permanent artwork at the DESTE Foundation in Athens, Greece. This project presented numerous challenges related to the artwork’s production and long-term presentation, including site obstruction, the availability of components, coordination with various specialists, and spatial planning. This paper discusses the solutions adopted by the Dakis Joannou Collection to install and maintain *Death of a moment*, and to plan for its long-term preservation.
 weight: 206

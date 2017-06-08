@@ -6,13 +6,13 @@ type: essay
 contributor:
  - first_name: Manon
    last_name: D’haenens
-   affiliation:
+   bio: Manon D’haenens is a conservator-restorer of contemporary art. She holds an MA from the École Supérieure des Arts Saint-Luc de Liège (Belgium), and she is a PhD candidate at the Université de Liège (Centre Européen d’Archéométrie). Her research focuses on the conservator-restorer’s role in contemporary art collections.
  - first_name: Muriel
    last_name: Verbeeck
-   affiliation:
+   bio: Anouk Verbeek holds an MA and a Professional Doctorate in Modern and Contemporary Art Conservation from the University of Amsterdam. She has a strong interest in the conservation of modern materials, mixed-media artworks, and large-scale installations. She is pursuing a fellowship in modern art.
  - first_name: David
    last_name: Strivay
-   affiliation:
+   bio: In 2001 David Strivay earned his PhD in physics, in the field of ion-beam analysis techniques. He has been the director of the archaeometry research center of the Université de Liège (Belgium) since 2005. His main fields of research are the development and optimization of mobile noninvasive analytical and imaging techniques, technical art history, atomic and nuclear physics and ion-beam analysis, and modification of materials.
 abstract: |
     The collection of Nicolas Schöffer’s works is composed of cybernetic art that interacts aesthetically with its environment. This paper investigates the transition of these artworks from the artist’s studio to the museum from the perspective of the conservator’s twofold role. The first considers relationships with the rights-holder for the transmission of the artist’s intent and “studio knowledge.” The second concerns practical challenges for the preservation of Schöffer’s works. This is a complex exercise of transmission that includes collaboration with the different stakeholders, and the conservator’s role in this process is critical to the continued existence of these artworks in their new environment.
 weight: 114

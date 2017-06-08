@@ -6,10 +6,10 @@ type: essay
 contributor:
  - first_name: Francesca
    last_name: Pola
-   affiliation:
+   bio: Curator and writer Francesca Pola is a historian of Italian contemporary art, focusing on the 1950s and 1960s. She teaches and conducts research at the Università Cattolica (Catholic University of Milan) and at IES Abroad in Milan, and she was a Fulbright Distinguished Lecturer at Northwestern University in 2016. Pola is Italy’s representative on the International Scientific Advisory Board of the ZERO Foundation, Düsseldorf. She is also a contributor to *Artforum* magazine.
  - first_name: Barbara
    last_name: Ferriani
-   affiliation:
+   bio: Barbara Ferriani has headed her conservation studio in Milan since 1983, and she has been head of the conservation laboratory at the Triennale Design Museum (Milan) since 2010. She teaches conservation of contemporary art at the Centro Conservazione e Restauro “La Venaria Reale” (Turin), at the Università degli Studi di Milano (University of Milan), and at the Università Cattolica (Catholic University of Milan). She is assistant coordinator of ICOM–CC Modern Materials and Contemporary Art working group.
 abstract: |
     This paper focuses on seminal case studies in the conservation and display of kinetic art from the European Neo-Avant-Garde, examined from the interdependent points of view of the authors: curator and conservator. Francesca Pola is an independent art historian and curator who has a special focus on conservation in her display concepts, while Barbara Ferriani is a conservator who pays particular attention to display in her practice of conservation. The case studies presented below resulted from the authors’ direct and sometimes shared experience, and from their discussion of issues in their intertwined strategies and practices.
 
