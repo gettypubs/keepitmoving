@@ -17,7 +17,7 @@ relativeURLs: true
 
 title: "Keep It Moving"
 languageCode: "en-us"
-theme: "quire-web-theme"
+theme: "quire-base-theme"
 footnoteReturnLinkContents: "↩"
 metaDataFormat: "yaml"
 
