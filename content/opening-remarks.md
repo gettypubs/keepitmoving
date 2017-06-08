@@ -7,7 +7,7 @@ contributor:
  - first_name: Iolanda
    last_name: Ratti
    bio: Iolanda Ratti obtained an MA and a postgraduate diploma in contemporary art history at the Università degli Studi di Milano (University of Milan), with a thesis on the conservation of video installations. She was at Museo del Novecento, Milan, from 2004 to 2010, and then joined the Time-Based Media Conservation Department at the Tate, London. In 2013 she was a conservator at Pirelli HangarBicocca, Milan, and in 2014 she became collections curator at the Museo del Novecento.
-weight:
+weight: 5
 ---
 
 The cultural milieu in Milan during the late 1950s and early 1960s was extremely lively. Lucio Fontana’s spatial research influenced artists such as Piero Manzoni, Enrico Castellani, and Agostino Bonalumi, as well as groups that sought to upset traditional art practices not only in terms of media but also by stressing the role of the spectator in giving significance to the artwork.
