@@ -14,7 +14,7 @@ weight: 508
 
 ## The Artwork
 
-In 2001 artist Joost Conijn (b. 1971) created *Wood Car* (**fig. 23.1**) from the base of a Citroën DS, building the coach from plywood and installing a wood-burning apparatus that powered the engine instead of gas. In 2002 the artist drove *Wood Car* through fifteen countries in Europe, collecting wood along the way and documenting his journey on video. The artwork comprises the car and the video, which is on a DVD. (The master version is preserved on mini DVCAM.)
+In 2001 artist Joost Conijn (b. 1971) created *Wood Car* ([fig. 23.1](#23.1)) from the base of a Citroën DS, building the coach from plywood and installing a wood-burning apparatus that powered the engine instead of gas. In 2002 the artist drove *Wood Car* through fifteen countries in Europe, collecting wood along the way and documenting his journey on video. The artwork comprises the car and the video, which is on a DVD. (The master version is preserved on mini DVCAM.)
 
 ## Collection Management, Preservation, and Presentation
 
