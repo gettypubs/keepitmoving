@@ -80,6 +80,8 @@ The interpretative role of museum professionals who are entrusted with showing a
 
 This highlights the responsibility that all museum professionals have in deciding how to show a work of art so that its meaning is interpreted faithfully.
 
+## Notes
+
 [^1]: [**Kolešnik 2012**](#bib). The robustness of this period in art led to five exhibitions entitled *New Tendencies* held in Zagreb between 1961 and 1973, organized by what is today the Museum of Contemporary Art. In fact, some of the museum’s most important holdings are the works of art and archive documentation produced by the New Tendencies participants.
 
 [^2]: Srnec, in Gordana Brzović and Kristina Leko’s documentary *Aleksandar Srnec* (2000), 57 min.

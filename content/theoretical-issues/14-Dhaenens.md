@@ -72,6 +72,8 @@ The transition of this cybernetic collection from the artist’s studio to the m
 
 I would particularly like to thank Mrs. Eléonore de Lavandeyra Schöffer for her collaboration and authorization to disseminate interviews and photos for research purposes. I also thank Jean-Marc Gay from the city of Liège for collaborating on this project.
 
+## Notes
+
 [^1]: Spatiodynamism: \[. . .\] intégration constructive et dynamique de l’espace dans l’oeuvre plastique. \[. . .\] Ici le but est \[. . .\] énergétique, et non matériel. \[. . .\] Mus à une certaine vitesse, ils \[. . .\] une sensation de dématérialisation. Luminodynamism: La lumière \[. . .\] pénètre à travers l’oeuvre spatiodynamique et engendre \[. . .\] des développements plastiques qui libèrent un immense potentiel de valeurs esthétiques \[. . .\] Chronodynamisme: Leur action réciproque engendrera des séries susceptibles de développements à l’infini, qui feront éclater les limites temporelles imposées jusqu’ici. \[. . .\] Les éléments combinés \[. . .\] ont, entre eux, des rapports prédéterminés, mais modifiables aussi bien dans l’espace que dans le temps; \[. . .\] nullement limitatifs de sorte que les aspects successifs sont infinis et imprévisibles.\[. . .\] ([**Schöffer 1970**](#bib): 32–46).
 
 [^2]: See “Espace Dynamique Schöffer,” archives of Mrs. Schöffer.

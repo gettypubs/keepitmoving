@@ -42,4 +42,6 @@ The following decisions were made after examining conservation strategies and ma
 
 Reflecting on the history of presenting, installing, and conserving the artwork, it seems that the sensory experience of the car—its sounds and smells—influenced the idea that it was necessary to keep the engine running. This interpretation resulted in ongoing and intensive caretaking of the vehicle. Because such care involved complex museum practices, it was decided to reevaluate conservation ethics, and topics discussed during the research project resulted in new understandings about conservation theories and the artwork’s authenticity. These new interpretations made clear that *Wood Car* can be understood as a sculpture. The outcomes and new understandings will be used as primary reference points and as a directory in conserving the artwork. The Centraal Museum thanks all participants for their insights and cooperation.
 
+## Notes
+
 [^1]: Joost Conijn, interview by Marije Verduijn, head of collection management, Centraal Museum Utrecht, October 29, 2015.

@@ -38,6 +38,8 @@ This process was an instructive example of the challenges and contradictions fac
 
 The thesis “From Flickering to Light,” which includes video documentation and art historical research, can serve as a guide for any future reconstruction of the artwork, such as rewiring the bimetallic switches or substituting similar switches or programming. All options take into account the difficulty of reproducing a specific random inaccuracy of the original components.
 
+## Notes
+
 [^1]: Each 1m<sup>2</sup>.
 
 [^2]: 2mm thick transparent acrylic glass.

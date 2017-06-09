@@ -113,6 +113,8 @@ Motion is a major component of Tinguely’s works, and one of the most important
 
 The project was generously funded by All Art Initiatives B.V. and BankGiro Loterij. For their valuable contributions, we also thank the Rijksdienst voor het Cultureel Erfgoed (Cultural Heritage Agency of the Netherlands); Museum Tinguely, Basel; Reinhard Bek; Hans van der Weijde; Lydia Beerkens; Evelyne Snijders; the staff of the Stedelijk Museum Amsterdam; and many others.
 
+## Notes
+
 [^1]: Stiftung Museum Kunstpalast Düsseldorf, April 21–August 14, 2016; Stedelijk Museum Amsterdam, October 1, 2016–March 5, 2017.
 
 [^2]: From the conservation field, but also, for instance, a welding inspector, an electromotor specialist, a radio technician, and an expert in Tinguely fountains.

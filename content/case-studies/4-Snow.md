@@ -95,6 +95,8 @@ Wilfred’s groundbreaking contribution to kinetic art and time-based media is f
 
 > Infrared camera for smartphone: FLIR ONE™, [**www.flir.com**](http://www.flir.com/flirone/content/?id=62910).
 
+## Notes
+
 [^1]: For a chronology of the idea and its various incarnations, see “Color organ,” *Wikipedia*, accessed November 2016, [**en.wikipedia.org/wiki/Color\_organ**](https://en.wikipedia.org/wiki/Color_organ).
 
 [^2]: Most notable among these is Russian composer Alexander Scriabin’s synesthetic symphony *Prometheus: The Poem of Fire* (1915), re-created in February 2010 by Anna Gawboy, a doctoral candidate at the Yale School of Music and scholar of Scriabin. See Yale Broadcast & Media, “Scriabin’s *Prometheus: Poem of Fire*,” 2010, accessed November 2016, [**www.youtube.com**](https://www.youtube.com/watch?v=V3B7uQ5K0IU).

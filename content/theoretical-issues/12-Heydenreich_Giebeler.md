@@ -100,6 +100,8 @@ From the experience of the three case studies, it is suggested that the establis
 
 Tiziana Caianiello of the ZERO Foundation, and Ulrik Runeberg of Restaurierungszentrum der Landeshauptstadt Düsseldorf.
 
+## Notes
+
 [^1]: The ZERO Foundation, [**www.4321zero.com**](http://www.4321zero.com/).
 
 [^2]: Heinz Mack, interview by Kristina Herbst, in [**Herbst 2005**](#bib), appendix D1, pp. 9, 15; Heinz Mack, interview by Gunnar Heydenreich and Julia Giebeler, in [**Giebeler 2011**](#bib), appendix A1, p. 30.

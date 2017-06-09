@@ -111,6 +111,8 @@ It was a sentiment the artist expressed himself during the 1960s, frustrated at 
 
 Lye’s claim to be “pretty good for the 21st century” became more than a realization that his work could only be partially executed under his own watch but also a rejection of the environment he was required to work in. Anticipating what could be achieved in the future, he was similarly invested in the value of kinetic art and reticent to rely on his contemporaries to maintain that value. The development of the Len Lye Foundation and, thirty-five years later, the Len Lye Centre falls short of his hopes for a temple of motion, but they are an active and essential part of Lye’s vision . . . for inventing another program.
 
+## Notes
+
 [^1]: The Seven and Five Society formed in London in 1919, gradually departing from a traditional aesthetic style toward abstraction under the leadership of Ben Nicholson. The group featured Henry Moore and Barbara Hepworth, with Lye active with the group from 1927 to 1934. The Seven and Five Society ceased in 1935.
 
 [^2]: *Homage to New York* was a self-destroying kinetic sculpture, created by Jean Tinguely with assistance from Billy Klüver and Robert Rauschenberg. On March 17, 1960, in a public presentation at the Sculpture Garden of New York’s Museum of Modern Art, the work performed for twenty-seven minutes before the fire department intervened.

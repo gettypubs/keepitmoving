@@ -93,6 +93,8 @@ The project was successful primarily due to the ongoing collaboration of all par
 
 We thank the Tsai family and the Tsai Art and Science Foundation for their ongoing support and insight. They made this a truly remarkable project to be a part of, and we are very proud of what we achieved collectively.
 
+## Notes
+
 [^1]: Tate, T01521.
 
 [^2]: Tate, T03823.

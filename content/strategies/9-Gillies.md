@@ -91,6 +91,8 @@ During *Constructed Dialogues: Concrete, Geometric, and Kinetic Art from the Lat
 
 The expanding role of MFAH conservators in the display of these objects has been an interesting exercise in compromise and collaboration. In the past, these objects have been worked on by the artist’s friends and relatives, museum electricians, handy registrars, and preparators. All of these individuals have valuable expertise to contribute, and we continue to seek their assistance. But the conservator is better placed to collate this expertise, weigh the suggestions of all parties, and document all action undertaken. Preparing these artworks for permanent galleries offers further opportunities to develop best protocols for display while maintaining functionality.
 
+## Notes
+
 [^1]: Orbitec E10 230V 15W. Don Schnapp Specialty Bulbs, 2600 Pope Canyon Road, Saint Helena, CA, 94574; [**www.donsbulbs.com**](http://www.donsbulbs.com/cgi-bin/r/t.pl).
 
 [^2]: Alejandro Marcos, in discussion with the authors, April 2015.

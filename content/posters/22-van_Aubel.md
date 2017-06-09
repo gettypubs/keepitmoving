@@ -39,6 +39,8 @@ The aim of the Staakman conservation project was to achieve at least temporary e
 
 We thank Ray Staakman for the valuable and informative collaboration. We thank Lydia Beerkens, Reinhard Bek, and Ulrich Lang for their invaluable opinions on this subject. Thanks are also due to Evelyne Snijders, Ellen Jansen, and Ingeborg Smit, University of Amsterdam (UvA); Ron Kievits and Simone Vermaat, Rijksdienst voor het Cultureel Erfgoed (RCE); private conservator Daan Brouwers; and Marcel van der Sande, Kröller-Müller Museum for their assistance and input on this project. We are grateful to our other colleagues from the UvA and RCE for their contributions, advice, and support toward the conservation of these kinetic artworks.
 
+## Notes
+
 [^1]: Treated artworks: 1) *Optical Kinetic Object*, 1966, aluminum, screen print, and electric motor, 29.6 × 29.6 × 5.2cm; 2) *Big Revolving Square*, 1965, wood, plywood, aluminum, iron, oil paint, and electric motor, 110.5 × 110.5 × 15.3cm; 3) *Long Turning Spiral*, 1966, aluminum, tin, steel, wood, and electric motor, 100 × 25.5 × 9cm; 4) *Four Centrifugal Working Disks*, 1966–67, anodized aluminum, steel, and electric motor, 188 × 36 × 36cm; 5) *No. 4667 3 Aluminum Blades*, 1967, anodized aluminum, steel, brass, rubber, PMMA, and electric motor, 100 × 181 × 46cm; 6) *Rotator (6 Rolled Sheets Left)*, 1966, anodized aluminium, steel, and electric motor, 200 × 90 × 90cm; and 7) *2.469*, 1969, anodized aluminum, painted steel, and electric motor, 100 × 26 × 26cm.
 
 [^2]: Electric motors made by Crouzet (type: 965). Staakman used donated electric motors and industrial leftovers to create his artworks.

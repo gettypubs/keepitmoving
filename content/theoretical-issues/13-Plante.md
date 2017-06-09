@@ -74,8 +74,9 @@ In the context of an unprecedented abundance of small, ingenious objects, eye-ca
 
 ## Acknowledgments
 
-I thank the Biblioteca di Tella for making material available for this
-paper.
+I thank the Biblioteca di Tella for making material available for this paper.
+
+## Notes
 
 [^1]: I use “kineticism” rather than “kinetic art” because I am referring to an avant-garde art movement (Cubism, Dadaism, etc.) and because these artists were discussing the status of art, the traditional aura. The edition of multiples was part of their strategies, as discussed in this paper.
 

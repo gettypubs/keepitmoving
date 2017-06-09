@@ -115,6 +115,8 @@ This project was a study in collaboration, diplomacy, creativity, and compromise
 
 Sincere thanks to Takis and the Menil Foundation and Menil Collection staff, with special recognition of Bradford Epley, Toby Kamps, Tom Walsh, Adam Baker, Tobin Becker, Tony Rubio, Melissa Warak, Lisa Barkley, and Consuelo Gutierrez; Dr. Maria Kokkori of the Art Institute of Chicago; J. D. Wise and Don Johnson of Rice University’s George R. Brown School of Engineering; Florin Dragan, Jeff Lieberman, and Laura Knott; and Giorgos Nakoudis, director of Takis K.E.T.E. Research Center for the Arts and Sciences.
 
+## Notes
+
 [^1]: “Sculptor Takes Work out of Modern Museum Show,” *New York Times*, January 4, 1969, 24.
 
 [^2]: Robert Reinhold, “M.I.T. Center Seeks to Wed Esthetics and Technology: M.I.T. Seeks to Wed Art and Science,” *New York Times*, December 26, 1969, 31; Grace Glueck, “Art: Whirring and Quivering Aplenty: Electronic Sculpture of Takis at Wise Gallery,” *New York Times*, February 8, 1969, 25.

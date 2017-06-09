@@ -141,6 +141,8 @@ According to Max Dean, this restoration project took *As Yet Untitled* to a stat
 
 If the restoration of *As Yet Untitled* had not been completed after the Montreal loan, it would have been difficult for others to pick up where we left off, and appropriate restoration may have been impossible. Like any kinetic object, it will remain susceptible to mechanical wear and tear. As the original components age, and as replacement parts become obsolete, the robot may even regain its temperamental attitude. Building on our work, however, a new team should be able to face the challenge with confidence.
 
+## Notes
+
 [^1]: Art Gallery of Ontario, Canada, 1996; *d’APERTutto*, Venice Biennale, Italy, 1999; *The Fifth Element*, Städtische Kunsthalle Düsseldorf, Germany, 2000; *Voici: 100 ans d’art contemporain/Look: 100 Years of Contemporary Art*, Palais des Beaux-Arts, Brussels, Belgium, 2000; *Quality Control*, Site Gallery, Sheffield, England, 2001; *Iconoclash*, ZKM, Karlsruhe, Germany, 2002; *The Bigger Picture*, Ottawa Art Gallery, Ottawa, Canada, 2003; *Damage Done: Materializing the Photographic Image*, Prefix, Toronto, Canada, 2005; *Drone: The Automated Image*, VOX, Centre de l’Image Contemporaine, during Le Mois de la Photo à Montréal, Canada, 2013.
 
 [^2]: Sherry Phillips, in conversation with Max Dean, AGO, 2015.
