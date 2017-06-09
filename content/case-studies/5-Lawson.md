@@ -37,9 +37,15 @@ Gabo used primitive techniques and reclaimed materials in the manufacture of *Ki
 
 ## Wen-Ying Tsai’s *Umbrella*
 
+[**Video 5.1 goes here**]
+
 Wen-Ying Tsai (1928–2013) began to make cybernetic sculpture in 1966. Each sculpture consists of a number of stainless-steel rods set on a platform, vibrating at a constant rate of 20Hz to 30Hz (cycles per second). These vibrating rods are lit by high-frequency strobes that capture their movement, allowing the viewer to see them as slowly undulating standing waves. The standing waves appear to immediately respond to a loud noise—the clap of a hand, or a loud voice—by quickening their motion ([**Alley 1981**](#bib)).
 
+{{< q-figure id="5.2" class="float-left" >}}
+
 Tsai’s *Umbrella* (1971) ([fig. 5.1](#5.1)) is composed of a round concrete base with a small, centrally mounted 230V Bodine motor. Attached to the mounting brackets, at the top of the motor, is a central “crown,” a disk of phenolic resin that supports a vertical stainless-steel rod ([fig. 5.2](#5.2)). At the top of this main rod is a smaller phenolic-resin disk from which thirteen thinner stainless-steel rods emanate, reflecting the armature of an umbrella. The ends of each of these rods have an additional “weight” of phenolic resin, which makes the rods bow slightly downward when motionless but balances them to move harmonically when operating. The motor ([fig. 5.3](#5.3)) has an eccentric, off-axis weight that, when spinning, causes harmonic standing vibrations to pass through the vertical stainless-steel rod to the weighted phenolic-resin tips at a frequency of 1,465 rpm (revolutions per minute). The continuous pulse rate of the strobe light is slightly slower, and the stroboscopic effect causes the vibration of the steel rods to appear to oscillate at a frequency of approximately 1Hz. A microphone provides feedback to the strobe unit, and noise such as speech or a hand clap can alter the pulse rate from its rest state of twenty-four pulses per second to around eighty-five, making the sculpture appear to speed up.
+
+{{< q-figure id="5.3" class="float-right" >}}
 
 When Tate acquired *Umbrella* in 1972, the conservation department gathered information to find ways to ensure the longevity of its display. In particular, the artist mentioned that the bulb for the strobe light unit had a life expectancy of three hundred hours, so we acquired addresses of suppliers. The work was briefly on view in 1972 and 1979, but it was removed from display on both occasions due to a mechanical fault and the breaking of a rod that forms part of the central crown.[^8] In 1979, the artist provided additional operating instructions. There was intermittent communication between Tate and the artist throughout the 1990s, which culminated in the first stage of treatment in 2003, the replication of the central crown.
 
@@ -48,6 +54,8 @@ The central crown’s broken rods meant that the work could not be displayed, an
 Subsequently, the work was put into storage until 2014, when it was reviewed with the hope that it could be placed on view in the new Tate Modern. The challenges of displaying the sculpture were revisited, and the review considered a range of options for the artwork’s components: the central crown, the strobe unit, and the audio control unit. Some parts had failed previously, and others are now considered obsolete, irreplaceable technology. To ensure that the public could fully enjoy *Umbrella* at the Tate Modern, we focused on operability, reliability, and longevity, with each component considered in detail and in relation to these criteria. The artist’s viewpoint is central to Tate’s decision-making process, and the process of ensuring that a kinetic sculpture is functional is complex and challenging. The role of the conservator is to understand where these challenges arise and engage in conversations to ensure a successful outcome ([**Lawson and Cane 2016**](#bib)).
 
 ## Collaboration
+
+{{< q-figure id="5.4" class="float-right" >}}
 
 Collaborating with the artist’s foundation and our various conservation teams (and considering our various working practices) was central to the delivery of *Umbrella* to the Tate Modern. Work with the Tsai Art and Science Foundation began in early 2016 with Ming-Yi Tsai, the artist’s son and a foundation board member, and later included other members of the foundation ([fig. 5.4](#5.4)). This was the first time Tate and the foundation had worked together, and it was important to establish a relationship based on trust and clear communication, with an understanding of Tate’s commitment to the care of the sculpture. The initial meeting included viewing the sculpture and discussing both the foundation’s and Tate conservation’s concerns. The emphasis was on ensuring the sculpture’s longevity and functionality balanced against the artist’s intent and conservation philosophy.
 

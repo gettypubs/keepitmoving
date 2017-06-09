@@ -23,6 +23,8 @@ The robotic arm and photograph installation *As Yet Untitled* (1992–95) was cr
 
 ## Overview of the Installation
 
+[**Video 6.1 goes here**]
+
 In *As Yet Untitled* ([fig. 6.1](#6.1)), found photographs are presented to the viewer by a robotic arm. The motion is relentless; the robot operates whether or not someone is present. The arm is programmed to pick up a photograph from the feeder on the right, present it to the viewers, and then wait a few seconds for a response before proceeding. Viewers can intervene by covering one or both of the hand silhouettes in front of them, and the robot will place the photo in an archive box on the left. Should viewers choose not to act (or if no one is present), the robot will place the photo in a shredder, and the shredded photo will be conveyed to a pile. The robot runs continuously when the gallery is open to the public.
 
 What do strangers—the viewers observing the robot’s presentation—choose to do with someone else’s memory embodied in the photograph: save it or shred it? *As Yet Untitled* explores technology and obsolescence, trust, power, connection, and the relationship of the viewer to the machine.
@@ -39,7 +41,10 @@ Stage two would begin when *As Yet Untitled* was returned to the AGO; that is, c
 
 Preparing the robot and installation components for loan was a logistical challenge. We were awash in unassembled and scattered components, too many for the conservation studio. We used empty gallery spaces, but we were displaced four times before our work was complete ([fig. 6.2](#6.2)).
 
+{{< q-figure id="6.2" >}}
+
 ### Photographs
+
 Originally the supply of found photographs was sourced through unclaimed stock at photographic developing shops, or through donations. Newly sourced photos for the loan to VOX, however, produced an unexpected complication: contemporary photo paper has a different texture than the photo paper commonly used in 1996, and the photo separator tabs on the front edge of the feeder could no longer reliably separate the photos. The shredder can manage up to three photographs without jamming but, ideally, only one photo at a time should be presented to the visitor. A colleague with experience working in mail rooms recalled that envelope sorters use brushes to separate mail. Using a band saw, we cut a new bristle brush into single rows and attached them to the delivery end of the photo feeder. This worked well. This solution was intended to be temporary, but Dean felt the change was in the spirit of the piece so the brushes remain in place.
 
 ### Photo Feeder
@@ -70,6 +75,8 @@ The robotic arm appeared to be sound mechanically and only required general main
 
 A chassis unit containing the controller, computer and monitor, and I/O (input/output) module slides under the robot stand and is accessed by the operator from behind the robot. The I/O module and circuits ([fig. 6.3](#6.3)) are connected to the controller, receiving or generating signals to the feeder, shredder, and robot arm. The computer manages the software program that contains the commands controlling the action of the robot.
 
+{{< q-figure id="6.3" >}}
+
 The 1980s-era Unimation Puma 550 robot was initially controlled by a closed, dedicated, terminal-based architecture similar in structure to a mainframe computer system. Its sequencing was programmed in Variable Assembly Language (VAL), a novel language in its time but now obsolete. Dean and his tinkerers had scripted the original operational program, that is, the choreography for *As Yet Untitled* in VAL. The controller houses the computer unit, power supplies, and servo amplifiers needed to power the robot’s joint motors. Over the years, while touring with Dean, the unit experienced several hardware failures, necessitating upgrades that removed the mainframe hardware and replaced it with laptop-based emulators, while still allowing the VAL script to be preserved.
 
 Ultimately, a hardware failure in the original controller meant that it was no longer suitable for use and needed to be replaced. The options were to replace the Unimation controller or to change the architecture to something more contemporary. While it was technically possible to get a refurbished or used replacement, it would not have been cost-effective, and the age of the hardware meant that there was significant risk that it would not be successful. Switching the controller architecture to a commercial off-the-shelf (COTS) design would be more cost-effective and increase the unit’s reliability and sustainability.
@@ -77,6 +84,10 @@ Ultimately, a hardware failure in the original controller meant that it was no l
 The new controller from Mark V Automation was hardwired to the existing robot interface, and it replaced the motor-power amplifiers with commercially available amplifiers based on open standards. All signals to and from the robot pass through the controller and perform real-time calculations that control the arm’s movements and positions. The operational program on the computer is transmitted to the robot through the controller.
 
 The controller’s software platform was based on Mark V Automation’s recommendation for use with their hardware. The computer runs MS-DOS, an extremely efficient operating system (OS) that allows for simplified, low-level device control. Even though MS-DOS is technically obsolete, its very lightweight system overhead still makes it favorable for embedded systems control. The Puma control software is written in the C programming language, using open standards and reusable device drivers and components. This selection in programming techniques ensures that the source code will be part of the piece and archived. If there is future need to revise the software, it should pose no challenges.
+
+{{< q-figure id="6.4" >}}
+
+{{< q-figure id="6.5" class="float-right">}}
 
 The purchase of the new controller, a cost-effective means of updating and refurbishing the artwork, is within Dean’s COTS concept. There should be no artist’s quirks in the build or program. Reentering the code in contemporary programming language with new components also aligns with the artist’s design/build strategy; the operational part of *As Yet Untitled* is off-the-shelf, not a custom build with personalized circuit boards and mechanical components that need to be preserved.
 
@@ -111,6 +122,8 @@ Some changes to the installation were necessary for health and safety. Working t
 Stanchions and cord to indicate a perimeter barrier are original to the piece. These will be maintained, but we are now in conversation about options for adding an industrial-type perimeter safety feature, such as a light curtain and intrusion-detection technology. It is important to remember that the robot cannot sense that someone is in the way; it could do serious harm. Insurance, risk tolerance, and inspection by external safety authorities are real considerations.
 
 We maintained programmed responses to unexpected variables, like a jammed shredder or no photo pick-up. This seems like improvisation and contributes to the tendency of visitors to anthropomorphize the robot, to believe the robot is thinking and responding. Now, however, error prompts are coupled with instructions for the operator in accessible language on the monitor at the back of the work, and supported by instructions in the operational manual ([fig. 6.6](#6.6)). The robot also has its own Gmail and Dropbox accounts so that software updates and troubleshooting can be performed remotely if required.
+
+{{< q-figure id="6.6" >}}
 
 ## Future
 

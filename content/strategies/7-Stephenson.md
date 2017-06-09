@@ -47,15 +47,23 @@ Takis is well known in much of Europe, having lived and worked most of his life 
 
 In 2012 Melissa Warak, a curatorial fellow at the Menil Collection, included Takis in her research on the relationship between art and music. Her study prompted the conservation department to take a closer look at Menil’s holdings of Takis’s work, most of which, unfortunately, had not been exhibited since the museum opened in 1985. The initial assessment resulted in two conclusions. First, an updated survey was recommended to pinpoint any serious condition issues and prepare for the possibility of treating the work. Second, it became clear that more information was required regarding the proper installation and function of several of the pieces. Two works became the focus of the project: *Magnetic Tableau No. 7*, from the Magnetic Tableaux series, and *Ballet Magnetique*, from the eponymous series.
 
+{{< q-figure id="7.1" >}}
+
 *Magnetic Tableau No. 7* was last displayed at the Menil Collection in a 1995 exhibition entitled *Defining Space* ([fig. 7.1](#7.1)). The photograph shows the work installed near one of his Signals. The suspended elements are held at a sharp, upward angle by tethers that were most likely attached to tracks in the high hallway ceiling. A faint copy of an installation diagram, which appeared to be the basis for the 1995 installation, was found in the exhibition files. Unfortunately, there was no way to determine if it was interpreted correctly, and the source of the diagram was unknown. It is labeled, but the numbers and signature are unclear. Research into past exhibitions of similar works in the Magnetic Tableaux series installed at other institutions provided few additional details. The most informative images showed the wires attached to a scaffolding structure across from the painting, which was in direct contrast to the single image from the Menil files.
 
 Even less was known about the installation of *Ballet Magnetique* because no previous installation or exhibition information was on file. Menil archivists were able to find a single press image of *Ballet Magnetique* installed in an exhibition entitled *For Children* at Houston’s Rice University Art Gallery in 1971 ([fig. 7.2](#7.2)). To date it is the only known image of the one time the work was shown.
 
+{{< q-figure id="7.2" >}}
+
 The two works also had condition issues. *Magnetic Tableau No. 7* had metallic debris, abrasions, and discolored overpaint around the magnet that drew focus away from the space between the magnet and suspended elements. In addition, the magnet had shifted from a parallel line to a slightly diagonal position. There were abrasions and metallic transfer on the back of the canvas where the magnet used to sit, and an image on file from 1962 showed the magnet in a parallel orientation ([fig. 7.3](#7.3)). *Ballet Magnetique*’s surfaces were abraded and spotted with superficial corrosion, the wires were frayed, and the plug was missing from the power supply cord ([fig. 7.4](#7.4)). Temporary replacement of the plug and testing of the work produced sparks and smoke, and overheated the selenium rectifier. The work could not be operated long enough to determine if the electromagnet itself still worked.
+
+{{< q-figure id="7.3" >}}
 
 ## Artist Interview
 
 At that point a chance encounter took the project in an interesting direction. Dr. Maria Kokkori, science fellow from the Art Institute of Chicago, visited the conservation labs and heard about the project. She had been acquainted with Takis since childhood, when her father and the artist ran in the same political and social circles in Greece. This presented a potential opportunity to begin a dialogue with a living artist. Dr. Kokkori offered to assist the conservation department by contacting Takis to request an interview. At his advanced age, the artist rarely travels outside Greece, and it was not feasible to conduct an interview remotely. Eventually Takis consented to a meeting in Greece, and Dr. Kokkori graciously agreed to assist as an interpreter.
+
+{{< q-figure id="7.5" class="float-right" >}}
 
 A list of questions from curatorial and conservation points of view was prepared for the interview and Dr. Kokkori translated them into Greek. The questions were sent in advance of the interview to Takis and Giorgos Nakoudis, the director of the artist’s research center and the primary liaison between the Menil and Takis. Three of the questions pertaining to conservation and exhibition of the works were most relevant to this project. The first asked about his thought processes and methodology behind his materials, fabrication techniques, and installation methods. The second asked for installation details such as spatial relationships between suspended elements and the placement and angles in relation to the viewer. The third asked about aesthetics in his work and his feelings regarding those visual qualities.
 
@@ -67,9 +75,13 @@ Shortly after the initial interview with Takis, the project began to generate se
 
 With an exhibition imminent, conservation treatment and installation details moved forward, with the majority of the project focused on *Magnetic Tableau No. 7* and *Ballet Magnetique*.
 
+[**Video 7.6 goes here**]
+
 ## Conservation
 
 The treatment of *Magnetic Tableau No. 7* was conservative, to return focus to the space between the magnet and hanging elements without undermining Takis’s opinion regarding aesthetics. First, the magnet was returned to its original parallel position through incremental movements that were followed by localized humidifying action and drying to allow the canvas to adapt to each shift. Layers of foam, blotter, and cotton provided support to the area, and strategically placed twill tape exerted gentle and even pressure. When the magnet was in the correct orientation, two basswood blocks were secured to the cross brace under each side of the magnet to prevent future movement ([fig. 7.7](#7.7)).
+
+{{< q-figure id="7.7">}}
 
 The rest of the treatment minimized the distracting issues on the front of the canvas. Metallic debris was removed from the surface with the aid of a microscope. Removal of the overpaint risked causing further damage to the original materials, so the discolorations were retouched with ground pastels mixed into dilute methylcellulose, additional dry pastels, and colored pencil.
 
@@ -77,15 +89,23 @@ The kinetic nature of *Ballet Magnetique* required a more complex and invasive t
 
 Treatment of the work focused on restoring its function, and the abrasions and superficial spots of corrosion were left untreated to respect Takis’s aesthetic detachment. A new circuit-board-format bridge rectifier and heat sink were wired into position and connected to the long pins with crimp connectors. The new configuration was secured with a short screw, using an existing hole in the underside of the base. The original selenium rectifier was retained, although it was removed for the duration of the exhibition. All wire connections were reestablished with twist-on connectors to avoid soldering. Several frayed wires were replaced for safety reasons, but the originals were retained. At that point the electromagnet was turned on for testing, and the springs and bend of the relay coupon were adjusted to get maximum contact when closed and maximum spread when open. Finally, the power cord was replaced by splicing the lead inside the wooden box and adding an electrical-tape stop just inside the inner wall. A thumbwheel actuator was added for ease of operation during exhibition, but once again the original cord was retained ([fig. 7.8](#7.8)).
 
+[**Video 7.8 goes here**]
+
 ## Exhibition Planning for *Takis: The Fourth Dimension*
 
 Takis sent a diagram with detailed instructions for the installation of *Ballet Magnetique*. Unfortunately, testing of the installation setup revealed two complications: the tethers often became tangled and significantly impaired the movement of the suspended elements; and the elements collided frequently and with enough force to cause concern about their long-term preservation.
+
+{{< q-figure id="7.9">}}
 
 Takis was consulted for assistance in troubleshooting the problems. A compromise was reached to improve the movement of the elements by adding an additional inch between them and the magnet. In addition, the conservation department received permission to create exhibition copies of the two elements.
 
 The original elements appeared to be painted fishing bobbins made from now-solid cork with cylindrical magnets inserted into the center. A copy of the round form was made by facing the cork core of a softball with thin cork sheeting until it reached the correct diameter, and then it was spray-painted matte black. A copy of the biconical form was made from two corks adhered on-end and painted with white acrylic. Both pieces were given hanging hardware and a magnet of appropriate strength, and weighted with lead shot to be the same weight as their respective originals. The copies (left) can be compared to the originals (right) ([fig. 7.9](#7.9)). The final exhibition copy of *Ballet Magnetique* stayed true to the artist’s intention without compromising the most fragile original materials ([fig. 7.10](#7.10)).
 
+[**Video 7.10 goes here**]
+
 For the installation of *Magnetic Tableau No. 7*, Takis sent several images that included a copy of the same installation diagram the Menil had on file, confirming that the original information came from the artist. However, he also sent images of scaffolding that was similar to the scaffolding seen in images uncovered during the research phase of the project. The time, funds, and space required for scaffolding were not practical for the Menil so an alternative was presented to Takis. At some point during the project, a friend of Melissa Warak had visited Paris and photographed a Magnetic Tableau installed at the Centre Pompidou. There appeared to be a partial wall hanging from the ceiling opposite the painting from which the elements could be suspended. Takis granted the Menil permission to create a simplified version of that design using thin metal rods. This allowed successful viewing of the piece while maintaining the correct angles in the work and respecting its focus ([fig. 7.11](#7.11)).
+
+{{< q-figure id="7.11">}}
 
 ## Conclusion
 
