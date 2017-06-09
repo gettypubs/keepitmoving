@@ -12,6 +12,8 @@ abstract: |
 weight: 402
 ---
 
+{{< q-figure id="13.1" >}}
+
 In 1966, Julio Le Parc represented Argentina in the Venice Biennale ([fig. 13.1](#13.1)) and received the international grand prize in painting. According to the reviews, his space was one of the most visited.[^2] As the appeal of kinetic art continued to grow and draw crowds to museums, it seemed to meet the most ambitious objective of the avant-garde: to integrate art and life.
 
 Kineticism was an international trend composed of different groups of artists that were in contact with one another, including the Groupe de Recherche d’Art Visuel (GRAV) in France, Gruppo T and Gruppo N in Italy, ZERO in Germany, Dwizjenije in Moscow, and USCO in New York. In 1964, the *Nouvelle tendance* exhibition at Paris Musée des Arts Décoratifs had gathered about fifty artists from eleven countries.[^3] In Pascal Rousseau’s words, kinetic art was viewed “as a kind of Esperanto through which each individual would communicate with the world in the ecstatic intoxication of optical vibration” ([**Rousseau 2005**](#bib):142).
@@ -20,9 +22,15 @@ A cognitive understanding of perception allowed the kineticists to claim that th
 
 Unlike central vision, which privileges the recognition of objects, peripheral vision takes in the surroundings and facilitates spatial orientation. Using it under extreme conditions of perceptual instability means attacking the viewer’s sensation of his or her position in space. For example, Le Parc’s eyeglasses altered vision through fragmentation, kaleidoscopic effects, and inversions of image.[^5] Some of these artistic objects were made in series: the idea of kinetic multiples was at the core of these artists’ strategies of “demystifying” art objects by avoiding the uniqueness fetish. A potential future that included the industrial production of kinetic multiples made it possible to imagine the extension of those destabilizing effects to a wider or unusual audience, such as Catholic priests ([fig. 13.2](#13.2)).
 
+{{< q-figure id="13.2" >}}
+
 In this paper, I analyze the kinetic multiple as a visual production that discovered its limits and contradictions amid the arguments about culture, standardization, and consumption around 1968. Although, as we shall see, kinetic multiples never achieved industrial production, within the context of the rise in the cultural market in Paris in the 1960s, kinetic artists (and some critics, such as Jean Clay) nonetheless felt that it could happen at any time. Focusing specifically on multiples—a crucial aspect of kinetic art production and circulation in the 1960s that art history has not previously problematized—may allow us to explore whether this industrial vocation could inform approaches to its conservation and restoration. Collaborative work between conservators and art historians on kinetic art materiality could approach a pivotal question: Did the edition of multiples contribute to standardized models, components, and solutions? Although I do not provide an answer in the text that follows, I invite you to consider that we may have arrived at the point of being able to formulate new discussions.
 
+{{< q-figure id="13.3" class="float-left" >}}
+
 Le Parc’s space in Venice ([fig. 13.3](#13.3)) gathered around forty pieces,[^6] an anthology of the research done in the context of GRAV.[^7] The works were so appealing to the public that, through overuse, many of the mechanisms broke down only weeks after the Biennale’s opening. Le Parc, trying to solve this problem, was told by a friend that Luigi Scarpa (who was responsible for the international section of the Biennale) had said that Le Parc’s artworks were among the public’s favorites because they could be handled, and it would be a pity if the works remained nonfunctional through the rest of the show. However, because the space was open to visitors ten hours a day, it was a difficult problem logistically. Scarpa also asked if Le Parc wanted to have a Venetian put in charge of his exhibition.[^8]
+
+{{< q-figure id="13.4" class="float-left" >}}
 
 It is likely that more people visited Le Parc’s space after he won the international painting prize, but it was not unusual for his shows to be very well attended. GRAV’s 1964 exhibition in Buenos Aires had attracted fifty thousand visitors ([fig. 13.4](#13.4)).[^9] Two 1967 exhibitions—*Lumière et mouvement* at the Musée d’Art Moderne de la Ville de Paris, and Le Parc’s retrospective at the Instituto Torcuato di Tella’s Center for the Visual Arts in Buenos Aires—attracted unprecedented crowds. More than one hundred and fifty thousand people viewed the retrospective over twenty days.[^10] The formal and material qualities of kinetic multiples also gave them wide appeal. Crowds were attracted to kinetic art exhibitions by the possibility of transforming an artwork’s shape (that is, volumetry), and by the use of novel materials, including bright, translucent or reflective surfaces such as Plexiglas and stainless steel.
 
@@ -30,10 +38,13 @@ After he won the prize, Le Parc took advantage of the subsequent interviews to s
 
 > We should tend to the collective multiple, the playroom, the public demonstration, in which every group of spectators will be simultaneously involved and each of them become actor and object of the show at the same time. These labyrinths, these playrooms, have to be set up in military barracks, and HLMs.[^11] It is necessary to overcome the solitude of the crowds and, in a way, rediscover the conditions of participation typical of primitive societies.[^12]
 
-The multiple as it was conceived by kinetic artists in the mid-1960s converged with the conventions of engravings, in that both involved the artistic production of series rather than unique pieces. But unlike engravings, the identical and reproducible kinetic artifacts were pervaded by the tensions between their industrial vocation and their effective insertion in the exclusivist logic of the art market ([figs. 13.5a](#13.5a), [13.5b](#13.5b), [13.6](#13.6)): series of kinetic objects were not numbered, as print series were, because the artists did not want to control the number of works in a series (and therefore the price in the art market). They desired an industrial manufacture that, although it seemed probable
-in the mid-1960s, never took place.
+The multiple as it was conceived by kinetic artists in the mid-1960s converged with the conventions of engravings, in that both involved the artistic production of series rather than unique pieces. But unlike engravings, the identical and reproducible kinetic artifacts were pervaded by the tensions between their industrial vocation and their effective insertion in the exclusivist logic of the art market ([figs. 13.5](#13.5), [13.6](#13.6)): series of kinetic objects were not numbered, as print series were, because the artists did not want to control the number of works in a series (and therefore the price in the art market). They desired an industrial manufacture that, although it seemed probable in the mid-1960s, never took place.
+
+{{< q-figure id="13.5" >}}
 
 There are precedents of multiples before GRAV; for example, Victor Vasarely and Daniel Spoerri had explored the serial production of artistic objects.[^13] In fact, in 1959 Spoerri had tried, to no avail, to acquaint the Galerie Denise René with his Edition MAT (Multiplication d’Art Transformable). For these editions, he had called on artists connected to her gallery: Yaacov Agam, Pol Bury, Jesús Rafael Soto, Jean Tinguely, and Vasarely, as well as German artists Heinz Mack and Dieter Roth. But René’s strategy was based on the artists’ proven recognition before their multiples were placed on the market. The artists recommended by Spoerri were young and not yet established, and René did not pursue his initiative. Thus, it was only around the mid-1960s that the conditions to launch this form of art seemed more suitable.
+
+{{< q-figure id="13.6" >}}
 
 Le Parc’s triumph in Venice provided the exposure and recognition necessary to place multiples in an art market already crammed with all kinds of artworks and reproductions and, in July 1966, Denise René opened a second gallery in the Rive Gauche of Paris specifically for multiples. The first exhibition focused on Vasarely; the second exhibition, *Multiples recherches*, opened in October and featured Le Parc.
 
@@ -47,8 +58,9 @@ Prices and options varied. The Galerie Givaudan opened in 1965 and specialized i
 
 René opted to have the production of the works supervised by their respective creators. Unlike Le Parc and GRAV members, she disagreed with unlimited editions. In her view, after a hundred copies had been made, the others would be produced unsupervised by the artist, a fact that detracted from their quality. She was also against the “demystification of art,” so much discussed by GRAV members, because she felt it meant equating an art object to a mere consumer item. She maintained that “art must keep its aura and continue to be a high quality product that bears witness to a way of thinking about the world.”[^19] Charging more accessible prices, René intended to spread modern art among social sectors whose purchasing power prevented them from buying unique works. It was about democratizing access to ownership of art objects . . . and increasing sales.
 
-As Hahn pointed out, opinions about the multiple varied. Blurring the work’s aura and the boundaries of the traditional art market by producing serial art pieces that did not meet the requirements of “uniqueness” or manual “touch” did not necessarily coincide with the notion of turning the word *multiple* into a trademark ([figs. 13.7](#13.7), [13.8](#13.8)). Amid the confusion, a manifesto signed by Le Parc declared that multiples were developments related to geometric abstraction, and he specified their characteristics in terms of authorship and possibilities
-of reproduction:
+{{< q-figure-group id="13.7, 13.8" grid="2" >}}
+
+As Hahn pointed out, opinions about the multiple varied. Blurring the work’s aura and the boundaries of the traditional art market by producing serial art pieces that did not meet the requirements of “uniqueness” or manual “touch” did not necessarily coincide with the notion of turning the word *multiple* into a trademark ([figs. 13.7](#13.7), [13.8](#13.8)). Amid the confusion, a manifesto signed by Le Parc declared that multiples were developments related to geometric abstraction, and he specified their characteristics in terms of authorship and possibilities of reproduction:
 
 > Multiples have come into being thanks to the quests undertaken by geometric, optical, and kinetic art, that have never ceased to emphasize that the intervention of the hand, the gesture, and the touch are definitely of secondary importance in an art proposal \[ . . . \]
 
@@ -62,7 +74,7 @@ of reproduction:
 
 5.  As part of its lack of limitations, the Multiple, which underscores the triumph of the artist’s thought above the dated, fetishist conception of the art piece, excludes the author’s signature \[ . . . \]
 
-    The Multiple is located at the junction of artistic creation and industrial production. It protects the whole of the former as it offers the possibilities of the latter. This is one of the meeting points between art and the technology of our days.[^20]
+> The Multiple is located at the junction of artistic creation and industrial production. It protects the whole of the former as it offers the possibilities of the latter. This is one of the meeting points between art and the technology of our days.[^20]
 
 René had made reproductions, screenprints, and tapestries, but the manufacture of multiples brought new problems related to the distribution system and to the status of the artwork. From Le Parc’s point of view (and judging his complicated relationship with René), his own *marchand* was among the many who had distorted the profound, critical meaning of the multiple. At times, René was the enemy or, quite simply, the boss.
 

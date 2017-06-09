@@ -27,6 +27,8 @@ Former Stedelijk director Willem Sandberg and former curator Ad Petersen befrien
 
 In 1962, *Dylaby* shook the museum world. Tinguely was the project leader of and a participant in this legendary and controversial exhibition, which also showed works by Spoerri, Niki de Saint Phalle, Per Olov Ultvedt, Martial Raysse, and Robert Rauschenberg. The artists built the exhibition from scratch using all kinds of materials, mostly “found,” and the public had to move its way through rooms designed by the artists, wandering between the objects and experiencing art in a completely different, nontraditional way. After the exhibition closed, almost all of it was literally thrown away as it was intended to be an ephemeral show. One of the few remaining artworks is Tinguely’s *Radio Dylaby* (1962), making it an object of special interest. It was purchased immediately after the exhibition, and Petersen’s archives include pictures of Tinguely working on *Radio Dylaby* in the basement of the museum ([fig. 11.1](#11.1)).
 
+{{< q-figure id="11.1" >}}
+
 *Gismo* (1960) is also of special interest because it was part of “Le Transport” in 1960, in which Tinguely drove his artworks through the streets of Paris (quartier Montparnasse) to the exhibition *L’art fonctionnel* in Galerie des Quatre Saisons ([**Schavemaker, Til, and Wismer 2016**](#bib):60).
 
 ## The Tinguely Conservation Project
@@ -49,6 +51,8 @@ Phase II involves the treatment of the works. The aim is to bring them to a stab
 
 The presentation of the artworks is also receiving special attention, including the possibility of showing them in an operational state or evoking this by other means (for instance, on video). All artworks in the project are documented photographically, on video, and/or on sound recordings. Phase II is still underway as of the writing of this paper.
 
+{{< q-figure id="11.2" >}}
+
 ## Dilemmas and Issues Arising in the Tinguely Conservation Project
 
 Tinguely’s artworks present complex conservation issues due to their construction and materials, as well as the original intention to show them in movement. If a work is too fragile to function any longer (thus removing “movement” from the artwork’s possibilities), we ask ourselves whether it is still truly a “Tinguely.” What are we preserving? And how can we show the public the artwork in its present state and still convey the original expressiveness? If we want to stay or come as close to the intention of the artist and the original appearance as possible, movement is an important part of these kinetic artworks and should, ideally, be present.
@@ -61,11 +65,16 @@ An additional challenge to conserving these objects is that most of the issues r
 
 Wear and tear can be caused or accelerated by factors such as corrosion, material degradation, or external forces. Motion, however, is a great catalyst: any artwork shown in movement is subject to extra wear and tear. The intensity of wear is different for each work in this project; sometimes it was limited, but on other occasions the movement is so violent that the artwork is self-damaging. If wear and tear are inevitable, can it be reduced to a degree that is acceptable for preservation? And can that be done in such a way that it is in proportion to its original appearance and the artist’s intention? One effective and widely used option to reduce wear and tear is to impose time limits on an artwork’s operation ([**Bek 2013**](#bib):203). Even though all Tinguely’s artworks in the Stedelijk collection *can* move, they cannot responsibly be made *to* move all the time while on display, or even infrequently.
 
+{{< q-figure id="11.3" >}}
+{{< q-figure id="11.4" class="float-right" >}}
+
 If an artwork can no longer be operated while on display, it can become a sort of “relic” to the public. One example in the Stedelijk collection is *Elément détaché III* (1954). When the work is in motion, the wires of the wheels can hook together. The motor keeps turning, however, and damage is very likely to occur, necessitating intensive and repetitive treatment. *Elément détachés* in other collections are also nonoperational,[^3] which helped to accept the fact that, due to its construction, this work is too fragile to be set in motion. Another supporting factor for this decision is that the artwork itself is relatively easy for the public to understand even without motion. It can be displayed with an accompanying video illustrating the movement to show the public the intention of the work ([fig. 11.3](#11.3)).
 
 Another method for reducing wear, in addition to limited operation and non-operation, is to apply reversible protection, which was used with the traffic sign hanging on *Baluba bleu* (1962). The painted iron sign moves up and down when *Baluba* *bleu* is in action, and the non-original iron ring had damaged the sign component on which it is suspended. (This sign component had also stretched and been repaired in the past.) An iron insert now protects the opening on the traffic sign against further wear and stretching.
 
 The non-original ring was replaced with iron wire resembling Tinguely’s original attachment ([figs. 11.4](#11.4), [11.5a](#11.5a), [11.5b](#11.5b)). The wire breaks fairly easy but is strong enough to hold the traffic sign during motion. This way, the wire wears and breaks before damage to the artwork occurs, and the original parts experience less wear. This principle was also applied to other works in the Tinguely collection.
+
+{{< q-figure-group id="11.5a, 11.5b" grid="2" >}}
 
 ### Black Paint
 
@@ -78,6 +87,9 @@ Due to wear and tear or degradation, this paint is not always in an optimal cond
 Alterations and additions were made to the artworks in the past, primarily to keep them operational. One recurrent issue was how to deal with those changes, especially if they are still functioning. Would replacing these additions or alterations be intrusive?
 
 The approach depends on the type of alteration. Some of them were approved by Tinguely, and were done under his supervision or by him. It is uncertain whether other additions or alterations were performed with Tinguely’s approval. It is very likely that Tinguely did not object to some alterations, such as the replacement of drive belts.[^4] If no alternative treatment is available, we can consider replacing these parts, and documenting and storing the original material for future reference ([**Bek 2013**](#bib):204).
+
+{{< q-figure id="11.6a" class="float-left" >}}
+{{< q-figure id="11.6b" class="float-left" >}}
 
 Some additions and alterations were neither approved (but not necessarily rejected!) nor performed by Tinguely; however, these clearly had been made to let the works move. These alterations can be acceptable to keep and maintain if, as a result, the work remains safely operational and its appearance is not unduly compromised. Changes made without Tinguely’s consent that compromise either safety or appearance should be considered for removal.[^5] For instance, between 1963 and 1973 the centerpiece of *Méta-Matic No. 10* (1959) was replaced, but the reason for this was not documented. The original centerpiece is visible in photos made around 1963, but films dated around 1972/73 show that, by then, the centerpiece had been replaced. The centerpiece still functions, although the appearance of the artwork has been altered ([figs. 11.6a](#11.6a), [11.6b](#11.6b)).
 

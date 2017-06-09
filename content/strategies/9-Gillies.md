@@ -31,17 +31,25 @@ The demands of frequent exhibition have necessitated a practical approach and a 
 
 ## Gregorio Vardanega
 
+[**Video 9.1 goes here**]
+
 Gregorio Vardanega’s *Espaces chromatiques carrées en spirale* *(Chromatic Spaces Turning in a Spiral)* (1968) ([fig. 9.1](#9.1)) had been shown at the museum twice before accessioning. When conservators first examined it in 2012, forty-nine of its sixty-three bulbs did not work.
 
 Offset white-square panels, receding in size to the back of the artwork, have colored lights at each corner that produce the effect of a spiral. Behind each panel are groups of three small bulbs with blue and red plastic sleeves that create blue, red, and white light. The motor-driven analog sequencing system located inside the back panel works well, but the cylinder of hand-carved white plastic disks that turn the switches on and off ([fig. 9.2](#9.2)) will eventually deteriorate. Before that begins, this system should be documented, perhaps by 3-D scanning of the cylinder.
+
+{{< q-figure id="9.2" >}}
 
 The E5850 Orbitec 15W 230V E10 bulbs are no longer available with exactly the same glass shape, but a very similar type was found through Don Schnapp,[^1] a specialty dealer with access to European dead-stock bulbs. All sixty-three bulbs were replaced to ensure a uniform appearance and a consistent electrical load, and to preserve the remaining fourteen functional original bulbs for future reference.
 
 *Couleurs sonores* (Sound Colors) (1963–79) ([fig. 9.3](#9.3)), Vardanega’s design for a futuristic city of skyscrapers, was accessioned in 2013, but, at 4.6m high, it was too tall for the intended gallery and unfortunately could not be included in *Cosmic Dialogues*. The work had been permanently installed in the artist’s studio and was donated to MFAH by his estate.
 
+[**Video 9.3 goes here**]
+
 Plastic sleeves over clear bulbs create the colored lights, as in *Chromatic Spaces*, and the sequence is similarly controlled by a music box–like drum hitting a row of switches. These simple mechanical devices often resist obsolescence better than colored bulbs or modern, software-based programming, and the mechanisms were again found to be in very good working order. However, some of the plastic sockets for the bayonet-base bulbs have become brittle with age and light exposure, and three socket cups broke under the pressure of inserting the bulbs. Repairs done with epoxy reinforced with polyester mesh had a tendency to fail, and replacement of all these sockets with a brass version may have to be considered before display. All the bulbs currently work, but more have been purchased for the future.
 
 ## Martha Boto
+
+{{< q-figure id="9.4" class="float-right">}}
 
 The initial examination of Martha Boto’s *Déplacements optiques (Optical Displacements)* (1967–69) ([fig. 9.4](#9.4)) prior to exhibition found that two bulbs were dead. Luckily, Boto and her partner Vardanega seem to have shared materials: the bulbs were of the same type he had used in *Chromatic Spaces* and were therefore on hand in the conservation lab.
 
@@ -57,7 +65,13 @@ MFAH has two Julio Le Parc sculptures, one from 1960–66 and another from 1968,
 
 ## Horacio García Rossi
 
+[**Video 9.3 goes here**]
+
+{{< q-figure id="9.6" class="float-right">}}
+
 Horacio García Rossi’s *Structure à lumiere instable no. 29 (Unstable Light Structure No. 29)* (1966) ([fig. 9.5](#9.5)) had been shown in a previous exhibition just after acquisition, but the lights had since stopped working. There are ninety acrylic rods of different thickness and length on the exterior. Two lights on the inside of the front panel ([fig. 9.6](#9.6)) project light onto the back of the box, on which a wooden disk with a forest of shiny metal squares ([fig. 9.7](#9.7)) is mounted, turned by a motor. As the disk turns, the metal squares shift position on their wires, casting light randomly through the acrylic rods.
+
+{{< q-figure id="9.7" class="float-right">}}
 
 The light fixtures were reused parts from electric-eye systems, one of which still had its label: “Berkeley Dynamic, Burlingame, California, 1981.” Before purchase by MFAH, this work had only one owner, California sculptor Benbow Bullock, so the Berkeley Dynamic fixture must have been installed by Bullock. Four severely charred holes on the inner acrylic layer behind the front panel do not correspond in location to these fixtures, indicating that the original configuration was considerably different.
 
@@ -67,19 +81,29 @@ Shortly before installation, we finally succeeded in contacting García Rossi’
 
 After *Structure à lumiere instable no. 29* was deinstalled, we used Marcos’s sketch as a reference for treatment. The replacement LED bulbs[^3] greatly reduced the amount of heat generated, so we eliminated the asbestos lining and substitute four-ply mat board for the original wood (for convenience) ([fig. 9.8](#9.8)). The visual result when the object was turned on was somewhat brighter and livelier, with the flickering fully restored (see [fig. 9.5](#9.5)).
 
+{{< q-figure id="9.8" >}}
+
 ## Abraham Palatnik
 
 In Brazil, Abraham Palatnik, an artist and engineer of Russian descent, abandoned traditional painting after seeing artwork made by schizophrenics, which he felt surpassed his own efforts despite their lack of formal training ([**Osorio 2004**](#bib):97). Seeking to connect more directly to the subconscious, he made his first kinetic work in 1949, in which colored lights are diffused through a plastic screen and shaded by moving cardboard shapes. The museum owns a 1962 version, *Aparelho cinecromático (Chromo-kinetic set)* ([fig. 9.9](#9.9)).
 
+[**Video 9.9 goes here**]
+
 Twenty-five colored and clear frosted bulbs inside *Aparelho cinecromático* turn on and off in a programmed sequence, while black cardboard shades move in front of the bulbs, casting shadows and obscuring lights ([fig. 9.10](#9.10)). Some of the bulbs no longer functioned, and when Palatnik visited the museum before this work was shown in the 2007 exhibition *Dimensions of Constructive Art in Brazil: The Adolpho Leirner Collection*, and we discussed the problem of bulb replacement, because the bulbs were no longer made in the same color tones. We decided to replace the nonfunctioning bulbs with locally sourced colored bulbs for the exhibition, but the new bulbs produced noticeably less saturated colors. Some of the old bulbs are almost certainly replacements, but there is no documentation of the original color configuration, so the condition of the object upon accessioning is being used as the benchmark. Palatnik himself was unconcerned about the exact color of the bulbs or the replacement of any parts. During the 2015 treatment, we colored replacement bulbs with glass paints[^4] using an airbrush to mimic the saturation of the older ones. The surviving old bulbs were removed for future reference.
+
+{{< q-figure id="9.10" class="float-left">}}
 
 Since then, we have explored Philips’s Hue system[^5] as a possible alternative to the painted bulbs. According to the manufacturer, these wireless-connected LED lights can create sixteen million different colors. Testing has shown that this is not yet the case: none of the color matches was as good as the painted replacements in value, hue, or saturation. Also, the Hue bulbs created a white center to the cast light that the old bulbs did not. Such “smart” bulbs will probably be useful to conservators in the future, however, as technology improves.
 
 Other issues that have arisen include the wearing away of the copper comb, a critical element that makes the electrical connection from the power source to the various wires for the bulbs ([fig. 9.11](#9.11)). When the comb does not meet the circuit board, some bulbs do not light as they should and sparks occur as the current jumps that short distance. In 2014 the comb had worn away to such an extent that it was necessary to replace it with a replica cut from copper sheet. The replacement comb became noticeably worn during the 2015 exhibition, which suggests it will have to be remade quite frequently. The copper elements on the circuit board are also wearing away, and this will need to be addressed in the future.
 
+{{< q-figure id="9.11" class="float-left">}}
+
 The motor, which moves both the cardboard paddles and the copper comb, is the other main problem. By 2009 the original 2-rpm SAPMI Type 392 motor had stopped working and needed to be replaced urgently for a loan. We could not find a 110V 2-rpm motor of suitable size in time, so we substituted a 24V 1-rpm motor plus transformer, intending to find a more appropriate motor in the future. The half-speed replacement motor also ran in the opposite direction to the original motor, requiring the removal of two gears that Palatnik had used to reverse the direction of movement. The resulting output is therefore at the correct speed and in the correct direction, but the means of achieving it is different. The alteration in the location of the circuit board caused by the subtraction of the two gears might be considered ethically problematic, as a change to the artist’s original design for the mechanism. However, it eliminated a true weak link in the design, reducing the likelihood of future breakdowns that might damage other parts of the object, and it produced a functional object from a nonfunctional relic. During the 2014 treatment, the 1-rpm motor was replaced with a 2-rpm alternative,[^6] restoring the object’s original speed while maintaining the newly simplified version of the drive shaft.
 
 ## Gyula Kosice
+
+{{< q-figure id="9.12" >}}
 
 The work of Slovakia-born Argentinian artist Gyula Kosice is similarly science-focused, with a particular emphasis on space travel—in 1944 he declared that “Man is not to end his days on Earth” ([**Kosice 1944**](#bib)) and commenced a decades-long project imagining hydraulics-powered living environments for humans in space. Kosice’s iconic installation *La ciudad hidroespacial* (*The* *Hydrospatial City)* (1946–72) ([fig. 9.12](#9.12)) is kinetic only in the sense that the hanging “habitats” move slightly with the air currents in the room. However, we have had to replace many elements on the wall-mounted *Constelaciones no. 1–6 (Constellations no. 1–6)*, molded acrylic light boxes back-lit with fluorescent tubes. The sockets and ballasts are reaching the end of their lives, and currently available components are slightly different in shape, making replacement far from straightforward. Late in life, the artist replaced the lights on his older works with LED strips when they developed problems. At what point should MFAH abandon the troublesome fluorescents and follow suit? The quality of the light would undoubtedly change, eliminating the characteristic flickering of fluorescents.
 
