@@ -181,21 +181,21 @@ figure_list:
   - id: "3.3"
     src: fig-3-3-gilberg.jpg
     caption: >
-      One of *Metropolis II*’s conveyor belts.
+      One of <em>Metropolis II</em>’s conveyor belts.
     credit: >
       © Chris Burden Estate, Courtesy of the Nicolas Berggruen Charitable Foundation. Photo: Mark Gilberg and Alison Walker.
 
   - id: "3.4"
     src: fig-3-4-gilberg.jpg
     caption: >
-      *Metropolis II*’s train sets and trolleys.
+      <em>Metropolis II</em>’s train sets and trolleys.
     credit: >
       © Chris Burden Estate, Courtesy of the Nicolas Berggruen Charitable Foundation. Photo: Mark Gilberg and Alison Walker.
 
   - id: "3.5"
     src: fig-3-5-gilberg.jpg
     caption: >
-      Examples of *Metropolis II*’s architecture.
+      Examples of <em>Metropolis II</em>’s architecture.
     credit: >
       © Chris Burden Estate, Courtesy of the Nicolas Berggruen Charitable Foundation. Photo: Mark Gilberg and Alison Walker.
 
@@ -342,7 +342,7 @@ figure_list:
   - id: "6.3"
     src: fig-6-3-phillips.jpg
     caption: >
-      Assessing *As Yet Untitled*’s I/O board.
+      Assessing <em>As Yet Untitled</em>’s I/O board.
     credit: >
       Photo: © 2017 Sherry Phillips.
 
