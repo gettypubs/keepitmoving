@@ -14,6 +14,8 @@ weight: 506
 
 Born in Zurich, Urs Fischer (b. 1973) is a prominent contemporary artist who uses a wide variety of media and materials to create assemblages, paintings, digital montages, spatial installations, kinetic objects, and texts. *Death of a moment* (2007) is a site-specific installation consisting of a wall (13.5 × 3.2m) mounted with floor-to-ceiling mirrors ([fig. 21.1](#21.1)). The mirrors perform a regular, barely noticeable tilting motion, which creates a disturbing effect on spatial perception. Visitors and other artworks in the space are reflected, multiplied, and distorted, which, in conjunction with the motion of the mirrors, creates a sense of malaise.
 
+{{< q-figure id="21.1" >}}
+
 ## Description of the Work
 
 The work has three primary components: the aluminum frame, the eight tilting glass mirrors, and the hydraulic system. The movable aluminum frame is secured vertically to the floor and ceiling of the building. The mirrors are mounted vertically on the frame, and the frame is mounted on a secondary metallic structure with one arm in each corner. The arms are connected to a hydraulic system that makes them move up and down, pushing out and pulling in the mirrors. The hydraulic system is connected to an electric pump that provides the pressure for the arms to accomplish their movement.

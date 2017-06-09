@@ -1012,14 +1012,14 @@ figure_list:
       © Jonathan Borofsky. Illustrator: Mine Erhan (© “Die Schmeide”).
 
   - id: "18.1"
-    src: fig-18-iazurlo.jpg
+    src: fig-18-1-iazurlo.jpg
     caption: >
       Heinz Mack’s *Light Dynamo*, 1960, after conservation treatment. Atelier/Studio Mack.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn. Photo: Courtesy of Angelo Rubino.
 
   - id: "19.1"
-    src: fig-19-mack.jpg
+    src: fig-19-1-mack.jpg
     caption: >
       Aerial view of Alexander Calder’s *Tree* at the Fondation Beyeler, with arrows indicating wind direction and a graph illustrating intensity. Inset: Federike Steckling. 2001 Image Landsat Google Earth 47° 35' 12.43" N7° 39' 00.17" E elev 923 ft., eye alt 1818 ft.
     credit: >
@@ -1047,7 +1047,7 @@ figure_list:
       © Ray Staakman
 
   - id: "23.1"
-    src: fig-23-1-van-mouri.jpg
+    src: fig-23-1-van-mourik.jpg
     caption: >
       Joost Conijn’s *Hout Auto (Wood Car)* in the garden of the Centraal Museum. Centraal Museum Utrecht.
     credit: >

@@ -21,6 +21,8 @@ Meteorological science has documented that climate change has resulted in more s
 
 Conservators at the Fondation Beyeler in Basel, Switzerland, embarked on a study of how weather-related research can be used to develop such protocols. For Alexander Calder’s *Tree* (1966), staff at the foundation monitored its outdoor display environment, developed partnerships with national weather stations, and made strategic modifications to the display site to reduce the risk of damage. To establish which wind directions and intensities cause the most violent movement and damage, on-site wind measurements were analyzed and correlated to triaxial movement measurements directly on the sculpture ([fig. 19.1](#19.1)). A threshold of acceptable wind conditions was established after correlating that data with a review of past damage.
 
+{{< q-figure id="19.1" >}}
+
 Informed by the collected data, the foundation planted a highline of trees to impede wind from the most dominant direction and determined the best tethering angles for the sculpture. Further measures include an advance-warning system for winds that exceed a defined threshold, to allow staff to tether the mobile elements. Several specialists, such as meteorologists, weather stations, and landscape designers, were consulted to support the conservators with this project. While this work is still in the testing phase, it highlights the potential effectiveness of measures that were customized for a specific object.
 
 We suggest the following protocols for future care of outdoor kinetic sculpture:

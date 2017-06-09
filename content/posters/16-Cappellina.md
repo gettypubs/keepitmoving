@@ -21,6 +21,8 @@ weight: 501
 
 First designed in 1932, the Cockcroft–Walton generator is an electric circuit that produces a high [voltage](https://en.wikipedia.org/wiki/Voltage) from a low voltage. A system of capacitors and diodes generates this voltage, along with kinetic components such as dynamos ([fig. 16.1](#16.1)), which are housed inside rounded aluminum protections. The machine is assembled over two Bakelite isolating cylinders. The electrical components were lost during the first installation in the museum in the 1960s; furthermore, safety concerns prevent us from activating the machine. It was decided not to reintegrate the electrical functionality but to potentially keep the dynamo system moving. The conservation treatment was realized in January–June 2016 by Strati s.n.c.
 
+{{< q-figure id="16.1" >}}
+
 ## 40-Horsepower Cassani Tractor
 
 The Cassani 40 is an important diesel tractor first produced in 1927. It underwent conservation treatment, performed by Strati s.n.c., in February–April 2015 for display in a permanent exhibition gallery about nutrition. The artifact involves two kinds of movement: the ignition of the diesel engine, and the kinematic motion of the wheels and gears. The movement of its wheels, including the steering wheel, was used to place it inside the gallery. The engine remained turned off for safety reasons and, during conservation, all the diesel tanks were drained.
