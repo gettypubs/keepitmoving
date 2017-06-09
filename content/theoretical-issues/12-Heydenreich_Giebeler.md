@@ -100,51 +100,6 @@ From the experience of the three case studies, it is suggested that the establis
 
 Tiziana Caianiello of the ZERO Foundation, and Ulrik Runeberg of Restaurierungszentrum der Landeshauptstadt Düsseldorf.
 
-## Bibliography
-
-Caianiello, Tiziana. 2005. *Der “Lichtraum (Hommage à Fontana)” und das
-“Creamcheese” im Museum kunst palast: Zur Musealisierung der
-Düsseldorfer Kunstszene der 1960er Jahre*. Bielefeld: Transcript Verlag.
-
-Erhan, Mine. 2015. *Die Teilrekonstruktion der “Weißen Lichtmühle” aus
-dem Düsseldorfer ZERO-Lichtraum. Das Spannungsfeld zwischen
-Objektgeschichte, Originalität und Stabilität*, 6–16. VDR-Beiträge 1.
-
-Giebeler, Julia. 2011. “The Preservation of Contemporary Outdoor
-Sculptures: Heinz Mack’s Early Light-Kinetic In- and Outdoor Sculptures
-as a Case Study for Conservation Ethics.” Master’s thesis, CICS Cologne.
-
-Heimeshoff, Jörg, ed. 2001. *Denkmalgeschützte Häuser in Düsseldorf mit
-Garten- und Bodendenkmälern*. Essen: Beleke Verlag.
-
-Herbst, Kristina. 2005. “‘Dynamische Strukturen’: Konservatorische
-Betrachtung einer malerischen Werkgruppe (1957–63) von Heinz Mack.”
-Diploma thesis, HAWK Hildesheim. Accessed July 7, 2016.
-[**www.equipe-05.com/pdf%20files/Heinz%20Mack%20Dynamische%20Strukturen02.pdf**](http://www.equipe-05.com/pdf%20files/Heinz%20Mack%20Dynamische%20Strukturen02.pdf).
-
-Heydenreich, Gunnar. 2012. *Zero am Bau. Eine Studie zur Erhaltung
-baugebundener Kunst*. In *In die Jahre gekommen?! Zum Umgang mit Kunst
-am Bau*, 8–13. Berlin: Bundesministerium für Verkehr, Bau und
-Stadtentwicklung.
-
-Köhler, Sebastian. 2013. “White Monochromes by Lucio Fontana, Yves Klein
-and Günther Uecker: Three Case Studies Regarding Their Conservation.”
-Master’s thesis, CICS Cologne.
-
-Riegl, Alois, and K. K. Zentral-Kommision für Kunst- und historische
-Denkmale. 1903. *Moderne Denkmalkultus: Sein Wesen und seine
-Entstehung*. Vienna.
-
-Scheffler-Rother, Ulrike. 2004. *Die Rolandschule in Düsseldorf*.
-Rheinische Kunststätten, Booklet 464.
-
-Schmidt, Leo, ed. 2008. *Einführung in die Denkmalpflege*. Darmstadt:
-Wissenschaftliche Buchgesellschaft.
-
-Uecker, Günther. 1961. *Der Zustand Weiss*. In *ZERO aus Deutschland,
-1957–1966: Und heute*, edited by R. Wiehager. Ausstellungskatalog
-Galerie der Stadt Esslingen Villa Merkel.
-
 [^1]: The ZERO Foundation, [**www.4321zero.com**](http://www.4321zero.com/).
 
 [^2]: Heinz Mack, interview by Kristina Herbst, in [**Herbst 2005**](#bib), appendix D1, pp. 9, 15; Heinz Mack, interview by Gunnar Heydenreich and Julia Giebeler, in [**Giebeler 2011**](#bib), appendix A1, p. 30.

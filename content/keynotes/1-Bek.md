@@ -35,24 +35,11 @@ In 1919, Naum Gabo (1890–1977) fabricated one of the first artworks commonly a
 
 Gabo reflected on many aspects of the artwork. He described how standing waves
 
-> attracted my attention since my student days, in particular the fact that when you look at a standing wave, the image becomes three dimensional. In order to show what I meant by calling for the introduction of kinetic rhythms into a constructed sculpture, I chose that standing wave as a good illustration of the idea ([**Gabo > 1969**](#bib):5).
+> attracted my attention since my student days, in particular the fact that when you look at a standing wave, the image becomes three dimensional. In order to show what I meant by calling for the introduction of kinetic rhythms into a constructed sculpture, I chose that standing wave as a good illustration of the idea ([**Gabo 1969**](#bib):5).
 
-Gabo also discussed the source materials he
-used in the artwork’s manufacture, and the conditions during the winter
-of 1919–20, which he remembered as “the height of civil war, hunger and
-disorder in Russia. To find any part of machinery or to do any kind of
-work in a recently nationalized factory in Moscow—most of which were
-idle and impenetrable—was next to impossible”([Gabo 1969](#bib):5).
-He explained how he visited the mechanical
-workshop in the Polytechnic Institute and asked the director if he could
-perform his experiments there. The workers helped him locate old, unused
-machinery, and he salvaged a powerful electromagnet from an old factory
-bell: “What I was looking for was the basic mechanism of an electric
-bell, but of a bell stronger than the usual household one—strong enough
-to produce enough vibration in a rigid rod” ([**Gabo 1969**](#bib):5).
+Gabo also discussed the source materials he used in the artwork’s manufacture, and the conditions during the winter of 1919–20, which he remembered as “the height of civil war, hunger and disorder in Russia. To find any part of machinery or to do any kind of work in a recently nationalized factory in Moscow—most of which were idle and impenetrable—was next to impossible”([Gabo 1969](#bib):5). He explained how he visited the mechanical workshop in the Polytechnic Institute and asked the director if he could perform his experiments there. The workers helped him locate old, unused machinery, and he salvaged a powerful electromagnet from an old factory bell: “What I was looking for was the basic mechanism of an electric bell, but of a bell stronger than the usual household one—strong enough to produce enough vibration in a rigid rod” ([**Gabo 1969**](#bib):5).
 
-Through this retelling of the work’s
-fabrication, Gabo revealed that he thought his
+Through this retelling of the work’s fabrication, Gabo revealed that he thought his
 
 > main task was to create a regular rhythmic wave. It was not difficult to arrange a horizontal iron bar which would vibrate when electricity was on, but to join that bar with a mechanism which would let a vertical steel rod vibrate demanded a great deal of effort and inventiveness. After a lot of experimenting, what I did was to arrange the bar in such a way that at the base of it were two separate springs which would touch the spring on which the iron bar was fixed. I arranged the springs in such a way that together they would produce a rhythmic standing wave co-ordinating each other’s vibration ([**Gabo > 1969**](#bib):5).
 
@@ -150,28 +137,6 @@ Some artists would like the appearance of the replica to remain as close to the 
 Conservators continue to encounter complexities of care with historical kinetic and Op Art. Our challenges are not limited to the mechanical but extend into the digital, and our main challenge may be the evolution of technology. The ubiquity of technology gives almost anyone the capability of programing and controlling complex operating systems or interactive, computer-based installations. There is a clear tendency by young artists toward custom-built code, computer-controlled showcases, and robotics. At the same time, artists are becoming very aware of the limits of technology as they are challenged by art professionals to collaborate on the installation and repair of their work.
 
 The previous dependency of artists on industrially manufactured devices is comparable to today’s dependency on technology. Piene’s *Neon Medusa* (1969) and Villareal’s *Flowers 8* (2005) use distinct light sources that rely upon off-the shelf, programmable technology. However, the thirty-six years’ difference underscores the contemporary trend away from repairable technology and toward replacement technology. *Neon Medusa*’s analog timer control was fabricated when there was a possibility of repair: the simplicity of design allows the motor to be exchanged and the timer wheels to be refabricated. Perhaps even the glow lamps could be refabricated by a specialty light-bulb factory. In contrast, Villareal’s *Flowers 8* utilizes a mass-produced lighting system discontinued three years after the work’s creation. An obsolete system of lamps, cables, plugs, and data supplies comprise 90 percent of the physical artwork. Today’s digital technology is very specific, and most devices are not made to be repaired to extend the life of their functions. Modules belonging to a single contained system are exchanged regularly. Once the system is discontinued, identical parts may be salvaged for the time being, but it is unlikely that the system can be supported in the long term. Facing such dilemmas, the conservation field may need to adapt to the idea of regularly updated versions of more contemporary artworks, perhaps abandoning the ideal of the artwork anchored in time. This reality becomes even more challenging when the artist’s hand is visible or artists modify consumer technology. It is important for the profession to discuss parameters to help us navigate this terrain. Should we elevate the importance of performativity? Do we replicate an artwork’s performance to keep it alive and physically authentic at the same time?
-
-## Bibliography
-
-Gabo, Naum. 1969. “Naum Gabo’s Kinetic Sculpture: Construction and
-Reconstruction.” *Techne* 1, no. 1 (April 14). New York: Experiments in
-Art and Technology.
-
-Hahnloser-Ingold, Margrit, and Leonardo Bezzola. 1988. *Pandämonium:
-Jean Tinguely*. Bern: Benteli.
-
-Lorenzen, Astrid. 2012. In *Museum Tinguely Basel:* *The Collection*.
-Basel, Switzerland: Museum Tinguely; Berlin: Kehrer Verlag.
-
-Marshall, Piper. 2010. “Liz Larner.” In *Under Destruction*, edited by
-Gianni Jetzer and Chris Sharp. Berlin: Distanz Verlag.
-
-Pardey, Andres. 2012. In *Museum Tinguely Basel:* *The Collection*.
-Basel, Switzerland: Museum Tinguely; Berlin: Kehrer Verlag.
-
-Tinguely, Jean. 2012. “Für Statik.” In *Museum Tinguely Basel:* *The
-Collection*. Basel, Switzerland: Museum Tinguely; Berlin: Kehrer Verlag.
-“Für Statik” originally published 1959.
 
 [^1]: [**Tinguely 2012**](#bib):392. “Es bewegt sich alles, Stillstand gibt es nicht” (Everything moves, there is no standstill) . . . “Hört auf, der Veränderlichkeit zu widerstehen” (stop resisting change) . . . “Widersteht den angstvollen Schwächeanfällen, Bewegtes anzuhalten” (Bind the anxiety and resist the weakness to want to stop movement).
 

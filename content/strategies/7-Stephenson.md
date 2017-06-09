@@ -95,34 +95,6 @@ This project was a study in collaboration, diplomacy, creativity, and compromise
 
 Sincere thanks to Takis and the Menil Foundation and Menil Collection staff, with special recognition of Bradford Epley, Toby Kamps, Tom Walsh, Adam Baker, Tobin Becker, Tony Rubio, Melissa Warak, Lisa Barkley, and Consuelo Gutierrez; Dr. Maria Kokkori of the Art Institute of Chicago; J. D. Wise and Don Johnson of Rice University’s George R. Brown School of Engineering; Florin Dragan, Jeff Lieberman, and Laura Knott; and Giorgos Nakoudis, director of Takis K.E.T.E. Research Center for the Arts and Sciences.
 
-## Bibliography
-
-Galerie Alexandre Iolas (Paris, France), and Jean Clay. 1966. *Takis*.
-New York: A. Iolas.
-
-Glueck, Grace. 1969. “Artist Threatens Sit-in at the Modern.” *New York
-Times*, March 7, 26.
-
-Lippard, Lucy. 1970. “The Art Workers’ Coalition: Not a History.”
-*Studio International* 180, no. 927 (November): 171–74.
-
-Perreault, John. 1967. “Mythic Machinery.” *Village Voice*, April 27,
-10–12.
-
-———. 1969. “Whose Art?” *Village Voice*, January 9, 16–17.
-
-Reinhold, Robert. 1968. “Sculpture at M.I.T. Merges the Arts with
-Science.” *New York Times*, December 3, 28.
-
-Spencer, Charles. 1966. “Profile of Takis.” *Arts Review* (November 24):
-555, 560.
-
-Takis, Elena Calas, and Nicolas Calas. 1984. *Takis: Monographies*.
-Paris: Editions Galilée.
-
-Takis, Alain Jouffroy, and Luce Hoctin. 1964. *Takis: Dix ans de
-sculpture*, *1954–1964.* New York: A. Iolas.
-
 [^1]: “Sculptor Takes Work out of Modern Museum Show,” *New York Times*, January 4, 1969, 24.
 
 [^2]: Robert Reinhold, “M.I.T. Center Seeks to Wed Esthetics and Technology: M.I.T. Seeks to Wed Art and Science,” *New York Times*, December 26, 1969, 31; Grace Glueck, “Art: Whirring and Quivering Aplenty: Electronic Sculpture of Takis at Wise Gallery,” *New York Times*, February 8, 1969, 25.

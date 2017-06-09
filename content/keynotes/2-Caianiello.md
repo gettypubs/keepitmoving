@@ -101,59 +101,6 @@ Although reconstructions leave considerable room for interpretation, they also p
 
 A reconstruction or a new staging reflects an interpretation of the work. We will never be able to draw a clear demarcation line between a right and a wrong interpretation; therefore, we can never be sure if a reconstruction or a staging is correct, although the consensus of the scientific community can give us an orientation. An interpretation can always be invalidated by new archival findings, new methodological approaches, and by interpretations that are more economical and consistent. So we will never know if our conjecture is definitely valid. But we can know if it is definitely wrong, if “it is not the case” ([**Eco 2012**](#bib)). If we try to use a screwdriver as an ashtray, we will notice that it doesn’t work.
 
-## Bibliography
-
-Caianiello, Tiziana. 2005. *Der “Lichtraum (Hommage à Fontana)” und das
-“Creamcheese” im museum kunst palast: Zur Musealisierung der
-Düsseldorfer Kunstszene*. Bielefeld: Transcript Verlag.
-
-———. 2013. “Materializing the Ephemeral: The Preservation and
-Presentation of Media Art Installations.” In *Media Art Installations:
-Presentation and Preservation; Materializing the Ephemeral*, edited by
-Renate Buschmann and Tiziana Caianiello, 207–29. Berlin: Dietrich Reimer
-Verlag.
-
-Eco, Umberto. 1962. In *Arte programmata: Arte cinetica, opere
-moltiplicate, opera aperta.* Milan: Olivetti. Exh. cat.
-
-———. 1989. *The Open Work*. Translated by Anna Cancogni. Cambridge, MA:
-Harvard University Press. Originally published as *Opera aperta* (Milan:
-Bompiani, 1962).
-
-———. 1990. *Interpretation and Overinterpretation: World, History,
-Texts*. Paper presented at the Tanner Lectures on Human Values. Clare
-Hall, Cambridge University, March 7–8. Accessed August 29, 2016**.
-[tannerlectures.utah.edu/\_documents/a-to-z/e/Eco\_91.pdf](http://tannerlectures.utah.edu/_documents/a-to-z/e/Eco_91.pdf)**.
-
-———. 1992. “Reply.” In *Interpretation and Overinterpretation*, edited
-by Stefan Collini, 139–51. Cambridge: Cambridge University Press.
-
-———. 2012. “Il realismo minimo.” *La Repubblica*, March 11. Accessed
-August 29, 2016.
-[**ricerca.repubblica.it/repubblica/archivio/repubblica/2012/03/11/il-realismo-minimo.html**](http://ricerca.repubblica.it/repubblica/archivio/repubblica/2012/03/11/il-realismo-minimo.html).
-
-Laurenson, Pip. 2005. “The Management of Display Equipment in Time-based
-Media Installations.” *Tate Papers* 3 (Spring). Accessed January 1,
-2017.
-[**www.tate.org.uk/download/file/fid/7344**](http://www.tate.org.uk/download/file/fid/7344).
-Originally published in *Modern Art, New Museums: Contributions to the
-Bilbao Congress 13–17 September 2004*, edited by Ashok Roy and Perry
-Smith, 49–53. London: International Institute for Conservation of
-Historic and Artistic Works, 2004.
-
-Rorty, Richard. 1992. “The Pragmatist’s Progress.” In *Interpretation
-and Overinterpretation*, edited by Stefan Collini, 89–108. Cambridge:
-Cambridge University Press.
-
-Weibel, Peter, and Gregor Jansen, eds. 2006. *Light Art from Artificial
-Light*. Karlsruhe: ZKM. Exh. cat.
-
-Zell, Thekla. 2015. “The Ship ZERO Is Casting Out Its Anchor, and the
-Voyage Is Over: ZERO in Bonn and a Final Midnight Ball.” In *The Artist
-as Curator: Collaborative Initiatives in the International ZERO
-Movement, 1957–1967*, edited by Tiziana Caianiello and Mattijs Visser,
-397–427. Ghent: MER. Paper Kunsthalle.
-
 [^1]: In the printed version of his paper, Rorty deleted the allusion to ear scratching, while it remained in the reply by Eco.
 
 [^2]: Mack, Piene, and Uecker didn’t use the term *installation* in the 1960s. They used the word *Lichträume* (Light rooms) to refer to their arrangements of kinetic light works in the gallery space. At that time, English-language art magazines used the word *installation* to describe the arrangement of works in an exhibition.

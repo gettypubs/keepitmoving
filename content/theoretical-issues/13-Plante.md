@@ -77,69 +77,6 @@ In the context of an unprecedented abundance of small, ingenious objects, eye-ca
 I thank the Biblioteca di Tella for making material available for this
 paper.
 
-## Bibliography
-
-Amigo, Roberto, Silvia Dolinko, and Cristina Rossi, eds. 2010. *Palabra
-de artista. Textos sobre arte argentino 1961–1981*. Buenos Aires:
-Fundación Espigas and Fondo Nacional de las Artes.
-
-Aupetitallot, Yves, and Magasin-Centre National d’Art Contemporain.
-1998. *GRAV: Horacio Garcia-Rossi, Julio Le Parc, François Morellet . .
-. 1960–1968*. Grenoble: Magasin-Centre National d’Art Contemporain.
-
-Baudrillard, Jean. 1969. *El sistema de los objetos*. Mexico: Siglo XXI.
-
-Bértola, Elena. 1973. *El arte cinético.* Buenos Aires: Nueva Visión.
-
-Borón, Ana, Mario del Carril, and Albino Gómez. 1995. *Porqué se
-fueron*. Buenos Aires: Emecé.
-
-Brett, Guy. 1969. *Kinetic Art: The Language of Movement.* London:
-Studio Vista.
-
-Crispiani, Alejandro. 2001. “Un mundo continuo.” *Arq* 49 (December):
-57–59.
-
-Herzog, Hans Michael, ed. 2005. *Le Parc lumière: Obras cinéticas de
-Julio Le Parc*. Zurich: Hatje Cantz.
-
-Hohlfeldt, Marion. 2001. “Le multiple entre subversion et instauration.
-Quelques réflexions sur la spécificité d’un genre.” In *Denise René,
-l’intrépide: Une galerie dans l’aventure de l’art abstrait 1944–1978*,
-by Galerie Denise René, and Centre Georges Pompidou. Paris: Éditions du
-Centre Pompidou, 143–50.
-
-Le Parc, Julio, Salas Nacionales de Exposición, and Dirección Nacional
-de Artes Visuales. 1988. *Julio Le Parc. Experiencias 30 años.
-1958–1988.* Buenos Aires: Secretaría de Cultura de la Nación, Dirección
-Nacional de Artes Visuales.
-
-Moulin, Raymonde. 1967. *Le marché de la peinture en France.* Paris:
-Minuit.
-
-———. 1969. “Art et société industrielle capitaliste. L’un et le
-multiple.” *Revue Française de sociologie* 10, special number, 699–700.
-
-Plante, Isabel. 2010a. “*Les Sud-américains de Paris.* Latin American
-Artists and Cultural Resistance in *Robho* Magazine.” *Third Text* 24,
-no. 4 (July): 445–55. London: Phaidon.
-
-———. 2010b. “La multiplicación (y rebelión) de los objetos. Julio Le
-Parc y la consagración europea del arte cinético.” In *XIII Premio
-Fundación Telefónica a la investigación en historia de las artes
-plásticas en la Argentina. La abstracción en la Argentina*, by Isabel
-Plante and Cristina Rossi, 15–74. Buenos Aires: Fundación Espigas.
-
-Popper, Frank. 1967. *Naissance de l’art cinétique*. Paris:
-Gauthier-Villards.
-
-———. 1975. *Arte, acción y participación*. Madrid: Akal, 1989.
-
-Rousseau, Pascal. 2005. “‘Folklore planétaire.’ Le sujet cybernétique
-dans l’art optique des années 1960.” In *L’oeil moteur: Art optique et
-cinétique, 1950–1975*, edited by Emmanuel Guignon and Arnauld Pierre.
-Strasbourg: Musée d’Art Contemporain de Strasbourg.
-
 [^1]: I use “kineticism” rather than “kinetic art” because I am referring to an avant-garde art movement (Cubism, Dadaism, etc.) and because these artists were discussing the status of art, the traditional aura. The edition of multiples was part of their strategies, as discussed in this paper.
 
 [^2]: Pierre Mazars, “La peinture se meurt, la peinture est morte,” *Le Figaro littéraire*, June 23, 1966, 13.

@@ -111,56 +111,6 @@ It was a sentiment the artist expressed himself during the 1960s, frustrated at 
 
 Lye’s claim to be “pretty good for the 21st century” became more than a realization that his work could only be partially executed under his own watch but also a rejection of the environment he was required to work in. Anticipating what could be achieved in the future, he was similarly invested in the value of kinetic art and reticent to rely on his contemporaries to maintain that value. The development of the Len Lye Foundation and, thirty-five years later, the Len Lye Centre falls short of his hopes for a temple of motion, but they are an active and essential part of Lye’s vision . . . for inventing another program.
 
-## Bibliography
-
-Barr, Jim, and Mary Barr. 2014. “One Day in New Plymouth Art in Public
-Places Trust Boardroom.” *Over the Net*. November 18, 2014. Accessed
-November 10, 2016.
-[**overthenet.blogspot.co.nz/2014/11/one-day-in-len-lye-trust-boardroom.html**](http://overthenet.blogspot.co.nz/2014/11/one-day-in-len-lye-trust-boardroom.html).
-
-———. 2016. “12 Cool Things Kiwi (Visual) Artists Have Achieved in the
-Past Year.” *Over the Net*. May 17, 2016. Accessed November 10, 2016.
-[**overthenet.blogspot.co.nz/2016/05/12-cool-things-kiwi-visual-artists-have.html**](http://overthenet.blogspot.co.nz/2016/05/12-cool-things-kiwi-visual-artists-have.html).
-
-Blundell, Sally. 2006. “Whose Lye Is It Anyway?” *The Listener*, July
-22. Accessed November 15, 2016.
-[**www.listener.co.nz/culture/whose-lye-is-it-anyway**](http://www.listener.co.nz/culture/whose-lye-is-it-anyway/).
-
-Brett, Guy, and Suzanne Cotter. 2000. *Force Fields: Phases of the
-Kinetic*. Barcelona: Museu d’Art Contemporani de Barcelona.
-
-Brobbel, Paul. 2015. *Len Lye: Four Fountains*. New Plymouth, New
-Zealand: Govett-Brewster Art Gallery.
-
-Cann, Tyler. 2007. *Len Lye: Five Fountains and a Firebush*. New
-Plymouth, New Zealand: Govett-Brewster Art Gallery.
-
-Leider, Philip. 1966. *Artforum*.
-
-Lye, Len. 1965. “Notes on Programmed Sculpture.” Unpublished Mss., Len
-Lye Foundation Collection and Archive, Govett-Brewster Art Gallery.
-
-———. 1966. “Sounds of Len Lye Sculpture.” Unpublished Mss., Len Lye
-Foundation Collection and Archive, Govett-Brewster Art Gallery.
-
-———. 1984. “Art That Moves,” “Considering a Temple,” “Tangible Motion
-Sculpture,” and “Why I Scratch, or How I Got to Particles.” In *Figures
-of Motion: Len Lye, Selected Writings*, edited by Wystan Curnow and
-Roger Horrocks. Auckland: Auckland University Press.
-
-Lye, Len, and Ray Thorburn. 1975. “Ray Thorburn Interviews Len Lye.”
-*Art International*, 64–68.
-
-Matthews, John. 1980. “The New Zealand Collection.” *Art New Zealand*.
-Auckland.
-
-Newman, George, and Paul Bloom. 2011. “Art and Authenticity: The
-Importance of Originals in Judgments of Value.” *Journal of Experimental
-Psychology* 141, no. 3.
-
-Webb, Evan. 1996. “Wind Wand: The Magic of Len Lye and the Toronto
-Affair.” *Art New Zealand*. Auckland.
-
 [^1]: The Seven and Five Society formed in London in 1919, gradually departing from a traditional aesthetic style toward abstraction under the leadership of Ben Nicholson. The group featured Henry Moore and Barbara Hepworth, with Lye active with the group from 1927 to 1934. The Seven and Five Society ceased in 1935.
 
 [^2]: *Homage to New York* was a self-destroying kinetic sculpture, created by Jean Tinguely with assistance from Billy Klüver and Robert Rauschenberg. On March 17, 1960, in a public presentation at the Sculpture Garden of New York’s Museum of Modern Art, the work performed for twenty-seven minutes before the fire department intervened.

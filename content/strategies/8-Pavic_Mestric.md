@@ -80,50 +80,6 @@ The interpretative role of museum professionals who are entrusted with showing a
 
 This highlights the responsibility that all museum professionals have in deciding how to show a work of art so that its meaning is interpreted faithfully.
 
-## Bibliography
-
-Ashley-Smith, Jonathan. 2009. “The Basic of Conservation Ethics.” In
-*Conservation Principles, Dilemmas and Uncomfortable Truths*, edited by
-Alison Richmond et al., 6–21. London: Elsevier, in association with the
-Victoria and Albert Museum.
-
-Bek, Božo, ed. 1969. *Tendencije 4: Zagreb, 1968–1969*. Zagreb: Gallery
-of Contemporary Art, Zagreb. Exh. cat.
-
-Caple, Chris. 2000. *Conservation Skills: Judgment, Method and Decision
-Making*. New York: Routledge.
-
-Denegri, Jerko. 2004. *Constructive Approach Art: Exat 51 and New
-Tendencies*. Zagreb: Horetzky.
-
-Goodman, Nelson. 1976. *Languages of Art*. Indianapolis: Hackett.
-
-Kolešnik, Ljiljana. 2012. “Conflicting Visions of Modernity and the
-Post-war Modern Art.” In *Socialism and Modernity: Art, Culture Politics
-1950–1974*, edited by Ljiljana Kolešnik, 107–80. Zagreb: Institute of
-Art History, Zagreb, and Museum of Contemporary Art, Zagreb.
-
-Laurenson, Pip. 2006. “Authenticity, Change and Loss in the Conservation
-of Time-Based Media Installations.” *Tate Papers* 6 (Autumn**).
-[www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations).
-
-Muñoz Viñas, Salvador. 2005. *Contemporary Theory of Conservation.*
-Oxford: Elsevier, 49–105.
-
-———. 2010. “The Artwork Became a Symbol of Itself: Reflections on the
-Conservation of Modern Art.” In *Theory and Practice in the Conservation
-of Modern and Contemporary Art*, edited by Ursula Schadler-Saubed et
-al., 9–19. London: Archetype.
-
-van Saaze, Vivian. 2013. *Installation Art and the Museum: Presentation
-and Conservation of Changing Artwork*. Amsterdam: Amsterdam University
-Press.
-
-Wharton, Glenn, and Harvey Molotch. 2009. “The Challenge of Installation
-Art.” In *Conservation: Principles, Dilemmas and Uncomfortable Truths*,
-edited by Alison Richmond et al., 210–20. London: Elsevier, in
-association with the Victoria and Albert Museum.
-
 [^1]: [**Kolešnik 2012**](#bib). The robustness of this period in art led to five exhibitions entitled *New Tendencies* held in Zagreb between 1961 and 1973, organized by what is today the Museum of Contemporary Art. In fact, some of the museum’s most important holdings are the works of art and archive documentation produced by the New Tendencies participants.
 
 [^2]: Srnec, in Gordana Brzović and Kristina Leko’s documentary *Aleksandar Srnec* (2000), 57 min.

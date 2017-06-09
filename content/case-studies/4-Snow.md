@@ -67,25 +67,6 @@ A critical part of any treatment of kinetic art is documentation that includes h
 
 Wilfred’s groundbreaking contribution to kinetic art and time-based media is finally being reevaluated through a long-awaited retrospective in 2017 and the scholarly consideration that accompanies such an endeavor. The exhibition would be impoverished without the inclusion of Wilfred’s magnum opus, *Lumia Suite, Opus 158*. Our conservation and restoration of the physical and electrical components of this masterwork allow it to be safely exhibited for the first time in over three decades, and the small upgrades ensure that the installation can be enjoyed long into the future.
 
-## Bibliography
-
-Farmer, Virginia. 1920. “Mobile Colour: A New Art.” *Vanity Fair*
-(December): 53, 116.
-
-Turrell, James. 2013. “James Turrell with Alex Bacon.” *The Brooklyn
-Rail*, September 4. Accessed August 27, 2016.
-[**www.brooklynrail.org/2013/09/art/james-turrell-with-alex-bacon**](http://www.brooklynrail.org/2013/09/art/james-turrell-with-alex-bacon).
-
-Wilfred, Thomas. 1947. “Light and the Artist.” *Journal of Aesthetics
-and Art Criticism* 5, no. 4: 247–55.
-
-———. 1964. “*Lumia Suite, Op. 158* by Thomas Wilfred 1964. Lumia
-Composition in 3 Movements: A technical manual on the projection
-instrument rendering the composition, as installed at the Museum of
-Modern Art in New York City during June and July, 1964.” Unpublished.
-Museum Collection Files, Thomas Wilfred, Lumia Suite, Opus 158.
-Department of Painting and Sculpture, Museum of Modern Art, New York.
-
 ## Materials and Suppliers
 
 > Extruded aluminum: manufactured by 80/20<sup>®</sup> Inc., [**www.8020.net**](https://www.8020.net/); distributed by AIR, Inc., [**airinc.net/8020-extrusion**](http://airinc.net/8020-extrusion/). >

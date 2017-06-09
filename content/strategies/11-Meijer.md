@@ -113,50 +113,6 @@ Motion is a major component of Tinguely’s works, and one of the most important
 
 The project was generously funded by All Art Initiatives B.V. and BankGiro Loterij. For their valuable contributions, we also thank the Rijksdienst voor het Cultureel Erfgoed (Cultural Heritage Agency of the Netherlands); Museum Tinguely, Basel; Reinhard Bek; Hans van der Weijde; Lydia Beerkens; Evelyne Snijders; the staff of the Stedelijk Museum Amsterdam; and many others.
 
-## Bibliography
-
-Beerkens, Lydia, IJsbrand Hummelen, and Dionne Sillé. 1999. “Jean
-Tinguely’s *Gismo*: Reconstruction of a Moving Life.” In *Modern Art:
-Who Cares? An Interdisciplinary Research Project and an International
-Symposium on the Conservation of Modern Art*, edited by IJsbrand
-Hummelen and Dionne Sillé. Amsterdam: Foundation for the Conservation of
-Modern Art; Netherlands Institute for Cultural Heritage.
-
-Bek, Reinhard. 2011. “Between Ephemeral and Material: Documentation and
-Preservation of Technology-Based Works of Art.” In *Inside
-Installations: Theory and Practice in the Care of Complex Artworks*,
-edited by Wharton Scholte. Amsterdam: Amsterdam University Press.
-
-———. 2013. “Conserving the Kinetic: Mechanical Sculptures by Jean
-Tinguely.” In *Museum Tinguely, Basel: The Collection*, edited by
-Reinhard Bek et al. Heidelberg: Kehrer Verlag.
-
-Foundation for the Conservation of Modern Art. 1999. “The
-Decision-Making Model for the Conservation and Restoration of Modern and
-Contemporary Art.” In *Modern Art: Who Cares? An Interdisciplinary
-Research Project and an International Symposium on the Conservation of
-Modern Art*, edited by IJsbrand Hummelen and Dionne Sillé. Amsterdam:
-Foundation for the Conservation of Modern Art; Netherlands Institute for
-Cultural Heritage.
-
-Hulten, Pontus. 1975. *Jean Tinguely: “Meta.”* London: Thames and
-Hudson.
-
-Hummelen, IJsbrand, and Dionne Sillé, eds. 1999. *Modern Art: Who Cares?
-An Interdisciplinary Research Project and an International Symposium on
-the Conservation of Modern Art*. Amsterdam: Foundation for the
-Conservation of Modern Art; Netherlands Institute for Cultural Heritage.
-
-Jobse, Jonneke, and Catrien Schreuder. 2014. *What’s Happening? De
-neo-avant-garde en de Nederlandse kunstkritiek 1958–1975.* Rotterdam:
-Nai010.
-
-Schavemaker, Margriet, Barbara Til, and Beat Wismer, eds. 2016.
-*Tinguely*. Cologne: Buchhandlung Walter König.
-
-Violand-Hobi, Heidi. 1995. *Jean Tinguely: Life and Work*. Munich:
-Prestel.
-
 [^1]: Stiftung Museum Kunstpalast Düsseldorf, April 21–August 14, 2016; Stedelijk Museum Amsterdam, October 1, 2016–March 5, 2017.
 
 [^2]: From the conservation field, but also, for instance, a welding inspector, an electromotor specialist, a radio technician, and an expert in Tinguely fountains.

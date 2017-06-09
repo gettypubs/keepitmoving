@@ -36,10 +36,3 @@ We suggest the following protocols for future care of outdoor kinetic sculpture:
 -   design and implement custom protective measures for predicted storm events
 
 Each sculpture is unique and requires a customization of the suggested protocols, with particular emphasis on protective measures. Further study is needed to establish recommendations to protect kinetic sculptures during extreme events such as hurricanes and blizzards, since it has been shown that uninformed tethering can also be the source of damage. A solution will likely require consultation with an engineer, overseen by conservators, because sculptures from the 1960s through the 1980s have been subjected to prolonged weathering and may harbor hidden weaknesses. We hope that further discussions and case studies will provide guidance for conservators, museums, and collectors on the continued care and preservation of outdoor kinetic works.
-
-## Bibliography
-
-Melillo, Jerry M., Terese (T. C.) Richmond, and Gary W. Yohe, eds. 2014.
-*Climate Change Impacts in the United States: The Third National Climate
-Assessment*. Washington, D.C.: U.S. Global Change Research Program.
-[**doi:10.7930/J0Z31WJ2**](http://s3.amazonaws.com/nca2014/low/NCA3_Full_Report_0a_Front_Matter_LowRes.pdf?download=1).

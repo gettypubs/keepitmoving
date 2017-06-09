@@ -29,16 +29,3 @@ Since 1991 *Ballerina Clown* has been exhibited in the courtyard of the Museum L
 When the movable leg was examined to replace the torn steel rope, it was evident that the leg swung very strongly in both directions (see fig. 17.1b), which raised the question of whether this was the original configuration. Further inspection of the flywheel revealed that one hole had distinct traces of wear, indicating that it had been used originally. Because the hole was already very worn, it could not continue to be used. After consultation with the museum, a new hole was drilled with the same distance to the center as the original. This allows the old hole to serve as a primary document.
 
 Additional treatments were performed to stabilize frail parts of the GRP, consolidate delamination, fill losses, and retouch this painted outdoor sculpture.
-
-## Bibliography
-
-Clari, Jean. 2004. *The Great Parade: Portrait of the Artist as Clown*.
-New Haven, CT: Yale University Press.
-
-Ottinger, Didier. 2004. “The Circus of Cruelty: A Portrait of the
-Contemporary Clown as Sisyphus,” 35–45. In *The Great Parade: Portrait
-of the Artist as Clown*, by Jean Clari. New Haven, CT: Yale University
-Press.
-
-Kunstmuseum Basel. 1983. *Jonathan Borofsky*: *Zeichnungen 1960*–*1983*.
-Basel, Switzerland: Kunstmuseum Basel.

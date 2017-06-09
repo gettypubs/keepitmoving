@@ -91,44 +91,6 @@ During *Constructed Dialogues: Concrete, Geometric, and Kinetic Art from the Lat
 
 The expanding role of MFAH conservators in the display of these objects has been an interesting exercise in compromise and collaboration. In the past, these objects have been worked on by the artist’s friends and relatives, museum electricians, handy registrars, and preparators. All of these individuals have valuable expertise to contribute, and we continue to seek their assistance. But the conservator is better placed to collate this expertise, weigh the suggestions of all parties, and document all action undertaken. Preparing these artworks for permanent galleries offers further opportunities to develop best protocols for display while maintaining functionality.
 
-## Bibliography
-
-Gagneux, Dominique. 2007. “Doit-on entretenir le mouvement d’une oeuvre
-cinétique?” *Coré*: *conservation et restauration du patrimoine
-culturel* 19 (December): 13–18.
-
-GRAV (Groupe de Recherche d’Art Visuel). 2004. Reprint of the manifesto
-“Transformer l’actuelle situation de l’art plastique,” 1961*.* In
-*Inverted Utopias: Avant-Garde Art in Latin America*, edited by Héctor
-Olea and Mari Carmen Ramírez, 513*.* New Haven, CT: Yale University
-Press in association with Museum of Fine Arts, Houston.
-
-Kosice, Gyula. 1944. “La aclimatación artística gratuita a las llamadas
-escuelas.” *Arturo: Revista de artes abstractas* 1 (Summer).
-
-Osorio, Luiz Camillo. 2004. *Abraham Palatnik*. São Paolo: Cosac Naify.
-
-Popper, Frank. 1968. *Origins and Development of Kinetic Art*. London:
-Studio Vista.
-
-Ramírez, Mari Carmen. 2004. “A Highly Topical Utopia: Some Outstanding
-Features of the Avant-Garde in Latin America.” In *Inverted Utopias:
-Avant-Garde Art in Latin America*, edited by Héctor Olea and Mari Carmen
-Ramírez, 1–15*.* New Haven: Yale University Press in association with
-Museum of Fine Arts, Houston.
-
-Rossi, Cristina. 2012. “Imágenes inestables: Tránsitos Buenos
-Aires-Paris-Buenos Aires.” María José Herrera, ed. *Real/Virtual: Arte
-cinético argentine en los años sesenta*, 47–67. Buenos Aires: Asociación
-Amigos del Museo Nacional de Bellas Artes.
-
-Suárez, Osbel. 2007. “The Logic of Ecstasy.” In *Lo\[s\] cinético\[s\]*,
-edited by Osbel Suárez and Eugenio Fontaneda, 243–47. Madrid: Artes
-Gráficas Palermo.
-
-United States Department of Commerce. 1959. *Electric Current Abroad.*
-Washington, D.C.: Bureau of Foreign Commerce.
-
 [^1]: Orbitec E10 230V 15W. Don Schnapp Specialty Bulbs, 2600 Pope Canyon Road, Saint Helena, CA, 94574; [**www.donsbulbs.com**](http://www.donsbulbs.com/cgi-bin/r/t.pl).
 
 [^2]: Alejandro Marcos, in discussion with the authors, April 2015.

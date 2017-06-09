@@ -128,42 +128,6 @@ According to Max Dean, this restoration project took *As Yet Untitled* to a stat
 
 If the restoration of *As Yet Untitled* had not been completed after the Montreal loan, it would have been difficult for others to pick up where we left off, and appropriate restoration may have been impossible. Like any kinetic object, it will remain susceptible to mechanical wear and tear. As the original components age, and as replacement parts become obsolete, the robot may even regain its temperamental attitude. Building on our work, however, a new team should be able to face the challenge with confidence.
 
-## Bibliography
-
-Corzo, Miguel Angel, ed. 1999. *Mortality Immortality? The Legacy of
-20th-Century Art*. Los Angeles: Getty Conservation Institute.
-
-Electronic Media Group, American Institute for Conservation of Historic
-and Artistic Works. 2009. *Electronic Media Review* 1.
-
-———. 2011. *Electronic Media Review* 2.
-
-Engel, Deena, and Glenn Wharton. 2014. “Reading between the Lines:
-Source Code Documentation as a Conservation Strategy for Software-Based
-Art.” *Studies in Conservation* 58 (1)*.* London: International
-Institute for Conservation of Historic and Artistic Works.
-
-Enright, Robert. 2007. “The Certainty of Machines: An Interview with Max
-Dean.” *Border Crossings* 101 (March).
-
-Langill, Caroline. 2006. *Shifting Polarities: Interview with Max Dean*.
-“Question 4: Shift into interactivity,” 5:40. “Question 5: Thinking
-about context,” 3:09. Interview conducted May 4, 2006, in Toronto,
-Ontario. Daniel Langlois Foundation, video, 33:17.
-[**www.fondation-langlois.org/html/e/page.php?NumPage=1950**](http://www.fondation-langlois.org/html/e/page.php?NumPage=1950).
-
-Laurenson, Pip. 2006. “Authenticity, Change and Loss in the Conservation
-of Time-Based Media Installations.” *Tate Papers* 6 (Autumn).
-[**www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations**](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations).
-
-Smithsonian Institution. 2010. *Collaborations in Conserving Time-Based
-Art: A Summary of Discussion Group Sessions of a Colloquium Co-organized
-by the Lunder Conservation Center of the Smithsonian American Art Museum
-and National Portrait Gallery and the Hirshhorn Museum and Sculpture
-Garden*. Washington, D.C.: Office of Policy and Analysis, Smithsonian
-Institution.
-[**www.si.edu/content/tbma/documents/Time-Based-Art\_Report.pdf**](https://www.si.edu/content/tbma/documents/Time-Based-Art_Report.pdf).
-
 [^1]: Art Gallery of Ontario, Canada, 1996; *d’APERTutto*, Venice Biennale, Italy, 1999; *The Fifth Element*, Städtische Kunsthalle Düsseldorf, Germany, 2000; *Voici: 100 ans d’art contemporain/Look: 100 Years of Contemporary Art*, Palais des Beaux-Arts, Brussels, Belgium, 2000; *Quality Control*, Site Gallery, Sheffield, England, 2001; *Iconoclash*, ZKM, Karlsruhe, Germany, 2002; *The Bigger Picture*, Ottawa Art Gallery, Ottawa, Canada, 2003; *Damage Done: Materializing the Photographic Image*, Prefix, Toronto, Canada, 2005; *Drone: The Automated Image*, VOX, Centre de l’Image Contemporaine, during Le Mois de la Photo à Montréal, Canada, 2013.
 
 [^2]: Sherry Phillips, in conversation with Max Dean, AGO, 2015.

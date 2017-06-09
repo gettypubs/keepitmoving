@@ -85,38 +85,6 @@ The project was successful primarily due to the ongoing collaboration of all par
 
 We thank the Tsai family and the Tsai Art and Science Foundation for their ongoing support and insight. They made this a truly remarkable project to be a part of, and we are very proud of what we achieved collectively.
 
-## Bibliography
-
-Alley, Ronald. 1981. *Catalogue of the Tate Gallery’s Collection of
-Modern Art Other than Works by British Artists*. London: Tate Gallery
-and Sotheby Parke-Bernet.
-
-Gabo, Naum. 1969. “The Kinetic Construction of 1920.” *Studio
-International* 178, no. 914 (September): 89.
-
-Kepes, Gyorgy, ed. 1965. *The Nature and Art of Motion*. New York:
-George Braziller.
-
-Kepes, Gyorgy, and Jonathan Benthall. 1980. *Cybernetic Art: The World
-of Tsai Wen-Ying*. Tokyo: Asahi Shimbun.
-
-Lawson, Louise, and Simon Cane. 2016. “Do Conservators Dream of Electric
-Sheep? Replicas and Replication*.*” *Studies in Conservation* 61 (Sup
-2): 109.
-
-Lodder, Christina. 2007. “Naum Gabo and the Quandaries of the Replica.”
-*Tate Papers* 8 (Autumn). Accessed May 16, 2016.
-[**www.tate.org.uk/research/publications/tate-papers/08/naum-gabo-and-the-quandaries-of-the-replica**](http://www.tate.org.uk/research/publications/tate-papers/08/naum-gabo-and-the-quandaries-of-the-replica).
-
-Malina, Frank J., ed. 1974. *Kinetic Art: Theory and Practice:
-Selections from the Journal Leonardo*. New York: Dover Publications.
-
-Popper, Frank. 1968. *Origins and Development of Kinetic Art*. London:
-Studio Vista.
-
-Tovey, John. 1971. *The Techniques of Kinetic Art*. New York: Van
-Nostrand Reinhold.
-
 [^1]: Tate, T01521.
 
 [^2]: Tate, T03823.
