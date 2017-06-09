@@ -7,8 +7,8 @@ menu: true
 {{% quire-toc %}}
 
 - [Cover](/)
-- [Preface]({{< ref "opening-remarks.md" >}}) — Rachel Rivenc
-- [Opening Remarks]({{< ref "contents.md" >}}) — Iolanda Ratti
+- [Preface](/preface/) — Rachel Rivenc
+- [Opening Remarks](/opening-remarks/) — Iolanda Ratti
 
 1. [Keynotes](/keynotes/)
 2. [Case Studies](/case-studies/)
@@ -16,9 +16,9 @@ menu: true
 4. [Theoretical Issues](/theoretical-issues/)
 5. [Posters](/posters/)
 
-- [List of Contributors]({{< ref "contributors.md" >}})
-- [List of Participants]({{< ref "participants.md" >}})
-- [Selected Bibliography]({{< ref "selected-bibliography.md" >}})
-- [About]({{< ref "about.md" >}})
+- [List of Contributors](/contributors/)
+- [List of Participants](/participants/)
+- [Selected Bibliography](/selected-bibliography/)
+- [About](/about/)
 
 {{% /quire-toc %}}
