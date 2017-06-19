@@ -5,4 +5,4 @@ type: page
 menu: true
 ---
 
-Generated automatically from bibliography.yml
+{{< q-bibliography sort="full" >}}

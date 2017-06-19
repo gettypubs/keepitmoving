@@ -1,7 +1,7 @@
-biblio_list:
+entries:
 
-  - short: Gabo 1969
-    full: "Gabo, Naum. 1969. “Naum Gabo’s Kinetic Sculpture: Construction and Reconstruction.” *Techne* 1, no. 1 (April 14). New York: Experiments in Art and Technology."
+  - short: Gabo 1969b
+    full: "Gabo, Naum. 1969b. “Naum Gabo’s Kinetic Sculpture: Construction and Reconstruction.” *Techne* 1, no. 1 (April 14). New York: Experiments in Art and Technology."
     reference_for: "1, selected"
 
   - short: Hahnloser-Ingold and Bezzola 1988
@@ -92,8 +92,8 @@ biblio_list:
     full: "Alley, Ronald. 1981. *Catalogue of the Tate Gallery’s Collection of Modern Art Other than Works by British Artists*. London: Tate Gallery and Sotheby Parke-Bernet."
     reference_for: "5, selected"
 
-  - short: Gabo 1969
-    full: "Gabo, Naum. 1969. “The Kinetic Construction of 1920.” *Studio International* 178, no. 914 (September): 89."
+  - short: Gabo 1969a
+    full: "Gabo, Naum. 1969a. “The Kinetic Construction of 1920.” *Studio International* 178, no. 914 (September): 89."
     reference_for: "5, selected"
 
   - short: Kepes 1965
