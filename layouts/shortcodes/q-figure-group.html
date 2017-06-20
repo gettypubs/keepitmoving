@@ -1,0 +1,44 @@
+{{ if .Get "id" }}
+<figure class="q-figure{{ with .Get "class" }} q-{{ . }}{{ end }} {{ with .Get "grid" }}q-figure-grid{{ end }}{{ with .Get "grid-align" }} q-grid-{{ . }}{{ end }}">
+{{ $idstring := replace (.Get "id") " " "" }}
+{{ $idlist := split $idstring "," }}
+{{ range $idlist }}
+{{ $x := . | string }}
+  {{ range where $.Site.Data.figures.figure_list "id" "eq" $x }}
+  <figure class="q-figure__inner-figure" id="{{ .id }}" {{ with $.Get "grid" }}style="flex-basis: calc( (100% - {{.}}rem) / {{.}})"{{ end }}>
+    {{ if or (eq .media_type "youtube") (eq .media_type "vimeo") }}
+      <div class="q-figure__wrapper q-figure__wrapper__video{{ if .aspect_ratio }}--{{ .aspect_ratio }}{{ else }}--widescreen{{ end }}">
+       {{ if eq .media_type "youtube" }}
+         <iframe src="https://www.youtube-nocookie.com/embed/{{ .src }}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+       {{ end }}
+       {{ if eq .media_type "vimeo" }}
+         <iframe src="https://player.vimeo.com/video/{{ .src }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+       {{ end }}
+    {{ else }}
+      <div class="q-figure__wrapper">
+        {{ if eq .media_type "inline-svg" }}
+          {{ .src | safeHTML }}
+        {{ else }}
+          <img  src="/assets/img/figures/{{ .src }}" alt="" />
+        {{ end }}
+    {{ end }}
+    {{ if eq ($.Get "label") "true" }}
+      {{ if .label }}
+      <span class="q-figure-label">{{ .label | markdownify }}</span>
+      {{ else }}
+      <span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}</span>
+      {{ end }}
+    {{ end }}
+  </div>
+    {{ if $.Get "caption" }}
+    {{ else }}
+    <figcaption><span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}{{ $.Site.Params.imageLabelContentAfter }}</span>{{ .caption | markdownify }}</figcaption>
+    {{ end }}
+  </figure>
+  {{ end }}
+{{ end }}
+{{ with .Get "caption" }}
+<figcaption>{{ . | markdownify }}</figcaption>
+{{ end }}
+</figure>
+{{ end }}

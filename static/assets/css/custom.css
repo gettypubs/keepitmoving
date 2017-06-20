@@ -35,3 +35,25 @@
 .quire-citation:focus + .quire-citation-content {
   display: block;
 }
+
+
+.q-figure__wrapper__video--standard {
+  padding-bottom: 75%;
+  position: relative;
+}
+
+.q-figure__wrapper__video--widescreen {
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+.q-figure__wrapper__video--standard iframe,
+.q-figure__wrapper__video--widescreen iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+

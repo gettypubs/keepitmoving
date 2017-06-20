@@ -83,7 +83,7 @@ In 1990, to preserve the original *Méta-Matic No. 10* of 1959 ([fig. 1.3](#1.3)
 
 Both the original *Méta-Matic No. 10* and its replica are in the collection of the Museum Tinguely (Basel, Switzerland). The original has never been exhibited in operation; however, visitors are allowed to operate the replica to produce their own *Méta-Matic* drawings ([fig. 1.5](#1.5)). Because, with *Méta-Matic*, Tinguely is questioning the idea of uniqueness by using machines to make art, being open to replication for such an artwork is consistent with the artwork’s original concept.
 
-[**Video 1.5 goes here**]
+{{< q-figure id="1.5" >}}
 
 Tinguely’s and Gabo’s decisions to replicate *Sculpture méta-mécanique automobile* and *Méta-Matic No. 10* demonstrate a respect for the historical value of the original artwork as the best fragments of the past that we have available. Correspondingly, concepts embedded in the work are valued for the important role they play in engaging public interaction.
 
@@ -97,7 +97,7 @@ In the late 1960s, with the abundance of off-the-shelf technology available to a
 
 Piene’s *Neon Medusa* of 1969 ([figs. 1.6](#1.6), [1.7](#1.7)) consists of a chromed sphere on a stem and base. Four hundred and forty-nine adjustable, chromed gooseneck lamps are attached to the sphere, each fitted with an orange glow lamp. The goosenecks allow the individual positioning of each lamp around the sphere. Piene specifically designed the body of the work for orange glow lamps—an early version of neon lights—which have bulbs filled with neon gas that produces an orange light. The light pattern of the sphere is programmed to run from a chrome controller box, attached to the sculpture with an electric cable ([fig. 1.8](#1.8))
 
-[**Video 1.8 goes here**]
+{{< q-figure id="1.8" >}}
 
 In 2014, forty-five years after its creation, the work underwent a conservation treatment when the Neuberger Museum of Art (New York) requested it for an exhibition. However, *Neon Medusa* did not function, and there was little documentation regarding its programing and conservation history.
 
@@ -138,7 +138,7 @@ In 2010, when *Corner Basher* (1988) was twenty-two years old and had been exhib
 
 Larner clearly stated that *Corner Basher* is a “machine, not an artifact,” and that it should “be kept in best order”: highly precise advice from an artist who is fully aware that her work is a potential hazard to the public if it is not carefully maintained ([fig. 1.10](#1.10)).
 
-[**Video 1.10 goes here**]
+{{< q-figure id="1.10" >}}
 
 The question of <em>Corner Basher</em>’s physical decline in relation to its performativity is difficult to foresee. The sculpture is roughly assembled, suggesting that it is mainly about the action of smashing the walls it is chained to. The artist’s definition of the work as a machine suggests that replication could be a logical preservation approach; however, it will be some time before periodic replacement of parts is no longer feasible. The way the artist created the work could be especially important for future preservation efforts. According to her studio:
 
@@ -152,7 +152,7 @@ This case study discusses the work of a member of a younger generation of artist
 
 Three years after the work’s creation, the fabricator of the lightning system, a branch of Philips called Color Kinetics, discontinued the production of the low-voltage LED lamps, controllers, and cables in favor of a newly developed high-voltage system. The original lamps and controllers are no longer produced, and any updated LED lamp will not be supported by the obsolete data supply and vice versa.
 
-[**Video 1.12 goes here**]
+{{< q-figure id="1.12" >}}
 
 To preserve <em>Flowers 8</em>’s outdoor installation, the owner and the artist agreed to create an updated replica. The artist will produce this new version in close cooperation with our studio, Bek & Frohnert, to document and support the transformation of the work from the original. This migration will happen when the LED lamps further deteriorate and become unrepairable. When such a metamorphosis occurs, it can be quite challenging to meet the expectations of the artist, the owner, and the conservator. It is possible that a new version of this work may not look like the original. The artist expressed the desire to archive the original hardware as evidence of the first version, but he did not approve the simultaneous existence of two versions of the same piece.
 
