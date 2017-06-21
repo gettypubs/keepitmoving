@@ -1,5 +1,5 @@
 ---
-title: Forward
+title: Foreword
 type: page
 menu: true
 contributor:

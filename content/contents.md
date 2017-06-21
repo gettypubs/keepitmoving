@@ -7,7 +7,7 @@ menu: true
 {{% quire-toc %}}
 
 - [Cover](/)
-- [Forward](/forward/) — Tim Whalen
+- [Foreword](/foreword/) — Tim Whalen
 - [Preface](/preface/) — Rachel Rivenc
 - [Opening Remarks](/opening-remarks/) — Iolanda Ratti
 
