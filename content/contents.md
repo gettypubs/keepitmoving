@@ -9,7 +9,7 @@ menu: true
 - [Cover](/)
 - [Foreword](/foreword/) — Tim Whalen
 - [Preface](/preface/) — Rachel Rivenc
-- [Opening Remarks](/opening-remarks/) — Iolanda Ratti
+- [Opening Remarks: The Kinetic Collection at the Museo del Novecento, Milan](/opening-remarks/) — Iolanda Ratti
 
 1. [Keynotes](/keynotes/)
 2. [Case Studies](/case-studies/)
