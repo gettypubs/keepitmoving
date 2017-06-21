@@ -19,7 +19,7 @@ menu: true
 
 - [List of Contributors](/contributors/)
 - [List of Participants](/participants/)
-- [Selected Bibliography](/selected-bibliography/)
+- [Bibliography](/bibliography/)
 - [About](/about/)
 
 {{% /quire-toc %}}
