@@ -53,8 +53,6 @@ Gabo provided a clearly articulated explanation of his intention, a description 
 
 {{< q-figure id="1.2" >}}
 
-{{< q-figure id="1.3" >}}
-
 Jean Tinguely (1925–1991) also opted to retire his *Sculpture méta-mécanique automobile* of 1954 ([fig. 1.2](#1.2)) in 1988, prior to his retrospective at the Centre Pompidou that same year. Such a decision is surprising considering that thirty years earlier, in his 1959 manifesto *Für Statik*, Tinguely proclaimed: “Everything moves, there is no standstill” . . . “stop resisting change” . . . “Bind the anxiety and resist the weakness to want to stop movement.”[^1] Through such statements, he appeared to oppose standstill in general and instead propose flow and vitality, underscoring his belief that art and life should be in constant movement. Ironically, he criticized museums as mausoleums, yet held the most important shows of his career in such institutions. In later years he donated important works to major museums, in addition to planning his own museum.
 
 This contradictory attitude is not unusual among artists who work with ephemeral materials and media prone to obsolescence. It suggests that Tinguely was interested in the preservation of his sculptures, even though he proclaimed in a 1984 interview: “My works are not intended for eternity, they’ll wear themselves out and land back on the garbage heap whence they came” ({{< q-cite "Hahnloser-Ingold and Bezzola 1988" "252" >}}).
@@ -62,8 +60,6 @@ This contradictory attitude is not unusual among artists who work with ephemeral
 In 1988, before the retrospective at the Centre Pompidou, a curator asked him to restore one of his important early wire sculptures. At the time, *Sculpture méta-mécanique automobile* malfunctioned and had sustained structural damage. Conservator Astrid Lorenzen, then a recent graduate, reflected on her encounter with the work:
 
 >\[*Sculpture méta-mécanique automobile*\] consists of iron wire, soldered “cogwheels” and geometric colorful shapes, fastened to a central iron rod via axles. The sculpture stands on three wheels, a big one and two smaller. Tinguely had welded a clockwork onto the central iron rod. It made it possible to set the sculpture in motion via a belt, two wooden wheels with circumferential grooves, and a wire wheel, which he had secured onto the wooden wheel on the clockwork. The sculpture was able to move freely in space, while the wire wheels interlocked and set the colorfully painted geometric shapes in motion ({{< q-cite "Lorenzen 2012" "200" >}}).
-
-{{< q-figure id="1.3" class="float-right" >}}
 
 From the moment of creation, the work sustained major changes in its condition: the clockwork did not function. The wire structure was corroded and several of the cogwheel’s wire rods were missing. Oxidation of the painted sheet-metal pieces caused color changes on the geometric design elements. The Pompidou’s conservation department considered retirement for the object, due to its fragility and compromised state, or replication/maintenance to restore the work to a functioning state.
 
@@ -73,13 +69,15 @@ When Tinguely was asked about the work, he felt that the sculpture had lost its 
 
 With the artist’s input, a preservation plan was conceived that valued the work’s physical appearance and the historical importance of the artist’s hand over its performativity. The artwork was retired from its active function and efforts were made to conserve the color changes of the geometric shapes and replace the structure of the cogwheels. *Sculpture méta-mécanique automobile* has since been exhibited as a relic, occasionally accompanied by historical photography.
 
-{{< q-figure id="1.4" >}}
-
 Tinguely did not consider replication here, choosing instead to boldly embrace the inevitable consequence of “failure” inherent in kinetic art. He often played with the concept of the “breakdown” of his own works as a metaphor for the possible “breakdown” of technology and even society. In contrast, he at times embraced the idea of the replica. In 1959, he introduced art-producing kinetic artworks into his oeuvre and called those sculptures *Méta-Matics*. The Museum Tinguely’s collection catalogue describes the works as “drawing machines which, using felt-tip pens, are able to create abstract drawings automatically.” To use these machines,
 
 > the spectator is called on to clamp a pen in the machine, fix a sheet of paper, and press a release button. The arm to which the pen is secured moves irregularly up and down, usually very fast, and leaves behind strokes and dots on the paper. It is possible to change the color, and the intensity of the color, by letting the pen operate for a longer or shorter period, and by having it make heavier or lighter contact with the paper. Thus, a drawing is created that, on the one hand, is the result of an art activity—perhaps therefore achieving the status of a souvenir—and, on the other hand, a product of the three artists who jointly created the work: Jean Tinguely, the creator of the drawing mechanical sculpture; the mechanical sculpture itself; and finally, the spectator, who in this context becomes a user and, a creator of art ({{< q-cite "Pardey 2012" "52" >}}).
 
 In 1990, to preserve the original *Méta-Matic No. 10* of 1959 ([fig. 1.3](#1.3)), which remained in his personal collection, the artist and his studio replicated the artwork ([fig. 1.4](#1.4)) for a solo exhibition in Russia titled *Tinguely in Moscow* ({{< q-cite "Pardey 2012" "54" >}}). To increase the likelihood of replacing worn parts, the studio fabricated the replica with fewer details than the original. The replica was mounted on a black wooden box that provided storage for paper and felt-tip pens.
+
+{{< q-figure id="1.3" >}}
+
+{{< q-figure id="1.4" >}}
 
 Both the original *Méta-Matic No. 10* and its replica are in the collection of the Museum Tinguely (Basel, Switzerland). The original has never been exhibited in operation; however, visitors are allowed to operate the replica to produce their own *Méta-Matic* drawings ([fig. 1.5](#1.5)). Because, with *Méta-Matic*, Tinguely is questioning the idea of uniqueness by using machines to make art, being open to replication for such an artwork is consistent with the artwork’s original concept.
 
@@ -89,11 +87,11 @@ Tinguely’s and Gabo’s decisions to replicate *Sculpture méta-mécanique aut
 
 ## Otto Piene
 
-{{< q-figure-group id="1.6" >}}
+In the late 1960s, with the abundance of off-the-shelf technology available to artists, kinetic and Op Art evolved from artisanal to industrial fabrication, bringing issues of obsolescence to the forefront of conservation. Otto Piene (1928–2014), a founding member of the group ZERO, established in 1958, epitomized the group’s approach to art making. ZERO questioned the role of the artist’s hand and placed greater importance on materials and the interaction of the artwork with light and space.
+
+{{< q-figure id="1.6" >}}
 
 {{< q-figure id="1.7" class="float-right" >}}
-
-In the late 1960s, with the abundance of off-the-shelf technology available to artists, kinetic and Op Art evolved from artisanal to industrial fabrication, bringing issues of obsolescence to the forefront of conservation. Otto Piene (1928–2014), a founding member of the group ZERO, established in 1958, epitomized the group’s approach to art making. ZERO questioned the role of the artist’s hand and placed greater importance on materials and the interaction of the artwork with light and space.
 
 Piene’s *Neon Medusa* of 1969 ([figs. 1.6](#1.6), [1.7](#1.7)) consists of a chromed sphere on a stem and base. Four hundred and forty-nine adjustable, chromed gooseneck lamps are attached to the sphere, each fitted with an orange glow lamp. The goosenecks allow the individual positioning of each lamp around the sphere. Piene specifically designed the body of the work for orange glow lamps—an early version of neon lights—which have bulbs filled with neon gas that produces an orange light. The light pattern of the sphere is programmed to run from a chrome controller box, attached to the sculpture with an electric cable ([fig. 1.8](#1.8))
 
@@ -162,18 +160,7 @@ Some artists would like the appearance of the replica to remain as close to the 
 
 Conservators continue to encounter complexities of care with historical kinetic and Op Art. Our challenges are not limited to the mechanical but extend into the digital, and our main challenge may be the evolution of technology. The ubiquity of technology gives almost anyone the capability of programing and controlling complex operating systems or interactive, computer-based installations. There is a clear tendency by young artists toward custom-built code, computer-controlled showcases, and robotics. At the same time, artists are becoming very aware of the limits of technology as they are challenged by art professionals to collaborate on the installation and repair of their work.
 
-The previous dependency of artists on industrially manufactured devices is comparable to today’s dependency on technology. Piene’s *Neon Medusa* (1969) and Villareal’s *Flowers 8* (2005) use distinct light sources that rely upon off-the shelf, programmable technology. However, the thirty-six years’ difference underscores the contemporary trend away from repairable technology and toward replacement technology. <em>Neon Medusa</em>’s analog timer control was fabricated when there was a possibility of repair: the simplicity of design allows the motor to be exchanged and the timer wheels to be refabricated. Perhaps even the glow lamps could be refabricated by a specialty light-bulb factory. In contrast, Villareal’s *Flowers 8* utilizes a mass-produced lighting system discontinued three years after the work’s creation. An obsolete system of lamps, cables, plugs, and data supplies comprise 90 percent of the physical artwork. Today’s digital technology is very specific, and most devices are not made to be repaired to extend the life of their functions. Modules belonging to a single contained system are exchanged regularly. Once the system is discontinued, identical parts may be salvaged for the time being, but it is unlikely that the system can be supported in the long term. Facing such dilemmas, the conservation field may need to adapt to the idea of regularly updated versions of more contemporary artworks, perhaps abandoning the ideal of the artwork anchored in time. This reality becomes even more challenging when the artist’s hand is visible or artists modify consumer technology. It is important for the profession to discuss parameters to help us navigate this terrain. Should we elevate the importance of performativity? Do we replicate an artwork’s performance to keep it alive and physically authentic at the same time ({{< q-cite "Kolešnik 2012" "test" "2012" >}}; {{< q-cite "van Saaze 2013" "test" >}})?
-
-{{< q-cite "Kolešnik 2012" "test" "2012" >}}
-
-{{< q-cite "van Saaze 2013" "test" >}}
-
-{{< q-cite "Muñoz Viñas 2010" "test" >}}
-
-{{< q-cite "*Weird* 2017a" "test" >}}
-
-{{< q-cite "[Weird] 2017b" "test" >}}
-
+The previous dependency of artists on industrially manufactured devices is comparable to today’s dependency on technology. Piene’s *Neon Medusa* (1969) and Villareal’s *Flowers 8* (2005) use distinct light sources that rely upon off-the shelf, programmable technology. However, the thirty-six years’ difference underscores the contemporary trend away from repairable technology and toward replacement technology. <em>Neon Medusa</em>’s analog timer control was fabricated when there was a possibility of repair: the simplicity of design allows the motor to be exchanged and the timer wheels to be refabricated. Perhaps even the glow lamps could be refabricated by a specialty light-bulb factory. In contrast, Villareal’s *Flowers 8* utilizes a mass-produced lighting system discontinued three years after the work’s creation. An obsolete system of lamps, cables, plugs, and data supplies comprise 90 percent of the physical artwork. Today’s digital technology is very specific, and most devices are not made to be repaired to extend the life of their functions. Modules belonging to a single contained system are exchanged regularly. Once the system is discontinued, identical parts may be salvaged for the time being, but it is unlikely that the system can be supported in the long term. Facing such dilemmas, the conservation field may need to adapt to the idea of regularly updated versions of more contemporary artworks, perhaps abandoning the ideal of the artwork anchored in time. This reality becomes even more challenging when the artist’s hand is visible or artists modify consumer technology. It is important for the profession to discuss parameters to help us navigate this terrain. Should we elevate the importance of performativity? Do we replicate an artwork’s performance to keep it alive and physically authentic at the same time?
 
 ## Notes
 
