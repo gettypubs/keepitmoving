@@ -13,7 +13,7 @@ menu: true
 
 1. [Keynotes](/keynotes/)
 2. [Case Studies](/case-studies/)
-3. [Strategies to Preserve Kinetic Collections/An Artist’s Kinetic Oeuvre](/strategies/)
+3. [Collections/Artists’ Oeuvres](/collections/)
 4. [Theoretical Issues](/theoretical-issues/)
 5. [Posters](/posters/)
 
