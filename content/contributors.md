@@ -5,4 +5,6 @@ type: page
 menu: true
 ---
 
-Generated automatically from essay yml
+Edited by [Rachel Rivenc](#rachel-rivenc) and [Reinhard Bek](#reinhard-bek)
+
+{{< q-contributors range="all" >}}
