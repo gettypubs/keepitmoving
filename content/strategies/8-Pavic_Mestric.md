@@ -108,7 +108,7 @@ This highlights the responsibility that all museum professionals have in decidin
 
 ## Notes
 
-[^1]: ({{<q-cite "Kolešnik 2012" "">}}). The robustness of this period in art led to five exhibitions entitled *New Tendencies* held in Zagreb between 1961 and 1973, organized by what is today the Museum of Contemporary Art. In fact, some of the museum’s most important holdings are the works of art and archive documentation produced by the New Tendencies participants.
+[^1]: {{<q-cite "Kolešnik 2012" "">}}. The robustness of this period in art led to five exhibitions entitled *New Tendencies* held in Zagreb between 1961 and 1973, organized by what is today the Museum of Contemporary Art. In fact, some of the museum’s most important holdings are the works of art and archive documentation produced by the New Tendencies participants.
 
 [^2]: Srnec, in Gordana Brzović and Kristina Leko’s documentary *Aleksandar Srnec* (2000), 57 min.
 
@@ -116,7 +116,7 @@ This highlights the responsibility that all museum professionals have in decidin
 
 [^4]: The authors are grateful to Krešo Vlahek for his expert assistance.
 
-[^5]: ({{<q-cite "Goodman 1976" "113">}}) calls art forms such as painting and etching “autographic” arts: “a work of art is autographic if and only if the distinction between original and forgery of it is significant; or better, if and only if even the most exact duplication of it does not thereby count as genuine.”
+[^5]: {{<q-cite "Goodman 1976" "113">}} calls art forms such as painting and etching “autographic” arts: “a work of art is autographic if and only if the distinction between original and forgery of it is significant; or better, if and only if even the most exact duplication of it does not thereby count as genuine.”
 
 [^6]: Technical characteristics: scan resolution 660 dpi.
 

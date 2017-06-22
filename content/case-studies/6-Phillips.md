@@ -147,6 +147,6 @@ If the restoration of *As Yet Untitled* had not been completed after the Montrea
 
 [^2]: Sherry Phillips, in conversation with Max Dean, AGO, 2015.
 
-[^3]: ({{<q-cite "Langill 2006" "">}}), Question 4.
+[^3]: {{<q-cite "Langill 2006" "">}}, Question 4.
 
 [^4]: Sherry Phillips, in conversation with Max Dean, April 8, 2016.
