@@ -1,7 +1,6 @@
 ---
 id: "7"
 title: Takis and the Fourth Dimension
-subtitle: A Case Study
 type: essay
 contributor:
  - first_name: Erin
