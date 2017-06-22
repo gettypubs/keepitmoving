@@ -1,6 +1,6 @@
 ---
 id: "3"
-title: Strategies to Preserve Kinetic Collections/An Artist’s Kinetic Oeuvre
+title: Collections/Artists’ Oeuvres
 type: section-head
 weight: 300
 ---
