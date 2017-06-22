@@ -92,4 +92,4 @@ I would particularly like to thank Mrs. Eléonore de Lavandeyra Schöffer for he
 
 [^4]: {{<q-cite "Lacroix 2006" "">}}. Also, for complete information about the project, see the audio recording of the interview with Mrs. Schöffer, May 2016.
 
-[^5]: {{<q-cite "van Saaze 2007" "">}}. This exchange approach between artist and conservator, and issues linked to interpretation and extrapolation of the artist’s intent, are developed in Manon D’haenens, “De l’intention à l’extrapolation, interpretation des oeuvres de Nicolas Schöffer,” in *Study Days in Paris on Nicolas Schöffer: Conserving/Restoring Works of a Technological Nature, Villa des Arts, Paris, November 3, 2016*, CeROArt (forthcoming).
+[^5]: {{<q-cite "van Saaze 2009" "">}}. This exchange approach between artist and conservator, and issues linked to interpretation and extrapolation of the artist’s intent, are developed in Manon D’haenens, “De l’intention à l’extrapolation, interpretation des oeuvres de Nicolas Schöffer,” in *Study Days in Paris on Nicolas Schöffer: Conserving/Restoring Works of a Technological Nature, Villa des Arts, Paris, November 3, 2016*, CeROArt (forthcoming).
