@@ -8,15 +8,15 @@ contributor:
    last_name: Plante
    bio: Isabel Plante holds a PhD in art history from the Universidad de Buenos Aires. She is a researcher with the Consejo Nacional de Investigaciones Científicas y Técnicas (National Council of Scientific and Technical Research) at the Universidad Nacional de San Martín, Argentina. Dr. Plante’s doctoral thesis, which includes a chapter on kinetic art, was published in Argentina as *Argentinos de París. Arte y viajes culturales durante los años sesenta* (2013).
 abstract: |
-    In the 1960s, kineticism[^1] attracted a wide audience and exhibitions of kinetic art drew large crowds, apparently fulfilling the most ambitious objective of the avant-garde: to integrate art and life. Some kinetic objects were made in series: the idea of multiples was at the core of these artists’ strategies of “demystifying” art objects by avoiding the uniqueness fetish. The idea of an industrial production of kinetic multiples made it possible to imagine the extension to a wider audience of the optically destabilizing effects of the visual artifacts. This paper analyzes kinetic multiples as an artistic production that discovered its limits and contradictions amid arguments about culture, standardization, and consumption around 1968.
+    In the 1960s, kineticism [See note 2] attracted a wide audience and exhibitions of kinetic art drew large crowds, apparently fulfilling the most ambitious objective of the avant-garde: to integrate art and life. Some kinetic objects were made in series: the idea of multiples was at the core of these artists’ strategies of “demystifying” art objects by avoiding the uniqueness fetish. The idea of an industrial production of kinetic multiples made it possible to imagine the extension to a wider audience of the optically destabilizing effects of the visual artifacts. This paper analyzes kinetic multiples as an artistic production that discovered its limits and contradictions amid arguments about culture, standardization, and consumption around 1968.
 weight: 402
 ---
 
 {{< q-figure id="13.1" >}}
 
-In 1966, Julio Le Parc represented Argentina in the Venice Biennale ([fig. 13.1](#13.1)) and received the international grand prize in painting. According to the reviews, his space was one of the most visited.[^2] As the appeal of kinetic art continued to grow and draw crowds to museums, it seemed to meet the most ambitious objective of the avant-garde: to integrate art and life.
+In 1966, Julio Le Parc represented Argentina in the Venice Biennale ([fig. 13.1](#13.1)) and received the international grand prize in painting. According to the reviews, his space was one of the most visited.[^1] As the appeal of kinetic art continued to grow and draw crowds to museums, it seemed to meet the most ambitious objective of the avant-garde: to integrate art and life.
 
-Kineticism was an international trend composed of different groups of artists that were in contact with one another, including the Groupe de Recherche d’Art Visuel (GRAV) in France, Gruppo T and Gruppo N in Italy, ZERO in Germany, Dwizjenije in Moscow, and USCO in New York. In 1964, the *Nouvelle tendance* exhibition at Paris Musée des Arts Décoratifs had gathered about fifty artists from eleven countries.[^3] In Pascal Rousseau’s words, kinetic art was viewed “as a kind of Esperanto through which each individual would communicate with the world in the ecstatic intoxication of optical vibration” ([**Rousseau 2005**](#bib):142).
+Kineticism[^2] was an international trend composed of different groups of artists that were in contact with one another, including the Groupe de Recherche d’Art Visuel (GRAV) in France, Gruppo T and Gruppo N in Italy, ZERO in Germany, Dwizjenije in Moscow, and USCO in New York. In 1964, the *Nouvelle tendance* exhibition at Paris Musée des Arts Décoratifs had gathered about fifty artists from eleven countries.[^3] In Pascal Rousseau’s words, kinetic art was viewed “as a kind of Esperanto through which each individual would communicate with the world in the ecstatic intoxication of optical vibration” ([**Rousseau 2005**](#bib):142).
 
 A cognitive understanding of perception allowed the kineticists to claim that the optical effects were not merely illusions. Altering visual and synesthetic perception entailed the literal and symbolic alteration of the ways in which each participant perceived him or herself and the world. As Umberto Eco and Victor Vasarely pointed out in the early 1960s, while this art helped develop the sensorial capacity of modern viewers under the new social and technological circumstances,[^4] the resources implemented by kinetic art also intended to call into question not only the system of the fine arts but also a society that artists such as Le Parc thought had become automated.
 
@@ -90,9 +90,9 @@ I thank the Biblioteca di Tella for making material available for this paper.
 
 ## Notes
 
-[^1]: I use “kineticism” rather than “kinetic art” because I am referring to an avant-garde art movement (Cubism, Dadaism, etc.) and because these artists were discussing the status of art, the traditional aura. The edition of multiples was part of their strategies, as discussed in this paper.
+[^1]: Pierre Mazars, “La peinture se meurt, la peinture est morte,” *Le Figaro littéraire*, June 23, 1966, 13.
 
-[^2]: Pierre Mazars, “La peinture se meurt, la peinture est morte,” *Le Figaro littéraire*, June 23, 1966, 13.
+[^2]: I use “kineticism” rather than “kinetic art” because I am referring to an avant-garde art movement (Cubism, Dadaism, etc.) and because these artists were discussing the status of art, the traditional aura. The edition of multiples was part of their strategies, as discussed in this paper.
 
 [^3]: [**Popper 1967**](#bib). The first encounter of New Tendencies was held at GRAV’s studio in Paris in November 1962. It was attended by the ZERO group, Gruppo T, Gruppo N, and some critics, such as Matko Meštrović. *Nove Tendencije*, the first New Tendencies exhibition, was organized in Zagreb in 1961 by Meštrović. On kinetic art history, see also [**Brett 1969**](#bib) and [**Bértola 1973**](#bib).
 
