@@ -31,7 +31,7 @@ The demands of frequent exhibition have necessitated a practical approach and a 
 
 ## Gregorio Vardanega
 
-[**Video 9.1 goes here**]
+{{< q-figure id="9.1" >}}
 
 Gregorio Vardanega’s *Espaces chromatiques carrées en spirale* *(Chromatic Spaces Turning in a Spiral)* (1968) ([fig. 9.1](#9.1)) had been shown at the museum twice before accessioning. When conservators first examined it in 2012, forty-nine of its sixty-three bulbs did not work.
 
@@ -43,7 +43,7 @@ The E5850 Orbitec 15W 230V E10 bulbs are no longer available with exactly the sa
 
 *Couleurs sonores* (Sound Colors) (1963–79) ([fig. 9.3](#9.3)), Vardanega’s design for a futuristic city of skyscrapers, was accessioned in 2013, but, at 4.6m high, it was too tall for the intended gallery and unfortunately could not be included in *Cosmic Dialogues*. The work had been permanently installed in the artist’s studio and was donated to MFAH by his estate.
 
-[**Video 9.3 goes here**]
+{{< q-figure id="9.3" >}}
 
 Plastic sleeves over clear bulbs create the colored lights, as in *Chromatic Spaces*, and the sequence is similarly controlled by a music box–like drum hitting a row of switches. These simple mechanical devices often resist obsolescence better than colored bulbs or modern, software-based programming, and the mechanisms were again found to be in very good working order. However, some of the plastic sockets for the bayonet-base bulbs have become brittle with age and light exposure, and three socket cups broke under the pressure of inserting the bulbs. Repairs done with epoxy reinforced with polyester mesh had a tendency to fail, and replacement of all these sockets with a brass version may have to be considered before display. All the bulbs currently work, but more have been purchased for the future.
 
@@ -65,13 +65,11 @@ MFAH has two Julio Le Parc sculptures, one from 1960–66 and another from 1968,
 
 ## Horacio García Rossi
 
-[**Video 9.3 goes here**]
-
-{{< q-figure id="9.6" class="float-right">}}
+{{< q-figure id="9.5" >}}
 
 Horacio García Rossi’s *Structure à lumiere instable no. 29 (Unstable Light Structure No. 29)* (1966) ([fig. 9.5](#9.5)) had been shown in a previous exhibition just after acquisition, but the lights had since stopped working. There are ninety acrylic rods of different thickness and length on the exterior. Two lights on the inside of the front panel ([fig. 9.6](#9.6)) project light onto the back of the box, on which a wooden disk with a forest of shiny metal squares ([fig. 9.7](#9.7)) is mounted, turned by a motor. As the disk turns, the metal squares shift position on their wires, casting light randomly through the acrylic rods.
 
-{{< q-figure id="9.7" class="float-right">}}
+{{< q-figure-group id="9.6, 9.7, 9.8" grid="3" >}}
 
 The light fixtures were reused parts from electric-eye systems, one of which still had its label: “Berkeley Dynamic, Burlingame, California, 1981.” Before purchase by MFAH, this work had only one owner, California sculptor Benbow Bullock, so the Berkeley Dynamic fixture must have been installed by Bullock. Four severely charred holes on the inner acrylic layer behind the front panel do not correspond in location to these fixtures, indicating that the original configuration was considerably different.
 
@@ -81,13 +79,11 @@ Shortly before installation, we finally succeeded in contacting García Rossi’
 
 After *Structure à lumiere instable no. 29* was deinstalled, we used Marcos’s sketch as a reference for treatment. The replacement LED bulbs[^3] greatly reduced the amount of heat generated, so we eliminated the asbestos lining and substitute four-ply mat board for the original wood (for convenience) ([fig. 9.8](#9.8)). The visual result when the object was turned on was somewhat brighter and livelier, with the flickering fully restored (see [fig. 9.5](#9.5)).
 
-{{< q-figure id="9.8" >}}
-
 ## Abraham Palatnik
 
 In Brazil, Abraham Palatnik, an artist and engineer of Russian descent, abandoned traditional painting after seeing artwork made by schizophrenics, which he felt surpassed his own efforts despite their lack of formal training ({{<q-cite "Osorio 2004" "97">}}). Seeking to connect more directly to the subconscious, he made his first kinetic work in 1949, in which colored lights are diffused through a plastic screen and shaded by moving cardboard shapes. The museum owns a 1962 version, *Aparelho cinecromático (Chromo-kinetic set)* ([fig. 9.9](#9.9)).
 
-[**Video 9.9 goes here**]
+{{< q-figure id="9.9" >}}
 
 Twenty-five colored and clear frosted bulbs inside *Aparelho cinecromático* turn on and off in a programmed sequence, while black cardboard shades move in front of the bulbs, casting shadows and obscuring lights ([fig. 9.10](#9.10)). Some of the bulbs no longer functioned, and when Palatnik visited the museum before this work was shown in the 2007 exhibition *Dimensions of Constructive Art in Brazil: The Adolpho Leirner Collection*, and we discussed the problem of bulb replacement, because the bulbs were no longer made in the same color tones. We decided to replace the nonfunctioning bulbs with locally sourced colored bulbs for the exhibition, but the new bulbs produced noticeably less saturated colors. Some of the old bulbs are almost certainly replacements, but there is no documentation of the original color configuration, so the condition of the object upon accessioning is being used as the benchmark. Palatnik himself was unconcerned about the exact color of the bulbs or the replacement of any parts. During the 2015 treatment, we colored replacement bulbs with glass paints[^4] using an airbrush to mimic the saturation of the older ones. The surviving old bulbs were removed for future reference.
 

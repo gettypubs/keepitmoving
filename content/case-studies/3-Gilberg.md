@@ -20,7 +20,7 @@ weight: 201
 
 ## Introduction
 
-[**Video 3.1 goes here**]
+{{< q-figure id="3.1" >}}
 
 Artist Chris Burden (1946–2015) designed and fabricated *Metropolis II* (2011), an intense kinetic sculpture modeled after a frenetic modern city ([fig. 3.1](#3.1)). Steel tubing (Unistrut®) forms a structural grid interwoven with an elaborate system of eighteen roadways, including a six-lane freeway, and HO-scale[^1] train tracks. Miniature cars speed through the city at 240 scale miles per hour; every hour, the equivalent of approximately one hundred thousand cars circulates through the sculpture’s dense network of buildings. According to Burden, “The noise, the continuous flow of the trains, and the speeding toy cars produce in the viewer the stress of living in a dynamic, active and bustling 21st century city” ({{<q-cite "Schader 2012" "">}}). Burden described its fabrication as a “string and felt tip pen operation”; that is, no computer renderings or plans were used ({{<q-cite "Schader 2012" "">}}). The sculpture took five years to build, and the development of the architecture was very organic, with Burden in the studio every day making aesthetic decisions. Purchased by the Nicholas Berggruen Foundation, *Metropolis II* is on loan through 2022 to the Los Angeles County Museum of Art (LACMA), and it has been on display and in continuous operation since January 2012. It took almost three months to disassemble the sculpture and four and a half months to install at LACMA.
 

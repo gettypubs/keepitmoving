@@ -74,7 +74,7 @@ Shortly after the initial interview with Takis, the project began to generate se
 
 With an exhibition imminent, conservation treatment and installation details moved forward, with the majority of the project focused on *Magnetic Tableau No. 7* and *Ballet Magnetique*.
 
-[**Video 7.6 goes here**]
+{{< q-figure id="7.6" >}}
 
 ## Conservation
 
@@ -88,7 +88,7 @@ The kinetic nature of *Ballet Magnetique* required a more complex and invasive t
 
 Treatment of the work focused on restoring its function, and the abrasions and superficial spots of corrosion were left untreated to respect Takis’s aesthetic detachment. A new circuit-board-format bridge rectifier and heat sink were wired into position and connected to the long pins with crimp connectors. The new configuration was secured with a short screw, using an existing hole in the underside of the base. The original selenium rectifier was retained, although it was removed for the duration of the exhibition. All wire connections were reestablished with twist-on connectors to avoid soldering. Several frayed wires were replaced for safety reasons, but the originals were retained. At that point the electromagnet was turned on for testing, and the springs and bend of the relay coupon were adjusted to get maximum contact when closed and maximum spread when open. Finally, the power cord was replaced by splicing the lead inside the wooden box and adding an electrical-tape stop just inside the inner wall. A thumbwheel actuator was added for ease of operation during exhibition, but once again the original cord was retained ([fig. 7.8](#7.8)).
 
-[**Video 7.8 goes here**]
+{{< q-figure id="7.8" >}}
 
 ## Exhibition Planning for *Takis: The Fourth Dimension*
 
@@ -100,7 +100,7 @@ Takis was consulted for assistance in troubleshooting the problems. A compromise
 
 The original elements appeared to be painted fishing bobbins made from now-solid cork with cylindrical magnets inserted into the center. A copy of the round form was made by facing the cork core of a softball with thin cork sheeting until it reached the correct diameter, and then it was spray-painted matte black. A copy of the biconical form was made from two corks adhered on-end and painted with white acrylic. Both pieces were given hanging hardware and a magnet of appropriate strength, and weighted with lead shot to be the same weight as their respective originals. The copies (left) can be compared to the originals (right) ([fig. 7.9](#7.9)). The final exhibition copy of *Ballet Magnetique* stayed true to the artist’s intention without compromising the most fragile original materials ([fig. 7.10](#7.10)).
 
-[**Video 7.10 goes here**]
+{{< q-figure id="7.10" >}}
 
 For the installation of *Magnetic Tableau No. 7*, Takis sent several images that included a copy of the same installation diagram the Menil had on file, confirming that the original information came from the artist. However, he also sent images of scaffolding that was similar to the scaffolding seen in images uncovered during the research phase of the project. The time, funds, and space required for scaffolding were not practical for the Menil so an alternative was presented to Takis. At some point during the project, a friend of Melissa Warak had visited Paris and photographed a Magnetic Tableau installed at the Centre Pompidou. There appeared to be a partial wall hanging from the ceiling opposite the painting from which the elements could be suspended. Takis granted the Menil permission to create a simplified version of that design using thin metal rods. This allowed successful viewing of the piece while maintaining the correct angles in the work and respecting its focus ([fig. 7.11](#7.11)).
 
