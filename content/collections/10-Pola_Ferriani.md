@@ -88,7 +88,7 @@ In the third corridor, there is only a Wood’s lamp (black light), and walls co
 
 Colombo’s intentions were expressed in the work’s original installation at *Vitalità del negativo nell’arte italiana 1960/70*, in Rome’s Palazzo delle Esposizioni, where *Topoestesia* was the first part of a longer itinerary. It was followed by two other walkable environments: *Campo praticabile* (Practicable field), by Colombo and Agnetti, and *Spazio elastico* (Elastic space). Further evidence can be seen in Ugo Mulas’s photographs of Colombo, where the artist, as if on a theatrical stage, performs his own behaviors inside *Topoestesia*.
 
-The reconstruction of this environment in 2015, as well as the reconstructions of all Colombo’s environments, was carried out by the Archivio Gianni Colombo. As Marco Scotini, director of the archive, has stated: “Colombo’s environment is a repeatable spatial device, a device which operates autonomously and, in some measure, anonymously . . . \[and\] which requires the direct participation of the spectator” ([**Ferriani and Pugliese 2013**](#bib):100).
+The reconstruction of this environment in 2015, as well as the reconstructions of all Colombo’s environments, was carried out by the Archivio Gianni Colombo. As Marco Scotini, director of the archive, has stated: “Colombo’s environment is a repeatable spatial device, a device which operates autonomously and, in some measure, anonymously . . . \[and\] which requires the direct participation of the spectator” ({{<q-cite "Ferriani and Pugliese 2013" "100">}}).
 
 ## Conclusion
 

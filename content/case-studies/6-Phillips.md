@@ -17,7 +17,7 @@ weight: 204
 
 ## Introduction
 
-Without loan requests, some of the most fascinating and challenging conservation projects would end up languishing on to-do lists. Complex projects tend to be event-driven rather than the result of strategic long-term planning ([**Smithsonian Institution 2010**](#bib)). The restoration of *As Yet Untitled* began in 2013 with a loan request from VOX, Centre de l’Image Contemporaine, a leading public gallery in Montreal. To loan the work, the Art Gallery of Ontario (AGO) had to ensure that it would operate reliably and without constant repairs. A review of the artwork’s file revealed that *As Yet Untitled* had been popular, engaging, and a critical success but was also considered a temperamental and seemingly incomprehensible machine.
+Without loan requests, some of the most fascinating and challenging conservation projects would end up languishing on to-do lists. Complex projects tend to be event-driven rather than the result of strategic long-term planning ({{<q-cite "Smithsonian Institution 2010" "">}}). The restoration of *As Yet Untitled* began in 2013 with a loan request from VOX, Centre de l’Image Contemporaine, a leading public gallery in Montreal. To loan the work, the Art Gallery of Ontario (AGO) had to ensure that it would operate reliably and without constant repairs. A review of the artwork’s file revealed that *As Yet Untitled* had been popular, engaging, and a critical success but was also considered a temperamental and seemingly incomprehensible machine.
 
 The robotic arm and photograph installation *As Yet Untitled* (1992–95) was created by Toronto-based artist Max Dean. It was first exhibited at the AGO in 1996 and eventually acquired as part of the permanent collection in 2007, with full knowledge of its history and the challenges it presented. Before coming into the collection, the piece had toured internationally with Dean and his technical assistants.[^1] As with most kinetic art, maintenance is essential to the operation and appreciation of the piece. *As Yet Untitled* was developed and constructed in the artist’s studio with a team of mechanical and computer specialists, whom Dean describes as “tinkerers.”[^2]
 
@@ -147,6 +147,6 @@ If the restoration of *As Yet Untitled* had not been completed after the Montrea
 
 [^2]: Sherry Phillips, in conversation with Max Dean, AGO, 2015.
 
-[^3]: [**Langill 2006**](#bib), Question 4.
+[^3]: {{<q-cite "Langill 2006" "">}}, Question 4.
 
 [^4]: Sherry Phillips, in conversation with Max Dean, April 8, 2016.
