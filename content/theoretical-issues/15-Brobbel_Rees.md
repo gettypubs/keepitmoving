@@ -35,7 +35,7 @@ Lye presented ten of his tangibles (including the now popular works *Fountain*, 
 
 Lye’s MoMA presentation had none of the impact of Jean Tinguely’s destructive performance of *Homage to New York* at the same venue just a year earlier, in 1960.[^2] However, Lye steadily developed a body of tangibles, comprehensively exhibited in contemporary surveys of the kinetic medium such as *Directions in Kinetic Sculpture* curated by Peter Selz at Berkeley Art Museum in 1966, regular exhibitions with New York’s Howard Wise Gallery, and Pontus Hulten’s *Bewogen* *Beweging* (Moving movement) at the Stedelijk Museum in 1961. The Berkeley exhibition involved a remarkable work, *A Flip and Two Twisters (Trilogy)*, sublimely attesting to Lye’s interest in empathy. Two 3m strips of stainless steel are suspended from the ceiling, spun from a motor and snaking into a dance until the braking of the motor forces a sudden, violent, and noisy stop. Between the *Twisters* is *Flip*, a loop of steel slowly twisted by a ceiling-mounted motor until the loop turns inside out, rises in and up, and collapses under its own weight with a crashing tumble into its original position. Lye described the effect as “a bucket of iced water and icicles tumbling down the spine” ([**Lye 1966**](#bib):1) ([fig. 15.2](#15.2)).
 
-[**Video 15.2 goes here**]
+{{< q-figure id="15.2" >}}
 
 *Free Radicals* is typically considered Lye’s greatest achievement in film, and his most acclaimed sculptural work is *Trilogy*, singled out by Philip Leider in his *Artforum* review of Selz’s exhibition:
 
@@ -61,7 +61,7 @@ Prior to the conservation of *Trilogy*, the Len Lye Foundation completed a two-y
 
 Of serious concern was the method of controlling <em>Loop</em>’s performance. With the original control unit missing and undocumented (neither in Art Institute records nor the foundation’s), we decided not to attempt to replicate a vintage-style control system but rather to develop a modern PLC unit to direct the operation of the magnets and the choreography of the performance. There was only limited footage of *Loop* performing during the 1960s to reference, so the program was adapted from the foundation’s 1998 reconstruction of Lye’s 1976 *Universe* (a circular relationship, given the *Loop* to *Universe* genealogy) ([fig. 15.4](#15.4)).
 
-[**Video 15.4 goes here**]
+{{< q-figure id="15.4" >}}
 
 *Loop* returned to Chicago with its original, expired components marked for archiving. Its updated electrics and programming allow the Art Institute to exhibit the work, and, externally, it is entirely original in material. The new steel band offers the Art Institute a substitute to use should future conservation of the original band be impossible. The PLC unit allows easy fine-tuning of the work’s programming, if necessary (for example, if historical footage of the performance surfaces, or if exhibiting curators face challenges with <em>Loop</em>’s decibel levels).
 
@@ -71,7 +71,7 @@ Nonetheless, working from complete or nearly complete vintage components, the fo
 
 The question of authenticity—the touch of the artist’s hand, or “contagion” ([**Newman and Bloom 2011**](#bib))—was directly addressed in the 2007 exhibition *Five Fountains and a Firebush* at Govett-Brewster. Lye’s seminal work *Fountain* was presented in varying scales across five iterations alongside a variant work, *Firebush* (also known as *Dancing Fountain*) ([fig. 15.5](#15.5)). With the *Fountains* gently swaying under colored lights and with a recording of Pierre Boulez’s *Le marteau sans maître* providing a soundtrack, curator Tyler Cann created an homage to Lye’s *Evening of Tangible Motion Sculpture* of 1961. The theatrical presentation (interpreted from the artist’s original performance notes held in the foundation’s archive) emphasized the performative element in the artist’s conception of his tangibles rather than their material quality.
 
-[**Video 15.5 goes here**]
+{{< q-figure id="15.5" >}}
 
 Cann created a proposition in this exhibition: Which of these is authentic? Toying with the audience’s perception of authorship, the exhibition presented two vintage works in *Fountain I* (both circa 1960), a reconstructed *Fountain I*, and reconstructions of *Fountain II*, *Firebush*, and *Fountain III* (engineered in New Plymouth by Matthews for the *Kinetic Works* exhibition). In asking the audience to think of one of these as the most authentic *Fountain*, Cann posited that none of these *Fountains* was quite Lye’s ([**Cann 2007**](#bib):12).
 

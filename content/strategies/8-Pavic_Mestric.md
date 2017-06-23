@@ -21,7 +21,7 @@ weight: 302
 
 Aleksandar Srnec (Zagreb, 1924–2010) was a prominent Croatian artist whose work developed between 1950 and 1970, a vital period for the arts as well as for international culture, politics, and economics. Srnec was a member of the EXAT 51 group, active in the early 1950s, which sought to introduce experimentation into art and based its activities on the theories and traditions of Russian Constructivism, Bauhaus, and Neoplasticism. EXAT 51 was followed in the 1960s by the New Tendencies movement, which highlighted the need for the socialization and democratization of art and played a crucial role in the development of both the Croatian art scene (then Yugoslavia) and the international art scene. New Tendencies attracted artists who were experimenting with optical, kinetic, and luminokinetic art, in addition to influential scholars of Neo-Constructivist and kinetic art and information theory such as Giulio Carlo Argan, Abraham Moles, Matko Meštrović, and Alberto Biasi.[^1] Srnec’s creative drive found its basis in research and experimentation and, in 1953, led him to a key achievement of the EXAT 51 period, *Space Modulator* ([fig. 8.1](#8.1)), the first object to give three dimensions to lines; in other words, to turn a drawing into a space. *Space Modulator* holds a special place in his oeuvre because it was the first of a series of kinetic and luminokinetic settings, which Srnec constructed and exhibited at New Tendencies shows during the 1960s. There is an obvious link with one of László Moholy-Nagy’s most important luminokinetic objects, *Light Space Modulator* (1930), but only at the formal level. Moholy-Nagy experimented with light and movement to create the ambience, while Srnec, using light and movement, transformed the two-dimensional line motif into a three-dimensional medium.
 
-[**Video 8.2 goes here**]
+{{< q-figure id="8.2" >}}
 
 The connection between two- and three-dimensional media was to become a distinctive feature of the artist’s work. Srnec called his luminokinetic works Luminoplastics ([fig. 8.2](#8.2)), and through them he joined a large group of artists who experimented with space, from pioneers of kinetic art (such as Alexander Rodchenko, Naum Gabo, Vladimir Tatlin, Moholy-Nagy, and Alexander Calder) to his contemporaries (including Nicolas Schöffer, Otto Piene, Bruno Munari, Jesús Rafael Soto, Jean Tinguely, Julio Le Parc, and Alberto Biasi, among others) ([**Denegri 2004**](#bib)).
 
@@ -39,7 +39,7 @@ Srnec constructed *Luminoplastic 1* between 1965 and 1967, and it is an extremel
 
 This work was on display during the opening of the new MSU building in 2009, in the museum’s first permanent collection exhibition since its establishment in 1954.[^3] The constant use to which *Luminoplastic 1* was subjected, eight hours per day, caused several faults to occur in the electric motor and slide projector. The exacting requirements for exhibiting *Luminoplastic 1* prompted us to analyze the materials in detail and consider strategies for maintenance and display. This required a systematic and interdisciplinary approach as these elements, when becoming part of an art object, change their habitus, their original intent, and are used for a purpose for which they had not originally been intended. Thus, the curators and conservators faced a number of challenges relating to the maintenance and protection of the work, as well as the optimal way of exhibiting it. To approach the conservation decision-making process systematically, it was necessary to understand the object’s history and artistic-historical position as well as its mechanics and materials (metals, rubber, plastic, and photographic media). It was obvious that we would need the assistance of experts in various fields.
 
-[**Video 8.6 goes here**]
+{{< q-figure id="8.6" >}}
 
 ## The Electric Motor
 
@@ -84,7 +84,7 @@ The second problem related to (timed) interruptions in the slide projection, whi
 
 Another option would have been to transfer the scanned slides onto film. In this case, the experts at the professional studio where the slides were scanned[^8] were willing to guarantee success in transferring black-and-white films and classic slides onto film, but could not offer a similar guarantee about the collages, as there was no standard procedure envisaged for obtaining absolutely faithful copies.
 
-[**Video 8.11 goes here**]
+{{< q-figure id="8.11" >}}
 
 An additional complication in producing copies of the slides was that, at the time the originals were made, they were probably not photographed, developed, and archived with an awareness of all the technical norms required to guarantee unquestionable slide quality. The noticeable departure from neutral, achromatic colors (white, gray) was probably the result of less-than-perfect photography and development, and our photographic reproductions of the drawings do not show white properly (the lines have a green tinge). Srnec, who was not a perfectionist in the technical sense, was probably not troubled by this departure from exact colors, so it is necessary that we transfer these details faithfully onto exhibition copies. Each slide copy would be labelled as such during the process, so that the copy and the original could be clearly distinguished at any moment.
 

@@ -169,7 +169,8 @@ figure_list:
       © 2017 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn. Photo: Courtesy of Otto Piene Archive, ZERO Foundation, Düsseldorf.
 
   - id: "3.1"
-    src: fig-3-1-video-gilberg.mp4
+    src: 7vQkoFfU9gA
+    media_type: youtube
     caption: >
       Chris Burden’s *Metropolis II* in action.
     credit: >
@@ -288,14 +289,16 @@ figure_list:
       Photo: Yale University Art Gallery.
 
   - id: "4.9"
-    src: fig-4-1-video-snow.mov
+    src: h4PxDv_CFS4
+    media_type: youtube
     caption: >
       Yale University Art Gallery’s video documentation of Wilfred’s *Lumia Suite, Opus 158*. Museum of Modern Art, New York, Department of Painting and Sculpture, Museum Collection Files.
     credit: >
       Video: Courtesy Yale University Art Gallery.
 
   - id: "5.1"
-    src: fig-5-1-video-lawson.mov
+    src: gj42ZITk7EM
+    media_type: youtube
     caption: >
       The central crown of *Umbrella*, 1971, by Wen-Ying Tsai (1928–2013), in action at Tate Modern’s Tank Gallery, June 16, 2016–February 5, 2017.
     credit: >
@@ -330,7 +333,8 @@ figure_list:
       Courtesy Tsai Art and Science Foundation. Photo: © Tate, London 2016.
 
   - id: "6.1"
-    src: fig-6-1-video-phillips.mp4
+    src: h5mMCqOLACo
+    media_type: youtube
     caption: >
       Max Dean’s *As Yet Untitled*, 1992–95, on view in *Drone: The Automated Image* at VOX, Centre de l’Image Contemporaine, September 7–October 19, 2013, during Le Mois de la Photo à Montréal 2013. Installation from the collection of the Art Gallery of Ontario.
     credit: >
@@ -407,7 +411,8 @@ figure_list:
       © Takis Foundation. Photo: The Menil Collection, Houston, Adam Baker.
 
   - id: "7.6"
-    src: fig-7-6-video-stephenson.mov
+    src: OdKBY-9Xeos
+    media_type: youtube
     caption: >
       Sound produced by the operation of Takis’s *Musical-M.013*, 2000. The Menil Collection, Houston, gift of the artist.
     credit: >
@@ -421,7 +426,8 @@ figure_list:
       © Takis Foundation. Photo: The Menil Collection, Houston, Adam Baker.
 
   - id: "7.8"
-    src: fig-7-8-video-stephenson.mov
+    src: lBixeFhcJm8
+    media_type: youtube
     caption: >
       Detail of posttreatment mechanics on Takis’s *Ballet Magnetique*, 1961. The Menil Collection, Houston.
     credit: >
@@ -435,7 +441,8 @@ figure_list:
       © Takis Foundation. Photo: The Menil Collection, Houston, Adam Baker.
 
   - id: "7.10"
-    src: fig-7-10-video-stephenson.mov
+    src: j86w750dsNU
+    media_type: youtube
     caption: >
       Operation of Takis’s *Ballet Magnetique*, 1961, after conservation treatment. The Menil Collection, Houston.
     credit: >
@@ -456,7 +463,8 @@ figure_list:
       Photo: © Goran Vranic.
 
   - id: "8.2"
-    src: fig-8-2-video-pavic.mp4
+    src: j5rhSkSZc3w
+    media_type: youtube
     caption: >
       Aleksandar Srnec adjusting his luminokinetic artwork at his exhibition in 1969. Museum of Contemporary Art, Zagreb.
     credit: >
@@ -498,7 +506,8 @@ figure_list:
       Photo: © Jovan Kliska.
 
   - id: "8.6"
-    src: fig-8-6-video-pavic.mp4
+    src: bXS4nfmu5Tw
+    media_type: youtube
     caption: >
       Analogue projection of Aleksandar Srnec’s *Luminoplastic 1*, 1965–67.
     credit: >
@@ -554,14 +563,16 @@ figure_list:
       Photo: © Jovan Kliska.
 
   - id: "8.11"
-    src: fig-8-11-video-pavic.mp4
+    src: EY3foRIJIFE
+    media_type: youtube
     caption: >
       Comparison of the analogue and digital projections.
     credit: >
       Museum of Contemporary Art, Zagreb.
 
   - id: "9.1"
-    src: fig-9-1-video-gillies.mp4
+    src: zNr9YISTQfw
+    media_type: youtube
     caption: >
       Gregorio Vardanega’s *Espaces chromatiques carrées en spirale (Chromatic Spaces Turning in a Spiral)*, 1968, Plexiglas, light bulbs, and motor; after treatment. The Museum of Fine Arts, Houston, museum purchase funded by the Latin Maecenas, 2010.173.
     credit: >
@@ -575,7 +586,8 @@ figure_list:
       © Estate of Gregorio Vardanega. Courtesy Sicardi Gallery Houston. Photo: Jane Gillies © The Museum of Fine Arts, Houston.
 
   - id: "9.3"
-    src: fig-9-3-video-gillies.mp4
+    src: PVJR2aAmdU4
+    media_type: youtube
     caption: >
       Gregorio Vardanega’s *Couleurs sonores (Sound Colors)*, 1963–79, metal, light bulbs, and electric motor; after treatment. The Museum of Fine Arts, Houston, gift of the estate of the artist and Sicardi Gallery, 2013.665.A-.G.
     credit: >
@@ -589,7 +601,8 @@ figure_list:
       © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris. Photo: Matt Golden © The Museum of Fine Arts, Houston.
 
   - id: "9.5"
-    src: fig-9-5-video-gillies.mp4
+    src: E1HBHKpd46U
+    media_type: youtube
     caption: >
       Horacio García Rossi’s *Structure à lumiere instable no. 29 (Unstable Light Structure No. 29)*, 1966, painted wood, Lucite rods, electric motor, and lights; after treatment. The Museum of Fine Arts, Houston, gift of Benbow and Jean Bullock, 2004.1618.
     credit: >
@@ -617,7 +630,8 @@ figure_list:
       © Horatio García Rossi. Photo: Jane Gillies © The Museum of Fine Arts, Houston.
 
   - id: "9.9"
-    src: fig-9-9-video-gillies.mp4
+    src: wRws0HvLPB8
+    media_type: youtube
     caption: >
       Abraham Palatnik’s *Aparelho cinecromático (Chromo-kinetic set)*, 1962, wooden box with plastic cover, electric motor, and colored light bulbs linked to a programmed electric circuit and cardboard paddles; after treatment. The Museum of Fine Arts, Houston, the Adolpho Leirner Collection of Brazilian Constructive Art, museum purchase funded by the Caroline Wiess Law Accessions Endowment Fund, 2007.21.
     credit: >
@@ -939,7 +953,8 @@ figure_list:
       Len Lye Foundation Collection, Govett-Brewster Art Gallery/Len Lye Centre.
 
   - id: "15.2"
-    src: fig-15-2-video-brobbel.mp4
+    src: fgqht8Ui8dw
+    media_type: youtube
     caption: >
       Len Lye’s *A Flip and Two Twisters (Trilogy)*, 1977.
     credit: >
@@ -953,14 +968,16 @@ figure_list:
       Len Lye Foundation Collection, Govett-Brewster Art Gallery/Len Lye Centre.
 
   - id: "15.4"
-    src: fig-15-4-video-brobbel.mp4
+    src: zuY2-yNpJ-8
+    media_type: youtube
     caption: >
       Len Lye’s *Loop*, ca. 1964, after its 2016 restoration. The Art Institute of Chicago, Barbara Neff Smith and Solomon Byron Smith Purchase Fund.
     credit: >
       © Len Lye Foundation Collection.
 
   - id: "15.5"
-    src: fig-15-5-video-brobbel.mp4
+    src: t_Or2bTzcbg
+    media_type: youtube
     caption: >
       Len Lye’s *Five Fountains and a Firebush*, 2007. Govett-Brewster Art Gallery.
     credit: >

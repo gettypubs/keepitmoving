@@ -81,9 +81,9 @@ Because the original Colorwall 30 rear projection screen provided by the Trans-L
 
 A critical part of any treatment of kinetic art is documentation that includes high-resolution video. The Yale University Art Gallery is planning to do additional still image and video documentation once an acceptable new screen is chosen. Simultaneous with the high-resolution video, several twelve-minute cycles of the work will be captured using multiple video cameras, and these will appear on-screen to the viewers in the gallery. Behind the screen, video cameras will film the mechanics of the various moving parts that create the projected image. Though Wilfred may not have approved of our revealing the interior kinetic components that produced his lumia, this may be the only opportunity to document *Lumia Suite, Opus 158* from the inside out ([fig. 4.9](#4.9)).
 
-Wilfred’s groundbreaking contribution to kinetic art and time-based media is finally being reevaluated through a long-awaited retrospective in 2017 and the scholarly consideration that accompanies such an endeavor. The exhibition would be impoverished without the inclusion of Wilfred’s magnum opus, *Lumia Suite, Opus 158*. Our conservation and restoration of the physical and electrical components of this masterwork allow it to be safely exhibited for the first time in over three decades, and the small upgrades ensure that the installation can be enjoyed long into the future.
+{{< q-figure id="4.9" >}}
 
-[**Video 4.9 goes here**]
+Wilfred’s groundbreaking contribution to kinetic art and time-based media is finally being reevaluated through a long-awaited retrospective in 2017 and the scholarly consideration that accompanies such an endeavor. The exhibition would be impoverished without the inclusion of Wilfred’s magnum opus, *Lumia Suite, Opus 158*. Our conservation and restoration of the physical and electrical components of this masterwork allow it to be safely exhibited for the first time in over three decades, and the small upgrades ensure that the installation can be enjoyed long into the future.
 
 ## Materials and Suppliers
 
