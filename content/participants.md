@@ -133,7 +133,7 @@ menu: true
     France
 
 
-- **Manon D’haenens** ( [Bio](/contributors/#manon-d’haenens) | [Contribution](/theoretical-issues/14-dhaenens/) )
+- **Manon D’haenens** ( [Bio](/contributors/#manon-dhaenens) | [Contribution](/theoretical-issues/14-dhaenens/) )
 
     Université de Liège
 
@@ -381,7 +381,7 @@ Sciences
     The Netherlands
 
 
-- **Vesna Meštrić** ( [Bio](/contributors/#vesna-meštrić) | [Contribution](/collections/8-pavic_mestric/) )
+- **Vesna Meštrić** ( [Bio](/contributors/#vesna-me%C5%A1tri%C4%87) | [Contribution](/collections/8-pavic_mestric/) )
 
     Museum of Contemporary Art, Zagreb
 
@@ -431,7 +431,7 @@ PATRIMA, Paris
     Spain
 
 
-- **Mirta Pavić** ( [Bio](/contributors/#mirta-pavić) | [Contribution](/collections/8-pavic_mestric/) )
+- **Mirta Pavić** ( [Bio](/contributors/#mirta-pavi%C4%87) | [Contribution](/collections/8-pavic_mestric/) )
 
     Museum of Contemporary Art, Zagreb
 

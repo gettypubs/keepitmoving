@@ -143,7 +143,7 @@
 
 <ul class="q-contributors__list">
 {{ range ($.Page.Scratch.GetSortedMapValues "contributorlist") }}
-  {{ $nameid := lower (replace (add (index . 0) (add " " (index . 1)) ) " " "-") }}
+  {{ $nameid := urlize (replace (add (index . 0) (add " " (index . 1)) ) " " "-") }}
     <li class="q-contributors__list__item" id="{{ $nameid }}">
       <p><strong>{{ index . 0 }} {{ index . 1 }}</strong></p>
       <p>{{ if ne (index . 2) "n/a" }}{{ markdownify (index . 2) }}{{ end }}</p>
