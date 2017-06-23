@@ -5,497 +5,694 @@ type: page
 menu: true
 ---
 
-Sara Abram
-Centro Conservazione Restauro, “La Veneria Reale,” Turin
-Italy
+- **Sara Abram**
+
+    Centro Conservazione Restauro, “La Veneria Reale,” Turin
+
+    Italy
 
 
-Satenik Aeschi
-Academy of Fine Arts, Vienna
-Austria
+- **Satenik Aeschi**
+
+    Academy of Fine Arts, Vienna
+
+    Austria
 
 
-Alessandra Bassi
-Centro Conservazione Restauro, “La Veneria Reale,” Turin
-Italy
+- **Alessandra Bassi**
+
+    Centro Conservazione Restauro, “La Veneria Reale,” Turin
+
+    Italy
 
 
-Lydia Beerkens
-SRAL Art Conservation and Research, Maastrich
-The Netherlands
+- **Lydia Beerkens**
+
+    SRAL Art Conservation and Research, Maastrich
+
+    The Netherlands
 
 
-Reinhard Bek [1](1)
-Bek & Frohnert LLC, New York
-USA
+- **Reinhard Bek** ( [Bio](/contributors/#reinhard-bek) | [Contribution](/keynotes/1-bek/) )
+
+    Bek & Frohnert LLC, New York
+
+    USA
 
 
-Roberto Bestetti
-CESMAR7, Reggio Emilia
-Italy
+- **Roberto Bestetti**
+
+    CESMAR7, Reggio Emilia
+
+    Italy
 
 
-Anna Bogatin
-Private practice, Philadelphia
-USA
+- **Anna Bogatin**
+
+    Private practice, Philadelphia
+
+    USA
 
 
-Laura Brambilla
-Haute École Arc Conservation-Restauration, Neuchâtel
-Switzerland
+- **Laura Brambilla**
+
+    Haute École Arc Conservation-Restauration, Neuchâtel
+
+    Switzerland
 
 
-Federica Bressan
-Ghent University
-Belgium
+- **Federica Bressan**
+
+    Ghent University
+
+    Belgium
 
 
-Paul Brobbel [15](15)
-Govett-Brewster Art Gallery, New Plymouth
-New Zealand
+- **Paul Brobbel** ( [Bio](/contributors/#paul-brobbel) | [Contribution](/theoretical-issues/15-brobbel_rees/) )
+
+    Govett-Brewster Art Gallery, New Plymouth
+
+    New Zealand
 
 
-My Bundgaard
-Moderna Museet, Stockholm
-Sweden
+- **My Bundgaard**
+
+    Moderna Museet, Stockholm
+
+    Sweden
 
 
-Tiziana Caianiello [2](2)
-ZERO Foundation, Düsseldorf
-Germany
+- **Tiziana Caianiello** ( [Bio](/contributors/#tiziana-caianiello) | [Contribution](/keynotes/2-caianiello/) )
+
+    ZERO Foundation, Düsseldorf
+
+    Germany
 
 
-Marianna Cappellina [16](16)
-Strati s.n.c., in residence at Museo Nazionale della Scienza e della
-Tecnologia “Leonardo da Vinci,” Milan
-Italy
+- **Marianna Cappellina** ( [Bio](/contributors/#marianna-cappellina) | [Contribution](/posters/16-cappellina/) )
+
+    Strati s.n.c., in residence at Museo Nazionale della Scienza e della
+
+    Tecnologia “Leonardo da Vinci,” Milan
+
+    Italy
 
 
-Brian Castriota
-University of Glasgow
-Scotland
+- **Brian Castriota**
+
+    University of Glasgow
+
+    Scotland
 
 
-Grazia Cavanna
-Private practice conservator, Milan
-Italy
+- **Grazia Cavanna**
+
+    Private practice conservator, Milan
+
+    Italy
 
 
-Susan Costello
-Harvard Art Museums, Cambridge
-Massachusetts, USA
+- **Susan Costello**
+
+    Harvard Art Museums, Cambridge
+
+    Massachusetts, USA
 
 
-Kate Cuffari
-Philadelphia Museum of Art
-USA
+- **Kate Cuffari**
+
+    Philadelphia Museum of Art
+
+    USA
 
 
-Cécile Dazord
-Centre de Recherche et de Restauration des Musées de France, Paris
-France
+- **Cécile Dazord**
+
+    Centre de Recherche et de Restauration des Musées de France, Paris
+
+    France
 
 
-Manon D’haenens [14](14)
-Université de Liège
-Belgium
+- **Manon D’haenens** ( [Bio](/contributors/#manon-d’haenens) | [Contribution](/theoretical-issues/14-dhaenens/) )
+
+    Université de Liège
+
+    Belgium
 
 
-Dörte Doering
-University of Applied Sciences, Bern
-Switzerland
+- **Dörte Doering**
+
+    University of Applied Sciences, Bern
+
+    Switzerland
 
 
-Matilde Dolcetti
-Matilde Dolcetti Restauri y Conservazione, Milan
-Italy
+- **Matilde Dolcetti**
+
+    Matilde Dolcetti Restauri y Conservazione, Milan
+
+    Italy
 
 
-Abigail Duckor
-Los Angeles County Museum of Art
-USA
+- **Abigail Duckor**
+
+    Los Angeles County Museum of Art
+
+    USA
 
 
-Mine Erhan [17](17)
-Conservation Studio “Die Schmiede,” Duisberg
-Germany
+- **Mine Erhan** ( [Bio](/contributors/#mine-erhan) | [Contribution](/posters/17-erhan/) )
+
+    Conservation Studio “Die Schmiede,” Duisberg
+
+    Germany
 
 
-Pierre-Alain Fardel
-DEartIsSIGN, Bullion
-France
+- **Pierre-Alain Fardel**
+
+    DEartIsSIGN, Bullion
+
+    France
 
 
-Barbara Ferriani [10](10)
-Barbara Ferriani srl, Milan
-Italy
+- **Barbara Ferriani** ( [Bio](/contributors/#barbara-ferriani) | [Contribution](/collections/10-pola_ferriani/) )
+
+    Barbara Ferriani srl, Milan
+
+    Italy
 
 
-Michaela Florescu
-Independent conservator, Paris
-France
+- **Michaela Florescu**
+
+    Independent conservator, Paris
+
+    France
 
 
-Serena Francone
-Private practice, Milan
-Italy
+- **Serena Francone**
+
+    Private practice, Milan
+
+    Italy
 
 
-Wolfram Gabler
-BGT, Berlin
-Germany
+- **Wolfram Gabler**
+
+    BGT, Berlin
+
+    Germany
 
 
-Julia Giebeler [12](12)
-Cologne Institute of Conservation Sciences/Cologne University of Applied
+- **Julia Giebeler** ( [Bio](/contributors/#julia-giebeler) | [Contribution](/theoretical-issues/12-heydenreich_giebeler/) )
+
+    Cologne Institute of Conservation Sciences/Cologne University of Applied
 Sciences
-Germany
+
+    Germany
 
 
-Mark Gilberg [3](3)
-Los Angeles County Museum of Art
-USA
+- **Mark Gilberg** ( [Bio](/contributors/#mark-gilberg) | [Contribution](/case-studies/3-gilberg/) )
+
+    Los Angeles County Museum of Art
+
+    USA
 
 
-Jane Gillies [9](9)
-Museum of Fine Arts, Houston
-Texas, USA
+- **Jane Gillies** ( [Bio](/contributors/#jane-gillies) | [Contribution](/collections/9-gillies/) )
+
+    Museum of Fine Arts, Houston
+
+    Texas, USA
 
 
-Claudio Giorgione [16](16)
-Museo Nazionale della Scienza e della Tecnologia “Leonardo da Vinci,”
+- **Claudio Giorgione** ( [Bio](/contributors/#claudio-giorgione) | [Contribution](/posters/16-cappellina/) )
+
+    Museo Nazionale della Scienza e della Tecnologia “Leonardo da Vinci,”
 Milan
-Italy
+
+    Italy
 
 
-Tim Griffiths
-Rowland Emett Society, Birmingham
-United Kingdom
+- **Tim Griffiths**
+
+     Rowland Emett Society, Birmingham
+
+    United Kingdom
 
 
-Alexis Guillou
-ENSAV LaCambre, Brussels
-Belgium
+- **Alexis Guillou**
+
+    ENSAV LaCambre, Brussels
+
+    Belgium
 
 
-Albrecht Gumlich
-M+ Museum Limited
-Hong Kong
+- **Albrecht Gumlich**
+
+    M+ Museum Limited
+
+    Hong Kong
 
 
-Jim Gwinner
-McKay Lodge Fine Art Conservation Laboratory, Inc., Oberlin
-Ohio, USA
+- **Jim Gwinner**
+
+    McKay Lodge Fine Art Conservation Laboratory, Inc., Oberlin
+
+    Ohio, USA
 
 
-Tora Hederus
-Moderna Museet, Stockholm
-Sweden
+- **Tora Hederus**
+
+    Moderna Museet, Stockholm
+
+    Sweden
 
 
-Gunnar Heydenreich [12](12)
-Cologne Institute of Conservation Sciences/Cologne University of Applied
+- **Gunnar Heydenreich** ( [Bio](/contributors/#gunnar-heydenreich) | [Contribution](/theoretical-issues/12-heydenreich_giebeler/) )
+
+    Cologne Institute of Conservation Sciences/Cologne University of Applied
 Sciences
-Germany
+
+    Germany
 
 
-Clara Huynh
-Institut National du Patrimoine, independent conservator, Paris
-France
+- **Clara Huynh**
+
+    Institut National du Patrimoine, independent conservator, Paris
+
+    France
 
 
-Paola Iazurlo [18](18)
-Istituto Superiore per la Conservazione ed il Restauro, Rome
-Italy
+- **Paola Iazurlo** ( [Bio](/contributors/#paola-iazurlo) | [Contribution](/posters/18-iazurlo/) )
+
+    Istituto Superiore per la Conservazione ed il Restauro, Rome
+
+    Italy
 
 
-Marina Isgro
-University of Pennsylvania/Philadelphia Museum of Art
-USA
+- **Marina Isgro**
+
+    University of Pennsylvania/Philadelphia Museum of Art
+
+    USA
 
 
-Ulrich Lang
-Museum für Moderne Kunst, Frankfurt am Main
-Germany
+- **Ulrich Lang**
+
+    Museum für Moderne Kunst, Frankfurt am Main
+
+    Germany
 
 
-Julia Langenbacher
-Private practice, Hamburg
-Germany
+- **Julia Langenbacher**
+
+    Private practice, Hamburg
+
+    Germany
 
 
-Marina Cristina Lanza
-Private practice
-Italy
+- **Marina Cristina Lanza**
+
+    Private practice
+
+    Italy
 
 
-Ariane Lavezzo
-Museu de Arte Contemporânea, University of São Paulo, Ibirapuera
-Brazil
+- **Ariane Lavezzo**
+
+    Museu de Arte Contemporânea, University of São Paulo, Ibirapuera
+
+    Brazil
 
 
-Tom Learner
-Getty Conservation Institute, Los Angeles
-USA
+- **Tom Learner**
+
+    Getty Conservation Institute, Los Angeles
+
+    USA
 
 
-Emma Le Cornu
-National Heritage Board
-Singapore
+- **Emma Le Cornu**
+
+    National Heritage Board
+
+    Singapore
 
 
-Josefina Lopez
-Conservarts, private practice, Santiago
-Chile
+- **Josefina Lopez**
+
+    Conservarts, private practice, Santiago
+
+    Chile
 
 
-Abigail Mack [19](19)
-Mack Art Conservation LLC, Red Hook
-New York, USA
+- **Abigail Mack** ( [Bio](/contributors/#abigail-mack) | [Contribution](/posters/19-mack/) )
+
+    Mack Art Conservation LLC, Red Hook
+
+    New York, USA
 
 
-Jasmin Mackenzie
-City and Guilds of London Art School
-United Kingdom
+- **Jasmin Mackenzie**
+
+    City and Guilds of London Art School
+
+    United Kingdom
 
 
-Nahid Matin Pour
-ZKM | Center for Art and Media, Karlsruhe
-Germany
+- **Nahid Matin Pour**
+
+    ZKM | Center for Art and Media, Karlsruhe
+
+    Germany
 
 
-Esther Meijer [11](11)
-Stedelijk Museum Amsterdam
-The Netherlands
+- **Esther Meijer** ( [Bio](/contributors/#esther-meijer) | [Contribution](/collections/11-meijer/) )
+
+    Stedelijk Museum Amsterdam
+
+    The Netherlands
 
 
-Susanne Meijer [11](11)
-Stedelijk Museum Amsterdam
-The Netherlands
+- **Susanne Meijer** ( [Bio](/contributors/#susanne-meijer) | [Contribution](/collections/11-meijer/) )
+
+    Stedelijk Museum Amsterdam
+
+    The Netherlands
 
 
-Vesna Meštrić [8](8)
-Museum of Contemporary Art, Zagreb
-Croatia
+- **Vesna Meštrić** ( [Bio](/contributors/#vesna-meštrić) | [Contribution](/collections/8-pavic_mestric/) )
+
+    Museum of Contemporary Art, Zagreb
+
+    Croatia
 
 
-Aline Michel
-Haute École Arc Conservation-Restauration, Neuchâtel
-Switzerland
+- **Aline Michel**
+
+    Haute École Arc Conservation-Restauration, Neuchâtel
+
+    Switzerland
 
 
-Baptiste Monsaingeon
-Centre de Recherche et de Restauration des Musées de France/LabEx
+- **Baptiste Monsaingeon**
+
+    Centre de Recherche et de Restauration des Musées de France/LabEx
 PATRIMA, Paris
-France
+
+    France
 
 
-Nicola Müller
-Müller Rieß Welther Conservation, Berlin
-Germany
+- **Nicola Müller**
+
+    Müller Rieß Welther Conservation, Berlin
+
+    Germany
 
 
-Beau Ott
-Private collector, Philadelphia
-USA
+- **Beau Ott**
+
+    Private collector, Philadelphia
+
+    USA
 
 
-Samantha Owens
-Winterthur/University of Delaware Program in Art Conservation
-Delaware, USA
+- **Samantha Owens**
+
+    Winterthur/University of Delaware Program in Art Conservation
+
+    Delaware, USA
 
 
-Flavia Parisi
-Polytechnic University of Valencia
-Spain
+- **Flavia Parisi**
+
+    Polytechnic University of Valencia
+
+    Spain
 
 
-Mirta Pavić [8](8)
-Museum of Contemporary Art, Zagreb
-Croatia
+- **Mirta Pavić** ( [Bio](/contributors/#mirta-pavić) | [Contribution](/collections/8-pavic_mestric/) )
+
+    Museum of Contemporary Art, Zagreb
+
+    Croatia
 
 
-Marlies Peller [20](20)
-Academy of Fine Arts, Vienna
-Austria
+- **Marlies Peller** ( [Bio](/contributors/#marlies-peller) | [Contribution](/posters/20-peller/) )
+
+    Academy of Fine Arts, Vienna
+
+    Austria
 
 
-Christel Pesme
-M+ Museum Limited
-Hong Kong
+- **Christel Pesme**
+
+    M+ Museum Limited
+
+    Hong Kong
 
 
-Sherry Phillips [6](6)
-Art Gallery of Ontario, Toronto
-Canada
+- **Sherry Phillips** ( [Bio](/contributors/#sherry-phillips) | [Contribution](/case-studies/6-phillips/) )
+
+    Art Gallery of Ontario, Toronto
+
+    Canada
 
 
-Isabel Plante [13](13)
-Consejo Nacional de Investigaciones Científicas y Técnicas, Universidad
+- **Isabel Plante** ( [Bio](/contributors/#isabel-plante) | [Contribution](/theoretical-issues/13-plante/) )
+
+    Consejo Nacional de Investigaciones Científicas y Técnicas, Universidad
 Nacional de San Martín, Buenos Aires
-Argentina
 
+    Argentina
 
-Thomas Podnar
-McKay Lodge Fine Art Conservation Laboratory, Inc., Oberlin
-Ohio, USA
 
+- **Thomas Podnar**
 
-Francesca Pola [10](10)
-Conservator in private practice, Milan
-Italy
+    McKay Lodge Fine Art Conservation Laboratory, Inc., Oberlin
 
+    Ohio, USA
 
-Natalia Portabella Macchi
-Restauración de pinturas, Barcelona
-Spain
 
+- **Francesca Pola** ( [Bio](/contributors/#francesca-pola) | [Contribution](/collections/10-pola_ferriani/) )
 
-Marina Pugliese
-California College of the Arts, Oakland
-USA
+    Conservator in private practice, Milan
 
+    Italy
 
-Nina Quabeck
-University of Glasgow
-Scotland
 
+- **Natalia Portabella Macchi**
 
-Iolanda Ratti [opening remarks](opening-remarks)
-Museo del Novecento, Milan
-Italy
+    Restauración de pinturas, Barcelona
 
+    Spain
 
-Simon Rees [15](15)
-Govett-Brewster Art Gallery, New Plymouth
-New Zealand
 
+- **Marina Pugliese**
 
-Rachel Rivenc [preface](preface)
-Getty Conservation Institute, Los Angeles
-USA
+    California College of the Arts, Oakland
 
+    USA
 
-Patrizia Roncadi
-Art Curating Research, Geneva
-Switzerland
 
+- **Nina Quabeck**
 
-Kendra Roth
-Metropolitan Museum of Art
-New York, USA
+    University of Glasgow
 
+    Scotland
 
-Ulrik Runeberg
-Restaurierungszentrum der Landeshauptstadt Düsseldorf
-Germany
 
+- **Iolanda Ratti** ( [Bio](/contributors/#iolanda-ratti) | [Contribution](/opening-remarks/) )
 
-Ilaria Saccani
-CESMAR7, Reggio Emilia
-Italy
+    Museo del Novecento, Milan
 
+    Italy
 
-Andrea Sartorius
-Kunstmuseum Wolfsburg
-Germany
 
+- **Simon Rees** ( [Bio](/contributors/#simon-rees) | [Contribution](/theoretical-issues/15-brobbel_rees/) )
 
-Ingrid Seyb [9](9)
-Museum of Fine Arts, Houston
-Texas, USA
+    Govett-Brewster Art Gallery, New Plymouth
 
+    New Zealand
 
-Antonio Sgamellotti
-Accademia Nazionale dei Lincei, Rome
-Italy
 
+- **Rachel Rivenc** ( [Bio](/contributors/#rachel-rivenc) | [Contribution](/preface/) )
 
-Gabriella Siccardi
-Museo Ralli, Santiago
-Chile
+    Getty Conservation Institute, Los Angeles
 
+    USA
 
-Carol Snow [4](4)
-Yale University Art Gallery, New Haven
-Connecticut, USA
 
+- **Patrizia Roncadi**
 
-Ioseba Soraluze
-Conservation Center, Cheng Shiu University, Kaohsiung
-Taiwan
+    Art Curating Research, Geneva
 
+    Switzerland
 
-Francisca Sousa
-Fundação Arte Moderna e Contemporânea–Colecção Berardo, Lisbon
-Portugal
 
+- **Kendra Roth**
 
-Caitlin Spangler-Bickell
-MUDEC–Museo delle Culture/Maastricht University
-Italy/The Netherlands
+    Metropolitan Museum of Art
 
+    New York, USA
 
-Eugenia Stamatopoulou [21](21)
-Hellenic Ministry of Culture
-Greece
 
+- **Ulrik Runeberg**
 
-Erin Stephenson [7](7)
-National Gallery of Art
-Washington, D.C., USA
+    Restaurierungszentrum der Landeshauptstadt Düsseldorf
 
+    Germany
 
-David Strivay
-University of Liège
-Belgium
 
+- **Ilaria Saccani**
 
-Carien van Aubel [22](22)
-University of Amsterdam
-The Netherlands
+    CESMAR7, Reggio Emilia
 
+    Italy
 
-Nikki van Basten [22](22)
-Getty Conservation Institute, Los Angeles
-USA
 
+- **Andrea Sartorius**
 
-Arthur van Mourik [23](23)
-Centraal Museum, Utrecht
-The Netherlands
+    Kunstmuseum Wolfsburg
 
+    Germany
 
-Petra Vávrová
-National Library of Czech Republic, Prague
-Czech Republic
 
+- **Ingrid Seyb** ( [Bio](/contributors/#ingrid-seyb) | [Contribution](/collections/9-gillies/) )
 
-Marcel Verner [6](6)
-Art Gallery of Ontario, Toronto
-Canada
+    Museum of Fine Arts, Houston
 
+    Texas, USA
 
-Isabella Villafranca
-Open Care, Milan
-Italy
 
+- **Antonio Sgamellotti**
 
-Natasha Watson
-Rowland Emett Society, Birmingham
-United Kingdom
+    Accademia Nazionale dei Lincei, Rome
 
+    Italy
 
-Sandra Weerdenburg [22](22)
-Stedelijk Museum Amsterdam
-The Netherlands
 
+- **Gabriella Siccardi**
 
-Peter Zetye
-Szépművészeti Múzeum-MNG, Budapest
-Hungary
+    Museo Ralli, Santiago
 
+    Chile
 
-Thomas Zirlewagen
-Freelance conservator, Zurich
-Switzerland
+
+- **Carol Snow** ( [Bio](/contributors/#carol-snow) | [Contribution](/case-studies/4-snow/) )
+
+    Yale University Art Gallery, New Haven
+
+    Connecticut, USA
+
+
+- **Ioseba Soraluze**
+
+    Conservation Center, Cheng Shiu University, Kaohsiung
+
+    Taiwan
+
+
+- **Francisca Sousa**
+
+    Fundação Arte Moderna e Contemporânea–Colecção Berardo, Lisbon
+
+    Portugal
+
+
+- **Caitlin Spangler-Bickell**
+
+    MUDEC–Museo delle Culture/Maastricht University
+
+    Italy/The Netherlands
+
+
+- **Eugenia Stamatopoulou** ( [Bio](/contributors/#eugenia-stamatopoulou) | [Contribution](/posters/21-stamatopoulou/) )
+
+    Hellenic Ministry of Culture
+
+    Greece
+
+
+- **Erin Stephenson** ( [Bio](/contributors/#erin-stephenson) | [Contribution](/collections/7-stephenson/) )
+
+    National Gallery of Art
+
+    Washington, D.C., USA
+
+
+- **David Strivay**
+
+    University of Liège
+
+    Belgium
+
+
+- **Carien van Aubel** ( [Bio](/contributors/#carien-van-aubel) | [Contribution](/posters/22-van_aubel/) )
+
+    University of Amsterdam
+
+    The Netherlands
+
+
+- **Nikki van Basten** ( [Bio](/contributors/#nikki-van-basten) | [Contribution](/posters/22-van_aubel/) )
+
+    Getty Conservation Institute, Los Angeles
+
+    USA
+
+
+- **Arthur van Mourik** ( [Bio](/contributors/#arthur-van-mourik) | [Contribution](/posters/23-van_mourik/) )
+
+    Centraal Museum, Utrecht
+
+    The Netherlands
+
+
+- **Petra Vávrová**
+
+    National Library of Czech Republic, Prague
+
+    Czech Republic
+
+
+- **Marcel Verner** ( [Bio](/contributors/#marcel-verner) | [Contribution](/case-studies/6-phillips/) )
+
+    Art Gallery of Ontario, Toronto
+
+    Canada
+
+
+- **Isabella Villafranca**
+
+    Open Care, Milan
+
+    Italy
+
+
+- **Natasha Watson**
+
+    Rowland Emett Society, Birmingham
+
+    United Kingdom
+
+
+- **Sandra Weerdenburg** ( [Bio](/contributors/#sandra-weerdenburg) | [Contribution](/collections/11-meijer/) )
+
+    Stedelijk Museum Amsterdam
+
+    The Netherlands
+
+
+- **Peter Zetye**
+
+    Szépművészeti Múzeum-MNG, Budapest
+
+    Hungary
+
+
+- **Thomas Zirlewagen**
+
+    Freelance conservator, Zurich
+
+    Switzerland
