@@ -69,3 +69,28 @@
 .q-contributors__list .q-contributors__list__item p {
   margin-bottom: 0;
 }
+
+.quire-page__content__main .quire-contents {
+  list-style-type: none;
+  padding-left: 0;
+  color: #b2b2b2;
+  font-weight: 400;
+}
+
+.quire-page__content__main .quire-contents li {
+  margin-top: 1em;
+}
+
+.quire-page__content__main .quire-contents li ul {
+  list-style-type: none;
+  padding-left: none;
+  margin-top: .5em;
+}
+
+.quire-contents .quire-contents__section {
+  text-transform: uppercase;
+}
+
+.quire-contents .quire-contents__section .quire-contents__page {
+  text-transform: none;
+}
