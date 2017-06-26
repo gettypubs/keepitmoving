@@ -268,3 +268,44 @@ a:active, a:focus, a:hover {
   width: 3.5em;
   height: 3.5em;
 }
+
+
+.quire-menu__background {
+  background-color: #727272;
+}
+
+/*.quire-menu__inner__header .quire-title,
+.quire-menu__inner__links button {
+  color: #ffffff;
+}*/
+
+
+.quire-menu__inner .quire-title__contributors {
+  font-size: 1rem;
+}
+
+.quire-menu__inner__footer {
+  color: #ffffff;
+}
+
+.quire-menu__inner__footer a {
+  color: #ffffff;
+  text-decoration: underline;
+  text-decoration-skip: ink;
+}
+
+.quire-menu__inner a,
+.quire-menu__inner__header .quire-title,
+.quire-menu__inner__header .quire-title a,
+.quire-menu__inner button {
+  color: #eaeaea;
+}
+
+
+.quire-page__content.quire-page__content-wide {
+  max-width: 60rem;
+}
+
+.q-figure.q-figure-grid {
+  justify-content: flex-start;
+}

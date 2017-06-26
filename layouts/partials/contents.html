@@ -56,5 +56,5 @@
 {{ end }}
 
 {{ define "contents-list-item-menu" }}
-  <li class="quire-contents__page"><a href="{{ .Permalink }}">{{ with .Params.id }}{{ . }}. {{ end }}{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</a></li>
+  <li class="quire-contents__page"><a href="{{ .Permalink }}">{{ with .Params.id }}{{ . }}. {{ end }}{{ .Title | markdownify }}</a></li>
 {{ end }}
