@@ -80,9 +80,25 @@ license:
     all:
 
 project-team:
-  - first_name:
-    last_name:
-    role:
+  - first_name: Beatrice
+    last_name: Hohenegger
+    role: Project Editor
+  - first_name: Jennifer
+    last_name: Boynton
+    role: Manuscript Editor
+  - first_name: Michelle
+    last_name: Deemer
+    role: Production
+  - first_name: Eric
+    last_name: Gardner
+    role: Designer and Developer
+  - first_name: Nick
+    last_name: Geller
+    role: Assistant Digital Editor
+  - first_name: Greg
+    last_name: Albers
+    role: Digital Manager
+
 
 # FORMATS, DOWNLOADS & LINKS
 
