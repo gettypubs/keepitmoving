@@ -1,7 +1,6 @@
 ---
 title: Preface
 type: page
-menu: true
 contributor:
  - first_name: Rachel
    last_name: Rivenc
@@ -9,7 +8,7 @@ contributor:
 weight: 4
 ---
 
-“All of a sudden it hit me why not just movement? If there was such a thing as composing music, there could be such a thing as composing motion.” —Len Lye[^1]
+> “All of a sudden it hit me why not just movement? If there was such a thing as composing music, there could be such a thing as composing motion.” —Len Lye[^1]
 
 The word *kinetic* derives from the Greek *kinetikos* and simply means “moving, in motion.” Kinetic art not only incorporates movement but often depends on it to produce its intended effect and fully realize its nature as work of art. Movement can be energy, experience, or matter to be composed. Kinetic art can take a multiplicity of forms and include a wide range of motion, from motorized and electrically driven to that created by wind, light, or other sources of energy. It can include light, sound, and slide or video projections.
 
@@ -25,8 +24,8 @@ I would like to thank the Museo del Novecento for its generosity and wonderful a
 
 The quality of the posters and the presentations given at the symposium was impressive, and I am extremely grateful to all the presenters and authors who shared their work during the symposium and in these proceedings. I am also profoundly indebted to Reinhard Bek who co-edited this volume—this project would not have been possible without his knowledge of and enthusiasm for the topic, as well as his hard work and dedication. Finally, I am thankful to the talented staff at Getty Publications who turned our proceedings papers into a functional and beautiful publication: Beatrice Hohenegger, project editor, Jennifer Boynton, freelance manuscript editor, Greg Albers, digital publications manager, Eric Gardner, software engineer, Nick Geller, graduate intern, Nina Damavandi, image acquisition and permission, and TK, proofreader.
 
-[^1]: [**Lye 1984**](#bib):64, quoted by Brobbel and Rees in this publication.
+[^1]: {{< q-cite "Lye 1984" "64" >}}, quoted by Brobbel and Rees in this publication.
 
-[^2]: [**Eco 1989**](#bib):86, quoted by Caianiello in this publication.
+[^2]: {{< q-cite "Eco 1989" "86" >}}, quoted by Caianiello in this publication.
 
 [^3]: The question of change, identity, and authenticity in relationship to the conservation of contemporary art has long preoccupied the field, and much has been written about the topic. For an in-depth discussion of these notions centered around time-based media installations, which present many issues overlapping with kinetic art, see for example Pip Laurenson, “Authenticity, Change and Loss in the Conservation of Time-Based Media Installations,” *Tate Papers* 6 (Autumn 2006), [**www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations**](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations). For a more recent discussion of identity as a continuum of change, see Muriel Verbeeck, “There Is Nothing More Practical than a Good Theory: Conceptual Tools for Conservation Practice,” in *Saving the Now: Crossing Boundaries to Conserve Contemporary Works, September 12–16, 2016*, *Preprints, Studies in Conservation Supplement 2*, International Institute for Conservation of Historic and Artistic Works (IIC), 2016.

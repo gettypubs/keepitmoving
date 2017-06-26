@@ -1,8 +1,7 @@
 ---
 title: About
-weight: 603
+weight: 604
 type: page
-menu: true
 ---
 
 TK
