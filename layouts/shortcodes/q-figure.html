@@ -11,7 +11,7 @@
         {{ end }}
       </div>
       {{ with .Get "caption" }}
-      <figcaption>{{ .  | markdownify }}</figcaption>
+      <figcaption>{{ .  | markdownify }}{{ if $.Get "credit" }} <span class="q-figure-credit">{{ $.Get "credit" | markdownify }}</span>{{ end }}</figcaption>
       {{ end }}
     </figure>
 
@@ -49,12 +49,19 @@
         {{ end }}
         {{ end }}
       </div>
-      {{ if $.Get "caption" }}
-        <figcaption>{{ $.Get "caption" }}</figcaption>
-      {{ else }}
-      {{ if .caption }}
-        <figcaption><span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}{{ $.Site.Params.imageLabelContentAfter }}</span>{{ .caption | markdownify }}</figcaption>
-      {{ end }}
+      {{ if or (or (or ($.Get "caption") ($.Get "credit")) (.caption) ) (.credit) }}
+        <figcaption>
+          {{ if $.Get "caption" }}
+            {{ $.Get "caption" }}
+          {{ else if .caption }}
+            <span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}{{ $.Site.Params.imageLabelContentAfter }}</span>{{ .caption | markdownify }}
+          {{ end }}
+          {{ if $.Get "credit" }}
+            <span class="q-figure-credit">{{ $.Get "credit" | markdownify }}</span>
+          {{ else if .credit }}
+            <span class="q-figure-credit">{{ .credit | markdownify }}</span>
+          {{ end }}
+        </figcaption>
       {{ end }}
     </figure>
     {{ end }}
@@ -74,7 +81,7 @@
         {{ end }}
       </div>
       {{ with .Get "caption" }}
-      <figcaption>{{ .  | markdownify }}</figcaption>
+      <figcaption>{{ .  | markdownify }}{{ if $.Get "credit" }} <span class="q-figure-credit">{{ $.Get "credit" | markdownify }}</span>{{ end }}</figcaption>
       {{ end }}
     </figure>
 

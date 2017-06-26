@@ -73,6 +73,14 @@ a:active, a:focus, a:hover {
 
 /* Video Figure */
 
+
+.q-figure-credit {
+  display: block;
+  font-size: .6rem;
+  line-height: 1.6em;
+  margin-top: .4em;
+}
+
 .q-figure__wrapper__video--standard {
   padding-bottom: 75%;
   position: relative;
