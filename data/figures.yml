@@ -51,6 +51,7 @@ figure_list:
   - id: "1.5"
     src: Mrvriy6TaEU
     media_type: youtube
+    aspect_ratio: standard
     caption: >
       Woman creating a drawing on a 1990 replica of Jean Tinguely’s *Méta-Matic No. 10*, 1959. Museum Tinguely, Basel.
     credit: >
@@ -73,6 +74,7 @@ figure_list:
   - id: "1.8"
     src: lP8QLUGaupA
     media_type: youtube
+    fallback: fig-1-8-video-bek.jpg
     caption: >
       Otto Piene’s *Neon Medusa*, 1969, in operation. Collection Neuberger Museum of Art, Purchase College, State University of New York, gift of Leonore F. Rosenthal.
     credit: >
@@ -88,6 +90,8 @@ figure_list:
   - id: "1.10"
     src: UkpyR7iLm5Q
     media_type: youtube
+    aspect_ratio: standard
+    fallback: fig-1-10-video-bek.jpg
     caption: >
       Liz Larner’s *Corner Basher*, 1988, in operation. Gaby and Wilhelm Schürmann.
     credit: Courtesy of the artist.
@@ -102,6 +106,7 @@ figure_list:
   - id: "1.12"
     src: Kpwfx8Zn0S4
     media_type: youtube
+    fallback: fig-1-12-video-bek.jpg
     caption: >
       Leo Villareal’s *Flowers 8*, 2005.
     credit: >
