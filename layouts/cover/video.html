@@ -13,7 +13,7 @@
       <span class="visually-hidden">Publication Info: </span>
       {{ .Site.Data.publication.title | markdownify -}}
       {{- if .Site.Data.publication.subtitle -}}
-        <br /><span class="quire-title__subtitle">{{ .Site.Data.publication.subtitle | markdownify }}</span>
+        <br /><span class="quire-title__text__subtitle">{{ .Site.Data.publication.subtitle | markdownify }}</span>
       {{ end }}
     {{ if ne .Type "cover"}}</a>{{ end }}
   </h1>

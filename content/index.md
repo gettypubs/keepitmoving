@@ -11,3 +11,7 @@ Kinetic art not only includes movement, but often depends on it to produce its i
 Professionals responsible for conserving contemporary art are in the midst of rethinking the concept of authenticity and solving the dichotomy often felt between original materials and functionality of the work of art. The contrast is especially acute with kinetic art when a compromise between the two often seems impossible. Also to be considered are issues of technological obsolescence and the fact that an artist’s chosen technology often carries with it strong sociological and historical information and meanings.
 
 Presenting the latest research and scholarship on the topic with fifteen essays and eight posters, this online publication (also available for print-on-demand) includes videos to capture more accurately the effects conjured by kinetic artworks.
+
+----
+
+*Keep it Moving? Conserving Kinetic Art* was a sympoisum organized by the Getty Conservation Institute and the Modern Materials and Contemporary Art (MMCA) working group of the International Council of Museums, Committee for Conservation (ICOM-CC), held at the Palazzo Reale and Museo del Novecento, Milan, June 30 to July 2, 2016.

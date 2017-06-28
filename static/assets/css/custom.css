@@ -27,7 +27,7 @@ a:active, a:focus, a:hover {
 }
 
 .quire-cover__footer {
-  background-color: #c4d544;
+  background-color: #ecebf5;
 }
 
 /* Citations */
@@ -220,7 +220,7 @@ div.q-figure__video__print-fallback,
   line-height: 9.2vh;
   letter-spacing: 1px;
 }
-.quire-cover__text__subtitle {
+.quire-title__text__subtitle {
   display: block;
 }
 .quire-cover__text__reading-line {
@@ -274,10 +274,14 @@ div.q-figure__video__print-fallback,
   font-size: .8rem;
   line-height: 1.5em;
   padding: 2em;
+  font-weight: 400;
+  color: #727272;
 }
 
 .quire-cover__footer a {
-  color: #fff;
+  color: #727272;
+  text-decoration: underline;
+  text-decoration-skip: ink;
 }
 
 .quire-cover__footer__text {
@@ -292,7 +296,7 @@ div.q-figure__video__print-fallback,
   list-style-type: none;
   padding-left: 0;
   display: flex;
-  color: #fff;
+  color: #727272;
   margin-top: .5em;
 }
 
@@ -311,7 +315,7 @@ div.q-figure__video__print-fallback,
 }
 
 .quire-cover__footer__logo svg {
-  fill: #fff;
+  fill: #727272;
   width: 3.5em;
   height: 3.5em;
 }
