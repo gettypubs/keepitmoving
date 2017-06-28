@@ -356,3 +356,19 @@ div.q-figure__video__print-fallback,
 .q-figure.q-figure-grid {
   justify-content: flex-start;
 }
+
+/* Symposium Participants list */
+
+#symposium-participants ul {
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+#symposium-participants ul li {
+  margin-bottom: 1rem;
+}
+
+#symposium-participants ul li p {
+  margin-bottom: 0;
+}
