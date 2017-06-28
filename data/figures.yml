@@ -439,6 +439,7 @@ figure_list:
   - id: "7.8"
     src: lBixeFhcJm8
     media_type: youtube
+    fallback: fig-7-8-video-stephenson.jpg
     caption: >
       Detail of posttreatment mechanics on Takis’s *Ballet Magnetique*, 1961. The Menil Collection, Houston.
     credit: >
