@@ -23,9 +23,9 @@ figure_list:
   - id: "1.1"
     src: fig-1-1-bek.jpg
     caption: >
-      *Kinetic Construction* (*Standing Wave*), 1919–20, by Naum Gabo (1890–1977); replica 1985. The Work of Naum Gabo
+      *Kinetic Construction* (*Standing Wave*), 1919–20, by Naum Gabo (1890–1977); replica 1985.
     credit: >
-      © Nina & Graham Williams. Photo: © Tate, London 2016.
+      The Work of Naum Gabo © Nina & Graham Williams. Photo: © Tate, London 2016.
 
   - id: "1.2"
     src: fig-1-2-bek.jpg
@@ -37,24 +37,26 @@ figure_list:
   - id: "1.3"
     src: fig-1-3-bek.jpg
     caption: >
-      Jean Tinguely’s *Méta-Matic No. 10*, 1959. Museum Tinguely, Basel. © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris.
+      Jean Tinguely’s *Méta-Matic No. 10*, 1959. Museum Tinguely, Basel.
     credit: >
-      Courtesy Museum Tinguely, Basel. Photo: Serge Hasenboehler.
+      © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris. Courtesy Museum Tinguely, Basel. Photo: Serge Hasenboehler.
 
   - id: "1.4"
     src: fig-1-4-bek.jpg
     caption: >
-      Jean Tinguely’s *Méta-Matic No. 10*, 1959; replica 1990. Museum Tinguely, Basel. © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris.
+      Jean Tinguely’s *Méta-Matic No. 10*, 1959; replica 1990. Museum Tinguely, Basel.
     credit: >
-      Courtesy Museum Tinguely, Basel. Photo: Christian Baur.
+      © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris. Courtesy Museum Tinguely, Basel. Photo: Christian Baur.
 
   - id: "1.5"
     src: Mrvriy6TaEU
     media_type: youtube
+    aspect_ratio: standard
+    fallback: fig-1-5-video-bek.jpg
     caption: >
-      Woman creating a drawing on a 1990 replica of Jean Tinguely’s *Méta-Matic No. 10*, 1959. Museum Tinguely, Basel. © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris.
+      Woman creating a drawing on a 1990 replica of Jean Tinguely’s *Méta-Matic No. 10*, 1959. Museum Tinguely, Basel.
     credit: >
-      Courtesy Museum Tinguely, Basel. Video: Walter Kummli.
+      © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris. Courtesy Museum Tinguely, Basel. Video: Walter Kummli.
 
   - id: "1.6"
     src: fig-1-6-bek.jpg
@@ -73,6 +75,7 @@ figure_list:
   - id: "1.8"
     src: lP8QLUGaupA
     media_type: youtube
+    fallback: fig-1-8-video-bek.jpg
     caption: >
       Otto Piene’s *Neon Medusa*, 1969, in operation. Collection Neuberger Museum of Art, Purchase College, State University of New York, gift of Leonore F. Rosenthal.
     credit: >
@@ -88,6 +91,8 @@ figure_list:
   - id: "1.10"
     src: UkpyR7iLm5Q
     media_type: youtube
+    aspect_ratio: standard
+    fallback: fig-1-10-video-bek.jpg
     caption: >
       Liz Larner’s *Corner Basher*, 1988, in operation. Gaby and Wilhelm Schürmann.
     credit: Courtesy of the artist.
@@ -102,6 +107,7 @@ figure_list:
   - id: "1.12"
     src: Kpwfx8Zn0S4
     media_type: youtube
+    fallback: fig-1-12-video-bek.jpg
     caption: >
       Leo Villareal’s *Flowers 8*, 2005.
     credit: >
@@ -171,6 +177,7 @@ figure_list:
   - id: "3.1"
     src: 7vQkoFfU9gA
     media_type: youtube
+    fallback: fig-3-1-video-gilberg.jpg
     caption: >
       Chris Burden’s *Metropolis II* in action.
     credit: >
@@ -291,6 +298,7 @@ figure_list:
   - id: "4.9"
     src: h4PxDv_CFS4
     media_type: youtube
+    fallback: fig-4-9-video-snow.jpg
     caption: >
       Yale University Art Gallery’s video documentation of Wilfred’s *Lumia Suite, Opus 158*. Museum of Modern Art, New York, Department of Painting and Sculpture, Museum Collection Files.
     credit: >
@@ -299,6 +307,7 @@ figure_list:
   - id: "5.1"
     src: gj42ZITk7EM
     media_type: youtube
+    fallback: fig-5-1-video-lawson.jpg
     caption: >
       The central crown of *Umbrella*, 1971, by Wen-Ying Tsai (1928–2013), in action at Tate Modern’s Tank Gallery, June 16, 2016–February 5, 2017.
     credit: >
@@ -335,6 +344,7 @@ figure_list:
   - id: "6.1"
     src: h5mMCqOLACo
     media_type: youtube
+    fallback: fig-6-1-video-phillips.jpg
     caption: >
       Max Dean’s *As Yet Untitled*, 1992–95, on view in *Drone: The Automated Image* at VOX, Centre de l’Image Contemporaine, September 7–October 19, 2013, during Le Mois de la Photo à Montréal 2013. Installation from the collection of the Art Gallery of Ontario.
     credit: >
@@ -413,6 +423,7 @@ figure_list:
   - id: "7.6"
     src: OdKBY-9Xeos
     media_type: youtube
+    fallback: fig-7-6-video-stephenson.jpg
     caption: >
       Sound produced by the operation of Takis’s *Musical-M.013*, 2000. The Menil Collection, Houston, gift of the artist.
     credit: >
@@ -443,6 +454,7 @@ figure_list:
   - id: "7.10"
     src: j86w750dsNU
     media_type: youtube
+    fallback: fig-7-10-video-stephenson.jpg
     caption: >
       Operation of Takis’s *Ballet Magnetique*, 1961, after conservation treatment. The Menil Collection, Houston.
     credit: >
@@ -465,6 +477,7 @@ figure_list:
   - id: "8.2"
     src: j5rhSkSZc3w
     media_type: youtube
+    fallback: fig-8-2-video-pavic.jpg
     caption: >
       Aleksandar Srnec adjusting his luminokinetic artwork at his exhibition in 1969. Museum of Contemporary Art, Zagreb.
     credit: >
@@ -508,6 +521,7 @@ figure_list:
   - id: "8.6"
     src: bXS4nfmu5Tw
     media_type: youtube
+    fallback: fig-8-6-video-pavic.jpg
     caption: >
       Analogue projection of Aleksandar Srnec’s *Luminoplastic 1*, 1965–67.
     credit: >
@@ -565,6 +579,7 @@ figure_list:
   - id: "8.11"
     src: EY3foRIJIFE
     media_type: youtube
+    fallback: fig-8-11-video-pavic.jpg
     caption: >
       Comparison of the analogue and digital projections.
     credit: >
@@ -573,6 +588,7 @@ figure_list:
   - id: "9.1"
     src: zNr9YISTQfw
     media_type: youtube
+    fallback: fig-9-1-video-gillies.jpg
     caption: >
       Gregorio Vardanega’s *Espaces chromatiques carrées en spirale (Chromatic Spaces Turning in a Spiral)*, 1968, Plexiglas, light bulbs, and motor; after treatment. The Museum of Fine Arts, Houston, museum purchase funded by the Latin Maecenas, 2010.173.
     credit: >
@@ -588,6 +604,7 @@ figure_list:
   - id: "9.3"
     src: PVJR2aAmdU4
     media_type: youtube
+    fallback: fig-9-3-video-gillies.jpg
     caption: >
       Gregorio Vardanega’s *Couleurs sonores (Sound Colors)*, 1963–79, metal, light bulbs, and electric motor; after treatment. The Museum of Fine Arts, Houston, gift of the estate of the artist and Sicardi Gallery, 2013.665.A-.G.
     credit: >
@@ -603,6 +620,7 @@ figure_list:
   - id: "9.5"
     src: E1HBHKpd46U
     media_type: youtube
+    fallback: fig-9-5-video-gillies.jpg
     caption: >
       Horacio García Rossi’s *Structure à lumiere instable no. 29 (Unstable Light Structure No. 29)*, 1966, painted wood, Lucite rods, electric motor, and lights; after treatment. The Museum of Fine Arts, Houston, gift of Benbow and Jean Bullock, 2004.1618.
     credit: >
@@ -632,6 +650,7 @@ figure_list:
   - id: "9.9"
     src: wRws0HvLPB8
     media_type: youtube
+    fallback: fig-9-9-video-gillies.jpg
     caption: >
       Abraham Palatnik’s *Aparelho cinecromático (Chromo-kinetic set)*, 1962, wooden box with plastic cover, electric motor, and colored light bulbs linked to a programmed electric circuit and cardboard paddles; after treatment. The Museum of Fine Arts, Houston, the Adolpho Leirner Collection of Brazilian Constructive Art, museum purchase funded by the Caroline Wiess Law Accessions Endowment Fund, 2007.21.
     credit: >
@@ -955,6 +974,7 @@ figure_list:
   - id: "15.2"
     src: fgqht8Ui8dw
     media_type: youtube
+    fallback: fig-15-2-video-brobbel.jpg
     caption: >
       Len Lye’s *A Flip and Two Twisters (Trilogy)*, 1977.
     credit: >
@@ -970,6 +990,7 @@ figure_list:
   - id: "15.4"
     src: zuY2-yNpJ-8
     media_type: youtube
+    fallback: fig-15-4-video-brobbel.jpg
     caption: >
       Len Lye’s *Loop*, ca. 1964, after its 2016 restoration. The Art Institute of Chicago, Barbara Neff Smith and Solomon Byron Smith Purchase Fund.
     credit: >
@@ -978,6 +999,7 @@ figure_list:
   - id: "15.5"
     src: t_Or2bTzcbg
     media_type: youtube
+    fallback: fig-15-5-video-brobbel.jpg
     caption: >
       Len Lye’s *Five Fountains and a Firebush*, 2007. Govett-Brewster Art Gallery.
     credit: >

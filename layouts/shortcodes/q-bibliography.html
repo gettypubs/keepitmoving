@@ -4,7 +4,22 @@
   <dl>
   {{ range sort .Site.Data.bibliography.entries ($.Get "sort") }}
       <dt>{{ .short | markdownify }}</dt>
-      <dd id="{{ .short | urlize }}">{{ .full | markdownify }}</dd>
+      <dd id="{{ .short | urlize }}">{{ .full | markdownify }}<br />
+        Cited in:
+        {{ $a := split .reference_for "," }}
+        {{ $len := len $a }}
+        {{ range $index, $element := $a }}
+          {{ if eq . "preface" }}
+            <a href="../{{ . }}">{{ . | title }}</a>
+          {{- else -}}
+            {{ $x := split . "/" }}
+            {{ $y := index $x 1 }}
+            {{ $b := split $y "-" }}
+            {{ $c := index $b 0 }}
+            <a href="../{{ . }}">{{ $c }}</a>
+          {{- end -}}{{ if eq (add $index 1) $len }}{{ else }},{{ end }}
+        {{ end }}
+      </dd>
   {{ end }}
   </dl>
   {{ else }}
@@ -18,8 +33,23 @@
   {{ if eq .Site.Params.displayBiblioShort "true" }}
   <dl>
   {{ range .Site.Data.bibliography.entries }}
-      <dt>{{ .short | markdownify }}</dt>
-      <dd id="{{ .short | urlize }}">{{ .full | markdownify }}</dd>
+      <dt>{{ .short | markdownify }} [<a href="{{ .reference_for }}">{{ .reference_for }}</a>]</dt>
+      <dd id="{{ .short | urlize }}">{{ .full | markdownify }}<br />
+        Cited in:
+        {{ $a := split .reference_for "," }}
+        {{ $len := len $a }}
+        {{ range $index, $element := $a }}
+          {{ if eq . "preface" }}
+            <a href="../{{ . }}">{{ . | title }}</a>
+          {{- else -}}
+            {{ $x := split . "/" }}
+            {{ $y := index $x 1 }}
+            {{ $b := split $y "-" }}
+            {{ $c := index $b 0 }}
+            <a href="../{{ . }}">{{ $c }}</a>
+          {{- end -}}{{ if eq (add $index 1) $len }}{{ else }},{{ end }}
+        {{ end }}
+      </dd>
   {{ end }}
   </dl>
   {{ else }}
