@@ -7,17 +7,17 @@ code,
 .quire-cover__inner__title,
 .quire-page__header__title,
 .quire-page__section-list__link button {
-  color: #c4d544;
+  color: #9eb300;
 }
 a:active, a:focus, a:hover {
-  color: shade(#c4d544, 25%);
+  color: shade(#9eb300, 25%);
 }
 
 .quire-nav svg,
 .quire-menu__button svg,
 .quire-search svg,
 .quire-page__section-list__link svg {
-  fill: #c4d544;
+  fill: #9eb300;
 }
 
 /* Primary Color, from overrides */
