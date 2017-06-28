@@ -357,6 +357,10 @@ div.q-figure__video__print-fallback,
   justify-content: flex-start;
 }
 
+.quire-page__content__abstract hr {
+  margin: ($base-spacing * 2) 0;
+}
+
 /* Symposium Participants list */
 
 #symposium-participants ul {
