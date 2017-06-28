@@ -16,6 +16,10 @@ type: page
 
 {{< q-figure-group id="4.9" class="plate" grid="2" >}}
 
+## [5. Cybernetic *Umbrella*](../case-studies/5-lawson/)
+
+{{< q-figure-group id="5.1" class="plate" grid="2" >}}
+
 ## [6. Moving with the Times](../case-studies/6-phillips/)
 
 {{< q-figure-group id="6.1" class="plate" grid="2" >}}
