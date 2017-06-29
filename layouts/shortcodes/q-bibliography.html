@@ -1,0 +1,63 @@
+<section class="quire-page__content__references">
+{{ if .Get "sort" }}
+  {{ if eq .Site.Params.displayBiblioShort "true" }}
+  <dl>
+  {{ range sort .Site.Data.bibliography.entries ($.Get "sort") }}
+      <dt>{{ .short | markdownify }}</dt>
+      <dd id="{{ .short | urlize }}">{{ .full | markdownify }}<br />
+        Cited in:
+        {{ $a := split .reference_for "," }}
+        {{ $len := len $a }}
+        {{ range $index, $element := $a }}
+          {{ if eq . "preface" }}
+            <a href="../{{ . }}">{{ . | title }}</a>
+          {{- else -}}
+            {{ $x := split . "/" }}
+            {{ $y := index $x 1 }}
+            {{ $b := split $y "-" }}
+            {{ $c := index $b 0 }}
+            <a href="../{{ . }}">{{ $c }}</a>
+          {{- end -}}{{ if eq (add $index 1) $len }}{{ else }},{{ end }}
+        {{ end }}
+      </dd>
+  {{ end }}
+  </dl>
+  {{ else }}
+  <ul>
+  {{ range sort .Site.Data.bibliography.entries ($.Get "sort") }}
+      <li id="{{ .short | urlize }}">{{ .full | markdownify }}</li>
+  {{ end }}
+  </ul>
+  {{ end }}
+{{ else }}
+  {{ if eq .Site.Params.displayBiblioShort "true" }}
+  <dl>
+  {{ range .Site.Data.bibliography.entries }}
+      <dt>{{ .short | markdownify }} [<a href="{{ .reference_for }}">{{ .reference_for }}</a>]</dt>
+      <dd id="{{ .short | urlize }}">{{ .full | markdownify }}<br />
+        Cited in:
+        {{ $a := split .reference_for "," }}
+        {{ $len := len $a }}
+        {{ range $index, $element := $a }}
+          {{ if eq . "preface" }}
+            <a href="../{{ . }}">{{ . | title }}</a>
+          {{- else -}}
+            {{ $x := split . "/" }}
+            {{ $y := index $x 1 }}
+            {{ $b := split $y "-" }}
+            {{ $c := index $b 0 }}
+            <a href="../{{ . }}">{{ $c }}</a>
+          {{- end -}}{{ if eq (add $index 1) $len }}{{ else }},{{ end }}
+        {{ end }}
+      </dd>
+  {{ end }}
+  </dl>
+  {{ else }}
+  <ul>
+  {{ range .Site.Data.bibliography.entries }}
+      <li id="{{ .short | urlize }}">{{ .full | markdownify }}</li>
+  {{ end }}
+  </ul>
+  {{ end }}
+{{ end }}
+</section>
