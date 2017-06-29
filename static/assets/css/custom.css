@@ -381,24 +381,6 @@ div.q-figure__video__print-fallback,
 
 @media print {
 
-  /*@page fullbleed:left {
-    margin-left: -0.125in;
-    margin-top: -0.125in;
-    margin-bottom: -0.125in;
-    margin-right: 0;
-    @bottom-left { content: none; }
-    @bottom-right { content: none; }
-  }*/
-
-  @page fullbleed {
-    margin-left: -0.125in;
-    margin-top: -0.125in;
-    margin-bottom: -0.125in;
-    margin-right: -0.125in;
-    @bottom-left { content: none; }
-    @bottom-right { content: none; }
-  }
-
   hr {
     margin: 1em auto;
   }
