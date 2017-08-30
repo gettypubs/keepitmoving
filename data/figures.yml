@@ -179,7 +179,7 @@ figure_list:
     media_type: youtube
     fallback: fig-3-1-video-gilberg.jpg
     caption: >
-      Chris Burden’s *Metropolis II* in action.
+      Chris Burden’s *Metropolis II* (2011) in action.
     credit: >
       © Chris Burden Estate. Courtesy of the Nicolas Berggruen Charitable Foundation. Photo: Mark Gilberg and Alison Walker.
 
@@ -221,28 +221,28 @@ figure_list:
   - id: "3.7"
     src: fig-3-7-gilberg.jpg
     caption: >
-      Track wear.
+      Track wear in *Metropolis II*.
     credit: >
       © Chris Burden Estate, Courtesy of the Nicolas Berggruen Charitable Foundation. Photo: Mark Gilberg and Alison Walker.
 
   - id: "3.8"
     src: fig-3-8-gilberg.jpg
     caption: >
-      Car failure.
+      Car failure in *Metropolis II*.
     credit: >
       © Chris Burden Estate, Courtesy of the Nicolas Berggruen Charitable Foundation. Photo: Mark Gilberg and Alison Walker.
 
   - id: "3.9"
     src: fig-3-9-gilberg.jpg
     caption: >
-      A car leaving the track, captured by the GoPro.
+      A car in *Metropolis II* leaving the track, captured by the GoPro.
     credit: >
       © Chris Burden Estate, Courtesy of the Nicolas Berggruen Charitable Foundation. Photo: Mark Gilberg and Alison Walker.
 
   - id: "4.1"
     src: fig-4-1-snow.jpg
     caption: >
-      A clavilux recital by Thomas Wilfred in Seattle, Washington, 1924.
+      A clavilux recital by Thomas Wilfred in Seattle, 1924.
     credit: >
       Photo: Yale University Library Manuscripts and Archives.
 
@@ -256,14 +256,14 @@ figure_list:
   - id: "4.3"
     src: fig-4-3-snow.jpg
     caption: >
-      Thomas Wilfred’s *Lumia Suite, Opus 158* in storage at the Museum of Modern Art, New York, 2013.
+      Thomas Wilfred’s *Lumia Suite, Opus 158* in storage at the Museum of Modern Art, 2013.
     credit: >
       Photo: Yale University Art Gallery.
 
   - id: "4.4"
     src: fig-4-4-snow.jpg
     caption: >
-      A section drawing of *Lumia Suite, Opus 158* in a projection room, from Wilfred’s technical manual.
+      A section drawing of Thomas Wilfred's *Lumia Suite, Opus 158* in a projection room, from Wilfred’s technical manual.
     credit: >
       Museum of Modern Art, New York, Department of Painting and Sculpture, Museum Collection Files.
 
@@ -309,35 +309,35 @@ figure_list:
     media_type: youtube
     fallback: fig-5-1-video-lawson.jpg
     caption: >
-      The central crown of *Umbrella*, 1971, by Wen-Ying Tsai (1928–2013), in action at Tate Modern’s Tank Gallery, June 16, 2016–February 5, 2017.
+      The central crown of *Umbrella*, 1971, by Wen-Ying Tsai, in action at Tate Modern’s Tank Gallery, June 16, 2016–February 5, 2017.
     credit: >
       Courtesy Tsai Art and Science Foundation. Photo: © Tate, London 2016.
 
   - id: "5.1_alternate"
     src: fig-5-1-lawson_VIDEOSTILL.jpg
     caption: >
-      The central crown of *Umbrella*, 1971, by Wen-Ying Tsai (1928–2013), in action at Tate Modern’s Tank Gallery, June 16, 2016–February 5, 2017.
+      The central crown of *Umbrella*, 1971, by Wen-Ying Tsai, in action at Tate Modern’s Tank Gallery, June 16, 2016–February 5, 2017.
     credit: >
       Courtesy Tsai Art and Science Foundation. Photo: © Tate, London 2016.
 
   - id: "5.2"
     src: fig-5-2-lawson.jpg
     caption: >
-      The central crown of *Umbrella*, 1971, by Wen-Ying Tsai (1928–2013).
+      The central crown of *Umbrella*, 1971, by Wen-Ying Tsai.
     credit: >
       Courtesy Tsai Art and Science Foundation. Photo: © Tate, London 2016.
 
   - id: "5.3"
     src: fig-5-3-lawson.jpg
     caption: >
-      The motor of *Umbrella*, 1971, by Wen-Ying Tsai (1928–2013).
+      The motor of *Umbrella*, 1971, by Wen-Ying Tsai.
     credit: >
       Courtesy Tsai Art and Science Foundation. Photo: © Tate, London 2016.
 
   - id: "5.4"
     src: fig-5-4-lawson.jpg
     caption: >
-      Tate conservation manager Louise Lawson and Ming-Yi Tsai, the artist’s son, at Tate during the initial meeting in January 2016 (Wen-Ying Tsai, 1928–2013).
+      Tate conservation manager Louise Lawson and Ming-Yi Tsai, the artist’s son, at Tate during the initial meeting in January 2016 (Wen-Ying Tsai).
     credit: >
       Courtesy Tsai Art and Science Foundation. Photo: © Tate, London 2016.
 
@@ -346,7 +346,7 @@ figure_list:
     media_type: youtube
     fallback: fig-6-1-video-phillips.jpg
     caption: >
-      Max Dean’s *As Yet Untitled*, 1992–95, on view in *Drone: The Automated Image* at VOX, Centre de l’Image Contemporaine, September 7–October 19, 2013, during Le Mois de la Photo à Montréal 2013. Installation from the collection of the Art Gallery of Ontario.
+      Max Dean’s *As Yet Untitled*, 1992–95, on view in *Drone: The Automated Image* at VOX, Centre de l’Image Contemporaine, Montreal, September 7–October 19, 2013, during *Le Mois de la Photo à Montréal 2013*. Installation from the collection of the Art Gallery of Ontario.
     credit: >
       © 2017 Max Dean/Art Gallery of Ontario.
 
