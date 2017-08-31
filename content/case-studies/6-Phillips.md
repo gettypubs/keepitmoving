@@ -23,7 +23,7 @@ The robotic arm and photograph installation *As Yet Untitled* (1992–95) was cr
 
 ## Overview of the Installation
 
-{{< q-figure id="6.1" >}}
+{{< q-figure id="6.1" pdf="two-column" >}}
 
 In *As Yet Untitled* ([fig. 6.1](#6.1)), found photographs are presented to the viewer by a robotic arm. The motion is relentless; the robot operates whether or not someone is present. The arm is programmed to pick up a photograph from the feeder on the right, present it to the viewers, and then wait a few seconds for a response before proceeding. Viewers can intervene by covering one or both of the hand silhouettes in front of them, and the robot will place the photo in an archive box on the left. Should viewers choose not to act (or if no one is present), the robot will place the photo in a shredder, and the shredded photo will be conveyed to a pile. The robot runs continuously when the gallery is open to the public.
 
@@ -123,7 +123,7 @@ Stanchions and cord to indicate a perimeter barrier are original to the piece. T
 
 We maintained programmed responses to unexpected variables, like a jammed shredder or no photo pickup. This seems like improvisation and contributes to the tendency of visitors to anthropomorphize the robot, to believe the robot is thinking and responding. Now, however, error prompts are coupled with instructions for the operator in accessible language on the monitor at the back of the work and supported by instructions in the operational manual ([fig. 6.6](#6.6)). The robot also has its own Gmail and Dropbox accounts so that software updates and troubleshooting can be performed remotely if required.
 
-{{< q-figure id="6.6" >}}
+{{< q-figure id="6.6" pdf="two-column" >}}
 
 ## Future
 

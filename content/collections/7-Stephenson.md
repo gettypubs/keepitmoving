@@ -64,7 +64,7 @@ The two works also had condition issues. *Magnetic Tableau No. 7* had metallic d
 
 At that point a chance encounter took the project in an interesting direction. Maria Kokkori, science fellow from the Art Institute of Chicago, visited the conservation labs and heard about the project. She had been acquainted with Takis since childhood, when her father and the artist ran in the same political and social circles in Greece. This presented a potential opportunity to begin a dialogue with a living artist. Kokkori offered to assist the conservation department by contacting Takis to request an interview. At his advanced age, the artist rarely travels outside Greece, and it was not feasible to conduct an interview remotely. Eventually Takis consented to a meeting in Greece, and Kokkori graciously agreed to assist as an interpreter.
 
-{{< q-figure id="7.5" class="float-right" >}}
+{{< q-figure id="7.5" class="float-right" pdf="one-column" >}}
 
 A list of questions from curatorial and conservation points of view was prepared for the interview and Kokkori translated them into Greek. The questions were sent in advance of the interview to Takis and Giorgos Nakoudis, the director of the artist’s research center and the primary liaison between the Menil and Takis. Three of the questions pertaining to conservation and exhibition of the works were most relevant to this project. The first asked about his thought processes and methodology behind his materials, fabrication techniques, and installation methods. The second asked for installation details such as spatial relationships between suspended elements and the placement and angles in relation to the viewer. The third asked about aesthetics in his work and his feelings regarding those visual qualities.
 

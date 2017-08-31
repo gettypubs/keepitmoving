@@ -31,7 +31,7 @@ The collaboration of artists, collectors, and archives (specifically the Archivi
 
 Kinetic artworks present considerable conservation and maintenance challenges and, beyond the specificities of individual cases, permanent display is the first matter to be considered. The Museo del Novecento is open seventy hours a week, and thirteen hours each on Thursdays and Saturdays. Artworks on view are activated for long periods, and this causes stress to lights and motors, especially to original motors that had not been designed for long-term use. To address the issue, sensors and timers were installed so that the works are activated only when visitors are present and only for about one minute. While this has considerably reduced the need for extraordinary interventions by technicians, wear and tear remain the primary conservation issues, especially after many years of display.
 
-{{< q-figure id="I.1" class="float-right" >}}
+{{< q-figure id="I.1" class="float-right" pdf="one-column" >}}
 {{< q-figure id="I.2" class="float-right" >}}
 
 The Museo del Novecento’s approach thus far has been that of preserving the original components by preemptively replacing them with new ones, even when the originals still work. In this case, the overall “authenticity” of the artwork is potentially preserved, since its original components, such as motors or rubber drive belts, are intact, functional, and available for a possible future reconstruction.

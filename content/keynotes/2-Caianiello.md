@@ -73,7 +73,7 @@ Uecker, who made a replica of *Lichtscheibe* in 1993, had realized different “
 
 ### Heinz Mack’s *Zwischen Himmel und Erde*
 
-{{< q-figure id="2.4" >}}
+{{< q-figure id="2.4" pdf="two-column" >}}
 
 Another example is the kinetic installation *Zwischen Himmel und Erde* (Between heaven and earth) that Mack realized in 1966 for the exhibition *Zero in Bonn* at the Städtische Kunstsammlungen Bonn. The work had not survived, and Mack replicated it in 2005 for the exhibition *Light Art from Artificial Light* at the ZKM in Karlsruhe ({{<q-cite "Weibel and Jansen 2006" "122">}}). On that occasion, he changed the presentation form of the work and probably gave it its title. A photograph of the replica shows narrow nets (aluminum honeycombed structures) hanging from a black ceiling, which conceals the motors that rotate the nets at different speeds and in opposite directions. Metal sticks are inserted through the nets. Mirroring stainless-steel panels cover a platform at the bottom of the installation ([fig. 2.4](#2.4)).
 

@@ -28,13 +28,13 @@ We discuss the exhibition of this contemporary sculpture, focusing on specific m
 
 ## *Metropolis II*
 
-{{< q-figure id="3.2" >}}
+{{< q-figure id="3.2" pdf="two-column" >}}
 
 When installed, the sculpture is approximately 6.4m wide by 9.1m long ([fig. 3.2](#3.2)); it is approximately 3m tall at its highest point. The main structure of the sculpture breaks apart into nine separate sections, or modules, which connect via telescoping steel tubing (Unistrut®). Each module is designed to fit into a shipping container for ease of transport. The core module houses the three conveyor systems, including their motors, conveyor belts, conveyor ramps, and associated control devices that operate the sculpture. Each module has leveling feet (eighty-six total) that are used to calibrate the sculpture and align the tracks on adjacent modules. All car and train tracks bridging adjoining modules, which number more than 100 pieces, must be removed for the deinstallation/installation process.
 
 At any given time, there are 1,200 cars in operation on the sculpture. The ninety-six custom car types—four body types, each type in four colors, and six combinations of detailing within each color scheme—were mass-produced in China after extensive prototyping at Burden’s studio. Each car is die-cast aluminum with a rare-earth magnet embedded in its chassis, and each has front and back rubber bumpers to dampen the impact as the cars run into one another at the bottom of the conveyor ramps. Each of the three conveyor ramps is a six-lane highway, and each has a corresponding conveyor belt with magnets embedded in it ([fig. 3.3](#3.3)). When the conveyor motor is on and the conveyor belt is moving, the attraction between the belt and car magnets draws the car to the top of the ramp. Once the car is at the top, the conveyor belt loops away and gravity causes the car to fall down the track until it hits the cars that have stopped at the base of the ramp. It is this push from behind that engages the conveyor belt and draws the car back to the top again.
 
-{{< q-figure id="3.3" >}}
+{{< q-figure id="3.3" pdf="two-column" >}}
 
 The speed of the cars is controlled by a series of adjustable brushes installed over the car track. Located at various strategic points along the roadways, particularly near curves, these brushes can be lowered or raised to alter the amount of friction on the car as it passes underneath them.
 
@@ -50,7 +50,7 @@ It should be noted that the 21st Century Museum of Contemporary Art in Kanazawa,
 
 ## Operation
 
-{{< q-figure id="3.6" class="float-right" >}}
+{{< q-figure id="3.6" class="float-right" pdf="one-column" >}}
 
 LACMA is the first and, thus far, only venue that has exhibited *Metropolis II*, and we had essentially no data or information to assist us in determining the work’s longevity, the key component of which is its operation. To maximize viewership while minimizing wear and tear on the sculpture, the museum ultimately decided to operate *Metropolis II* on Fridays, Saturdays, and Sundays (the busiest days), as well as for holidays and special events. On the regularly scheduled days, the sculpture is operated four times: starting thirty minutes after the museum opens, the sculpture is run every other hour, for an hour. This allows the operator to rest (it is extremely cramped and noisy inside the sculpture), retrieve any cars that jumped the track, answer patrons’ questions, and make notes on the sculpture’s performance. Operating *Metropolis II* on a schedule was also in keeping with the artist’s desire not to run the sculpture continuously: Burden liked the juxtaposition of chaos and quiet, which mimicked the stop-and-go of life in a major city. Also, the frenetic pace of the cars can be exhausting to the viewer, for even a short time. For this reason, the artist designed a balcony in the gallery for viewers so they could step back from the noise and excitement and observe the sculpture as a whole from a distance.
 
@@ -78,7 +78,7 @@ Typically, the architecture requires little maintenance other than minor repair 
 
 The base layer of the sculpture is composed of colored resin-coated plywood (phenolic). These plywood pieces, anchored between the metal Unistrut® grid, fill in about 85 percent of the surface area of the artwork parallel to the gallery floor. As cars fly off the track, they sometimes hit this plywood or a building, leaving a visible dent. In an effort to reduce the number of dents to the base of the sculpture, we installed a GoPro camera[^3] to film the cars in areas where they frequently jump the track ([fig. 3.9](#3.9)). This footage enabled the operator to identify the exact location where cars were coming off the track and which of the four car types fell off most frequently. With this information, we were able to make strategic brush adjustments to slow the cars, keep them on the track, and reduce damage to the plywood and/or buildings.
 
-{{< q-figure id="3.9" >}}
+{{< q-figure id="3.9" pdf="two-column" >}}
 
 The motors that drive the conveyor system also require periodic maintenance. Intentionally installed upside down for aesthetic reasons, the oil seals are destined to fail. Because the seals were not designed to handle upside-down pressure, oil has leaked out of the gearboxes and contaminated the rest of the motor. As a precautionary measure, we are gradually replacing the original motors with oil-less motors of the same kind. In addition, as problems arose, we replaced various sensors and overload switches (motor circuit breakers) with more robust industrial versions to improve performance.
 

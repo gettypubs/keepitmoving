@@ -93,7 +93,7 @@ In the late 1960s, with the abundance of off-the-shelf technology available to a
 
 {{< q-figure id="1.6" >}}
 
-{{< q-figure id="1.7" class="float-right" >}}
+{{< q-figure id="1.7" class="float-right" pdf="one-column" >}}
 
 Piene’s *Neon Medusa* of 1969 ([fig. 1.6](#1.6)) consists of a chromed sphere on a stem and base. Four hundred and forty-nine adjustable, chromed gooseneck lamps are attached to the sphere, each fitted with an orange glow lamp. The goosenecks allow the individual positioning of each lamp around the sphere. Piene specifically designed the body of the work for orange glow lamps (an early version of neon lights) that have bulbs filled with neon gas that produces an orange light. The light pattern of the sphere is programmed to run from a chrome controller box, attached to the sculpture with an electric cable ([fig. 1.8](#1.8))
 
@@ -125,7 +125,7 @@ Maintaining *Neon Medusa* is still possible by performing acceptable and unnotic
 
 ## Liz Larner
 
-{{< q-figure id="1.9" >}}
+{{< q-figure id="1.9" pdf="two-column">}}
 
 Art historian Piper Marshall described *Corner Basher* ([fig. 1.9](#1.9)) by California artist Liz Larner (b. 1960)
 as
