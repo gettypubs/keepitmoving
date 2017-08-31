@@ -280,6 +280,10 @@ entries:
     full: "Beerkens, Lydia, IJsbrand Hummelen, and Dionne Sillé. 1999. “Jean Tinguely’s *Gismo*: Reconstruction of a Moving Life.” In *Modern Art: Who Cares? An Interdisciplinary Research Project and an International Symposium on the Conservation of Modern Art*, edited by IJsbrand Hummelen and Dionne Sillé. Amsterdam: Foundation for the Conservation of Modern Art; Netherlands Institute for Cultural Heritage."
     reference_for: "collections/11-meijer"
 
+  - short: Beerkens 1999
+    full: "Beerkens, Lydia. 1999. “The Decision-Making Model for the Conservation and Restoration of Modern and Contemporary Art.” In *Modern Art: Who Cares? An Interdisciplinary Research Project and an International Symposium on the Conservation of Modern Art*, edited by IJsbrand Hummelen and Dionne Sillé. Amsterdam: Foundation for the Conservation of Modern Art; Netherlands Institute for Cultural Heritage."
+    reference_for: "collections/11-meijer"
+
   - short: Bek 2011
     full: "Bek, Reinhard. 2011. “Between Ephemeral and Material: Documentation and Preservation of Technology-Based Works of Art.” In *Inside Installations: Theory and Practice in the Care of Complex Artworks*, edited by Wharton Scholte. Amsterdam: Amsterdam University Press."
     reference_for: "collections/11-meijer"
@@ -296,11 +300,7 @@ entries:
     full: "Hulten, Pontus. 1975. *Jean Tinguely: “Meta.”* London: Thames and Hudson."
     reference_for: "collections/11-meijer"
 
-  - short: Beerkens, Hummelen, and Sillé 1999
-    full: "Beerkens, Lydia, IJsbrand Hummelen, and Dionne Sillé, eds. 1999. *Modern Art: Who Cares? An Interdisciplinary Research Project and an International Symposium on the Conservation of Modern Art*, edited by IJsbrand Hummelen and Dionne Sillé. Amsterdam: Foundation for the Conservation of Modern Art; Netherlands Institute for Cultural Heritage."
-    reference_for: "collections/11-meijer"
-
-  - short: Jobse and Catrien 2014
+  - short: Jobse and Schreuder 2014
     full: "Jobse, Jonneke, and Catrien Schreuder. 2014. *What’s Happening? De neo-avant-garde en de Nederlandse kunstkritiek 1958–1975.* Rotterdam: Nai010."
     reference_for: "collections/11-meijer"
 
