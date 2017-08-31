@@ -65,7 +65,7 @@ The MFAH has two Julio Le Parc sculptures, one from 1960–66 and another from 1
 
 ## Horacio García Rossi
 
-{{< q-figure id="9.5" >}}
+{{< q-figure id="9.5" pdf="two-column" >}}
 
 Horacio García Rossi’s *Structure à lumière instable no. 29* (Unstable Light Structure No. 29) (1966) ([fig. 9.5](#9.5)) had been shown in a previous exhibition just after acquisition, but the lights had since stopped working. There are ninety acrylic rods of different thickness and length on the exterior. Two lights on the inside of the front panel ([fig. 9.6](#9.6)) project light onto the back of the box, on which a wooden disk with a forest of shiny metal squares ([fig. 9.7](#9.7)) is mounted. The disk is turned by a motor, causing the metal squares to shift position on their wires, casting light randomly through the acrylic rods.
 
