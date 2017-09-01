@@ -1037,14 +1037,14 @@ figure_list:
   - id: "17.1a"
     src: fig-17-1a-erhan.jpg
     caption: >
-      Jonathan Borofsky’s *Ballerina Clown*, 1990, installed in the courtyard of the Museum Ludwig Forum Aachen.
+      Jonathan Borofsky’s *Ballerina Clown*, 1990, installed inside the courtyard of the Museum Ludwig Forum Aachen.
     credit: >
       © Jonathan Borofsky. Photo: Mine Erhan (© “Die Schmeide”).
 
   - id: "17.1b"
     src: fig-17-1b-erhan.jpg
     caption: >
-      The mechanism that moves the leg of Jonathan Borofsky’s *Ballerina Clown*, 1990.
+      Diagram of the mechanism that moves the leg of Jonathan Borofsky’s *Ballerina Clown*, 1990.
     credit: >
       © Jonathan Borofsky. Illustrator: Mine Erhan (© “Die Schmeide”).
 
@@ -1058,7 +1058,7 @@ figure_list:
   - id: "19.1"
     src: fig-19-1-mack.jpg
     caption: >
-      Aerial view of Alexander Calder’s *Tree* at the Fondation Beyeler, with arrows indicating wind direction and a graph illustrating intensity. Inset: Federike Steckling. 2001 Image Landsat Google Earth 47° 35' 12.43" N7° 39' 00.17" E elev 923 ft., eye alt 1818 ft.
+      Aerial view of Alexander Calder’s *The Tree* at the Fondation Beyeler, with arrows indicating wind direction and a graph illustrating intensity. Inset: Federike Steckling. 2001 Image Landsat Google Earth 47° 35' 12.43" N7° 39' 00.17" E elev. 923 ft., eye alt. 1818 ft.
     credit: >
       © 2017 Calder Foundation, New York/Artists Rights Society (ARS), New York.
 
@@ -1086,6 +1086,6 @@ figure_list:
   - id: "23.1"
     src: fig-23-1-van-mourik.jpg
     caption: >
-      Joost Conijn’s *Hout Auto (Wood Car)* in the garden of the Centraal Museum. Centraal Museum Utrecht.
+      Joost Conijn’s *Hout Auto* (Wood Car) in the garden of the Centraal Museum. Centraal Museum Utrecht.
     credit: >
       Photo: Ernst Moritz.
