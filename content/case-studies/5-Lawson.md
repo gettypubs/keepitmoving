@@ -27,7 +27,7 @@ weight: 203
 
 ## The Context of Kinetic Art Conservation at Tate
 
-Tate acquired its first kinetic work in 1951 (Lynn Chadwick’s *Dragonfly*), and there are now approximately sixty kinetic sculptures in the collection, including mobiles, interactive works, and motorized works. Each artwork has its own complexities relating to display; therefore, conservation needs are reviewed on an individual basis and require a variety of implementation approaches. The following three sculptures highlight some, but not all, of the different approaches that could be applied to Weng-Ying Tsai’s *Umbrella* (1971), based on previous work within Tate conservation.
+Tate acquired its first kinetic work in 1951 (Lynn Chadwick’s *Dragonfly*, 1951), and there are now approximately sixty kinetic sculptures in the collection, including mobiles, interactive works, and motorized works. Each artwork has its own complexities relating to display; therefore, conservation needs are reviewed on an individual basis and require a variety of implementation approaches. The following three sculptures highlight some, but not all, of the different approaches that could be applied to Weng-Ying Tsai’s *Umbrella* (1971), based on previous work within Tate conservation.
 
 When Jean Tinguely’s *Metamechanical Sculpture with Tripod* (1954)[^2] was displayed in the 1990s, it needed daily repairs after short periods of movement.[^3] The available options to strengthen the twenty-four loose joints, consolidate the flaking painted cardboard sections, and possibly perform certain reconstructions would mean that a large part of the original material would be lost. Furthermore, the “unpredictable” and “constantly changing” nature of the work, which is inherent to its interpretation, would be compromised. Therefore, the Tate decided to show the work as nonoperational when it was displayed at Tate Liverpool in 2009, allowing the original material to be retained. In this instance, the materiality of the sculpture, rather than its functionality, was viewed as the significant characteristic of the artwork.
 
@@ -41,7 +41,7 @@ Gabo used primitive techniques and reclaimed materials in the manufacture of *Ki
 
 {{< q-figure id="5.1" >}}
 
-Wen-Ying Tsai (1928–2013) began to make cybernetic sculpture in 1966. Each sculpture consists of a number of stainless-steel rods set on a platform, vibrating at a constant rate of 20Hz to 30Hz (cycles per second). These vibrating rods are lit by high-frequency strobes that capture their movement, allowing the viewer to see them as slowly undulating standing waves. The standing waves appear to immediately respond to a loud noise—the clap of a hand or a loud voice—by quickening their motion ({{<q-cite "Alley 1981" "">}}).
+Wen-Ying Tsai (1928–2013) began to make cybernetic sculpture in 1966. Each sculpture consists of a number of stainless-steel rods set on a platform, vibrating at a constant rate of 20Hz to 30Hz (cycles per second). These vibrating rods are lit by high-frequency strobes that capture their movement, allowing the viewer to see them as slowly undulating standing waves. The standing waves appear to immediately respond to a loud noise—the clap of a hand or a loud voice—by quickening their motion ({{<q-cite "Alley 1981:730-31" "">}}).
 
 {{< q-figure id="5.2" class="float-left" pdf="one-column" >}}
 
