@@ -126,7 +126,7 @@ Tiziana Caianiello of the ZERO Foundation, and Ulrik Runeberg of Restaurierungsz
 
 [^2]: Heinz Mack, interview by Kristina Herbst, in {{<q-cite "Herbst 2005" "">}}, appendix D1, pp. 9, 15; Heinz Mack, interview by Gunnar Heydenreich and Julia Giebeler, in {{<q-cite "Giebeler 2011" "appendix A1, p. 30">}}.
 
-[^3]: {{<q-cite "Uecker 1961" "">}}; Günther Uecker, interview by Tiziana Caianiello, Gunnar Heydenreich, and Cornelia Weyer, in {{<q-cite "Caianiello 2005" "207">}}.
+[^3]: {{<q-cite "Uecker 1961 " "">}}; Günther Uecker, interview by Tiziana Caianiello, Gunnar Heydenreich, and Cornelia Weyer, in {{<q-cite "Caianiello 2005" "207">}}.
 
 [^4]: Otto Piene, interview by Tiziana Caianiello, Gunnar Heydenreich, and Cornelia Weyer, in {{<q-cite "Caianiello 2005" "182">}}; Heinz Mack, interview by Tiziana Caianiello, Gunnar Heydenreich, and Cornelia Weyer, in {{<q-cite "Caianiello 2005" "198">}}; {{<q-cite "Caianiello 2005" "72">}}.
 
