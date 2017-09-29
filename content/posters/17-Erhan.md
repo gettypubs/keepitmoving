@@ -1,4 +1,4 @@
----
+cable---
 id: "17"
 title: Think Big!
 subtitle: The Conservation of *Ballerina Clown*, a Kinetic Work of Art by Jonathan Borofsky
@@ -23,12 +23,12 @@ The figure of the ballerina clown occurs several times in Borofsky’s oeuvre. T
 
 The artwork is as high as a two-story building (about 9.0 × 5.7 × 6.4 m) and is made from stable materials including aluminum, steel, glass fiber reinforced plastic (GRP), two-part epoxy resins, and two-part polyurethane paints. (Information on media was supplied by the artist.)
 
-The motion of the leg is powered by an electric motor that rotates a flywheel. Through a coupling rod, a gearwheel with an attached chain turns back and forth, and the sculpture’s leg is moved by a second gearwheel that is installed as a “knee joint.” Both gearwheels are connected through attached chains and a steel rope. Two guide rollers determine the direction of the steel rope ([fig. 17.1b](#17.1b)). Amplifiers, speakers, and a cassette recorder play the song, and lights illuminate the sculpture at night. The artwork can be activated by a switch in a nearby building.
+The motion of the leg is powered by an electric motor that rotates a flywheel. Through a coupling rod, a gearwheel with an attached chain turns back and forth, and the sculpture’s leg is moved by a second gearwheel that is installed as a “knee joint.” Both gearwheels are connected through attached chains and a steel cable. Two guide rollers determine the direction of the steel cable ([fig. 17.1b](#17.1b)). Amplifiers, speakers, and a cassette recorder play the song, and lights illuminate the sculpture at night. The artwork can be activated by a switch in a nearby building.
 
 ## Damage and Treatments
 
 *Ballerina Clown* has been exhibited in the courtyard of the Museum Ludwig Forum Aachen since 1991. Conservation and restoration treatments were necessary after it was vandalized. The mechanism that allows the clown’s leg to swing was broken, and sections of the original surface were cracked and damaged. Additionally, the paint had whitened through chalking, and partial delamination, cracks, and losses emerged.
 
-When the movable leg was examined to replace the torn steel rope, it was evident that the leg swung very strongly in both directions (see [fig. 17.1b](#17.1b)), which raised the question of whether this was the original configuration. Further inspection of the flywheel revealed that one hole had distinct traces of wear, indicating that it had been used originally. Because the hole was already very worn, it could not continue to be used. After consultation with the museum, a new hole was drilled with the same distance to the center as the original. This allows the old hole to serve as a primary document.
+When the movable leg was examined to replace the torn steel cable, it was evident that the leg swung very strongly in both directions (see [fig. 17.1b](#17.1b)), which raised the question of whether this was the original configuration. Further inspection of the flywheel revealed that one hole had distinct traces of wear, indicating that it had been used originally. Because the hole was already very worn, it could not continue to be used. After consultation with the museum, a new hole was drilled with the same distance to the center as the original. This allows the old hole to serve as a primary document.
 
 Additional treatments were performed to stabilize frail parts of the GRP, consolidate delamination, fill losses, and retouch this painted outdoor sculpture.
