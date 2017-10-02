@@ -6,7 +6,7 @@ type: essay
 contributor:
  - first_name: Marlies
    last_name: Peller
-   bio: Marlies Peller studied the conservation-restoration of modern and contemporary art at the Academy of Fine Arts, Vienna, graduating in 2014. She was assistant conservator at documenta 13 Kassel (2012) and research assistant (head of studio, conservation of modern and contemporary art) at the Academy of Fine Arts, Vienna (2014–16). She has also been a freelancer at Museum Moderner Kunst Stiftung Ludwig (mumok), Vienna.
+   bio: Marlies Peller studied conservation-restoration of modern and contemporary art at the Academy of Fine Arts, Vienna, graduating in 2014. She was assistant conservator at documenta 13, Kassel (2012), and research assistant (head of studio, conservation of modern and contemporary art) at the Academy of Fine Arts, Vienna (2014–16). She has also been a freelancer at Museum Moderner Kunst Stiftung Ludwig (mumok), Vienna.
  - first_name: Gerda
    last_name: Kaltenbruner
    bio: Gerda Kaltenbruner has been professor of conservation of Modern and Contemporary Art at the Academy of Fine Arts, Vienna, since 2005. She held various positions prior to that, including head of conservation at the Kunstmuseum Bonn and conservator at the office for the Preservation of Historical Monuments, North Rhine-Westphalia. She received her MA in Conservation at the Academy of Fine Arts, Vienna.
