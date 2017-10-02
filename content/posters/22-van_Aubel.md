@@ -9,7 +9,7 @@ contributor:
    bio: Carien van Aubel is trained as a chemist and conservator in modern and contemporary art at the University of Amsterdam. She works as an independent conservator in the Netherlands and London. Currently, she is involved in "Project Plastics," which was initiated by the Dutch Foundation for the Conservation of Contemporary Art (SBMK) and the Cultural Heritage Agency of the Netherlands (RCE).
  - first_name: Nikki
    last_name: van Basten
-   bio: Nikki van Basten, conservator of modern and contemporary art, is on temporary assignment at the Getty Conservation Institute. She has carried out treatments for a broad range of objects and is specialized in the conservation of (outdoor) painted sculptures. She holds a Professional Doctorate in the Conservation of Modern and Contemporary Art from the University of Amsterdam.
+   bio: Nikki van Basten, conservator of modern and contemporary art, is on temporary assignment at the Getty Conservation Institute. She has carried out treatments for a broad range of objects and specializes in the conservation of (outdoor) painted sculptures. She holds a professional doctorate in the conservation of modern and contemporary art from the University of Amsterdam.
  - first_name: Katja
    last_name: van de Braak
    bio: Katja van de Braak holds an MA in modern and contemporary art conservation from the University of Amsterdam (UvA). She has a strong interest in the conservation of modern, unconventional, and temperamental materials. Van de Braak is a trainee in modern and contemporary art conservation at the UvA and is interning at the private conservation studio Bek & Frohnert LLC, New York City.
