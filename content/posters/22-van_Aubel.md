@@ -12,7 +12,7 @@ contributor:
    bio: Nikki van Basten, conservator of modern and contemporary art, is on temporary assignment at the Getty Conservation Institute. She has carried out treatments for a broad range of objects and specializes in the conservation of (outdoor) painted sculptures. She holds a professional doctorate in the conservation of modern and contemporary art from the University of Amsterdam.
  - first_name: Katja
    last_name: van de Braak
-   bio: Katja van de Braak holds an MA in modern and contemporary art conservation from the University of Amsterdam (UvA). She has a strong interest in the conservation of modern, unconventional, and temperamental materials. Van de Braak is a trainee in modern and contemporary art conservation at the UvA and is interning at the private conservation studio Bek & Frohnert LLC, New York City.
+   bio: Katja van de Braak holds an MA and a professional doctorate in contemporary art conservation from the University of Amsterdam (UvA). She has worked both within the Netherlands and internationally, at various private practices and internships at world-renowned museums. Currently, she is working as an independent conservator in the Netherlands and as a guest lecturer in conservation practice in the contemporary art training program at UvA. 
  - first_name: Sjoukje
    last_name: van der Laan
    bio: Sjoukje van der Laan holds both an MA and a Professional Doctorate in Contemporary Art Conservation. Over the years, she has developed her specialization and practical skills within a broad range of contemporary materials (such as plastics, time-based media, light, and so on), art installations, and conceptual artworks. She is assistant conservator of contemporary art at the Art Gallery of Ontario, Toronto.
