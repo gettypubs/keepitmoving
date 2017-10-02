@@ -6,7 +6,7 @@ type: essay
 contributor:
  - first_name: Jane
    last_name: Gillies
-   bio: Jane C. Gillies earned a BSc from Edinburgh University, Edinburgh, in 1981, and she received her postgraduate diploma from West Dean College (Sussex, United Kingdom) in 1984. She is a professional associate member of the American Institute for Conservation.
+   bio: Jane Gillies earned a BSc in architecture from Edinburgh University in 1981, and she received her postgraduate diploma from West Dean College (Sussex, UK) in 1984. She is a professional associate member of the American Institute for Conservation.
  - first_name: Ingrid
    last_name: Seyb
    bio: Ingrid Seyb received an MA in conservation studies from West Dean College (Sussex, United Kingdom), validated by the University of Sussex in 2008. She is a professional associate member of the American Institute for Conservation.
