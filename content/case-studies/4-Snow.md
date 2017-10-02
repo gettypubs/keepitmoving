@@ -5,7 +5,7 @@ type: essay
 contributor:
  - first_name: Carol
    last_name: Snow
-   bio: Carol Snow is a graduate of the Winterthur/University of Delaware Program in Art Conservation. While at the Walters Art Museum (Baltimore, Maryland), she participated in archaeological projects around the Mediterranean and received a Fulbright to work in Turkey. She has been a conservator in private practice for twenty years. She is deputy chief conservator and the Alan J. Dworsky Senior Conservator of Objects at the Yale University Art Gallery (New Haven, Connecticut).
+   bio: Carol Snow is a graduate of the Winterthur/University of Delaware Program in Art Conservation. While at the Walters Art Museum (Baltimore), she participated in archaeological projects around the Mediterranean and received a Fulbright Scholarship enabling her to work in Turkey. She has been a conservator in private practice for twenty years. She is deputy chief conservator and the Alan J. Dworsky Senior Conservator of Objects at the Yale University Art Gallery (New Haven, Connecticut).
  - first_name: Lynda
    last_name: Zycherman
    bio: Lynda Zycherman is a graduate of the Conservation Center, Institute of Fine Arts, New York University. She has served as conservator of sculpture at the Museum of Modern Art, New York, for three decades. Previously she worked at the Freer Gallery of Art, Washington, D.C., where she specialized in the technical examination of ancient Chinese bronzes. Zycherman also trained at the Metropolitan Museum of Art, New York, and the Corning Museum of Glass, New York.
