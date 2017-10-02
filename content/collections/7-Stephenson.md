@@ -5,7 +5,7 @@ type: essay
 contributor:
  - first_name: Erin
    last_name: Stephenson
-   bio: Erin Stephenson is the William R. Leisher Fellow in Modern and Contemporary Paintings Conservation at the National Gallery of Art, Washington, D.C., where she specializes in modern and contemporary painting conservation. She earned her MA in art conservation from SUNY Buffalo State College. Stephenson interned with the Fine Arts Museums of San Francisco and held fellowships at the Balboa Art Conservation Center (San Diego, California) and the Menil Collection (Houston, Texas).
+   bio: Erin Stephenson is the William R. Leisher Fellow in Modern and Contemporary Paintings Conservation at the National Gallery of Art, Washington, D.C., where she specializes in modern and contemporary painting conservation. She earned her MA in art conservation from SUNY Buffalo. Stephenson interned with the Fine Arts Museums of San Francisco and held fellowships at the Balboa Art Conservation Center (San Diego) and the Menil Collection (Houston).
  - first_name: Kari
    last_name: Dodson
    bio: Kari Dodson is the assistant objects conservator at the Menil Collection, Houston. She holds a BA in physical anthropology from the University of Missouri, Columbia, and an MA/CAS in art conservation from SUNY Buffalo State College. Dodson interned at the National Museums of Malawi, the Barnes Foundation (Philadelphia), and the Metropolitan Museum of Art, New York, and she completed a Mellon fellowship at the Worcester Art Museum (Massachusetts). She also serves the American Institute for Conservation as coeditor of the Objects Specialty Group Postprints.
