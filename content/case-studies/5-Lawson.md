@@ -6,7 +6,7 @@ type: essay
 contributor:
  - first_name: Carla
    last_name: Flack
-   bio: Carla Flack is a sculpture and installation conservator with eight years’ experience working for various institutions in the United Kingdom and internationally, including the Science Museum (London) and the Statens Museum for Kunst (Copenhagen). She has been with the Tate, London, since 2012. In 2008, Flack received an MA from the University of Lincoln (United Kingdom) in the conservation of historic objects, with a focus on plastics in contemporary art. She collaborates with artists to ensure that the intention of their works is maintained, as well as their longevity.
+   bio: Carla Flack is a sculpture and installation conservator working for various institutions in the United Kingdom and internationally, including the Science Museum (London) and the Statens Museum for Kunst (Copenhagen). She has been with the Tate, London, since 2012. In 2008, Flack received an MA from the University of Lincoln (UK) in the conservation of historic objects, with a focus on plastics in contemporary art. She collaborates with artists to ensure that the intention and longevity of their works is maintained.
  - first_name: Louise
    last_name: Lawson
    bio: Louise Lawson, conservation manager at Tate, London, has worked within conservation for nearly twenty years, and her background spans both sculpture and time-based media conservation. She holds a BA and an MA in conservation, along with an MSc in disaster management. Her areas of research and interest focus on replication and reenactment of artworks in collaboration with artists and artists’ estates.
