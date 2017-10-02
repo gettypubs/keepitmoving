@@ -5,7 +5,7 @@ type: essay
 contributor:
  - first_name: Abigail
    last_name: Mack
-   bio: Abigail Mack established her art conservation practice, Mack Art Conservation, in 2007 in New York’s Hudson Valley. She focuses on modern and contemporary art, with a specific interest in large-scale and monumental sculpture. Mack holds a BFA and an MA in art conservation from SUNY Buffalo State College. Mack is a contract conservator for the Getty Conservation Institute’s Outdoor Painted Sculpture Project.
+   bio: Abigail Mack established her art conservation practice, Mack Art Conservation, in 2007 in New York’s Hudson Valley. She focuses on modern and contemporary art, with a specific interest in large-scale and monumental sculpture. Mack holds a BFA and an MA in art conservation from SUNY Buffalo. Mack is a contract conservator for the Getty Conservation Institute’s Outdoor Painted Sculpture Project.
  - first_name: Friederike
    last_name: Steckling
    bio: Friederike Steckling trained as a paintings conservator at the Conservation Center of New York University, where she received a Certificate of Advanced Study in Conservation and an MA in art history. She has been conservator at the Fondation Beyeler in Basel, Switzerland, since 2001, where she helped establish the conservation department. Steckling is responsible for the care of the classical modern collection and for conservation projects on works in various media.
