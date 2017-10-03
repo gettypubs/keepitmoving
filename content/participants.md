@@ -121,9 +121,9 @@ type: page
 
 - **Susan Costello**
 
-    Harvard Art Museums, Cambridge
+    Harvard Art Museums, Cambridge, Massachusetts
 
-    Massachusetts, USA
+    USA
 
 
 - **Kate Cuffari**
@@ -239,9 +239,9 @@ Sciences
 
     [Bio](/contributors/#jane-gillies)|[Contribution](/collections/9-gillies/)
 
-    Museum of Fine Arts, Houston
+    Museum of Fine Arts, Houston, Texas
 
-    Texas, USA
+    USA
 
 
 - **Claudio Giorgione**
@@ -277,9 +277,9 @@ Milan
 
 - **Jim Gwinner**
 
-    McKay Lodge Fine Art Conservation Laboratory, Inc., Oberlin
+    McKay Lodge Fine Art Conservation Laboratory, Inc., Oberlin, Ohio
 
-    Ohio, USA
+    USA
 
 
 - **Tora Hederus**
@@ -375,9 +375,9 @@ Sciences
 
     [Bio](/contributors/#abigail-mack)|[Contribution](/posters/19-mack/)
 
-    Mack Art Conservation LLC, Red Hook
+    Mack Art Conservation LLC, Red Hook, New York
 
-    New York, USA
+    USA
 
 
 - **Jasmin Mackenzie**
@@ -452,9 +452,9 @@ PATRIMA, Paris
 
 - **Samantha Owens**
 
-    Winterthur/University of Delaware Program in Art Conservation
+    Winterthur/University of Delaware Program in Art Conservation, Delaware
 
-    Delaware, USA
+    USA
 
 
 - **Flavia Parisi**
@@ -634,9 +634,9 @@ Nacional de San Martín, Buenos Aires
 
     [Bio](/contributors/#carol-snow)|[Contribution](/case-studies/4-snow/)
 
-    Yale University Art Gallery, New Haven
+    Yale University Art Gallery, New Haven, Connecticut
 
-    Connecticut, USA
+    USA
 
 
 - **Ioseba Soraluze**
