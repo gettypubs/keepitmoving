@@ -18,7 +18,7 @@ contributor:
    bio: Sjoukje van der Laan holds both an MA and a professional doctorate in contemporary art conservation. Over the years, she has developed her specialization and practical skills within a broad range of contemporary materials (such as plastics, time-based media, light, and so on), art installations, and conceptual artworks. She is assistant conservator of contemporary art at the Art Gallery of Ontario, Toronto.
  - first_name: Anouk
    last_name: Verbeek
-   bio: Muriel Verbeeck holds a PhD from the Université de Liège (Belgium) and an MA in science of information and communication from the Université Libre de Bruxelles. She is currently a professor at the École Supérieure des Arts Saint-Luc Liège (Belgium), in the department of conservation of fine art, and is a scientific attaché to Université de Liège faculty of science. She also worked as a coordination assistant for the ICOM–CC (history and theory of conservation) and is the scientific editor of *CeROArt*.
+   bio: Anouk Verbeek holds an MA and a professional doctorate in modern and contemporary art conservation from the University of Amsterdam. She has a strong interest in the conservation of modern materials, mixed-media artworks, and large-scale installations. She is pursuing a fellowship in modern art.
  - first_name: Marleen
    last_name: Wagenaar
    bio: Marleen is a private conservator, offering specialized services in the field of conservation of contemporary art in a wide variety of materials and techniques. Cofounder of the conservation studio RestauLab, she is responsible for the modern and contemporary art department. Wagenaar holds an MA and a Professional Doctorate in Contemporary Art Conservation from the University of Amsterdam.
