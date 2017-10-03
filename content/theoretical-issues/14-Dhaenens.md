@@ -9,7 +9,7 @@ contributor:
    bio: Manon D’haenens is a conservator-restorer of contemporary art. She holds an MA from the École Supérieure des Arts Saint-Luc de Liège (Belgium), and she is a PhD candidate at the Université de Liège (Centre Européen d’Archéométrie). Her research focuses on the conservator-restorer’s role in contemporary art collections.
  - first_name: Muriel
    last_name: Verbeeck
-   bio: Anouk Verbeek holds an MA and a Professional Doctorate in Modern and Contemporary Art Conservation from the University of Amsterdam. She has a strong interest in the conservation of modern materials, mixed-media artworks, and large-scale installations. She is pursuing a fellowship in modern art.
+   bio: Muriel Verbeeck holds a PhD from the Université de Liège (Belgium) and an MA in the science of information and communication from the Université Libre de Bruxelles. She is currently a professor at the École Supérieure des Arts Saint-Luc Liège (Belgium) in the department of conservation of fine art and is a scientific attaché to Université de Liège faculty of science. She also worked as a coordination assistant for the ICOM–CC (history and theory of conservation) and is the scientific editor of *CeROArt*.
  - first_name: David
    last_name: Strivay
    bio: In 2001 David Strivay earned his PhD in physics, in the field of ion-beam analysis techniques. He has been the director of the archaeometry research center of the Université de Liège (Belgium) since 2005. His main fields of research are the development and optimization of mobile noninvasive analytical and imaging techniques, technical art history, atomic and nuclear physics and ion-beam analysis, and modification of materials.
