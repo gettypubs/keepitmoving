@@ -10,7 +10,7 @@ figure_list:
   - id: "I.2"
     src: fig-i-2-ratti.jpg
     caption: >
-      Giovanni Anceschi, *Strutturazione tricroma*, 1964, four cube-shaped elements in wood and metal, inbuilt screen, back projection with additive color synthesis, and four 220V electromechanical motors. Museo del Novecento (long-term loan of the artist, Milan).
+      Giovanni Anceschi, *Struttura tricroma*, 1964, four cube-shaped elements in wood and metal, inbuilt screen, back projection with additive color synthesis, and four 220V electromechanical motors. Museo del Novecento (long-term loan of the artist, Milan).
     credit: >
       © Giovanni Anceschi. Museo del Novecento, Milan © Comune di Milano. All rights reserved.
 
@@ -102,7 +102,7 @@ figure_list:
     caption: >
       Leo Villareal’s *Flowers 8*, 2005.
     credit: >
-      Courtesy of Donald R. Mullen, Jr., with permission from the artist.
+      Courtesy of Donald R. Mullen Jr., with permission from the artist.
 
   - id: "1.12"
     src: Kpwfx8Zn0S4
@@ -111,7 +111,7 @@ figure_list:
     caption: >
       Leo Villareal’s *Flowers 8*, 2005.
     credit: >
-      Courtesy of Donald R. Mullen, Jr., with permission from the artist.
+      Courtesy of Donald R. Mullen Jr., with permission from the artist.
 
   - id: "2.1"
     src: fig-2-1-caianiello.jpg
@@ -121,14 +121,14 @@ figure_list:
   - id: "2.2"
     src: fig-2-2-caianiello.jpg
     caption: >
-      Heinz Mack, Otto Piene, Günther Uecker’s *Lichtraum (Homage à Fontana)*, 1964. Museum Kunstpalast, Düsseldorf, 2005.
+      Heinz Mack, Otto Piene, Günther Uecker’s *Lichtraum (Hommage à Fontana)*, 1964. Museum Kunstpalast, Düsseldorf, 2005.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn.
 
   - id: "2.3"
     src: fig-2-3-caianiello.jpg
     caption: >
-      Günther Uecker’s *Lichtscheibe* on view in the Fridericianum, Documenta 3, Kassel, 1964.
+      Günther Uecker’s *Lichtscheibe* on view in the Fridericianum, documenta 3, Kassel, 1964.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn. Photo: © documenta Archive / Horst Munzig.
 
@@ -142,7 +142,7 @@ figure_list:
   - id: "2.5"
     src: fig-2-5-caianiello.jpg
     caption: >
-      Heinz Mack’s *Zwischen Himmel und Erde*, 1966, in Zero in Bonn, Städtische Kunstsammlungen Bonn, 1966.
+      Heinz Mack’s *Zwischen Himmel und Erde*, 1966, in *Zero in Bonn*, Städtische Kunstsammlungen Bonn, 1966.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn. Photo: Courtesy of ZERO Foundation, Hans Schafgans Archive.
 
@@ -170,7 +170,7 @@ figure_list:
   - id: "2.8"
     src: fig-2-8-caianiello.jpg
     caption: >
-      Otto Piene’s Lichtballett *“Hommage à New York,”* 1966, in *Zero in Bonn*, Städtische Kunstsammlungen Bonn, 1966.
+      Otto Piene’s *Lichtballett “Hommage à New York,”* 1966, in *Zero in Bonn*, Städtische Kunstsammlungen Bonn, 1966.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn. Photo: Courtesy of Otto Piene Archive, ZERO Foundation, Düsseldorf.
 
@@ -179,7 +179,7 @@ figure_list:
     media_type: youtube
     fallback: fig-3-1-video-gilberg.jpg
     caption: >
-      Chris Burden’s *Metropolis II* in action.
+      Chris Burden’s *Metropolis II* (2011) in action.
     credit: >
       © Chris Burden Estate. Courtesy of the Nicolas Berggruen Charitable Foundation. Photo: Mark Gilberg and Alison Walker.
 
@@ -221,28 +221,28 @@ figure_list:
   - id: "3.7"
     src: fig-3-7-gilberg.jpg
     caption: >
-      Track wear.
+      Track wear in *Metropolis II*.
     credit: >
       © Chris Burden Estate, Courtesy of the Nicolas Berggruen Charitable Foundation. Photo: Mark Gilberg and Alison Walker.
 
   - id: "3.8"
     src: fig-3-8-gilberg.jpg
     caption: >
-      Car failure.
+      Car failure in *Metropolis II*.
     credit: >
       © Chris Burden Estate, Courtesy of the Nicolas Berggruen Charitable Foundation. Photo: Mark Gilberg and Alison Walker.
 
   - id: "3.9"
     src: fig-3-9-gilberg.jpg
     caption: >
-      A car leaving the track, captured by the GoPro.
+      A car in *Metropolis II* falling off the track, captured by the GoPro.
     credit: >
       © Chris Burden Estate, Courtesy of the Nicolas Berggruen Charitable Foundation. Photo: Mark Gilberg and Alison Walker.
 
   - id: "4.1"
     src: fig-4-1-snow.jpg
     caption: >
-      A clavilux recital by Thomas Wilfred in Seattle, Washington, 1924.
+      A clavilux recital by Thomas Wilfred in Seattle, 1924.
     credit: >
       Photo: Yale University Library Manuscripts and Archives.
 
@@ -256,14 +256,14 @@ figure_list:
   - id: "4.3"
     src: fig-4-3-snow.jpg
     caption: >
-      Thomas Wilfred’s *Lumia Suite, Opus 158* in storage at the Museum of Modern Art, New York, 2013.
+      Thomas Wilfred’s *Lumia Suite, Opus 158* in storage at the Museum of Modern Art, 2013.
     credit: >
       Photo: Yale University Art Gallery.
 
   - id: "4.4"
     src: fig-4-4-snow.jpg
     caption: >
-      A section drawing of *Lumia Suite, Opus 158* in a projection room, from Wilfred’s technical manual.
+      A section drawing of Thomas Wilfred's *Lumia Suite, Opus 158* in a projection room, from Wilfred’s technical manual.
     credit: >
       Museum of Modern Art, New York, Department of Painting and Sculpture, Museum Collection Files.
 
@@ -309,35 +309,35 @@ figure_list:
     media_type: youtube
     fallback: fig-5-1-video-lawson.jpg
     caption: >
-      The central crown of *Umbrella*, 1971, by Wen-Ying Tsai (1928–2013), in action at Tate Modern’s Tank Gallery, June 16, 2016–February 5, 2017.
+      The central crown of *Umbrella*, 1971, by Wen-Ying Tsai, in action at Tate Modern’s Tank Gallery, June 16, 2016–February 5, 2017.
     credit: >
       Courtesy Tsai Art and Science Foundation. Photo: © Tate, London 2016.
 
   - id: "5.1_alternate"
     src: fig-5-1-lawson_VIDEOSTILL.jpg
     caption: >
-      The central crown of *Umbrella*, 1971, by Wen-Ying Tsai (1928–2013), in action at Tate Modern’s Tank Gallery, June 16, 2016–February 5, 2017.
+      The central crown of *Umbrella*, 1971, by Wen-Ying Tsai, in action at Tate Modern’s Tank Gallery, June 16, 2016–February 5, 2017.
     credit: >
       Courtesy Tsai Art and Science Foundation. Photo: © Tate, London 2016.
 
   - id: "5.2"
     src: fig-5-2-lawson.jpg
     caption: >
-      The central crown of *Umbrella*, 1971, by Wen-Ying Tsai (1928–2013).
+      The central crown of *Umbrella*, 1971, by Wen-Ying Tsai.
     credit: >
       Courtesy Tsai Art and Science Foundation. Photo: © Tate, London 2016.
 
   - id: "5.3"
     src: fig-5-3-lawson.jpg
     caption: >
-      The motor of *Umbrella*, 1971, by Wen-Ying Tsai (1928–2013).
+      The motor of *Umbrella*, 1971, by Wen-Ying Tsai.
     credit: >
       Courtesy Tsai Art and Science Foundation. Photo: © Tate, London 2016.
 
   - id: "5.4"
     src: fig-5-4-lawson.jpg
     caption: >
-      Tate conservation manager Louise Lawson and Ming-Yi Tsai, the artist’s son, at Tate during the initial meeting in January 2016 (Wen-Ying Tsai, 1928–2013).
+      Tate conservation manager Louise Lawson and Ming-Yi Tsai, the artist’s son, at Tate during the initial meeting in January 2016 (Wen-Ying Tsai).
     credit: >
       Courtesy Tsai Art and Science Foundation. Photo: © Tate, London 2016.
 
@@ -346,7 +346,7 @@ figure_list:
     media_type: youtube
     fallback: fig-6-1-video-phillips.jpg
     caption: >
-      Max Dean’s *As Yet Untitled*, 1992–95, on view in *Drone: The Automated Image* at VOX, Centre de l’Image Contemporaine, September 7–October 19, 2013, during Le Mois de la Photo à Montréal 2013. Installation from the collection of the Art Gallery of Ontario.
+      Max Dean’s *As Yet Untitled*, 1992–95, on view in *Drone: The Automated Image* at VOX, Centre de l’Image Contemporaine, Montreal, September 7–October 19, 2013, during *Le Mois de la Photo à Montréal 2013*. Installation from the collection of the Art Gallery of Ontario.
     credit: >
       © 2017 Max Dean/Art Gallery of Ontario.
 
@@ -425,7 +425,7 @@ figure_list:
     media_type: youtube
     fallback: fig-7-6-video-stephenson.jpg
     caption: >
-      Sound produced by the operation of Takis’s *Musical-M.013*, 2000. The Menil Collection, Houston, gift of the artist.
+      Detail of the operation of Takis’s *Musical-M.013* producing sound, 2000. The Menil Collection, Houston, gift of the artist.
     credit: >
       © Takis Foundation. Video capture: The Menil Collection, Houston, Adam Baker.
 
@@ -591,14 +591,14 @@ figure_list:
     media_type: youtube
     fallback: fig-9-1-video-gillies.jpg
     caption: >
-      Gregorio Vardanega’s *Espaces chromatiques carrées en spirale (Chromatic Spaces Turning in a Spiral)*, 1968, Plexiglas, light bulbs, and motor; after treatment. The Museum of Fine Arts, Houston, museum purchase funded by the Latin Maecenas, 2010.173.
+      Gregorio Vardanega’s *Espaces chromatiques carrées en spirale* (Chromatic Spaces Turning in a Spiral), 1968, Plexiglas, light bulbs, and motor; after treatment. The Museum of Fine Arts, Houston, museum purchase funded by the Latin Maecenas, 2010.173.
     credit: >
       © Estate of Gregorio Vardanega. Courtesy Sicardi Gallery Houston. Video: Matt Golden © The Museum of Fine Arts, Houston.
 
   - id: "9.2"
     src: fig-9-2-gillies.jpg
     caption: >
-      Interior detail of *Gregorio Vardanega’s Espaces chromatiques carrées en spirale (Chromatic Spaces Turning in a Spiral)*, 1968, Plexiglas, light bulbs, and motor. The Museum of Fine Arts, Houston, museum purchase funded by the Latin Maecenas, 2010.173.
+      Interior detail of *Gregorio Vardanega’s Espaces chromatiques carrées en spirale* (Chromatic Spaces Turning in a Spiral), 1968, Plexiglas, light bulbs, and motor. The Museum of Fine Arts, Houston, museum purchase funded by the Latin Maecenas, 2010.173.
     credit: >
       © Estate of Gregorio Vardanega. Courtesy Sicardi Gallery Houston. Photo: Jane Gillies © The Museum of Fine Arts, Houston.
 
@@ -607,14 +607,14 @@ figure_list:
     media_type: youtube
     fallback: fig-9-3-video-gillies.jpg
     caption: >
-      Gregorio Vardanega’s *Couleurs sonores (Sound Colors)*, 1963–79, metal, light bulbs, and electric motor; after treatment. The Museum of Fine Arts, Houston, gift of the estate of the artist and Sicardi Gallery, 2013.665.A-.G.
+      Gregorio Vardanega’s *Couleurs sonores* (Sound Colors), 1963–79, metal, light bulbs, and electric motor; after treatment. The Museum of Fine Arts, Houston, gift of the estate of the artist and Sicardi Gallery, 2013.665.A-.G.
     credit: >
       © Estate of Gregorio Vardanega. Courtesy Sicardi Gallery Houston. Video: Matt Golden © The Museum of Fine Arts, Houston.
 
   - id: "9.4"
     src: fig-9-4-gillies.jpg
     caption: >
-      Martha Boto’s *Déplacements optiques (Optical Displacements)*, 1967–69, painted wood, light, aluminum, and motor; after treatment. The Museum of Fine Arts, Houston, gift of Benbow and Jean Bullock, 2004.1617.
+      Martha Boto’s *Déplacements optiques* (Optical Displacements), 1967–69, painted wood, light, aluminum, and motor; after treatment. The Museum of Fine Arts, Houston, gift of Benbow and Jean Bullock, 2004.1617.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris. Photo: Matt Golden © The Museum of Fine Arts, Houston.
 
@@ -623,58 +623,58 @@ figure_list:
     media_type: youtube
     fallback: fig-9-5-video-gillies.jpg
     caption: >
-      Horacio García Rossi’s *Structure à lumiere instable no. 29 (Unstable Light Structure No. 29)*, 1966, painted wood, Lucite rods, electric motor, and lights; after treatment. The Museum of Fine Arts, Houston, gift of Benbow and Jean Bullock, 2004.1618.
+      Horacio García Rossi’s *Structure à lumiere instable no. 29* (Unstable Light Structure No. 29), 1966, painted wood, Lucite rods, electric motor, and lights; after treatment. The Museum of Fine Arts, Houston, gift of Benbow and Jean Bullock, 2004.1618.
     credit: >
       © Horacio García Rossi. Video: Matt Golden © The Museum of Fine Arts, Houston.
 
-  - id: "9.6"
+  - id: "9.6a"
     src: fig-9-6-gillies.jpg
     caption: >
-      The interior of Horacio García Rossi’s *Structure à lumiere instable no. 29 (Unstable Light Structure No. 29)*, 1966, painted wood, Lucite rods, electric motor, and lights; before treatment. The Museum of Fine Arts, Houston, gift of Benbow and Jean Bullock, 2004.1618.
+      Horacio García Rossi’s *Structure à lumière instable no. 29* (Unstable Light Structure No. 29), 1966, painted wood, Lucite rods, electric motor, and lights. Interior front panel before treatment. The Museum of Fine Arts, Houston, gift of Benbow and Jean Bullock, 2004.1618.
     credit: >
       © Horatio García Rossi. Photo: Matt Golden © The Museum of Fine Arts, Houston.
 
-  - id: "9.7"
+  - id: "9.6b"
     src: fig-9-7-gillies.jpg
     caption: >
-      The interior of Horacio García Rossi’s *Structure à lumiere instable no. 29 (Unstable Light Structure No. 29)*, 1966, painted wood, Lucite rods, electric motor, and lights; before treatment. The Museum of Fine Arts, Houston, gift of Benbow and Jean Bullock, 2004.1618.
+      Interior back panel from side before treatment.
     credit: >
       © Horatio García Rossi. Photo: Matt Golden © The Museum of Fine Arts, Houston.
 
-  - id: "9.8"
+  - id: "9.6c"
     src: fig-9-8-gillies.jpg
     caption: >
-      The interior of Horacio García Rossi’s *Structure à lumiere instable no. 29 (Unstable Light Structure No. 29)*, 1966, painted wood, Lucite rods, electric motor, and lights; after treatment. The Museum of Fine Arts, Houston, gift of Benbow and Jean Bullock, 2004.1618.
+      Interior front panel after treatment.
     credit: >
       © Horatio García Rossi. Photo: Jane Gillies © The Museum of Fine Arts, Houston.
 
-  - id: "9.9"
+  - id: "9.7"
     src: wRws0HvLPB8
     media_type: youtube
     fallback: fig-9-9-video-gillies.jpg
     caption: >
-      Abraham Palatnik’s *Aparelho cinecromático (Chromo-kinetic set)*, 1962, wooden box with plastic cover, electric motor, and colored light bulbs linked to a programmed electric circuit and cardboard paddles; after treatment. The Museum of Fine Arts, Houston, the Adolpho Leirner Collection of Brazilian Constructive Art, museum purchase funded by the Caroline Wiess Law Accessions Endowment Fund, 2007.21.
+      Abraham Palatnik’s *Aparelho cinecromático* (Chromo-kinetic set), 1962, wooden box with plastic cover, electric motor, and colored light bulbs linked to a programmed electric circuit and cardboard paddles; after treatment. The Museum of Fine Arts, Houston, the Adolpho Leirner Collection of Brazilian Constructive Art, museum purchase funded by the Caroline Wiess Law Accessions Endowment Fund, 2007.21.
     credit: >
       © Abraham Palatnik. Video: Matt Golden © The Museum of Fine Arts, Houston.
 
-  - id: "9.10"
+  - id: "9.8"
     src: fig-9-10-gillies.jpg
     caption: >
-      The interior of Abraham Palatnik’s *Aparelho cinecromático (Chromo-kinetic set)*, 1962, wooden box with plastic cover, electric motor, and colored light bulbs linked to a programmed electric circuit and cardboard paddles; after treatment. The Museum of Fine Arts, Houston, the Adolpho Leirner Collection of Brazilian Constructive Art, museum purchase funded by the Caroline Wiess Law Accessions Endowment Fund, 2007.21.
+      The interior of Abraham Palatnik’s *Aparelho cinecromático* (Chromo-kinetic set), 1962, wooden box with plastic cover, electric motor, and colored light bulbs linked to a programmed electric circuit and cardboard paddles; after treatment. The Museum of Fine Arts, Houston, the Adolpho Leirner Collection of Brazilian Constructive Art, museum purchase funded by the Caroline Wiess Law Accessions Endowment Fund, 2007.21.
     credit: >
       © Abraham Palatnik. Photo: Matt Golden © The Museum of Fine Arts, Houston.
 
-  - id: "9.11"
+  - id: "9.9"
     src: fig-9-11-gillies.jpg
     caption: >
-      A detail of the interior of Abraham Palatnik’s *Aparelho cinecromático (Chromo-kinetic set)*, 1962, wooden box with plastic cover, electric motor, and colored light bulbs linked to a programmed electric circuit and cardboard paddles; after treatment. The Museum of Fine Arts, Houston, the Adolpho Leirner Collection of Brazilian Constructive Art, museum purchase funded by the Caroline Wiess Law Accessions Endowment Fund, 2007.21.
+      A detail of the interior of Abraham Palatnik’s *Aparelho cinecromático* (Chromo-kinetic set), 1962, wooden box with plastic cover, electric motor, and colored light bulbs linked to a programmed electric circuit and cardboard paddles; after treatment. The Museum of Fine Arts, Houston, the Adolpho Leirner Collection of Brazilian Constructive Art, museum purchase funded by the Caroline Wiess Law Accessions Endowment Fund, 2007.21.
     credit: >
       © Abraham Palatnik. Photo: Matt Golden © The Museum of Fine Arts, Houston.
 
-  - id: "9.12"
+  - id: "9.10"
     src: fig-9-12-gillies.jpg
     caption: >
-      Gyula Kosice’s *La ciudad hidroespacial (The Hydrospatial City)*, 1946–72, acrylic, paint, metal, and light. The Museum of Fine Arts, Houston, museum purchase funded by the Caroline Wiess Law Accessions Endowment Fund, 2009.29.1-.26.
+      Gyula Kosice’s *La ciudad hidroespacial* (The Hydrospatial City), 1946–72, acrylic, paint, metal, and light. The Museum of Fine Arts, Houston, museum purchase funded by the Caroline Wiess Law Accessions Endowment Fund, 2009.29.1-.26.
     credit: >
       © Gyula Kosice. Photo: Matt Golden © The Museum of Fine Arts, Houston.
 
@@ -695,7 +695,7 @@ figure_list:
   - id: "10.3"
     src: fig-10-3-ferriani.jpg
     caption: >
-      Gabriele Devecchi’s *Scultura da prendere a calci* (Sculpture to kick), 1959.
+      Gabriele Devecchi’s *Scultura da prendere a calci* (Sculpture to be kicked), 1959.
     credit: >
       Photo: © Antonio Ria, 1983. Palazzo Reale, Milan.
 
@@ -716,14 +716,14 @@ figure_list:
   - id: "10.6"
     src: fig-10-6-ferriani.jpg
     caption: >
-      Gianni Colombo’s *Spazio elastico: rettangolo (*Elastic space: rectangle), 1974. Private collection.
+      Gianni Colombo’s <em>Spazio elastico: rettangolo</em> (Elastic space: rectangle), 1974. Private collection.
     credit: >
       Archivio Gianni Colombo, Milan.
 
   - id: "10.7"
     src: fig-10-7-ferriani.jpg
     caption: >
-      Vincenzo Agnetti and Gianni Colombo’s *Vobulazione e bieloquenza neg (Wobulation and Bieloquence Neg)*, 1970.
+      Vincenzo Agnetti and Gianni Colombo’s *Vobulazione e bieloquenza neg (Wobbulation and Bieloquence Neg)*, 1970.
     credit: >
       Archivio Gianni Colombo, Milan.
 
@@ -779,14 +779,14 @@ figure_list:
   - id: "11.6a"
     src: fig-11-6a-meijer.jpg
     caption: >
-      Overview of Jean Tinguely’s *Méta-Matic No. 10*, 1959. Stedelijk Museum Amsterdam Collection.
+      Jean Tinguely’s *Méta-Matic No. 10*, 1959. Stedelijk Museum Amsterdam Collection.
     credit: >
       © Jean Tinguely, c/o Pictoright Amsterdam 2016. Photo: Rik Klein Gotink.
 
   - id: "11.6b"
     src: fig-11-6b-meijer.jpg
     caption: >
-      Detail of the centerpiece of Jean Tinguely’s *Méta-Matic No. 10*, 1959. Stedelijk Museum Amsterdam Collection.
+      Detail of the central element of Jean Tinguely’s *Méta-Matic No. 10*, 1959. Stedelijk Museum Amsterdam Collection.
     credit: >
       © Jean Tinguely, c/o Pictoright Amsterdam 2016. Photo: Rik Klein Gotink.
 
@@ -821,14 +821,14 @@ figure_list:
   - id: "12.5a"
     src: fig-12-5a-heydenreich.jpg
     caption: >
-      Otto Piene, Günther Uecker, and Heinz Mack’s *Lichtraum* (*Hommage à Fontana*), 1964, in the Documenta 3, Kassel, 1964.
+      Otto Piene, Günther Uecker, and Heinz Mack’s *Lichtraum* (*Hommage à Fontana*), 1964, at documenta 3, Kassel, 1964.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn. Photo: © documenta Archiv/Friedemann Singer.
 
   - id: "12.5b"
     src: fig-12-5b-heydenreich.jpg
     caption: >
-      Otto Piene, Günther Uecker, and Heinz Mack’s *Lichtraum* (*Hommage à Fontana*), 1964, re-created at Museum Kunstpalast, Düsseldorf, 1993–2001.
+      Otto Piene, Günther Uecker, and Heinz Mack’s *Lichtraum* (*Hommage à Fontana*), 1964, re-created at Kunstmuseum (today Museum Kunstpalast, Düsseldorf), 1993–2001.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn. Photo: Museum Kunstpalast, Düsseldorf.
 
@@ -856,7 +856,7 @@ figure_list:
   - id: "12.5f"
     src: fig-12-5f-heydenreich.jpg
     caption: >
-      Otto Piene, Günther Uecker, and Heinz Mack’s *Lichtraum* (*Hommage à Fontana*), 1964, at the Stedelijk Museum, Amsterdam, July 4–November 8, 2015.
+      Otto Piene, Günther Uecker, and Heinz Mack’s *Lichtraum* (*Hommage à Fontana*), 1964, at the Stedelijk Museum Amsterdam, July 4–November 8, 2015.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn. Photo: Tijs Visser.
 
@@ -870,7 +870,7 @@ figure_list:
   - id: "13.1"
     src: fig-13-1-plante.jpg
     caption: >
-      *Julio Le Parc*. Catalogue of the *XXXIII Biennale di Venezia, Italia*, 1966. Cover designer Rogelio Polesello overprinted a plot of colors on the black-and-white photograph of Le Parc’s kinetic multiple. Museo Nacional de Bellas Artes, Buenos Aires.
+      *Julio Le Parc*. Catalogue of the *XXXIII Biennale di Venezia, Italia*, 1966. Cover designer Rogelio Polesello overprinted a plot of colors on the black-and-white photograph of Le Parc’s kinetic multiple. Museo Nacional de Bellas Artes Archive, Buenos Aires.
     credit: >
       Courtesy of Osvaldo Polesello. © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris.
 
@@ -879,7 +879,7 @@ figure_list:
     caption: >
       Julio Le Parc’s space at the Venice Biennale, 1966. The priest trying on Le Parc’s eyeglasses may give an idea of the wider audiences artists hope to reach through art multiples. Denise René Archive.
     credit: >
-      © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris. \[Photo credit TK.\]
+      © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: © Andre Morain, Paris.
 
   - id: "13.3"
     src: fig-13-3-plante.jpg
@@ -891,7 +891,7 @@ figure_list:
   - id: "13.4"
     src: fig-13-4-plante.jpg
     caption: >
-      Cover of the catalogue for *La Inestabilidad*, the 1964 GRAV exhibition at the Museo Nacional de Bellas Artes, Buenos Aires, illustrated with a photograph of one of Julio Le Parc’s *Continuels-mobiles*. Museo Nacional de Bellas Artes, Buenos Aires.
+      Cover of the catalogue for *La Inestabilidad*, the 1964 GRAV exhibition at the Museo Nacional de Bellas Artes, Buenos Aires, illustrated with a photograph of one of Julio Le Parc’s *Continuels-mobiles*. Museo Nacional de Bellas Artes Archive, Buenos Aires.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris.
 
@@ -900,7 +900,7 @@ figure_list:
     caption: >
       <em>Multiples</em> by Hugo Demarco, featured in the Galerie Denise René exhibition <em>Demarco: Dynamique de l’image</em> (April–May 1968) and the accompanying catalogue. The Parisian gallery supported the production of multiples and reserved a section for them in its exhibition catalogues.
     credit: >
-      From *Demarco: Dynamique de l’image, Galerie Denise René, Paris . . . avril–mai 1968*. Paris: Galerie Denise René; Société Mondial d’Impression, 1968. Reproduced with permission. \[Demarco copyright notice TK\]\ \[© TK\]
+      From *Demarco: Dynamique de l’image, Galerie Denise René, Paris . . . avril–mai 1968*. Paris: Galerie Denise René; Société Mondial d’Impression, 1968. Reproduced with permission / © Hugo Demarco
 
   - id: "13.6"
     src: fig-13-6-plante.jpg
@@ -919,7 +919,7 @@ figure_list:
   - id: "13.8"
     src: fig-13-8-plante.jpg
     caption: >
-      Julio Le Parc’s *Multiple no. 10*. Light in movement, visualized in volume of water, edition 1966, 32 × 32 × 42 cm. These multi-schemas show how serial production of kinetic objects was projected and published. Each prototype corresponded to a series of works, but it was given a number rather than a title, and its visual qualities unfolded in a series of four photos. Although all multiples from the same series must be identical, each of them was transformable. Archivos di Tella, Universidad Torcuato di Tella.
+      Julio Le Parc’s *Multiple no. 10*. Light in movement, visualized in volume of water, edition 1966, 32 × 32 × 42 cm. These multi-schemas show how serial production of kinetic objects was projected and published. Each prototype corresponded to a series of works but was given a number rather than a title, and its visual qualities unfolded in a series of four photos. Although all multiples from the same series had to be identical, each of them was transformable. Archivos di Tella, Universidad Torcuato di Tella.
     credit: >
       Courtesy of Archivos Di Tella, Universidad Torcuato Di Tella. © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris.
 
@@ -933,21 +933,21 @@ figure_list:
   - id: "14.2a"
     src: fig-14-2a-d’haenens.jpg
     caption: >
-      Spatiodynamism *Spationynamique 16* with Maurice Béjart, 1953.
+      Spatiodynamism as seen in Schöffer’s *Spationynamique 16* with Maurice Béjart, 1953.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris, with kind authorization of Mrs. Schöffer.
 
   - id: "14.2b"
     src: fig-14-2b-d’haenens.jpg
     caption: >
-      Luminodynamism *Lux 2*, 1957.
+      Luminodynamism as seen in Schöffer’s *Lux 2*, 1957.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris, with kind authorization of Mrs. Schöffer.
 
   - id: "14.2c"
     src: fig-14-2c-d’haenens.jpg
     caption: >
-      Chronodynamism *Chronos 10*, 1969.
+      Chronodynamism as seen in Schöffer’s *Chronos 10*, 1969.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris, with kind authorization of Mrs. Schöffer.
 
@@ -977,7 +977,7 @@ figure_list:
     media_type: youtube
     fallback: fig-15-2-video-brobbel.jpg
     caption: >
-      Len Lye’s *A Flip and Two Twisters (Trilogy)*, 1977.
+      Len Lye’s *A Flip and Two Twisters (Trilogy)*, 1977 footage.
     credit: >
       Len Lye Foundation Collection, Govett-Brewster Art Gallery.
 
@@ -1037,14 +1037,14 @@ figure_list:
   - id: "17.1a"
     src: fig-17-1a-erhan.jpg
     caption: >
-      Jonathan Borofsky’s *Ballerina Clown*, 1990, installed in the courtyard of the Museum Ludwig Forum Aachen.
+      Jonathan Borofsky’s *Ballerina Clown*, 1990, installed inside the courtyard of the Museum Ludwig Forum Aachen.
     credit: >
-      © Jonathan Borofsky. Photo: Mine Erhan (© “Die Schmeide”).
+      © Jonathan Borofsky. Photo: © Mine Erhan (“Die Schmeide”).
 
   - id: "17.1b"
     src: fig-17-1b-erhan.jpg
     caption: >
-      The mechanism that moves the leg of Jonathan Borofsky’s *Ballerina Clown*, 1990.
+      Diagram of the mechanism that moves the leg of Jonathan Borofsky’s *Ballerina Clown*, 1990.
     credit: >
       © Jonathan Borofsky. Illustrator: Mine Erhan (© “Die Schmeide”).
 
@@ -1058,7 +1058,7 @@ figure_list:
   - id: "19.1"
     src: fig-19-1-mack.jpg
     caption: >
-      Aerial view of Alexander Calder’s *Tree* at the Fondation Beyeler, with arrows indicating wind direction and a graph illustrating intensity. Inset: Federike Steckling. 2001 Image Landsat Google Earth 47° 35' 12.43" N7° 39' 00.17" E elev 923 ft., eye alt 1818 ft.
+      Aerial view of Alexander Calder’s *The Tree* at the Fondation Beyeler, with arrows indicating wind direction and a graph illustrating intensity. Inset: Federike Steckling. 2001 Image Landsat Google Earth 47° 35' 12.43" N7° 39' 00.17" E elev. 923 ft., eye alt. 1818 ft.
     credit: >
       © 2017 Calder Foundation, New York/Artists Rights Society (ARS), New York.
 
@@ -1072,9 +1072,9 @@ figure_list:
   - id: "21.1"
     src: fig-21-1-stamatopoulou.jpg
     caption: >
-      Urs Fischer’s *Death of a moment*, 2007, on view in the exhibition *Fractured Figure: Works from the Dakis Joannou Collection*, 2008, at the DESTE Foundation, Athens, Greece.
+      Urs Fischer’s *Death of a moment*, 2007, on view in the exhibition *Fractured Figure: Works from the Dakis Joannou Collection*, 2008, at the DESTE Foundation, Athens, Greece. Mirrors, aluminum, hydraulics, and control unit. Dimensions variable. Mirrors tilt back and forth in a wavelike pattern.
     credit: >
-      \[Artwork © TK.\] Photo: © The Dakis Joannou Collection, Eugenia Stamatopoulou.
+      The Dakis Joannou Collection © Urs Fischer. Courtesy of the artist and Galerie Eva Presenhuber, Zurich / Photo: Stefan Altenburger.
 
   - id: "22.1"
     src: fig-22-1-van-aubel.jpg
@@ -1086,6 +1086,6 @@ figure_list:
   - id: "23.1"
     src: fig-23-1-van-mourik.jpg
     caption: >
-      Joost Conijn’s *Hout Auto (Wood Car)* in the garden of the Centraal Museum. Centraal Museum Utrecht.
+      Joost Conijn’s *Hout Auto* (Wood Car) in the garden of the Centraal Museum. Centraal Museum Utrecht.
     credit: >
       Photo: Ernst Moritz.
