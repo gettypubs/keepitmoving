@@ -21,20 +21,16 @@ Meteorological science has documented that climate change has resulted in more s
 
 Conservators at the Fondation Beyeler in Basel, Switzerland, embarked on a study of how weather-related research can be used to develop such protocols. For Alexander Calder’s *The Tree* (1966), staff at the museum monitored its outdoor display environment, developed partnerships with national weather stations, and made strategic modifications to the display site to reduce the risk of damage. To establish which wind directions and intensities cause the most violent movement and damage, on-site wind measurements were analyzed and correlated to triaxial movement measurements directly on the sculpture ([fig. 19.1](#19.1)). A threshold of acceptable wind conditions was established after correlating that data with a review of past damage.
 
-{{< q-figure id="19.1" >}}
-
 Informed by the collected data, the Beyeler planted a high line of trees to impede wind from the most dominant direction and determined the best tethering angles for the sculpture. Further measures include an advance-warning system for winds that exceed a defined threshold to allow staff to tether the mobile elements. Several specialists, such as meteorologists, weather station managers, and landscape designers, were consulted to support the conservators with this project. While this work is still in the testing phase, it highlights the potential effectiveness of measures that were customized for a specific object.
+
+{{< q-figure id="19.1" pdf="two-column" >}}
 
 We suggest the following protocols for future care of outdoor kinetic sculpture:
 
 -   monitor wind during each season to determine the best display location
-
 -   establish the wind speed that causes damage, and arrange for an advance alarm system from local weather stations
-
 -   create wind barriers as needed
-
 -   plan to deinstall or containerize during inclement months
-
 -   design and implement custom protective measures for predicted storm events
 
 Each sculpture is unique and requires a customization of the suggested protocols, with particular emphasis on protective measures. Further study is needed to establish recommendations to protect kinetic sculptures during extreme events such as hurricanes and blizzards, since it has been shown that uninformed tethering can also be the source of damage. A solution will likely require consultation with an engineer, overseen by conservators, because sculptures from the 1960s through the 1980s have been subjected to prolonged weathering and may harbor hidden weaknesses. We hope that further discussions and case studies will provide guidance for conservators, museums, and collectors on the continued care and preservation of outdoor kinetic works.

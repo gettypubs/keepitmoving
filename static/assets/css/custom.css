@@ -308,8 +308,19 @@ a:active, a:focus, a:hover {
   }
   #fig-1-9,
   #fig-2-4,
-  #fig-3-2 {
+  #fig-3-2,
+  #fig-13-8,
+  #fig-15-3,
+  #fig-21-1 {
     page-break-after: always;
+  }
+  #fig-13-7,
+  #fig-13-8 {
+    width: 48.4%;
+  }
+  #fig-15-1,
+  #fig-20-1 {
+    width: 70%;
   }
   #fig-7-3,
   #fig-7-4 {

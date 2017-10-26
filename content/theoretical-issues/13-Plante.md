@@ -58,7 +58,7 @@ Prices and options varied. The Galerie Givaudan opened in 1965 and specialized i
 
 René opted to have the production of the works supervised by their respective creators. Unlike Le Parc and GRAV members, she disliked unlimited editions. In her view, after 100 copies had been made, the others would be produced unsupervised by the artist, a fact that detracted from their quality. She also opposed the “demystification of art,” so much discussed by GRAV members, because she felt it meant equating an art object with a mere consumer item. She maintained that “art must keep its aura and continue to be a high quality product that bears witness to a way of thinking about the world.”[^19] Charging more accessible prices, René intended to spread modern art among social sectors whose purchasing power prevented them from buying unique works. For her, it was about democratizing access to ownership of art objects . . . and increasing sales.
 
-{{< q-figure-group id="13.7, 13.8" grid="2" >}}
+{{< q-figure-group id="13.7, 13.8" grid="2" pdf="two-column" >}}
 
 As Hahn pointed out, opinions about multiples varied. Blurring the work’s aura and the boundaries of the traditional art market by producing serial art pieces that did not meet the requirements of “uniqueness” or manual “touch” did not necessarily coincide with the notion of turning the word *multiple* into a trademark ([figs. 13.7](#13.7), [13.8](#13.8)). Amid the confusion, a manifesto signed by Le Parc declared that multiples were developments related to geometric abstraction, and he specified their characteristics in terms of authorship and possibilities of reproduction:
 

@@ -12,10 +12,9 @@ abstract: |
 weight: 502
 ---
 
-## Artwork and Art History
+{{< q-figure id="17.1a" >}}
 
-{{< q-figure id="17.1a" class="float-right" pdf="one-column" >}}
-{{< q-figure id="17.1b" class="float-right" pdf="one-column" >}}
+## Artwork and Art History
 
 *Ballerina Clown* (1990) by Jonathan Borofsky (b. 1942) is composed of a female ballerina body wearing a male clown mask. This “transvestite figure (half clown, half ballerina)” ({{<q-cite "Ottinger 2004" "39">}}) dances on top of a box in front of a curtain. The figure’s arms are outstretched, and one leg sways gently, “kicking” in the air. The work is accompanied by Frank Sinatra’s “My Way” sung in a creepy, hollow voice by Borofsky. The figure holds a “flying” golden ring and lights illuminate the kinetic sculpture at night.
 
@@ -24,6 +23,8 @@ The figure of the ballerina clown occurs several times in Borofsky’s oeuvre. T
 The artwork is as high as a two-story building (about 9.0 × 5.7 × 6.4 m) and is made from stable materials including aluminum, steel, glass fiber reinforced plastic (GRP), two-part epoxy resins, and two-part polyurethane paints. (Information on media was supplied by the artist.)
 
 The motion of the leg is powered by an electric motor that rotates a flywheel. Through a coupling rod, a gearwheel with an attached chain turns back and forth, and the sculpture’s leg is moved by a second gearwheel that is installed as a “knee joint.” Both gearwheels are connected through attached chains and a steel cable. Two guide rollers determine the direction of the steel cable ([fig. 17.1b](#17.1b)). Amplifiers, speakers, and a cassette recorder play the song, and lights illuminate the sculpture at night. The artwork can be activated by a switch in a nearby building.
+
+{{< q-figure id="17.1b" class="float-right" pdf="one-column" >}}
 
 ## Damage and Treatments
 

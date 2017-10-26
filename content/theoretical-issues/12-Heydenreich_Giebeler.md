@@ -30,8 +30,9 @@ However, a significant crossroads was reached when Piene passed away in 2014. Th
 
 In 1960 the architect Paul Schneider-Esleben, who designed and executed Rolandschule, a primary school in Düsseldorf, hired four young local artists—Piene, Mack, Uecker, and Joseph Beuys—to each create an artwork for the school. The work by Beuys was not fully appreciated at the time, and the school decided to return it to him shortly after the opening. *Lichtballett* by Piene, *Farborgel* by Mack, and *Schattenspiel* by Uecker were installed at the school, where they are still in situ today. Together they form a successful symbiosis of social architecture, functionality, and modern art.
 
-{{< q-figure id="12.2" class="float-left" >}}
-{{< q-figure id="12.3" class="float-left" >}}
+{{< q-figure id="12.2" class="float-left" pdf="one-column" >}}
+
+{{< q-figure id="12.3" class="float-left" pdf="one-column" >}}
 
 In Piene’s *Lichtballett*, incandescent bulbs mounted behind perforated aluminum plates light up in a programmed order and create a spherical light environment ([fig. 12.1](#12.1)). The white panels of Uecker’s *Schattenspiel* seem like heavenly bodies, simultaneously reflecting light and projecting shadows ([fig. 12.2](#12.2)); the schoolchildren can move the panels and thereby influence the play of light. Mack’s *Farborgel* consists of large, colorfully painted wheels with rotor blades; children can set these in motion with a flywheel that changes the color combinations ([fig. 12.3](#12.3)).
 
@@ -63,24 +64,23 @@ In 1964 Piene, Uecker, and Mack assembled seven artworks to create *Lichtraum (H
 
 ### 1992 Kunstmuseum Düsseldorf
 
-{{< q-figure id="12.5b" >}}
-
 In 1991 the Kunstmuseum Düsseldorf acquired the available artworks from *Lichtraum (Hommage à Fontana)*, and in 1992 the artists were invited to reconstruct the installation in a museum context ([fig. 12.5b](#12.5b)). To complete *Lichtraum*, Mack made a replica of *Weißer Dynamo*. Uecker’s *Lichtscheibe* was initially borrowed from the Kröller-Müller Museum in Otterlo, but it was also replaced by an artist’s replica in 1993. In the new presentation, *Lichtscheibe* was not displayed on an easel, as it had been in 1964, but was laid horizontally on the floor ({{<q-cite "Caianiello 2005" "71">}}). The new room was much bigger and brighter than the Fridericianum garret and did not have a slanted ceiling. The artists tried to reconstruct the original installation, but the differences in the rooms’ floor plans meant they had to arrange the artworks facing one another along a central aisle. This new arrangement also required some adjustments to the operating sequence for the different motors and light units. In Kassel in 1964, visitors had been allowed to experience the artworks up close; in Düsseldorf in 1991, two white lines separated the visitors from the art—for the artists, a very unsatisfactory safety measure.[^4]
+
+{{< q-figure id="12.5b" >}}
 
 ### 2001 and 2005 Relocations
 
-{{< q-figure id="12.5c" >}}
-
 With the growing interest in ZERO, the Museum Kunstpalast Düsseldorf wanted to show *Lichtraum (Hommage à Fontana)* in a more central exhibition space, and a new room was provided in 2001. It was significantly smaller than the 1992 space, and Piene again changed the artworks’ arrangement and adjusted their operating sequences. Although Mack criticized the new iteration, he accepted it; Uecker did not participate. In 2005 the installation was again changed, this time replicating the first presentation arrangement in 1964 in Kassel ([fig. 12.5c](#12.5c)). Uecker considered this result to be highly successful.
+
+{{< q-figure id="12.5c" >}}
 
 ### 2013–15 Exhibitions in Paris, New York, Berlin, Amsterdam
 
-{{< q-figure id="12.5d" >}}
-{{< q-figure id="12.5e" class="float-right" pdf="one-column" >}}
-{{< q-figure id="12.5f" class="float-right" pdf="one-column" >}}
-
 The kinetic objects composing *Lichtraum* are very fragile, and loan requests were rejected for decades. However, after a long discussion phase while planning the ZERO exhibitions in Paris, New York, Berlin, and Amsterdam,[^5] the Museum Kunstpalast Düsseldorf decided to lend *Lichtraum* on the condition that replicas be used for the original light panels from *Weiße Lichtmühle* and *Lichtkugel*. For the New York exhibition, Guggenheim Museum curators reconstructed the spatial impression of the 1964 presentation by using fabric panels to suggest the slope of the ceiling, which unfortunately did not provide an ideal surface for slide projection ([fig. 12.5d](#12.5d)). Piene had previously rejected this type of historicizing reconstruction.[^6] In Berlin, curators at Martin-Gropius-Bau arranged the artworks in a row in a comparatively large, bright exhibition space [fig. 12.5e](#12.5e)), with the size of the room predetermined by the museum floor plans. At the Stedelijk Museum Amsterdam, a relatively small exhibition space was chosen to present *Lichtraum*, and the artworks were installed in a more dense arrangement ([fig. 12.5f](#12.5f)). The strategy to adapt *Lichtraum* to new spatial conditions corresponds to the initial approach of the ZERO artists but caused some conflict with the artworks’ preprogrammed sequences of operation.
 
+{{< q-figure id="12.5d" >}}
+{{< q-figure id="12.5e" >}}
+{{< q-figure id="12.5f" >}}
 
 ### Second Interim Conclusion
 
@@ -122,7 +122,7 @@ Tiziana Caianiello of the ZERO Foundation, and Ulrik Runeberg of Restaurierungsz
 
 ## Notes
 
-[^1]: The ZERO Foundation, [**www.4321zero.com**](http://www.4321zero.com/).
+[^1]: The ZERO Foundation, [www.4321zero.com](http://www.4321zero.com/).
 
 [^2]: Heinz Mack, interview by Kristina Herbst, in {{<q-cite "Herbst 2005" "">}}, appendix D1, pp. 9, 15; Heinz Mack, interview by Gunnar Heydenreich and Julia Giebeler, in {{<q-cite "Giebeler 2011" "appendix A1, p. 30">}}.
 
@@ -142,4 +142,4 @@ Tiziana Caianiello of the ZERO Foundation, and Ulrik Runeberg of Restaurierungsz
 
 [^10]: {{<q-cite "Uecker 1961" "">}}; Günther Uecker, interview by Tiziana Caianiello, Gunnar Heydenreich, and Cornelia Weyer, in {{<q-cite "Caianiello 2005" "207">}}.
 
-[^11]: International Council of Museum (ICOM), Professional Standards, [**icom.museum/professional-standards**](http://icom.museum/professional-standards/).
+[^11]: International Council of Museum (ICOM), Professional Standards, [icom.museum/professional-standards](http://icom.museum/professional-standards/).

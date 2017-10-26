@@ -19,14 +19,13 @@ weight: 304
 
 ## Behavioral Kinetics
 
-{{< q-figure id="10.1" >}}
-{{< q-figure id="10.2" class="float-right" >}}
-
 Giacomo Balla’s *Bambina che corre sul balcone* (Girl running on a balcony), from 1912, is in the collection of the Galleria d’Arte Moderna in Milan and is currently undergoing restoration in Ferriani’s studio ([fig. 10.1](#10.1)). It has a direct relationship with photodynamic research on the kinetics and behavior of the body, and the artwork features an experimental technique. *Bambina che corre sul balcone* is one of the masterpieces of Futurism: the Italian root for the immersive, physical, tactile experience of movement—or, better, of space through movement. This kind of direct tactile and immersive interaction is a characteristic of the kinetic artworks we discuss, and it has generally been achieved by the artists’ explicit choice of an elementary technology.
-
 
 A human figure in motion means physical and psychical involvement, which is the topic of this paper. Images depicting human bodies in motion, such as *Bambina che corre sul balcone*, could be compared to Ugo Mulas’s 1970 photograph showing artist Gianni Colombo walking inside one of his environments, *Topoestesia (Tre zone contigue—Itinerario programmato)* (Topoesthesia \[Three contiguous zones—Programmed itinerary\]) from 1965–70 ([fig. 10.2](#10.2)).
 
+{{< q-figure id="10.1" >}}
+
+{{< q-figure id="10.2" >}}
 
 ## Case Study 1
 

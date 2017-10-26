@@ -19,9 +19,7 @@ weight: 501
 
 ## Cockcroft-Walton Generator
 
-First designed in 1932, the Cockcroft–Walton generator is an electric circuit that produces a high [voltage](https://en.wikipedia.org/wiki/Voltage) from a low voltage. A system of capacitors and diodes generates this voltage, along with kinetic components such as dynamos ([fig. 16.1](#16.1)), which are housed inside rounded aluminum casings. The machine is assembled over two Bakelite isolating cylinders. The electrical components were lost during the first installation in the museum in the 1960s; furthermore, safety concerns prevent us from activating the machine. It was decided not to reintegrate the electrical functionality but to potentially keep the dynamo system moving. The conservation treatment was realized in January–June 2016 by Strati s.n.c.
-
-{{< q-figure id="16.1" >}}
+First designed in 1932, the Cockcroft–Walton generator is an electric circuit that produces a high voltage from a low voltage. A system of capacitors and diodes generates this voltage, along with kinetic components such as dynamos ([fig. 16.1](#16.1)), which are housed inside rounded aluminum casings. The machine is assembled over two Bakelite isolating cylinders. The electrical components were lost during the first installation in the museum in the 1960s; furthermore, safety concerns prevent us from activating the machine. It was decided not to reintegrate the electrical functionality but to potentially keep the dynamo system moving. The conservation treatment was realized in January–June 2016 by Strati s.n.c.
 
 ## 40-Horsepower Cassani Tractor
 
@@ -30,3 +28,5 @@ The Cassani 40 is an important diesel tractor first produced in 1927. It underwe
 ## Nineteenth-Century Jacquard Loom
 
 There were many discussions about the conservation of this complex Jacquard loom, which was originally used to create textiles with complicated patterns such as brocades. The first idea was to return it to working order by replacing many of its parts, such as ropes and dobbies. However, 1,200 silk warp threads out of the beam were destroyed and detached from the finished fabric. The installation of a new warp would have been very difficult and expensive. A simpler and more sustainable conservative restoration was chosen, with a static presentation. Only the broken ropes have been replaced; the damaged section of warp threads was cut and placed as near as possible to the finished fabric. The conservation treatment was realized by Giuseppe Pellegrini in June–September 2015.
+
+{{< q-figure id="16.1" >}}
