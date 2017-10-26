@@ -1,4 +1,4 @@
- ---
+---
 id: "2"
 title: The Fluid Boundaries between Interpretation and Overinterpretation
 subtitle: Collecting, Conserving, and Staging Kinetic Art Installations

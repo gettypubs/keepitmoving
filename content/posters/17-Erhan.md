@@ -1,4 +1,4 @@
-cable---
+---
 id: "17"
 title: Think Big!
 subtitle: The Conservation of *Ballerina Clown*, a Kinetic Work of Art by Jonathan Borofsky
