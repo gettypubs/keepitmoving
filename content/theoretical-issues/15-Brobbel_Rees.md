@@ -132,7 +132,7 @@ Lye’s claim to be “pretty good for the 21st century” became more than a re
 
 [^2]: *Homage to New York* was a self-destroying kinetic sculpture, created by Jean Tinguely with assistance from Billy Klüver and Robert Rauschenberg. On March 17, 1960, in a public presentation at the Sculpture Garden of New York’s Museum of Modern Art, the work performed for twenty-seven minutes before the fire department intervened.
 
-[^3]: The symposium would place Lye’s largest work to date, *Swing Wand*, alongside works by eleven other artists in the city’s High Park. The 27 m work failed to meet with Lye’s satisfaction because the fabricators ignored his directions, introducing tapering to his wand despite his instructions to do otherwise. Lye noted, “I don't want it \[the wand\] to go up unless it is to my specifications. . . . The aesthetic value was destroyed. It is now a work of engineering and not a work of art.” The work was ultimately deinstalled under unclear circumstances. See {{<q-cite "Webb 1996" "">}}.
+[^3]: The symposium would place Lye’s largest work to date, *Swing Wand*, alongside works by eleven other artists in the city’s High Park. The 27 m work failed to meet with Lye’s satisfaction because the fabricators ignored his directions, introducing tapering to his wand despite his instructions to do otherwise. Lye noted, “I don't want it \[the wand\] to go up unless it is to my specifications.… The aesthetic value was destroyed. It is now a work of engineering and not a work of art.” The work was ultimately deinstalled under unclear circumstances. See {{<q-cite "Webb 1996" "">}}.
 
 [^4]: Constitution of Len Lye Foundation 1980.
 
