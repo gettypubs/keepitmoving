@@ -34,7 +34,7 @@ type: page
 
 ## [9. Engineering a Solution](../collections/9-gillies/)
 
-{{< q-figure-group id="9.1, 9.3, 9.5, 9.9" class="plate" grid="2" >}}
+{{< q-figure-group id="9.1, 9.3, 9.5, 9.7" class="plate" grid="2" >}}
 
 ## [15. “Pretty Good for the 21st Century”](../theoretical-issues/15-brobbel_rees/)
 
