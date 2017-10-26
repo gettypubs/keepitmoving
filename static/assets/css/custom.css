@@ -265,6 +265,10 @@ a:active, a:focus, a:hover {
     color: cmyk(0,0,0,1);
   }
 
+  .quire-page__content__main h3 {
+    margin-bottom: 6pt;
+  }
+
   .quire-contents__section ul a::after {
     content: leader(dotted) ' ' target-counter(attr(href, url), page);
   }
@@ -302,7 +306,13 @@ a:active, a:focus, a:hover {
   #contents .quire-page__content {
     column-count: 1;
   }
-  #fig-1-9 {
+  #fig-1-9,
+  #fig-2-4,
+  #fig-3-2 {
     page-break-after: always;
+  }
+  #fig-7-3,
+  #fig-7-4 {
+    width: 80%;
   }
 }

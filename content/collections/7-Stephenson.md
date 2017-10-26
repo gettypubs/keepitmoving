@@ -82,11 +82,11 @@ With an exhibition imminent, conservation treatment and installation details mov
 
 The treatment of *Magnetic Tableau No. 7* was conservative, to return focus to the space between the magnet and hanging elements without undermining Takis’s opinion regarding aesthetics. First, the magnet was returned to its original parallel position through incremental movements that were followed by localized humidifying action and drying to allow the canvas to adapt to each shift. Layers of foam, blotter, and cotton provided support to the area, and strategically placed twill tape exerted gentle and even pressure. When the magnet was in the correct orientation, two basswood blocks were secured to the cross brace under each side of the magnet to prevent future movement ([fig. 7.7](#7.7)).
 
-{{< q-figure id="7.7">}}
-
 The rest of the treatment minimized the distracting issues on the front of the canvas. Metallic debris was removed from the surface with the aid of a microscope. Removal of the overpaint risked causing further damage to the original materials, so the discolorations were retouched with ground pastels mixed into dilute methylcellulose, additional dry pastels, and colored pencil.
 
 The kinetic nature of *Ballet Magnetique* required a more complex and invasive treatment to return the mechanical components to working order. The information Takis supplied during the interviews was taken into consideration for each decision.
+
+{{< q-figure id="7.7">}}
 
 Treatment of the work focused on restoring its function, and the abrasions and superficial spots of corrosion were left untreated to respect Takis’s aesthetic detachment. A new circuit-board-format bridge rectifier and heat sink were wired into position and connected to the long pins with crimp connectors. The new configuration was secured with a short screw, using an existing hole in the underside of the base. The original selenium rectifier was retained, although it was removed for the duration of the exhibition. All wire connections were reestablished with twist-on connectors to avoid soldering. Several frayed wires were replaced for safety reasons, but the originals were retained. At that point the electromagnet was turned on for testing, and the springs and bend of the relay coupon were adjusted to get maximum contact when closed and maximum spread when open. Finally, the power cord was replaced by splicing the lead inside the wooden box and adding an electrical-tape stop just inside the inner wall. A thumbwheel actuator was added for ease of operation during exhibition, but once again the original cord was retained ([fig. 7.8](#7.8)).
 

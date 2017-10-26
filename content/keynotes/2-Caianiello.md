@@ -18,7 +18,7 @@ All professionals engaged with the conservation and restoration of kinetic objec
 
 In 1962, Italian semiotician Umberto Eco published his *Opera aperta* (*The Open Work*) in which he theorizes about the category of “open works.” According to Eco, these works offer a constellation of elements that the interpreter can freely combine, so that different relationships and configurations are possible. He also identifies “inside the category of ‘open’ works a further, more restricted classification of works which can be defined as ‘works in movement’” ({{<q-cite "Eco 1989" "12">}}). Referring to works by Alexander Calder, he writes: “Here there is no suggestion of movement: the movement is real and the work of art is a field of open possibilities” ({{<q-cite "Eco 1989" "86">}}).
 
-Eco’s considerations about the open work were contemporary to the development of kinetic art. Significantly, in the same year as *The Open Work*, Eco also wrote a text for the catalogue of the exhibition *Arte programmata:* *Arte cinetica, opere moltiplicate, opera aperta*, which opened in 1962 in Milan, elaborating on some of the concepts from his book. He wrote that the “work in movement” didn’t have a fixed form; it was mutable even if it followed “determined lines of orientation” ({{<q-cite "Eco 1962 n.p." "">}}).
+Eco’s considerations about the open work were contemporary to the development of kinetic art. Significantly, in the same year as *The Open Work*, Eco also wrote a text for the catalogue of the exhibition *Arte programmata:* *Arte cinetica, opere moltiplicate, opera aperta*, which opened in 1962 in Milan, elaborating on some of the concepts from his book. He wrote that the “work in movement” didn’t have a fixed form; it was mutable even if it followed “determined lines of orientation” ({{<q-cite "Eco 1962" "">}}).
 
 But if a kinetic work is a “field of open possibilities,” if we can perceive and interpret it in different ways, what should we conserve or restore? How can we keep the different options open and at the same time be sure that we stay in the field of possibilities given by the work without overstepping its boundaries? In other words: How can the limits of permissible scope for interpretation be defined?
 
@@ -61,11 +61,11 @@ The following case studies illustrate the relevance of these questions.
 
 ### *Lichtraum (Hommage à Fontana)* by Heinz Mack, Otto Piene, and Günther Uecker
 
-{{< q-figure id="2.2" >}}
-
 The artists Heinz Mack (b. 1931), Otto Piene (1928–2014), and Günther Uecker (b. 1930) often used the same kinetic light objects for different installations,[^2] adapting the selection and arrangement of pieces to the spatial circumstances in which they were displayed. Because each single object also has an artistic value, the objects can be sold either as individual pieces or as part of an installation. Consequently, if a museum intends to buy a particular installation, it could discover that not all the objects in the original installation are still available, as some may have been purchased separately.
 
 This happened in 1991, when the Kunstmuseum Düsseldorf (today called Museum Kunstpalast) acquired *Lichtraum (Hommage à Fontana)* (Light room \[Homage to Fontana\]), realized by Mack, Piene, and Uecker in 1964 for documenta 3 in Kassel.[^3] Two of the installation’s seven kinetic light objects had to be replicated: Mack’s *Weißer Dynamo* (White dynamo), which had been acquired by the Sprengel Museum Hannover in 1964; and Uecker’s *Lichtscheibe* (Light disk), which had been acquired by the Kröller-Müller Museum in Otterlo (Netherlands) in 1965 and is discussed below.
+
+{{< q-figure id="2.2" >}}
 
 {{< q-figure id="2.3" >}}
 
@@ -73,9 +73,9 @@ Uecker, who made a replica of *Lichtscheibe* in 1993, had realized different “
 
 ### Heinz Mack’s *Zwischen Himmel und Erde*
 
-{{< q-figure id="2.4" pdf="two-column" >}}
-
 Another example is the kinetic installation *Zwischen Himmel und Erde* (Between heaven and earth) that Mack realized in 1966 for the exhibition *Zero in Bonn* at the Städtische Kunstsammlungen Bonn. The work had not survived, and Mack replicated it in 2005 for the exhibition *Light Art from Artificial Light* at the ZKM in Karlsruhe ({{<q-cite "Weibel and Jansen 2006" "122">}}). On that occasion, he changed the presentation form of the work and probably gave it its title. A photograph of the replica shows narrow nets (aluminum honeycombed structures) hanging from a black ceiling, which conceals the motors that rotate the nets at different speeds and in opposite directions. Metal sticks are inserted through the nets. Mirroring stainless-steel panels cover a platform at the bottom of the installation ([fig. 2.4](#2.4)).
+
+{{< q-figure id="2.4" pdf="two-column" >}}
 
 In 2008, Mack donated his replica, which was actually a new version of the work, to the ZERO Foundation, which presented it twice in the same form as 2005.[^6] However, for the 2016 exhibition *Zero ist gut für Dich: Mack, Piene, Uecker in Bonn, 1966/2016* in the LVR-LandesMuseum Bonn,[^7] the foundation displayed *Zwischen Himmel und Erde* as it had been presented in Bonn in 1966. Thekla Zell, research associate at the ZERO Foundation, conducted in-depth archival research on *Zero in Bonn* and found many records about Mack’s original installation ({{<q-cite "Zell 2015" "408-12">}}) ([fig. 2.5](#2.5)), which had occupied an entire room at the exhibition. The floor was not covered with mirroring panels but with white glass wool that resembled clouds. There were no metal sticks inserted through the aluminum structures. Under the ceiling, white fabric concealed a metal construction with the motors. And visitors couldn’t enter the space: they could look at the installation only through two acrylic glass panels that closed the entrances.
 
@@ -93,14 +93,13 @@ Unlike the exposure of an older layer in a painting, our intervention with *Zwis
 
 ### Otto Piene’s *Lichtballett “Hommage à New York”*
 
-{{< q-figure id="2.6" >}}
-
 The exhibition *Zero in Bonn* also included Piene’s *Lichtballett “Hommage à New York”* (Light ballet “Homage to New York”) ([fig. 2.6](#2.6)), a programmed multimedia installation, with light filaments and slides projected on colored screens, walls, and ceiling, fully immersing the viewer in an environment of color. Images of New York City are projected by two carousel slide projectors. Organic forms handpainted by the artist on glass slides are shown on the third projector. The projections are accompanied by sound consisting of noises recorded by Piene in the New York City streets.
+
+{{< q-figure id="2.6" >}}
 
 The work had not been displayed since 1966 and was not mentioned in the literature. During her research on *Zero in Bonn*, Zell rediscovered the installation through black-and-white photographs and other archival records ({{<q-cite "Zell 2015" "414-15">}}) and asked the artist if the whole work or parts of it still existed. Piene found five projection screens—fabric pieces dyed with spectral colors, sewn, and stretched on wooden frames—in his studio and donated them to the ZERO Foundation. After the artist’s death in 2014, we found color photographic documentation of the work. Piene’s chief assistant, Günter Thorn, then could identify numerous installation components and Piene’s original sketches in his studio ([figs. 2.7a–b](#2.7a)), and we decided to reconstruct the installation for the exhibition *Zero ist gut für Dich*. In this case, basic information about the installation, which normally should be gathered during the preacquisition phase,[^8] could only be documented after we had staged the work for the first time.
 
-{{< q-figure-group id="2.7a, 2.7b" grid="2" label="true" caption="Sketches by Otto Piene for *Lichtballett “Hommage à New York,”* 1966." >}}
-
+{{< q-figure-group id="2.7a, 2.7b" grid="2" label="true" caption="Sketches by Otto Piene for *Lichtballett “Hommage à New York,”* 1966." credit="© 2017 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn. Photo: Courtesy of Otto Piene Archive, ZERO Foundation, Düsseldorf.">}}
 
 Although we had found many components and much documentation of the installation, there was still room for interpretation in its reconstruction. As with *Lichtraum (Hommage à Fontana)*, some parts of the installation were no longer available because they had been acquired by other collections: four kinetic light machines—two *Scheibenprojektoren* (disk projectors) and two *Lichttrommeln* (light drums)[^9]—had to be reproduced by Piene’s chief assistant. Moreover, we needed to reconstruct the synchronization of the machines, spotlights, and slide projectors. The synchronization was based on a score from 1962 that Piene had used to program the timer for his light ballets. The score was composed with seven time intervals, which had to be attributed to the installation’s devices.
 

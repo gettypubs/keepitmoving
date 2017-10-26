@@ -44,7 +44,7 @@ At present, there are lumia compositions in collections across the United States
 
 {{< q-figure id="4.2" >}}
 
-Wilfred’s long-awaited major breakthrough in the museum world came in 1942, when MoMA purchased his *Vertical Sequence II, Opus 137* (1941),[^7] his first lumia composition to enter a museum collection. A decade later, MoMA further advanced Wilfred’s career by including him in the exhibition *15 Americans* (1952) alongside fourteen other artists: William Baziotes, Edward Corbett, Edwin Dickinson, Herbert Ferber, Joseph Glasco, Herbert Katzman, Frederick Kiesler, Irving Kriesberg, Richard Lippold, Jackson Pollock, Herman Rose, Mark Rothko, Clyfford Still, and Bradley Walker Tomlin. An outlier in the exhibition of eleven painters and three sculptors, Wilfred was nonetheless appreciated by some as the only truly original artist in the exhibition ({{<q-cite "Turrell 2013 n.p." "">}}). In 1961 MoMA acquired a second Wilfred, *Aspiration*.[^8] Both are domestically sized, internally programmed lumia compositions shown in wooden cabinets, with small screens (approximately 38 × 38 cm), a far cry from the giant, projected images of the concert stage.
+Wilfred’s long-awaited major breakthrough in the museum world came in 1942, when MoMA purchased his *Vertical Sequence II, Opus 137* (1941),[^7] his first lumia composition to enter a museum collection. A decade later, MoMA further advanced Wilfred’s career by including him in the exhibition *15 Americans* (1952) alongside fourteen other artists: William Baziotes, Edward Corbett, Edwin Dickinson, Herbert Ferber, Joseph Glasco, Herbert Katzman, Frederick Kiesler, Irving Kriesberg, Richard Lippold, Jackson Pollock, Herman Rose, Mark Rothko, Clyfford Still, and Bradley Walker Tomlin. An outlier in the exhibition of eleven painters and three sculptors, Wilfred was nonetheless appreciated by some as the only truly original artist in the exhibition ({{<q-cite "Turrell 2013" "">}}). In 1961 MoMA acquired a second Wilfred, *Aspiration*.[^8] Both are domestically sized, internally programmed lumia compositions shown in wooden cabinets, with small screens (approximately 38 × 38 cm), a far cry from the giant, projected images of the concert stage.
 
 In 1963 MoMA again supported Wilfred by commissioning a new installation for its thirty-fifth anniversary and 1964 reopening of renovated and expanded galleries designed by Philip Johnson. In a return to the lumia as large works suitable for public spectacle, Wilfred created his magnum opus, *Lumia Suite, Opus 158* ([fig. 4.2](#4.2)).[^9] In a custom-designed, 3.6 × 4.8 m room painted dark gray, viewers sat on custom benches centered before a 2.4 × 1.8 m screen with a rear-projected moving-light spectacle. The installation was a favorite of the public, and it ran nearly continuously for seventeen years.
 
@@ -58,9 +58,10 @@ After unpacking the numerous crates and boxes sent by MoMA to Yale in early 2015
 
 A thorough condition assessment of the main components was performed: vertical projector, horizontal projector, reflector tower, elliptical convertor, two ultramarine flood lamps, lamp control unit, and the actuator. An important part of this assessment was checking the condition of the 1960s electrical wiring and testing the electrical components. A multimeter, an instrument that measures electric current, voltage, and resistance, was used to check all switching devices, motors, and fans. The electrical components of *Lumia Suite* looked good, including the hazardous asbestos wiring and mercury switches. Minor physical damage was discovered—the color wheel on the vertical projector was bent out of plane and the adhesion of some electrical tape had failed—but otherwise *Lumia Suite* was in robust condition.
 
-{{< q-figure id="4.4" class="float-right" pdf="one-column">}}
 
 The next phase of the project was the design and construction of a portable system to replace MoMA’s original projection room, which had been built with lumber, drywall, and a firewall. Again, Wilfred’s meticulous descriptions, along with his scale drawings (1/4 in.:1 ft. and 1 in.:1 ft.), allowed for accurate reconstruction and reassembly ([fig. 4.4](#4.4)). A T-slotted, anodized matte-black (to prevent light reflections), extruded aluminum track system was chosen to provide two lightweight, adjustable, and mobile framework systems to replace the opposing walls in the projection room. While the 80/20<sup>®</sup> aluminum frames were being fabricated, treatment of the components proceeded.
+
+{{< q-figure id="4.4" class="float-right" pdf="one-column">}}
 
 All main components were cleaned, as per Wilfred’s instructions: glass was cleaned with alcohol (ethanol), and the aluminum reflectors were cleaned with a soft brush. The metal, glass, and theater-gel color wheel for the vertical projector was carefully put back in plane through gentle clamping. As it turned out, very little treatment was required, and our intent was to keep all original parts as long as they were safe to reuse.
 
@@ -88,19 +89,19 @@ Wilfred’s groundbreaking contribution to kinetic art and time-based media is f
 
 ## Materials and Suppliers
 
-> Extruded aluminum: manufactured by 80/20<sup>®</sup> Inc., [**www.8020.net**](https://www.8020.net/); distributed by AIR, Inc., [**airinc.net/8020-extrusion**](http://airinc.net/8020-extrusion/).
+> Extruded aluminum: manufactured by 80/20<sup>®</sup> Inc., [www.8020.net](https://www.8020.net/); distributed by AIR, Inc., [airinc.net/8020-extrusion](http://airinc.net/8020-extrusion/).
 
-> Handmade tungsten-filament incandescent light bulbs: Dylan Kehde Roelofs, [**www.incandescentsculpture.com**](http://www.incandescentsculpture.com/).
+> Handmade tungsten-filament incandescent light bulbs: Dylan Kehde Roelofs, [www.incandescentsculpture.com](http://www.incandescentsculpture.com/).
 
-> Coiled tungsten filaments: R. D. Mathis, Long Beach, CA, [**www.rdmathis.com**](http://www.rdmathis.com/#filaments).
+> Coiled tungsten filaments: R. D. Mathis, Long Beach, CA, [www.rdmathis.com](http://www.rdmathis.com/#filaments).
 
-> Infrared camera for smartphone: FLIR ONE™, [**www.flir.com**](http://www.flir.com/flirone/content/?id=62910).
+> Infrared camera for smartphone: FLIR ONE™, [www.flir.com](http://www.flir.com/flirone/content/?id=62910).
 
 ## Notes
 
-[^1]: For a chronology of the idea and its various incarnations, see “Color organ,” *Wikipedia*, accessed November 2016, [**en.wikipedia.org/wiki/Color\_organ**](https://en.wikipedia.org/wiki/Color_organ).
+[^1]: For a chronology of the idea and its various incarnations, see “Color organ,” *Wikipedia*, accessed November 2016, [en.wikipedia.org/wiki/Color\_organ](https://en.wikipedia.org/wiki/Color_organ).
 
-[^2]: Most notable among these is Russian composer Alexander Scriabin’s synesthetic symphony *Prometheus: The Poem of Fire* (1915), re-created in February 2010 by Anna Gawboy, a doctoral candidate at the Yale School of Music and scholar of Scriabin. See Yale Broadcast & Media, “Scriabin’s *Prometheus: Poem of Fire*,” 2010, accessed November 2016, [**www.youtube.com/watch?v=V3B7uQ5K0IU**](https://www.youtube.com/watch?v=V3B7uQ5K0IU).
+[^2]: Most notable among these is Russian composer Alexander Scriabin’s synesthetic symphony *Prometheus: The Poem of Fire* (1915), re-created in February 2010 by Anna Gawboy, a doctoral candidate at the Yale School of Music and scholar of Scriabin. See Yale Broadcast & Media, “Scriabin’s *Prometheus: Poem of Fire*,” 2010, accessed November 2016, [www.youtube.com/watch?v=V3B7uQ5K0IU](https://www.youtube.com/watch?v=V3B7uQ5K0IU).
 
 [^3]: Film is excluded because it is not a direct projection of colored light.
 

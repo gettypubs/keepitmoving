@@ -18,9 +18,9 @@ abstract: |
 weight: 201
 ---
 
-## Introduction
-
 {{< q-figure id="3.1" >}}
+
+## Introduction
 
 Artist Chris Burden (1946–2015) designed and fabricated *Metropolis II* (2011), an intense kinetic sculpture modeled after a frenetic modern city ([fig. 3.1](#3.1)). Steel tubing (Unistrut®) forms a structural grid interwoven with an elaborate system of eighteen roadways, including a six-lane freeway, and HO-scale[^1] train tracks. Miniature cars speed through the city at 240 scale miles per hour; every hour, the equivalent of approximately 100,000 cars circulates through the sculpture’s dense network of buildings. According to Burden, “The noise, the continuous flow of the trains, and the speeding toy cars produce in the viewer the stress of living in a dynamic, active and bustling 21st century city” ({{<q-cite "Schader 2012" "">}}). Burden described its fabrication as a “string and felt tip pen operation”; that is, no computer renderings or plans were used ({{<q-cite "Schader 2012" "">}}). The sculpture took five years to build, and the development of the architecture was very organic, with Burden in the studio every day making aesthetic decisions. Purchased by the Nicholas Berggruen Foundation, *Metropolis II* is on loan through 2022 to the Los Angeles County Museum of Art (LACMA), and it has been on display and in continuous operation since January 2012. It took almost three months to disassemble the sculpture and four and a half months to install at LACMA.
 
@@ -28,13 +28,13 @@ We discuss the exhibition of this contemporary sculpture, focusing on specific m
 
 ## *Metropolis II*
 
-{{< q-figure id="3.2" pdf="two-column" >}}
-
 When installed, the sculpture is approximately 6.4m wide by 9.1m long ([fig. 3.2](#3.2)); it is approximately 3m tall at its highest point. The main structure of the sculpture breaks apart into nine separate sections, or modules, which connect via telescoping steel tubing (Unistrut®). Each module is designed to fit into a shipping container for ease of transport. The core module houses the three conveyor systems, including their motors, conveyor belts, conveyor ramps, and associated control devices that operate the sculpture. Each module has leveling feet (eighty-six total) that are used to calibrate the sculpture and align the tracks on adjacent modules. All car and train tracks bridging adjoining modules, which number more than 100 pieces, must be removed for the deinstallation/installation process.
 
-At any given time, there are 1,200 cars in operation on the sculpture. The ninety-six custom car types—four body types, each type in four colors, and six combinations of detailing within each color scheme—were mass-produced in China after extensive prototyping at Burden’s studio. Each car is die-cast aluminum with a rare-earth magnet embedded in its chassis, and each has front and back rubber bumpers to dampen the impact as the cars run into one another at the bottom of the conveyor ramps. Each of the three conveyor ramps is a six-lane highway, and each has a corresponding conveyor belt with magnets embedded in it ([fig. 3.3](#3.3)). When the conveyor motor is on and the conveyor belt is moving, the attraction between the belt and car magnets draws the car to the top of the ramp. Once the car is at the top, the conveyor belt loops away and gravity causes the car to fall down the track until it hits the cars that have stopped at the base of the ramp. It is this push from behind that engages the conveyor belt and draws the car back to the top again.
+{{< q-figure id="3.2" pdf="two-column" >}}
 
 {{< q-figure id="3.3" pdf="two-column" >}}
+
+At any given time, there are 1,200 cars in operation on the sculpture. The ninety-six custom car types—four body types, each type in four colors, and six combinations of detailing within each color scheme—were mass-produced in China after extensive prototyping at Burden’s studio. Each car is die-cast aluminum with a rare-earth magnet embedded in its chassis, and each has front and back rubber bumpers to dampen the impact as the cars run into one another at the bottom of the conveyor ramps. Each of the three conveyor ramps is a six-lane highway, and each has a corresponding conveyor belt with magnets embedded in it ([fig. 3.3](#3.3)). When the conveyor motor is on and the conveyor belt is moving, the attraction between the belt and car magnets draws the car to the top of the ramp. Once the car is at the top, the conveyor belt loops away and gravity causes the car to fall down the track until it hits the cars that have stopped at the base of the ramp. It is this push from behind that engages the conveyor belt and draws the car back to the top again.
 
 The speed of the cars is controlled by a series of adjustable brushes installed over the car track. Located at various strategic points along the roadways, particularly near curves, these brushes can be lowered or raised to alter the amount of friction on the car as it passes underneath them.
 
@@ -46,13 +46,13 @@ The cars, trains, and trolleys weave through a maze of buildings of varying shap
 
 {{< q-figure id="3.5" >}}
 
-It should be noted that the 21st Century Museum of Contemporary Art in Kanazawa, Japan, owns an earlier version of this kinetic sculpture, *Metropolis I* (2004). It is one-third the size of *Metropolis II*, with four trains and eighty cars (modified Hot Wheels). Unlike *Metropolis II*, this version requires two operators and is currently not on view.
+It should be noted that the 21st Century Museum of Contemporary Art in Kanazawa, Japan, owns an earlier version of this kinetic sculpture, *Metropolis I* (2004). It is one-third the size of *Metropolis II*, with four trains and eighty cars (modified Hot Wheels™). Unlike *Metropolis II*, this version requires two operators and is currently not on view.
 
 ## Operation
 
-{{< q-figure id="3.6" class="float-right" pdf="one-column" >}}
-
 LACMA is the first and, thus far, only venue that has exhibited *Metropolis II*, and the museum had essentially no data or information to assist us in determining the work’s longevity, the key component of which is its operation. To maximize viewership while minimizing wear and tear on the sculpture, the museum ultimately decided to operate *Metropolis II* on Fridays, Saturdays, and Sundays (the busiest days), as well as for holidays and special events. On the regularly scheduled days, the sculpture is operated four times: starting thirty minutes after the museum opens, the sculpture is run every other hour, for an hour. This allows the operator to rest (it is extremely cramped and noisy inside the sculpture), retrieve any cars that jumped the track, answer patrons’ questions, and make notes on the sculpture’s performance. Operating *Metropolis II* on a schedule was also in keeping with the artist’s desire not to run the sculpture continuously: Burden liked the juxtaposition of chaos and quiet, which mimicked the stop-and-go of life in a major city. Also, the frenetic pace of the cars can be exhausting to the viewer, for even a short time. For this reason, the artist designed a balcony in the gallery for viewers so they could step back from the noise and excitement and observe the sculpture as a whole from a distance.
+
+{{< q-figure id="3.6" class="float-right" pdf="one-column" >}}
 
 The operators monitor the movement of the trains and make sure the cars do not jam at any brush over the roadway or at the bottom of the conveyor ramps. Operators share notes on successive days to communicate potential problems with a track or conveyor belts that require monitoring or repair ([fig. 3.6](#3.6)).
 
@@ -60,11 +60,11 @@ The sculpture has a number of built-in safety features, including overload switc
 
 ## Care and Maintenance
 
-{{< q-figure id="3.7" >}}
-
 Proper maintenance of *Metropolis II* proved critical to its overall operation and function. The entire sculpture is vacuumed once a week to remove dust and debris that has accumulated from the gallery. The sculpture is also inspected frequently to assess wear and identify any issues that may cause a problem in the future.
 
 In addition to vacuuming, the plastic car tracks are fastidiously dusted by hand with a super-soft microfiber polishing cloth. As they speed around the track, the cars degrade the plastic, creating grooves in the track and generating a considerable amount of fine white powder. This wear is most pronounced along bends in the track where the cars tend to scrape against and scratch the vertical plastic retaining wall ([fig. 3.7](#3.7)). The wear is readily apparent, yet it does not yet seem to have affected the cars’ performance so far. As a preventive measure we have explored how best to undertake the replacement of portions of the track showing the most wear. We have carefully measured and traced individual pieces of track, creating highly detailed templates and computer renderings. We now have the ability to cut sheet material using CNC (computerized numerical control) to the exact size and shape of any specific curve for future replacement.
+
+{{< q-figure id="3.7" >}}
 
 Though the cars were designed to be robust, they take quite a beating racing down the 19.8m of roadway over and over, approximately 650 hours a year. The cars’ plastic wheels, which are press-fit onto a metal axle, fail most frequently ([fig. 3.8](#3.8)). The hole in the wheel eventually bores out from the repetitive rotation, and the wheel itself slides off. There are no spare parts for these custom cars, so damaged parts are replaced by exchanging good parts from other used cars. When repair is no longer possible, the cars are retired to storage and a new car is used. Anticipating that the cars would wear out, the artist gave the collector 12,000 spare cars. Based on the current rate of wear and tear, we estimate that there are just enough spare cars to keep the sculpture operational throughout the loan period.
 
@@ -94,6 +94,6 @@ Kinetic sculptures present a range of issues and challenges, some of which are u
 
 [^1]: HO refers to the scale system commonly used in North America for model railroads.
 
-[^2]: HABA blocks are a construction toy consisting of small wooden building blocks. Legos are construction toy consisting of small plastic bricks. Lincoln Logs are a construction toy consisting of notched, miniature wooden logs.
+[^2]: HABA™ blocks are a construction toy consisting of small wooden building blocks. Legos™ are construction toy consisting of small plastic bricks. Lincoln Logs™ are a construction toy consisting of notched, miniature wooden logs.
 
 [^3]: GoPro is an HD-quality video recording camera.

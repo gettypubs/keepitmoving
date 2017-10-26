@@ -17,17 +17,17 @@ weight: 302
 
 ## Srnec and His Luminoplastics
 
-{{< q-figure id="8.1" class="float-right" pdf="one-column" >}}
-
 Aleksandar Srnec (Zagreb, 1924–2010) was a prominent Croatian artist whose work developed between 1950 and 1970, a vital period for the arts as well as for international culture, politics, and economics. Srnec was a member of the EXAT 51 group, active in the early 1950s, which sought to introduce experimentation into art and based its activities on the theories and traditions of Russian Constructivism, Bauhaus, and Neoplasticism. EXAT 51 was followed in the 1960s by the New Tendencies movement, which highlighted the need for the socialization and democratization of art and played a crucial role in the development of both the Croatian art scene (then Yugoslavia) and the international art scene. New Tendencies attracted artists who were experimenting with optical, kinetic, and luminokinetic art, in addition to influential scholars of Neo-Constructivist and kinetic art and information theory such as Giulio Carlo Argan, Abraham Moles, Matko Meštrović, and Alberto Biasi.[^1] Srnec’s creative drive found its basis in research and experimentation and, in 1953, led him to a key achievement of the EXAT 51 period, *Space Modulator* ([fig. 8.1](#8.1)), the artist's first object to give three dimensions to lines, that is, turning a drawing into a space. *Space Modulator* holds a special place in Srnec’s oeuvre because it was the first of a series of kinetic and luminokinetic settings, which he constructed and exhibited at New Tendencies shows during the 1960s. There is an obvious link with one of László Moholy-Nagy’s most important luminokinetic objects, *Light Space Modulator* (1930), but only at the formal level. Moholy-Nagy experimented with light and movement to create ambience, while Srnec, using light and movement, transformed the two-dimensional line motif into a three-dimensional medium.
 
-{{< q-figure id="8.2" >}}
+{{< q-figure id="8.1" >}}
 
 The connection between two- and three-dimensional media was to become a distinctive feature of the artist’s work. Srnec called his luminokinetic works Luminoplastics ([fig. 8.2](#8.2)), and through them he joined a large group of artists who experimented with space, from pioneers of kinetic art (such as Alexander Rodchenko, Naum Gabo, Vladimir Tatlin, Moholy-Nagy, and Alexander Calder) to his contemporaries (including Nicolas Schöffer, Otto Piene, Bruno Munari, Jesús Rafael Soto, Jean Tinguely, Julio Le Parc, and Alberto Biasi, among others) ({{<q-cite "Denegri 2004:270" "">}}).
 
-{{< q-figure id="8.3" >}}
+{{< q-figure id="8.2" >}}
 
 Srnec’s luminokinetic objects in the Museum of Contemporary Art (MSU) in Zagreb consist of combinations of various traditional artistic media and everyday materials. In his optical-kinetic research, Srnec used anything that might contribute to the marvelous play of light and movement, and very often this meant ordinary objects, such as electric motors from sewing machines, metal rods, wires, and projectors. However, *Luminoplastic 1* ([fig. 8.3](#8.3)), Srnec’s first luminokinetic object, has one element that is quite different from the artist’s other luminokinetic works: a projection of eighty slides ([figs. 8.4a–b](#8.4a)). The slides were made using various techniques and materials, and a detailed analysis of each slide has shown that these are actually eighty miniature works of art.
+
+{{< q-figure id="8.3" >}}
 
 {{< q-figure-group id="8.4a, 8.4b" label="false" caption="**Figure 8.4a–b.** Examples of slides from Aleksandar Srnec’s *Luminoplastic 1*, 1965–67." >}}
 
@@ -49,11 +49,9 @@ Further analysis of the construction elements showed that the artwork’s slide 
 
 The eighty slides were examined with the assistance of a professional cinematographer,[^4] which led to several important pieces of information. The slides could be divided into two groups: those produced entirely by photographic means, and those on which the artist had intervened. Technically, they fell into four categories: collages, black-and-white graphic films, black-and-white graphic films with engraved drawings, and standard slides.
 
-{{< q-figure id="8.7" >}}
+{{< q-figure id="8.7" pdf="two-column" >}}
 
-{{< q-figure id="8.8a" class="float-left" >}}
-{{< q-figure id="8.8b" class="float-left" >}}
-{{< q-figure id="8.8c" class="float-left" >}}
+{{< q-figure-group id="8.8a, 8.8b, 8.8c" grid="3" pdf="two-column" caption="**Figure 8.8a–c.** Various types of damage on the slide emulsions are visible under the microscope. Museum of Contemporary Art, Zagreb." credit="© Maja Vurusic." >}}
 
 For documentary purposes, we used digital cameras to photograph each slide with its emulsion side face-up, and then examined them, emulsion side up, under a Dino-Lite microscope. The observations were described in detail in an Excel spreadsheet ([fig. 8.7](#8.7)), including the condition as found, changes that had already occurred, and the technique and type of photographic material and emulsion used. The most obvious changes were irreversible spots on the emulsion, damage that had occurred because of the high temperatures of the projector’s lamp heat ([figs. 8.8a](#8.8a), [8.8b](#8.8b), [8.8c](8#.8c)). The conservator, curator, and cinematographer decided that it was necessary to make exhibition copies of the slides. Although this decision launched ethical and technical discussions about the right way to proceed, there was immediate agreement that it was necessary to ensure a clear distinction between the originals and the exhibition copies. It is interesting to note that the need to protect the original slides had been acknowledged many years before and, at that time, a suggestion was put forth to make copies. Even setting aside the ethical aspect of this suggestion, it would have been difficult to achieve such a goal due to the imperfections of the originals and the tiny details that should be conserved. At the time, there was a good reason for the proposal.
 
@@ -73,8 +71,9 @@ Scanning the slides on a flatbed scanner produced unsatisfactory results: it did
 
 By comparing an analogue projection of the original slides (produced photochemically) and a digital projection of the scanned material, we discovered two differences that revealed two key problems. The first related to the range of colors. The analogue projection had warmer tones as a result of the Kodak projector bulb’s (halogen, tungsten filament) light temperature of 3,200 kelvin, in contrast to the cold, bluish light of the Osram Unishape lamp with Dynamic Dimming (approximately 6,500 kelvin) produced by the Texas Instruments projector, known commercially as DLP (Digital Light Processing) ([figs. 8.9a](#8.9a), [8.9b](#8.9b)). During testing, a relatively acceptable result was achieved using a Kodak Wratten (KW) orange 85B filter. Any filter allows light to pass through it selectively, and this resulted in the visible reduction of some parts of the color spectrum. The KW 85B filter was only successful in the case of the black-and-white slides; for the chromatic slides (the collages), the desired result was not obtained.
 
-{{< q-figure id="8.9a" >}}
-{{< q-figure id="8.9b" >}}
+{{< q-figure id="8.9a" pdf="two-column" >}}
+
+{{< q-figure id="8.9b" pdf="two-column" >}}
 
 The second problem related to (timed) interruptions in the slide projection, which is a feature of any DPL projector. This technology creates projections in repeated sequences; first the red content of the image, then green, and then blue. When images are projected onto a moving object, the human eye perceives only the order of the red, green, and blue excerpts. This effect is sometimes perceptible even on fixed objects viewed on an ordinary projection screen as a series of separate colors, and the disturbance is known as the rainbow effect ([fig. 8.10](#8.10)). When affected by movement, the image is also quite different from that projected by an analogue projector, and therefore needs improvement ([fig. 8.11](#8.11)). In contrast to Texas Instruments’ DLP technology, the JVC company has developed LCoS (Liquid Crystal on Silicon) projection technology, which is not affected to the same degree by problems linked to the rainbow effect. This type of projector would achieve the desired result; however, it is expensive, and the MSU is still waiting for funds to purchase it.
 

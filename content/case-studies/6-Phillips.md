@@ -23,9 +23,9 @@ The robotic arm and photograph installation *As Yet Untitled* (1992–95) was cr
 
 ## Overview of the Installation
 
-{{< q-figure id="6.1" pdf="two-column" >}}
-
 In *As Yet Untitled* ([fig. 6.1](#6.1)), found photographs are presented to the viewer by a robotic arm. The motion is relentless; the robot operates whether or not someone is present. The arm is programmed to pick up a photograph from the feeder on the right, present it to the viewers, and then wait a few seconds for a response before proceeding. Viewers can intervene by covering one or both of the hand silhouettes in front of them, and the robot will place the photo in an archive box on the left. Should viewers choose not to act (or if no one is present), the robot will place the photo in a shredder, and the shredded photo will be conveyed to a pile. The robot runs continuously when the gallery is open to the public.
+
+{{< q-figure id="6.1" pdf="two-column" >}}
 
 What do strangers—the viewers observing the robot’s presentation—choose to do with someone else’s memory embodied in the photograph: save it or shred it? *As Yet Untitled* explores technology and obsolescence, trust, power, connection, and the relationship of the viewer to the machine.
 
@@ -85,10 +85,6 @@ The new controller from Mark V Automation was hardwired to the existing robot in
 
 The controller’s software platform was based on Mark V Automation’s recommendation for use with their hardware. The computer runs MS-DOS, an extremely efficient operating system that allows for simplified, low-level device control. Even though MS-DOS is technically obsolete, its very lightweight system overhead still makes it favorable for embedded systems control. The Puma control software is written in the C programming language, using open standards and reusable device drivers and components. This selection in programming techniques ensures that the source code will be part of the piece and archived. If there is future need to revise the software, it should pose no challenges.
 
-{{< q-figure id="6.4" >}}
-
-{{< q-figure id="6.5" class="float-right">}}
-
 The purchase of the new controller, a cost-effective means of updating and refurbishing the artwork, is within Dean’s COTS concept. There should be no artist’s quirks in the build or program. Reentering the code in contemporary programming language with new components also aligns with the artist’s design/build strategy; the operational part of *As Yet Untitled* is off-the-shelf, not a custom build with personalized circuit boards and mechanical components that need to be preserved.
 
 The original scripting of the commercial software in the 1990s had not been migrated, nor had the sequencing been extracted in a format readable by humans; the software resided on two laptops of questionable operational status ([fig. 6.4](#6.4)) and a set of floppy disks. The artist’s belief in multiple redundancies paid off: it was possible to retrieve the sequencing choreography and software flow of the installation from one of the laptops. This information was converted to a state machine or flowchart of actions ([fig. 6.5](#6.5)), software-speak for a flowchart describing the behavior of a system that governs the operation of the exhibit that the viewer experiences as *As Yet Untitled*. The sequencing experienced as *As Yet Untitled* was re-sequenced using the new robot control software.
@@ -96,6 +92,10 @@ The original scripting of the commercial software in the 1990s had not been migr
 ### Documentation
 
 We created two manuals: one for a programmer and another for a relatively nontechnical installer. The programmer manual will assist in the identification of communication links and faults between components and controller. The installer’s manual is image heavy, with a lot of repetition to the instructions.
+
+{{< q-figure id="6.4" >}}
+
+{{< q-figure id="6.5" >}}
 
 ## Stage Two: Post VOX
 
