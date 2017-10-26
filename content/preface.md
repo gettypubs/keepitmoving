@@ -5,6 +5,7 @@ contributor:
  - first_name: Rachel
    last_name: Rivenc
    bio: "Rachel Rivenc, associate scientist, has been working within the Modern and Contemporary Art Research Initiative at the Getty Conservation Institute since 2006. She studies the diverse materials and techniques used by contemporary artists, and their conservation. She is also coordinator for the Modern Materials and Contemporary Art working group of ICOM–CC. Rivenc holds an MA in paintings conservation from the Université Paris 1 Panthéon-Sorbonne and received a PhD in history from the Université de Versailles Saint-Quentin-en-Yvelines. She recently published the book *Made in Los Angeles: Materials, Processes, and the Birth of West Coast Minimalism*."
+   file_as: 1
 weight: 4
 ---
 

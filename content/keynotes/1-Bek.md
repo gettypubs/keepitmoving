@@ -6,6 +6,7 @@ contributor:
  - first_name: Reinhard
    last_name: Bek
    bio: Reinhard Bek completed his training as an objects conservator in 2002. That same year, he joined the Museum Tinguely in Basel, Switzerland, as its first permanent conservator. Bek was a founding member of the European Union project Inside Installations in 2003, and he was hired in 2008 by the Museum of Modern Art, New York, to spearhead an assessment of their technology-based artwork. In 2012, with his partner Christine Frohnert, he founded Bek & Frohnert LLC, based in New York City. He has lectured internationally and published widely on contemporary art conservation.
+   file_as: 2
 abstract: |
     How do we incorporate artist intent into the preservation of kinetic works when such art is both performative and  sculptural? Questions focused on artist intent tend to be passed from artists to art professionals as these works age. Frequently, initial preservation attempts affect future discussions around maintenance, replication, and retirement. As a result, conservators face a unique set of concerns that touch upon evolving technology, art historical discourse, and contextual presentation. The case studies below, which range from the modern to the contemporary, highlight the artist’s point of view.
 weight: 101

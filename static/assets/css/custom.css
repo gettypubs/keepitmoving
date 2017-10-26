@@ -237,6 +237,17 @@ a:active, a:focus, a:hover {
   color: #eaeaea;
 }
 
+/* Contributors list */
+
+
+#contributors .q-contributors__list .q-contributors__list__item#reinhard-bek {
+  margin-bottom: 4rem;
+}
+
+#contributors .q-contributors__list .q-contributors__list__item#timothy-p\.-whalen {
+  display: none;
+}
+
 /* Symposium Participants list */
 
 #participants ul {
@@ -288,13 +299,10 @@ a:active, a:focus, a:hover {
   }
   #videos .quire-page__content__main h2 {
     column-span: all;
-  }
-  #videos .quire-page__content {
-    column-count: 1;
+    width: 100%;
+    clear: both;
   }
   #videos .q-figure-grid {
-    column-count: 2;
-    column-gap: 0.25in;
     page-break-inside: inherit;
     break-inside: inherit;
   }
@@ -302,6 +310,9 @@ a:active, a:focus, a:hover {
     page-break-inside: avoid;
     break-inside: avoid;
     margin-bottom: 1em;
+  }
+  #videos h2:nth-of-type(2) {
+    page-break-before: always;
   }
   #contents .quire-page__content {
     column-count: 1;
@@ -315,7 +326,8 @@ a:active, a:focus, a:hover {
     page-break-after: always;
   }
   #fig-13-7,
-  #fig-13-8 {
+  #fig-13-8,
+  #videos .q-figure.q-figure-grid .q-figure__inner-figure.q-grid-2 {
     width: 48.4%;
   }
   #fig-15-1,

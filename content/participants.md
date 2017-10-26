@@ -4,6 +4,8 @@ weight: 601
 type: page
 ---
 
+*Affiliations are given as of the time of the symposium.*
+
 - **Sara Abram**
 
     Centro Conservazione Restauro, “La Veneria Reale,” Turin
