@@ -6,7 +6,7 @@ type: page
 
 ## [1. A Question of KinEthics](../keynotes/1-bek/)
 
-{{< q-figure-group id="1.5, 1.8, 1.10, 1.12" class="plate" grid="2" >}}
+{{< q-figure-group id="1.5, 1.7, 1.10, 1.12" class="plate" grid="2" >}}
 
 ## [3. Fast and Furious](../case-studies/3-gilberg/)
 

@@ -253,6 +253,10 @@ a:active, a:focus, a:hover {
   margin-bottom: 0;
 }
 
+.quire-page__content__main blockquote > p {
+  margin-bottom: .5rem;
+}
+
 /* Print */
 
 @media print {
@@ -297,5 +301,8 @@ a:active, a:focus, a:hover {
   }
   #contents .quire-page__content {
     column-count: 1;
+  }
+  #fig-1-9 {
+    page-break-after: always;
   }
 }

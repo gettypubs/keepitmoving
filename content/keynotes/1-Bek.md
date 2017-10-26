@@ -51,9 +51,9 @@ Gabo provided a clearly articulated explanation of his intention, a description 
 
 ## Jean Tinguely
 
-{{< q-figure id="1.2" >}}
-
 Jean Tinguely (1925–1991) also opted to retire his *Sculpture méta-mécanique automobile* of 1954 ([fig. 1.2](#1.2)) in 1988, prior to his retrospective at the Centre Pompidou that same year. Such a decision is surprising considering that thirty years earlier, in his 1959 manifesto *Für Statik*, Tinguely proclaimed: “Everything moves, there is no standstill” . . . “stop resisting change” . . . “Bind the anxiety and resist the weakness to want to stop movement.”[^1] Through such statements, he appeared to oppose standstill in general and instead propose flow and vitality, underscoring his belief that art and life should be in constant movement. Ironically, he criticized museums as mausoleums, yet held the most important shows of his career in such institutions. In later years he donated important works to major museums, in addition to planning his own museum.
+
+{{< q-figure id="1.2" >}}
 
 This contradictory attitude is not unusual among artists who work with ephemeral materials and media prone to obsolescence. It suggests that Tinguely was interested in the preservation of his sculptures, even though he proclaimed in a 1984 interview: “My works are not intended for eternity, they’ll wear themselves out and land back on the garbage heap whence they came” ({{< q-cite "Hahnloser-Ingold and Bezzola 1988" "252" >}}).
 
@@ -91,17 +91,17 @@ Tinguely’s and Gabo’s decisions to replicate *Méta-Matic No. 10* and *Kinet
 
 In the late 1960s, with the abundance of off-the-shelf technology available to artists, kinetic and Op Art evolved from artisanal to industrial fabrication, bringing issues of obsolescence to the forefront of conservation. Otto Piene (1928–2014), a founding member of ZERO, established in 1958, epitomized the group’s approach to art making. ZERO questioned the role of the artist’s hand and placed greater importance on materials and the interaction of the artwork with light and space.
 
+Piene’s *Neon Medusa* of 1969 ([fig. 1.6](#1.6)) consists of a chromed sphere on a stem and base. Four hundred and forty-nine adjustable, chromed gooseneck lamps are attached to the sphere, each fitted with an orange glow lamp ([fig. 1.7](#1.7)). The goosenecks allow the individual positioning of each lamp around the sphere. Piene specifically designed the body of the work for orange glow lamps (an early version of neon lights) that have bulbs filled with neon gas that produces an orange light. The light pattern of the sphere is programmed to run from a chrome controller box, attached to the sculpture with an electric cable.
+
 {{< q-figure id="1.6" >}}
 
-{{< q-figure id="1.7" class="float-right" pdf="one-column" >}}
-
-Piene’s *Neon Medusa* of 1969 ([fig. 1.6](#1.6)) consists of a chromed sphere on a stem and base. Four hundred and forty-nine adjustable, chromed gooseneck lamps are attached to the sphere, each fitted with an orange glow lamp ([fig. 1.8](#1.8)). The goosenecks allow the individual positioning of each lamp around the sphere. Piene specifically designed the body of the work for orange glow lamps (an early version of neon lights) that have bulbs filled with neon gas that produces an orange light. The light pattern of the sphere is programmed to run from a chrome controller box, attached to the sculpture with an electric cable.
-
-{{< q-figure id="1.8" >}}
+{{< q-figure id="1.7" >}}
 
 In 2014, forty-five years after its creation, the work underwent a conservation treatment when the Neuberger Museum of Art (New York) requested it for an exhibition. However, *Neon Medusa* did not function, and there was little documentation regarding its programing and conservation history.
 
-More than a thousand cables, invisible to the viewer, are inside the sphere ([fig. 1.7](#1.7)). Most of these cables were cracked and missing insulation, and there was a high risk of a short circuit and electrocution. The glow lamps are now obsolete and can no longer be sourced. Complex questions arose around the programming pattern for the light bulbs. The timer/controller still functioned but it was not connected to the sculpture; therefore, it was impossible to document the original programming, written into the analog timer of the controller box.
+{{< q-figure id="1.8" class="float-right" pdf="one-column" >}}
+
+More than a thousand cables, invisible to the viewer, are inside the sphere ([fig. 1.8](#1.8)). Most of these cables were cracked and missing insulation, and there was a high risk of a short circuit and electrocution. The glow lamps are now obsolete and can no longer be sourced. Complex questions arose around the programming pattern for the light bulbs. The timer/controller still functioned but it was not connected to the sculpture; therefore, it was impossible to document the original programming, written into the analog timer of the controller box.
 
 Because *Neon Medusa* was inoperable, the only way to understand its kinetic function was to reverse engineer the programming of the controller box in combination with the internal wiring of the sphere. Results were precise; however, a thorough understanding of <em>Neon Medusa</em>’s programming was elusive, and the diagrams were extremely puzzling to translate into the actual performance. The glow lamps are an immediate concern for the long-term preservation of the work. They are impossible to source, but the Neuberger Museum is in possession of two full sets of glow lamps, which will suffice for now.
 
@@ -125,12 +125,12 @@ Maintaining *Neon Medusa* is still possible by performing acceptable and unnotic
 
 ## Liz Larner
 
-{{< q-figure id="1.9" pdf="two-column">}}
-
 Art historian Piper Marshall described *Corner Basher* ([fig. 1.9](#1.9)) by California artist Liz Larner (b. 1960)
 as
 
 > comprised of a column, a drive shaft, a steel ball and a steel chain. Positioned where two walls meet, a long cord extends from the machine—attached is a speed control with an on/off switch. From this panel, visitors can operate the motorized shaft to spin the column and lance the ball against the walls. The repeated blows leave indentations, impressions, and cracks. In some cases whole pieces of the wall flake off, laying bare the many coats of paint underneath as well as the material from which the walls are composed ({{< q-cite "Marshall 2010" "79" >}}).
+
+{{< q-figure id="1.9" pdf="two-column">}}
 
 In 2010, when *Corner Basher* (1988) was twenty-two years old and had been exhibited in multiple settings, an incident occurred that required conservation intervention: the screw connecting the steel ball to the chain broke while the machine was running. The artwork was examined, and permission was requested from the artist to exchange not only the broken screw but the entire chain attached to the ball, which showed severe signs of wear and tear. Larner responded:
 
