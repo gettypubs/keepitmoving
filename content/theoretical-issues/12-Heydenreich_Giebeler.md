@@ -40,11 +40,11 @@ However, two days after the school opened, a girl ran into a pane of glass and i
 
 {{< q-figure id="12.4" >}}
 
-As early as 1989 artist and lecturer Ulrike Scheffler-Rother supported the conservation of the works, and the Rolandschule was classified as a very important building in the city’s architectural history ({{<q-cite "Scheffler-Rother 2004:2" "">}}). The building and its contents have been listed as a protected monument since 1990 ({{<q-cite "Heimeshoff 2001" "217">}}).
+As early as 1989 artist and lecturer Ulrike Scheffler-Rother supported the conservation of the works, and the Rolandschule was classified as a very important building in the city’s architectural history ({{<q-cite "Scheffler-Rother 2004" "2">}}). The building and its contents have been listed as a protected monument since 1990 ({{<q-cite "Heimeshoff 2001" "217">}}).
 
 ### The Conservation Project
 
-The recent increase in public awareness in value of ZERO artworks led the ZERO Foundation to initiate a project for the preservation and mediation of the works in the Rolandschule, in collaboration with the city of Düsseldorf and the Cologne Institute of Conservation Sciences (CICS) ({{<q-cite "Heydenreich 2012:8–13" "">}}). The goal of conservation treatment was to present the artworks as authentically as possible and to make them accessible to children. Students at CICS, in collaboration with the artists and a longtime artist’s assistant, developed conservation concepts that were then executed with the assistance of external companies.
+The recent increase in public awareness in value of ZERO artworks led the ZERO Foundation to initiate a project for the preservation and mediation of the works in the Rolandschule, in collaboration with the city of Düsseldorf and the Cologne Institute of Conservation Sciences (CICS) ({{<q-cite "Heydenreich 2012" "8–13">}}). The goal of conservation treatment was to present the artworks as authentically as possible and to make them accessible to children. Students at CICS, in collaboration with the artists and a longtime artist’s assistant, developed conservation concepts that were then executed with the assistance of external companies.
 
 All of the planned measures had to be coordinated with and approved by the office of Artistic and Historical Heritage (Denkmalamt), and any alterations had to comply with safety regulations for public school buildings and community accident insurance. The municipal office of property management also had to agree to the suggested treatments.
 
