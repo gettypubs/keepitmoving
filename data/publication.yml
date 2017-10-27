@@ -51,7 +51,12 @@ marketing_graphic:
 
 description:
   one_line:
-  full:
+  full: |
+    Kinetic art not only includes movement, but often depends on it to produce its intended effect and therefore fully realize its nature as work of art. It can take a multiplicity of forms and include a wide range of motion, from motorized and electrically driven movement to motion as the result of wind, light, or other sources of energy. Kinetic art emerged throughout the twentieth century, and had its major developments in the 1950s and 1960s.
+
+    Professionals responsible for conserving contemporary art are in the midst of rethinking the concept of authenticity and solving the dichotomy often felt between original materials and functionality of the work of art. The contrast is especially acute with kinetic art when a compromise between the two often seems impossible. Also to be considered are issues of technological obsolescence and the fact that an artist’s chosen technology often carries with it strong sociological and historical information and meanings.
+
+    Presenting the latest research and scholarship on the topic with fifteen essays and eight posters, this online publication (also available for print-on-demand) includes videos to capture more accurately the effects conjured by kinetic artworks.
   additional_online:
   additional_pdf_ebook:
 
@@ -66,6 +71,15 @@ subject_metadata:
       subject:
 
 library_of_congress_cip_data:
+  - "Names: Rivenc, Rachel, editor. | Bek, Reinhard, editor. | Getty Conservation Institute, issuing body, organizer. | ICOM Committee for Conservation. Working Group Modern Materials and Contemporary Art, organizer. | Museo del Novecento (Milan, Italy), organizer. | Palazzo reale di Milano, host institution."
+  - "Title: Keep it moving? : conserving kinetic art : proceedings from the meeting organized by the Getty Conservation Institute, the ICOM-CC Modern Materials and Contemporary Art Working Group, and Museo del Novecento, Palazzo Reale, Milan, Italy, June 30-July 2, 2016 / Rachel Rivenc and Reinhard Bek, editors."
+  - "Other titles: Conserving kinetic art"
+  - "Description: Los Angeles, CA : Getty Conservation Institute, [2017] | Includes bibliographical references."
+  - "Identifiers: LCCN 2017029127 (print) | LCCN 2017034944 (ebook) | ISBN 9781606065389 (epub) | ISBN 9781606065365 (online) | ISBN 9781606065372 (pbk.)"
+  - "Subjects:  LCSH: Kinetic art--Conservation and restoration--Congresses."
+  - "Classification: LCC N6494.K5 (ebook) | LCC N6494.K5 K44 2017 (print) | DDC 709.04/07--dc23"
+  - "LC record available at <a href=\"https://lccn.loc.gov/2017029127\" target=\"_blank\">https://lccn.loc.gov/2017029127</a>"
+
 
 copyright: © 2018 J. Paul Getty Trust
 
@@ -79,7 +93,7 @@ license:
     pdf_ebook:
     all:
 
-project-team:
+project_team:
   - first_name: Beatrice
     last_name: Hohenegger
     role: Project Editor
@@ -174,4 +188,5 @@ footer_links:
 revision_history:
   - date: 2018-02-01
     summary:
+      - First edition
 repository_url: http://www.github.com/gettypubs/keepitmoving

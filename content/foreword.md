@@ -8,7 +8,7 @@ contributor:
    title: Director
    affiliation: The Getty Conservation Institute
 contributor_byline: bottom
-weight: 3
+weight: 4
 ---
 
 In 2007 the Getty Conservation Institute (GCI) launched its Modern and Contemporary Art Research Initiative to address some of the acute challenges raised by the conservation of contemporary art. These include the immense variety of materials—not all intended to last—used by contemporary artists, the lack of established treatments, and, increasingly, the use artists make of new technologies, many of which are prone to obsolescence and call for new competencies for their maintenance and repair.
