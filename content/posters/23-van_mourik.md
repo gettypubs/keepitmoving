@@ -1,6 +1,6 @@
 ---
 id: "23"
-title: The Conservation Ethics of and Strategies for Preserving and Exhibiting an Operational Car
+title: The Conservation Ethics of and Strategies for Preserving and Exhibiting <br class="pdf-toc" />an Operational Car
 subtitle: The Motion and Standstill of Joost Conijn’s *Hout Auto (Wood Car)*
 type: essay
 contributor:

@@ -1,7 +1,7 @@
 ---
 id: "8"
 title: Preserving Performativity
-subtitle: Conserving the Elusive in Aleksandar Srnec’s Artwork
+subtitle: Conserving the Elusive in Aleksandar Srnec’s <br class="pdf-toc" />Artwork
 type: essay
 contributor:
  - first_name: Mirta

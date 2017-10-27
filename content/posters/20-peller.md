@@ -1,7 +1,7 @@
 ---
 id: "20"
 title: Gianni Colombo’s *Strutturazione cinevisuale abitabile*
-subtitle: From Flickering to Light
+subtitle: From Flickering <br class="pdf-toc" />to Light
 type: essay
 contributor:
  - first_name: Marlies
