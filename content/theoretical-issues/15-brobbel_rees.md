@@ -12,7 +12,7 @@ contributor:
    bio: Simon Rees is the director of the Govett-Brewster Art Gallery, New Zealand’s museum of contemporary art that houses the Len Lye Centre and the Len Lye Foundation’s collection and archive. Rees has held senior positions at national institutions in Austria, Lithuania, New Zealand, and Australia and has been involved in five national pavilion projects (for three countries) at the Venice Biennale.
 abstract: |
     The New Zealand–born American artist Len Lye (1901–1980) is recognized as a pioneer for his experimental films and his “Tangible Motion Sculpture.” More than thirty-five years after his death, Lye’s artistic legacy is increasingly dependent upon the Len Lye Foundation to reconstruct and realize his sculptural works, particularly the engineering of larger-scale iterations of extant models. In this paper, curators Paul Brobbel and Simon Rees discuss the making of Lye’s sculpture in the twenty-first century and the exhibition of Lye’s work at the Govett-Brewster Art Gallery/Len Lye Centre in New Plymouth, New Zealand.
-additional_resources:
+additional_references:
   - Lye 1965
   - Lye and Thorburn 1975
 weight: 404
