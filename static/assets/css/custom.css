@@ -268,12 +268,28 @@ a:active, a:focus, a:hover {
   margin-bottom: .5rem;
 }
 
+br.pdf-toc {
+  display: none;
+}
+
 /* Print */
 
 @media print {
 
   a {
     color: cmyk(0,0,0,1);
+  }
+
+  #contents br.pdf-toc {
+    display: inherit;
+  }
+  
+  .quire-contents__section a::after {
+    content: none;
+  }
+
+  .quire-contents__section ul a::after {
+    content: leader(dotted) ' ' target-counter(attr(href, url), page);
   }
 
   .quire-page__content__main h3 {

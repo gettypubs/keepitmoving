@@ -1,7 +1,7 @@
 ---
 id: "3"
 title: Fast and Furious
-subtitle: Operation, Maintenance, and Repair of Chris Burden’s *Metropolis II* at LACMA
+subtitle: Operation, Maintenance, and Repair of Chris Burden’s *Metropolis II* <br class="pdf-toc" />at LACMA
 type: essay
 contributor:
  - first_name: Mark

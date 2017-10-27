@@ -1,7 +1,7 @@
 ---
 id: "6"
 title: Moving with the Times
-subtitle: The Refurbishment and Restoration of a Choreographed Robotic Arm
+subtitle: The Refurbishment and Restoration of a Choreographed <br class="pdf-toc" />Robotic Arm
 type: essay
 contributor:
  - first_name: Sherry
@@ -19,7 +19,6 @@ additional_references:
   - Engel and Wharton 2014
   - Enright 2007
   - Laurenson 2006
-  - 
 weight: 204
 ---
 
