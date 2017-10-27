@@ -135,7 +135,7 @@ A reconstruction or a new staging reflects an interpretation of the work. We wil
 
 [^7]: *Zero ist gut für Dich: Mack, Piene, Uecker in Bonn, 1966/2016*, LVR-LandesMuseum Bonn, November 26, 2016–March 26, 2017.
 
-[^8]: See “Acquiring Media Art” in the collaborative project *Matters in Media Art*. Accessed March 8, 2017. [mattersinmediaart.org/acquiring-time-based-media-art.html](http://mattersinmediaart.org/acquiring-time-based-media-art.html).
+[^8]: See “Acquiring Media Art” in the collaborative project *Matters in Media Art*. Accessed March 8, 2017. {{< q-url-link >}}http://mattersinmediaart.org/acquiring-time-based-media-art.html{{< /q-url-link >}}.
 
 [^9]: A *Scheibenprojektor* is a perforated, motorized, rotating vertical disk, positioned on a stand, that projects a light ballet. A *Lichttrommel* is a drum with a perforated, motorized, and rotating horizontal disk on the top that projects a light ballet.
 

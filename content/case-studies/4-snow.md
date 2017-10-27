@@ -95,25 +95,25 @@ Wilfred’s groundbreaking contribution to kinetic art and time-based media is f
 
 ## Materials and Suppliers
 
-> Extruded aluminum: manufactured by 80/20<sup>®</sup> Inc., [www.8020.net](https://www.8020.net/); distributed by AIR, Inc., [airinc.net/8020-extrusion](http://airinc.net/8020-extrusion/).
+> Extruded aluminum: manufactured by 80/20<sup>®</sup> Inc., [https://www.8020.net](https://www.8020.net/); distributed by AIR, Inc., [http://airinc.net/&#8203;8020-extrusion](http://airinc.net/8020-extrusion/).
 
-> Handmade tungsten-filament incandescent light bulbs: Dylan Kehde Roelofs, [www.incandescentsculpture.com](http://www.incandescentsculpture.com/).
+> Handmade tungsten-filament incandescent light bulbs: Dylan Kehde Roelofs, [http://www.incandescentsculpture.com](http://www.incandescentsculpture.com/).
 
-> Coiled tungsten filaments: R. D. Mathis, Long Beach, CA, [www.rdmathis.com](http://www.rdmathis.com/#filaments).
+> Coiled tungsten filaments: R. D. Mathis, Long Beach, CA, [http://www.rdmathis.com](http://www.rdmathis.com/#filaments).
 
-> Infrared camera for smartphone: FLIR ONE™, [www.flir.com](http://www.flir.com/flirone/content/?id=62910).
+> Infrared camera for smartphone: FLIR ONE™, [http://www.flir.com](http://www.flir.com/flirone/content/?id=62910).
 
 {{< /q-backmatter >}}
 
 ## Notes
 
-[^1]: For a chronology of the idea and its various incarnations, see “Color organ,” *Wikipedia*, accessed November 2016, [en.wikipedia.org/wiki/Color\_organ](https://en.wikipedia.org/wiki/Color_organ).
+[^1]: For a chronology of the idea and its various incarnations, see “Color organ,” *Wikipedia*, accessed November 2016, {{< q-url-link >}}https://en.wikipedia.org/wiki/Color_organ{{< /q-url-link >}}.
 
-[^2]: Most notable among these is Russian composer Alexander Scriabin’s synesthetic symphony *Prometheus: The Poem of Fire* (1915), re-created in February 2010 by Anna Gawboy, a doctoral candidate at the Yale School of Music and scholar of Scriabin. See Yale Broadcast & Media, “Scriabin’s *Prometheus: Poem of Fire*,” 2010, accessed November 2016, [www.youtube.com/watch?v=V3B7uQ5K0IU](https://www.youtube.com/watch?v=V3B7uQ5K0IU).
+[^2]: Most notable among these is Russian composer Alexander Scriabin’s synesthetic symphony *Prometheus: The Poem of Fire* (1915), re-created in February 2010 by Anna Gawboy, a doctoral candidate at the Yale School of Music and scholar of Scriabin. See Yale Broadcast & Media, “Scriabin’s *Prometheus: Poem of Fire*,” 2010, accessed November 2016, {{< q-url-link >}}https://www.youtube.com/watch?v=V3B7uQ5K0IU{{< /q-url-link >}}.
 
 [^3]: Film is excluded because it is not a direct projection of colored light.
 
-[^4]:  Alice Armstrong, “Explorations in Light: Affinities of Color and Music,” *American Arts Quarterly* 26, no. 1 (Winter 2009), available online at Newington-Cropsey Cultural Studies Center, accessed November 2016, [www.nccsc.net/legacy/explorations-in-light](http://www.nccsc.net/legacy/explorations-in-light). Wilfred was vehemently opposed to using music in his lumia: “Mr. Wilfred’s clavilux has no connection with electronic instruments designed to transcribe sound or musical chords into color. ‘The musical analogy is a lost cause,’ he says. ‘Sound and color are simply not equivalents.’” See Grace Glueck, “New Art Display ‘Plays’ On and On,” *New* *York Times*, July 11, 1964, 22, in which Glueck interviews Wilfred and reviews his *Lumia Suite, Opus 158*, commissioned for the Museum of Modern Art.
+[^4]:  Alice Armstrong, “Explorations in Light: Affinities of Color and Music,” *American Arts Quarterly* 26, no. 1 (Winter 2009), available online at Newington-Cropsey Cultural Studies Center, accessed November 2016, {{< q-url-link >}}http://www.nccsc.net/legacy/explorations-in-light{{< /q-url-link >}}. Wilfred was vehemently opposed to using music in his lumia: “Mr. Wilfred’s clavilux has no connection with electronic instruments designed to transcribe sound or musical chords into color. ‘The musical analogy is a lost cause,’ he says. ‘Sound and color are simply not equivalents.’” See Grace Glueck, “New Art Display ‘Plays’ On and On,” *New* *York Times*, July 11, 1964, 22, in which Glueck interviews Wilfred and reviews his *Lumia Suite, Opus 158*, commissioned for the Museum of Modern Art.
 
 [^5]: “New Kind of Painting Uses Light as Medium,” *New York Times*, December 8, 1931, 34.
 

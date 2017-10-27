@@ -115,14 +115,14 @@ The expanding role of MFAH conservators in the display of these objects has been
 
 ## Notes
 
-[^1]: Orbitec E10 230V 15W. Don Schnapp Specialty Bulbs, 2600 Pope Canyon Road, Saint Helena, CA, 94574; [www.donsbulbs.com/cgi-bin/r/b.pl/e5850~orbitec.html](http://www.donsbulbs.com/cgi-bin/r/b.pl/e5850~orbitec.html).
+[^1]: Orbitec E10 230V 15W. Don Schnapp Specialty Bulbs, 2600 Pope Canyon Road, Saint Helena, CA, 94574; {{< q-url-link >}}http://www.donsbulbs.com/cgi-bin/r/b.pl/e5850~orbitec.html{{< /q-url-link >}}.
 
 [^2]: Alejandro Marcos, in discussion with the authors, April 2015.
 
-[^3]: LED bulbs, soft white A19 450 lumens, 2,700K, 40W equivalent, manufactured by Philips USA. Supplied by Home Depot, Atlanta, GA, 30339-1834; [www.homedepot.com/p/Philips-40W-Equivalent-Soft-White-A19- LED-461145/206783826](http://www.homedepot.com/p/Philips-40W-Equivalent-Soft-White-A19- LED-461145/206783826).
+[^3]: LED bulbs, soft white A19 450 lumens, 2,700K, 40W equivalent, manufactured by Philips USA. Supplied by Home Depot, Atlanta, GA, 30339-1834; {{< q-url-link >}}http://www.homedepot.com/p/Philips-40W-Equivalent-Soft-White-A19- LED-461145/206783826{{< /q-url-link >}}.
 
-[^4]: Vitrea 160 Glass Paints, manufactured by Pébéo. Supplied by Dick Blick Art Materials, P.O. Box 1267, Galesburg, IL, 61402-1267; [www.dickblick.com/items/02950-1109/](http://www.dickblick.com/items/02950-1109/).
+[^4]: Vitrea 160 Glass Paints, manufactured by Pébéo. Supplied by Dick Blick Art Materials, P.O. Box 1267, Galesburg, IL, 61402-1267; {{< q-url-link >}}http://www.dickblick.com/items/02950-1109/{{< /q-url-link >}}.
 
-[^5]: Philips Lighting B.V. “Meet Hue.” Philips, accessed July 28, 2016, [www2.meethue.com/en-us/productdetail/philips-hue-white-and-color-ambiance-starter-kit-a19](http://www2.meethue.com/en-us/productdetail/philips-hue-white-and-color-ambiance-starter-kit-a19).
+[^5]: Philips Lighting B.V. “Meet Hue.” Philips, accessed July 28, 2016, {{< q-url-link >}}http://www2.meethue.com/en-us/productdetail/philips-hue-white-and-color-ambiance-starter-kit-a19{{< /q-url-link >}}.
 
 [^6]: 2-rpm motor, counterclockwise synchronous geared Autotrol PX-300. Manufacturer: Autotrol.

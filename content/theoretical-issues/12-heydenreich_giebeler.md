@@ -128,7 +128,7 @@ Tiziana Caianiello of the ZERO Foundation, and Ulrik Runeberg of Restaurierungsz
 
 ## Notes
 
-[^1]: The ZERO Foundation, [www.4321zero.com](http://www.4321zero.com/).
+[^1]: The ZERO Foundation, {{< q-url-link >}}http://www.4321zero.com/{{< /q-url-link >}}.
 
 [^2]: Heinz Mack, interview by Kristina Herbst, in {{<q-cite "Herbst 2005" "">}}, appendix D1, pp. 9, 15; Heinz Mack, interview by Gunnar Heydenreich and Julia Giebeler, in {{<q-cite "Giebeler 2011" "appendix A1, p. 30">}}.
 
@@ -148,4 +148,4 @@ Tiziana Caianiello of the ZERO Foundation, and Ulrik Runeberg of Restaurierungsz
 
 [^10]: {{<q-cite "Uecker 1961" "">}}; Günther Uecker, interview by Tiziana Caianiello, Gunnar Heydenreich, and Cornelia Weyer, in {{<q-cite "Caianiello 2005" "207">}}.
 
-[^11]: International Council of Museum (ICOM), Professional Standards, [icom.museum/professional-standards](http://icom.museum/professional-standards/).
+[^11]: International Council of Museum (ICOM), Professional Standards, {{< q-url-link >}}http://icom.museum/professional-standards/{{< /q-url-link >}}.
