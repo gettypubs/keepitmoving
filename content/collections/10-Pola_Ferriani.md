@@ -14,6 +14,8 @@ abstract: |
     This paper focuses on seminal case studies in the conservation and display of kinetic art from the European Neo-Avant-Garde, examined from the interdependent points of view of the authors: curator and conservator. Francesca Pola is an independent art historian and curator who has a special focus on conservation in her display concepts, while Barbara Ferriani is a conservator who pays particular attention to display in her practice of conservation. The case studies presented below resulted from the authors’ direct and sometimes shared experience and from their discussion of issues in their intertwined strategies and practices.
 
     Through four case studies of works by Italian artists, we address the issues raised by kinetic objects, installations, and environments in relation to both conservation and display. The focus of this paper is not on technology producing movement but rather on the viewer’s interaction with these immersive devices, such as behaviors induced by the combination of these two elements. We explore action-based pieces and systems created by exponents, particularly Italian, of the European Neo-Avant-Garde, who used very simple technology.
+additional_references:
+  - Pola and Scotini 2015
 weight: 304
 ---
 

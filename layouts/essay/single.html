@@ -22,6 +22,25 @@
     <section class="quire-page__content__main" id="essay-text">
       {{ .Content }}
     </section>
+
+    <!-- Duplicates part of the code from q-cite.html in order to add
+  additional_references to the page-level bibliography list -->
+    {{- range .Params.additional_references -}}
+      {{- $short := . -}}
+      {{- range $.Site.Data.bibliography.entries -}}
+          {{- if eq .short $short -}}
+              {{- $.Scratch.Add "full" .full -}}
+              {{- $.Scratch.Add "full" " " -}}
+          {{- end -}}
+      {{- end -}}
+      {{- $full := $.Scratch.Get "full" -}}
+      {{- $.Page.Scratch.SetInMap "entry" "0" $short -}}
+      {{- $.Page.Scratch.SetInMap "entry" "1" $full -}}
+      {{ $entry := ($.Page.Scratch.GetSortedMapValues "entry") }}
+      {{- $shortId := . | urlize -}}
+      {{- $.Page.Scratch.SetInMap "cited" $shortId $entry -}}
+    {{- end -}}
+
     {{ if ($.Scratch.GetSortedMapValues "cited") }}
     <section class="quire-page__content__references" id="bibliography">
       <h2>Bibliography</h2>

@@ -22,6 +22,12 @@ abstract: |
     *Umbrella* by Wen-Ying Tsai (1928–2013) highlights the many philosophical and ethical questions raised by the conservation treatment of kinetic artworks. In this paper we consider both the sculptural and technical aspects of the artwork as well as the need to determine the significant characteristics and properties, physical as well as behavioral, to be conserved. We also examine the philosophical and ethical challenges presented by the preservation of kinetic artworks when reviewed against the need for longevity and functionality.
 
     These are complex questions, and we decided that a collaborative approach would lead to a successful decision-making process and informed outcomes. We discuss the collaboration between the institution and the artist’s foundation, and its role in maintaining the difficult balance between artistic intention and technical functionality. We also explore the various skill sets (of conservators, technicians, engineers, and manufacturers) that were brought together to complete this complex project successfully.
+additional_references:
+  - Kepes 1965
+  - Kepes and Benthall 1980
+  - Malina 1974
+  - Popper 1968
+  - Tovey 1971
 weight: 203
 ---
 
