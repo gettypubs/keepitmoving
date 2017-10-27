@@ -116,9 +116,15 @@ Monuments from the 1960s are increasingly being granted special preservation sta
 
 The experience of these three case studies suggests that the established practice of commissioning artists to perform conservation measures or update their works within the museum context should be thoughtfully reconsidered. The importance and necessity of involving the artist needs to be balanced against the risk of irreversible changes and optimizations of the artwork (of course taking legal aspects into consideration). Further, heritage preservation guidelines should be contemplated by museums to meet the demands of the diverse expressions of contemporary art and address their long-term preservation, keeping them as authentic as possible for future generations by maintaining, retiring, and/or replicating.
 
+---
+
+{{< q-backmatter >}}
+
 ## Acknowledgments
 
 Tiziana Caianiello of the ZERO Foundation, and Ulrik Runeberg of Restaurierungszentrum der Landeshauptstadt Düsseldorf.
+
+{{< /q-backmatter >}}
 
 ## Notes
 

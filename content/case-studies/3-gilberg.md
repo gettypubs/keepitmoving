@@ -90,6 +90,8 @@ Because *Metropolis II* is on loan to LACMA, it is necessary to document the con
 
 Kinetic sculptures present a range of issues and challenges, some of which are unique to the artwork. Their installation and exhibition is both costly and timeconsuming, and many museums, ill prepared to meet these challenges, frequently underestimate the resources that must be devoted to ensure their proper function and operation. Preventive maintenance is key, though it is important to have a clear understanding of how the sculpture functions, the artist’s intent, and what changes the artist will allow and support as technology changes. The exhibition of *Metropolis II* has proven successful primarily because LACMA was willing to take a more multidisciplinary approach to its care and preservation, embraced the assistance of the artist’s studio and staff, and allowed professional fabricators and artists to play a large role, under the guidance and direction of the museum’s conservation staff.
 
+---
+
 ## Notes
 
 [^1]: HO refers to the scale system commonly used in North America for model railroads.

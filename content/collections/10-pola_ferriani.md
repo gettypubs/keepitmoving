@@ -98,3 +98,5 @@ The purpose of this paper is to demonstrate how kinetic art, even more than othe
 We have attempted to identify, on a case-by-case basis, solutions that will maintain the historical value, the use value, the symbolic value and, not least, the economic value of kinetic art in such a way that, if not all works can be conserved, curators can choose which to favor. For example, one might decide to accept the deterioration of an original technological apparatus, thereby abandoning the recovery of the moving components, or decide to replace some elements, “updating” the work while acknowledging that its authenticity will be altered. As far as possible, we have sought solutions that can coexist.
 
 Kinetic art is often interactive, and only in the exchange of information between curators and conservators is it possible to understand the limits and accuracy of conservation strategies and, at the same time, have these strategies allow a correct use of and involvement with the kinetic works, as close as possible to the meaning envisioned within their original concept.
+
+---

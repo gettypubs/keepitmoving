@@ -37,9 +37,15 @@ Kinetic artworks can be divided into two categories: “sculptural” works, whi
 
 The aim of the Staakman conservation project was to achieve at least temporary exhibition of the artworks through minimal intervention; however, the treatments seem to have been insufficient because some of the malfunctions are inherent to the quality of the kinetic components. More drastic measures are needed to allow a prolonged exhibition in the future. The choice between respecting the artist’s intent, which would require improving the artworks, or respecting the material’s authenticity will be made in continuing conservation treatments.
 
+---
+
+{{< q-backmatter >}}
+
 ## Acknowledgments
 
 We thank Ray Staakman for the valuable and informative collaboration. We thank Lydia Beerkens, Reinhard Bek, and Ulrich Lang for their invaluable opinions on this subject. Thanks are also due to Evelyne Snijders, Ellen Jansen, and Ingeborg Smit, University of Amsterdam (UvA); Ron Kievits and Simone Vermaat, Rijksdienst voor het Cultureel Erfgoed (RCE); private conservator Daan Brouwers; and Marcel van der Sande, Kröller-Müller Museum, for their assistance and input on this project. We are grateful to our other colleagues from the UvA and RCE for their contributions, advice, and support toward the conservation of these kinetic artworks.
+
+{{< /q-backmatter >}}
 
 ## Notes
 

@@ -117,6 +117,8 @@ Although reconstructions leave considerable room for interpretation, they also p
 
 A reconstruction or a new staging reflects an interpretation of the work. We will never be able to draw a clear demarcation line between a right and a wrong interpretation; therefore, we can never be sure if a reconstruction or a staging is correct, although the consensus of the scientific community can give us an orientation. An interpretation can always be invalidated by new archival findings, new methodological approaches, and by interpretations that are more economical and consistent. So we will never know if our conjecture is definitely valid. But we can know if it is definitely wrong, if “it is not the case” ({{<q-cite "Eco 2012" "">}}). If we try to use a screwdriver as an ashtray, we will notice that it doesn’t work.
 
+---
+
 ## Notes
 
 [^1]: In the printed version of his paper, Rorty deleted the allusion to ear scratching, while it remained in the reply by Eco.

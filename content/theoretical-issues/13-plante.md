@@ -92,9 +92,15 @@ In mid-1966 art critic Jean Clay felt optimistic about the dissemination of kine
 
 In the context of an unprecedented abundance of small, ingenious objects, the eye-catching multiple ran the risk of being mistaken for yet another gadget. Paradoxically, while kineticists’ main purpose in producing their works was to force viewers out of their passivity, those very works exhibited in a shop window could be mistaken for artifacts that, as Baudrillard pointed out, reduce the user to a mere spectator of the technical imaginary deployed by an undetermined set of consumer objects. The recreational nature of kinetic multiples revolved around this misinterpretation, for gadgets also were defined at the juncture of technology, recreation, and automation.
 
+---
+
+{{< q-backmatter >}}
+
 ## Acknowledgments
 
 I thank the Biblioteca di Tella for making material available for this paper.
+
+{{< /q-backmatter >}}
 
 ## Notes
 

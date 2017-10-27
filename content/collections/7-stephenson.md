@@ -118,9 +118,15 @@ For the installation of *Magnetic Tableau No. 7*, Takis sent several images that
 
 This project was a study in collaboration, diplomacy, creativity, and compromise that produced a very successful exhibition for the Menil Collection. Everyone involved had the full experience of working with a living artist. All aspects of the project required a thoughtful review of conservation ethics and standards.
 
+---
+
+{{< q-backmatter >}}
+
 ## Acknowledgments
 
 Sincere thanks to Takis and the Menil Foundation and Menil Collection staff, with special recognition of Bradford Epley, Toby Kamps, Tom Walsh, Adam Baker, Tobin Becker, Tony Rubio, Melissa Warak, Lisa Barkley, and Consuelo Gutierrez; Maria Kokkori of the Art Institute of Chicago; J. D. Wise and Don Johnson of Rice University’s George R. Brown School of Engineering; Florin Dragan, Jeff Lieberman, and Laura Knott; and Giorgos Nakoudis, director of Takis K.E.T.E. Research Center for the Arts and Sciences.
+
+{{< /q-backmatter >}}
 
 ## Notes
 

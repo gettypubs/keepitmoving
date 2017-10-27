@@ -124,9 +124,15 @@ There are many facets to the Tinguely Conservation Project of which we have high
 
 Motion is a major component of Tinguely’s works, and one of the most important goals of the project is restoring the movement of the artworks while on display. However, if this cannot be achieved, other means are being explored to preserve it. Fully realizing that there are no clear-cut answers or solutions to many questions, we hope to have given some insight into the Stedelijk Museum’s Tinguely Conservation Project and its ethical and practical challenges.
 
+---
+
+{{< q-backmatter >}}
+
 ## Acknowledgments
 
 The project was generously funded by All Art Initiatives B.V. and BankGiro Loterij. For their valuable contributions we also thank the Rijksdienst voor het Cultureel Erfgoed (Cultural Heritage Agency of the Netherlands); Museum Tinguely, Basel; Reinhard Bek; Hans van der Weijde; Lydia Beerkens; Evelyne Snijders; the staff of the Stedelijk Museum Amsterdam; and many others.
+
+{{< /q-backmatter >}}
 
 ## Notes
 

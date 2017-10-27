@@ -97,9 +97,15 @@ At the outset, the collaboration aimed to ensure the longevity and functionality
 
 The project was successful primarily due to the ongoing collaboration of all parties involved, both external and internal to Tate, including the artist’s foundation, Tate curatorial, and Tate conservation (both sculpture and time-based media). The artist’s family and foundation provided advice and guidance and considered every recommendation. It was important to have continuous and transparent dialogue but also to meet in person and establish trust as we progressed with the work’s treatment. Tate curators guided the overall preservation process and the realization of the display into the new Tate Modern, and they were essential to informing the conversations about the artwork. Finally, Tate conservators provided a range of conservation strategies to consider and actively guided and carried out the treatments. The collaborative approach, and the engagement of each person involved, was essential to <em>Umbrella</em>’s installation at the new Tate Modern, forty-four years after its acquisition.
 
+---
+
+{{< q-backmatter >}}
+
 ## Acknowledgments
 
 We thank the Tsai family and the Tsai Art and Science Foundation for their ongoing support and insight. They made this a truly remarkable project to be a part of, and we are very proud of what we achieved collectively.
+
+{{< /q-backmatter >}}
 
 ## Notes
 

@@ -86,9 +86,15 @@ Finally, practical skills and approaches remain essential for these extremely fr
 
 The transition of this cybernetic collection from the artist’s studio to the museum—wherever it will take place—is a complex exercise of transmission in which the role of the conservator, working with the different stakeholders, is critical in a global, upstream, and integrated approach.
 
+---
+
+{{< q-backmatter >}}
+
 ## Acknowledgments
 
 Manon D'haenens would particularly like to thank Mrs. Eléonore de Lavandeyra Schöffer for her collaboration and authorization to disseminate interviews and photos for research purposes. I also thank Jean-Marc Gay from the city of Liège for collaborating on this project.
+
+{{< /q-backmatter >}}
 
 ## Notes
 
