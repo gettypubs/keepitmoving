@@ -4,4 +4,4 @@ weight: 603
 type: page
 ---
 
-{{< q-bibliography sort="full" >}}
+{{< q-bibliography sort="short" >}}
