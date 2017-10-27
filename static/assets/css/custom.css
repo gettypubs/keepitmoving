@@ -280,10 +280,28 @@ br.pdf-toc {
     color: cmyk(0,0,0,1);
   }
 
+  #copyright .quire-page,
+  #contents .quire-page {
+    page: no-footer;
+  }
+  
   #contents br.pdf-toc {
     display: inherit;
   }
-  
+
+  /* Hide the Cover list item in the PDF TOC */
+  #contents ul.quire-contents .quire-contents__page:first-child {
+    display: none;
+  }
+  #contents ul.quire-contents ul .quire-contents__page:first-child {
+    display: list-item;
+  }
+
+  /*Start main page numbering at Opening Remarks*/
+  .quire-body#opening-remarks {
+    counter-reset: page 1;
+  }
+
   .quire-contents__section a::after {
     content: none;
   }

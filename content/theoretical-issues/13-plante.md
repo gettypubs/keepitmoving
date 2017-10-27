@@ -1,7 +1,7 @@
 ---
 id: "13"
 title: Kinetic Multiples
-subtitle: Between Industrial Vocation and Handcrafted Solutions
+subtitle: Between Industrial Vocation and Handcrafted <br class="pdf-toc" />Solutions
 type: essay
 contributor:
  - first_name: Isabel

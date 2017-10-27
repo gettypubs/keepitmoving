@@ -1,6 +1,7 @@
 ---
 title: Preface
 type: page
+class: frontmatter
 contributor:
  - first_name: Rachel
    last_name: Rivenc

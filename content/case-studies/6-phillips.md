@@ -1,7 +1,7 @@
 ---
 id: "6"
 title: Moving with the Times
-subtitle: The Refurbishment and Restoration of a Choreographed <br class="pdf-toc" />Robotic Arm
+subtitle: The Refurbishment and Restoration of a Choreographed Robotic Arm
 type: essay
 contributor:
  - first_name: Sherry

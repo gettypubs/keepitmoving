@@ -1,6 +1,7 @@
 ---
 title: Foreword
 type: page
+class: frontmatter
 contributor:
  - first_name: Timothy P.
    last_name: Whalen

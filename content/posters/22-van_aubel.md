@@ -1,7 +1,7 @@
 ---
 id: "22"
 title: Future in Motion
-subtitle: Conservation Issues of Seven Kinetic Artworks by Dutch Artist <br class="pdf-toc" />Ray Staakman
+subtitle: Conservation Issues of Seven Kinetic Artworks by Dutch Artist Ray Staakman
 type: essay
 contributor:
  - first_name: Carien

@@ -1,7 +1,7 @@
 ---
 id: "14"
 title: The Collection of Nicolas Schöffer
-subtitle: From the Artist’s Studio to the Museum
+subtitle: From the Artist’s Studio to <br class="pdf-toc" />the Museum
 type: essay
 contributor:
  - first_name: Manon
