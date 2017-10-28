@@ -3,7 +3,7 @@ title: Cover
 weight: 1
 menu: false
 type: cover
-layout: video
+class: video
 ---
 
 Kinetic art not only includes movement, but often depends on it to produce its intended effect and therefore fully realize its nature as work of art. It can take a multiplicity of forms and include a wide range of motion, from motorized and electrically driven movement to motion as the result of wind, light, or other sources of energy. Kinetic art emerged throughout the twentieth century, and had its major developments in the 1950s and 1960s.
