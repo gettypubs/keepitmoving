@@ -124,12 +124,9 @@ a:active, a:focus, a:hover {
 
 /* Contributors list */
 
-
-#contributors .q-contributors__list .q-contributors__list__item#reinhard-bek {
-  margin-bottom: 4rem;
-}
-
-#contributors .q-contributors__list .q-contributors__list__item#timothy-p\.-whalen {
+.q-contributors__list:nth-of-type(2) #reinhard-bek,
+.q-contributors__list:nth-of-type(2) #rachel-rivenc,
+.q-contributors__list:nth-of-type(2) #timothy-p\.-whalen {
   display: none;
 }
 
@@ -212,6 +209,7 @@ br.pdf-toc {
   .quire-body-type--section-head .quire-page {
     background-color: #9eb300;
   }
+
   .quire-citation {
     background-color: transparent;
     padding-left: 0;
@@ -222,6 +220,13 @@ br.pdf-toc {
     color: inherit;
     white-space: normal;
   }
+
+  #participants ul li {
+    margin-bottom: 1em;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
   #videos .quire-page__content__main h2 {
     column-span: all;
     width: 100%;
