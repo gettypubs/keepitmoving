@@ -9,7 +9,7 @@
       {{ end }}
       </ul>
     {{ end }}
-    <nav class="quire-page__header__page-navigation" role="navigation" aria-label="page"><ul><li>Jump to: <a href="#essay-text">Main Text</a></li> <li><a href="#notes">Notes</a></li>{{ if ($.Scratch.GetSortedMapValues "cited") }} <li><a href="#bibliography">Bibliography</a></li>{{ end }}</ul></nav>
+    <nav class="quire-page__header__page-navigation" role="navigation" aria-label="page"><ul><li class="quire-page__header__page-navigation__main">Jump to: <a href="#essay-text">Main Text</a></li> <li class="quire-page__header__page-navigation__notes"><a href="#notes">Notes</a></li>{{ if ($.Scratch.GetSortedMapValues "cited") }} <li class="quire-page__header__page-navigation__bibliography"><a href="#bibliography">Bibliography</a></li>{{ end }}</ul></nav>
   </header>
   <div class="quire-page__content">
     <section class="quire-page__content__abstract">

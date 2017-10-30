@@ -144,6 +144,16 @@ a:active, a:focus, a:hover {
   color: #efebec;
 }
 
+/* Hide "Jump to Notes" link on pages without footnotes */
+
+#posters-16-cappellina .quire-page__header__page-navigation__notes,
+#posters-17-erhan .quire-page__header__page-navigation__notes,
+#posters-18-iazurlo .quire-page__header__page-navigation__notes,
+#posters-19-mack .quire-page__header__page-navigation__notes,
+#posters-21-stamatopoulou .quire-page__header__page-navigation__notes {
+  display: none;
+}
+
 /* Contributors list */
 
 .q-contributors__list:nth-of-type(2) #reinhard-bek,
