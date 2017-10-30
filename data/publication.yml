@@ -87,9 +87,11 @@ copyright: © 2018 J. Paul Getty Trust
 
 license:
   name: Creative Commons Attribution 4.0 International License
+  name_short: CC BY
   link_relation: license
   url: http://creativecommons.org/licenses/by/4.0/
   icon: cc-by.png
+  scope: text-only # full | text-only | some-exceptions
   exceptions:
     online:
     pdf_ebook:
