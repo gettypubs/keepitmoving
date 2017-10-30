@@ -1,3 +1,13 @@
+{{/*
+
+  A shortcode that can be used to generate a bibiliography from
+  `bibliography.yml`. With options to display the short form,
+  or not, and to sort by either short of long keys.
+
+  Was not part of the theme this book uses, but will be 
+  incorportated into Quire in the future.
+
+*/}}
 <section class="quire-page__content__references">
 {{ if .Get "sort" }}
   {{ if eq .Site.Params.displayBiblioShort "true" }}
