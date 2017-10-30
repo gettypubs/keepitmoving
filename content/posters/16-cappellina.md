@@ -19,7 +19,7 @@ weight: 501
 
 ## Cockcroft-Walton Generator
 
-First designed in 1932, the Cockcroft–Walton generator is an electric circuit that produces a high voltage from a low voltage. A system of capacitors and diodes generates this voltage, along with kinetic components such as dynamos ([fig. 16.1](#16.1)), which are housed inside rounded aluminum casings. The machine is assembled over two Bakelite isolating cylinders. The electrical components were lost during the first installation in the museum in the 1960s; furthermore, safety concerns prevent us from activating the machine. It was decided not to reintegrate the electrical functionality but to potentially keep the dynamo system moving. The conservation treatment was realized in January–June 2016 by Strati s.n.c.
+First designed in 1932, the Cockcroft–Walton generator is an electric circuit that produces a high voltage from a low voltage. A system of capacitors and diodes generates this voltage, along with kinetic components such as dynamos ([fig. 16.1](#fig-16-1)), which are housed inside rounded aluminum casings. The machine is assembled over two Bakelite isolating cylinders. The electrical components were lost during the first installation in the museum in the 1960s; furthermore, safety concerns prevent us from activating the machine. It was decided not to reintegrate the electrical functionality but to potentially keep the dynamo system moving. The conservation treatment was realized in January–June 2016 by Strati s.n.c.
 
 ## 40-Horsepower Cassani Tractor
 

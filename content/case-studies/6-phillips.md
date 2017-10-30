@@ -30,7 +30,7 @@ The robotic arm and photograph installation *As Yet Untitled* (1992–95) was cr
 
 ## Overview of the Installation
 
-In *As Yet Untitled* ([fig. 6.1](#6.1)), found photographs are presented to the viewer by a robotic arm. The motion is relentless; the robot operates whether or not someone is present. The arm is programmed to pick up a photograph from the feeder on the right, present it to the viewers, and then wait a few seconds for a response before proceeding. Viewers can intervene by covering one or both of the hand silhouettes in front of them, and the robot will place the photo in an archive box on the left. Should viewers choose not to act (or if no one is present), the robot will place the photo in a shredder, and the shredded photo will be conveyed to a pile. The robot runs continuously when the gallery is open to the public.
+In *As Yet Untitled* ([fig. 6.1](#fig-6-1)), found photographs are presented to the viewer by a robotic arm. The motion is relentless; the robot operates whether or not someone is present. The arm is programmed to pick up a photograph from the feeder on the right, present it to the viewers, and then wait a few seconds for a response before proceeding. Viewers can intervene by covering one or both of the hand silhouettes in front of them, and the robot will place the photo in an archive box on the left. Should viewers choose not to act (or if no one is present), the robot will place the photo in a shredder, and the shredded photo will be conveyed to a pile. The robot runs continuously when the gallery is open to the public.
 
 {{< q-figure id="6.1" pdf="two-column" >}}
 
@@ -46,7 +46,7 @@ As we began to work more deeply with the components, we realized that there woul
 
 Stage two would begin when *As Yet Untitled* was returned to the AGO; that is, completing the programming and, ultimately, amending the robot’s unfortunate reputation.
 
-Preparing the robot and installation components for loan was a logistical challenge. We were awash in unassembled and scattered components, too many for the conservation studio. We used empty gallery spaces, but we were displaced four times before our work was complete ([fig. 6.2](#6.2)).
+Preparing the robot and installation components for loan was a logistical challenge. We were awash in unassembled and scattered components, too many for the conservation studio. We used empty gallery spaces, but we were displaced four times before our work was complete ([fig. 6.2](#fig-6-2)).
 
 {{< q-figure id="6.2" >}}
 
@@ -80,7 +80,7 @@ Dean chose a Unimation Puma 550 industrial robot arm with a gripper attachment m
 
 The robotic arm appeared to be sound mechanically and only required general maintenance, including re-greasing the joints. Grease in robot joints can leak, and some residue on the exterior of the arm case seems to be inevitable. These joints should be moved and greased regularly.
 
-A chassis unit containing the controller, computer and monitor, and I/O (input/output) module slides under the robot stand and is accessed by the operator from behind the robot. The I/O module and circuits ([fig. 6.3](#6.3)) are connected to the controller, receiving or generating signals to the feeder, shredder, and robot arm. The computer manages the software program that contains the commands controlling the action of the robot.
+A chassis unit containing the controller, computer and monitor, and I/O (input/output) module slides under the robot stand and is accessed by the operator from behind the robot. The I/O module and circuits ([fig. 6.3](#fig-6-3)) are connected to the controller, receiving or generating signals to the feeder, shredder, and robot arm. The computer manages the software program that contains the commands controlling the action of the robot.
 
 {{< q-figure id="6.3" >}}
 
@@ -94,7 +94,7 @@ The controller’s software platform was based on Mark V Automation’s recommen
 
 The purchase of the new controller, a cost-effective means of updating and refurbishing the artwork, is within Dean’s COTS concept. There should be no artist’s quirks in the build or program. Reentering the code in contemporary programming language with new components also aligns with the artist’s design/build strategy; the operational part of *As Yet Untitled* is off-the-shelf, not a custom build with personalized circuit boards and mechanical components that need to be preserved.
 
-The original scripting of the commercial software in the 1990s had not been migrated, nor had the sequencing been extracted in a format readable by humans; the software resided on two laptops of questionable operational status ([fig. 6.4](#6.4)) and a set of floppy disks. The artist’s belief in multiple redundancies paid off: it was possible to retrieve the sequencing choreography and software flow of the installation from one of the laptops. This information was converted to a state machine or flowchart of actions ([fig. 6.5](#6.5)), software-speak for a flowchart describing the behavior of a system that governs the operation of the exhibit that the viewer experiences as *As Yet Untitled*. The sequencing experienced as *As Yet Untitled* was re-sequenced using the new robot control software.
+The original scripting of the commercial software in the 1990s had not been migrated, nor had the sequencing been extracted in a format readable by humans; the software resided on two laptops of questionable operational status ([fig. 6.4](#fig-6-4)) and a set of floppy disks. The artist’s belief in multiple redundancies paid off: it was possible to retrieve the sequencing choreography and software flow of the installation from one of the laptops. This information was converted to a state machine or flowchart of actions ([fig. 6.5](#fig-6-5)), software-speak for a flowchart describing the behavior of a system that governs the operation of the exhibit that the viewer experiences as *As Yet Untitled*. The sequencing experienced as *As Yet Untitled* was re-sequenced using the new robot control software.
 
 ### Documentation
 
@@ -128,7 +128,7 @@ Some changes to the installation were necessary for health and safety. Working t
 
 Stanchions and cord to indicate a perimeter barrier are original to the piece. These will be maintained, but we are now in conversation about options for adding an industrial-type perimeter safety feature, such as a light curtain and intrusion-detection technology. It is important to remember that the robot cannot sense that someone is in the way; it could do serious harm. Insurance, risk tolerance, and inspection by external safety authorities are real considerations.
 
-We maintained programmed responses to unexpected variables, like a jammed shredder or no photo pickup. This seems like improvisation and contributes to the tendency of visitors to anthropomorphize the robot, to believe the robot is thinking and responding. Now, however, error prompts are coupled with instructions for the operator in accessible language on the monitor at the back of the work and supported by instructions in the operational manual ([fig. 6.6](#6.6)). The robot also has its own Gmail and Dropbox accounts so that software updates and troubleshooting can be performed remotely if required.
+We maintained programmed responses to unexpected variables, like a jammed shredder or no photo pickup. This seems like improvisation and contributes to the tendency of visitors to anthropomorphize the robot, to believe the robot is thinking and responding. Now, however, error prompts are coupled with instructions for the operator in accessible language on the monitor at the back of the work and supported by instructions in the operational manual ([fig. 6.6](#fig-6-6)). The robot also has its own Gmail and Dropbox accounts so that software updates and troubleshooting can be performed remotely if required.
 
 {{< q-figure id="6.6" pdf="two-column" >}}
 

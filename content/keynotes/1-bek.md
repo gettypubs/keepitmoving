@@ -30,7 +30,7 @@ Maintenance of an original artwork is the preferred option when there is little 
 
 {{< q-figure id="1.1" >}}
 
-In 1919 Naum Gabo (1890–1977) fabricated one of the first artworks commonly associated with kinetic sculpture, *Kinetic Construction (Standing Wave)* (1919–20) ([fig. 1.1](#1.1)). For the groundbreaking exhibition *The Machine as Seen at the End of the Mechanical Age*, organized by the art historian Pontus Hulten in 1969 at the Museum of Modern Art, New York, Gabo recounted how this sculpture was made, his intention as its creator, and his thoughts about its longevity. His comments were published in the magazine *Techne* the same year. *Standing Wave*, Gabo explained,
+In 1919 Naum Gabo (1890–1977) fabricated one of the first artworks commonly associated with kinetic sculpture, *Kinetic Construction (Standing Wave)* (1919–20) ([fig. 1.1](#fig-1-1)). For the groundbreaking exhibition *The Machine as Seen at the End of the Mechanical Age*, organized by the art historian Pontus Hulten in 1969 at the Museum of Modern Art, New York, Gabo recounted how this sculpture was made, his intention as its creator, and his thoughts about its longevity. His comments were published in the magazine *Techne* the same year. *Standing Wave*, Gabo explained,
 
 > has been given to the Tate Gallery in London. I, being interested in the preservation of that work advised the Tate Gallery that it might suffer should it be lent to exhibition. When Mr. Hulten began to organize the exhibition called *The Machine* for the Museum of Modern Art, he asked my permission to allow him to make a replica of the work ({{< q-cite "Gabo 1969b" "5" >}}).
 
@@ -50,7 +50,7 @@ Gabo provided a clearly articulated explanation of his intention, a description 
 
 ## Jean Tinguely
 
-Jean Tinguely (1925–1991) also opted to retire his *Sculpture méta-mécanique automobile* of 1954 ([fig. 1.2](#1.2)) in 1988, prior to his retrospective at the Centre Pompidou that same year. Such a decision is surprising considering that thirty years earlier, in his 1959 manifesto *Für Statik*, Tinguely proclaimed: “Everything moves, there is no standstill” . . . “stop resisting change” . . . “Bind the anxiety and resist the weakness to want to stop movement.”[^1] Through such statements, he appeared to oppose standstill in general and instead propose flow and vitality, underscoring his belief that art and life should be in constant movement. Ironically, he criticized museums as mausoleums, yet held the most important shows of his career in such institutions. In later years he donated important works to major museums, in addition to planning his own museum.
+Jean Tinguely (1925–1991) also opted to retire his *Sculpture méta-mécanique automobile* of 1954 ([fig. 1.2](#fig-1-2)) in 1988, prior to his retrospective at the Centre Pompidou that same year. Such a decision is surprising considering that thirty years earlier, in his 1959 manifesto *Für Statik*, Tinguely proclaimed: “Everything moves, there is no standstill” . . . “stop resisting change” . . . “Bind the anxiety and resist the weakness to want to stop movement.”[^1] Through such statements, he appeared to oppose standstill in general and instead propose flow and vitality, underscoring his belief that art and life should be in constant movement. Ironically, he criticized museums as mausoleums, yet held the most important shows of his career in such institutions. In later years he donated important works to major museums, in addition to planning his own museum.
 
 {{< q-figure id="1.2" >}}
 
@@ -74,13 +74,13 @@ In contrast, he at times embraced the idea of the replica. In 1959, he introduce
 
 > the spectator is called on to clamp a pen in the machine, fix a sheet of paper, and press a release button. The arm to which the pen is secured moves irregularly up and down, usually very fast, and leaves behind strokes and dots on the paper. It is possible to change the color, and the intensity of the color, by letting the pen operate for a longer or shorter period, and by having it make heavier or lighter contact with the paper. Thus, a drawing is created that, on the one hand, is the result of an art activity—perhaps therefore achieving the status of a souvenir—and, on the other hand, a product of the three artists who jointly created the work: Jean Tinguely, the creator of the drawing mechanical sculpture; the mechanical sculpture itself; and finally, the spectator, who in this context becomes a user and, yes, a creator of art ({{< q-cite "Pardey 2012" "52" >}}).
 
-In 1990, to preserve the original *Méta-Matic No. 10* of 1959 ([fig. 1.3](#1.3)), which remained in his personal collection, the artist and his studio replicated the artwork ([fig. 1.4](#1.4)) for a solo exhibition in Russia titled *Tinguely in Moscow* ({{< q-cite "Pardey 2012" "54" >}}). To increase the likelihood of replacing worn parts, the studio fabricated the replica with fewer details than the original. The replica was mounted on a black wooden box that provided storage for paper and felt-tip pens.
+In 1990, to preserve the original *Méta-Matic No. 10* of 1959 ([fig. 1.3](#fig-1-3)), which remained in his personal collection, the artist and his studio replicated the artwork ([fig. 1.4](#fig-1-4)) for a solo exhibition in Russia titled *Tinguely in Moscow* ({{< q-cite "Pardey 2012" "54" >}}). To increase the likelihood of replacing worn parts, the studio fabricated the replica with fewer details than the original. The replica was mounted on a black wooden box that provided storage for paper and felt-tip pens.
 
 {{< q-figure id="1.3" >}}
 
 {{< q-figure id="1.4" >}}
 
-Both the original *Méta-Matic No. 10* and its replica are in the collection of the Museum Tinguely (Basel, Switzerland). The original has never been exhibited in operation; however, visitors are allowed to operate the replica to produce their own *Méta-Matic* drawings ([fig. 1.5](#1.5)). Because, with *Méta-Matic*, Tinguely is questioning the idea of uniqueness by using machines to make art, being open to replication for such an artwork is consistent with the artwork’s original concept.
+Both the original *Méta-Matic No. 10* and its replica are in the collection of the Museum Tinguely (Basel, Switzerland). The original has never been exhibited in operation; however, visitors are allowed to operate the replica to produce their own *Méta-Matic* drawings ([fig. 1.5](#fig-1-5)). Because, with *Méta-Matic*, Tinguely is questioning the idea of uniqueness by using machines to make art, being open to replication for such an artwork is consistent with the artwork’s original concept.
 
 {{< q-figure id="1.5" >}}
 
@@ -90,7 +90,7 @@ Tinguely’s and Gabo’s decisions to replicate *Méta-Matic No. 10* and *Kinet
 
 In the late 1960s, with the abundance of off-the-shelf technology available to artists, kinetic and Op Art evolved from artisanal to industrial fabrication, bringing issues of obsolescence to the forefront of conservation. Otto Piene (1928–2014), a founding member of ZERO, established in 1958, epitomized the group’s approach to art making. ZERO questioned the role of the artist’s hand and placed greater importance on materials and the interaction of the artwork with light and space.
 
-Piene’s *Neon Medusa* of 1969 ([fig. 1.6](#1.6)) consists of a chromed sphere on a stem and base. Four hundred and forty-nine adjustable, chromed gooseneck lamps are attached to the sphere, each fitted with an orange glow lamp ([fig. 1.7](#1.7)). The goosenecks allow the individual positioning of each lamp around the sphere. Piene specifically designed the body of the work for orange glow lamps (an early version of neon lights) that have bulbs filled with neon gas that produces an orange light. The light pattern of the sphere is programmed to run from a chrome controller box, attached to the sculpture with an electric cable.
+Piene’s *Neon Medusa* of 1969 ([fig. 1.6](#fig-1-6)) consists of a chromed sphere on a stem and base. Four hundred and forty-nine adjustable, chromed gooseneck lamps are attached to the sphere, each fitted with an orange glow lamp ([fig. 1.7](#fig-1-7)). The goosenecks allow the individual positioning of each lamp around the sphere. Piene specifically designed the body of the work for orange glow lamps (an early version of neon lights) that have bulbs filled with neon gas that produces an orange light. The light pattern of the sphere is programmed to run from a chrome controller box, attached to the sculpture with an electric cable.
 
 {{< q-figure id="1.6" >}}
 
@@ -100,7 +100,7 @@ In 2014, forty-five years after its creation, the work underwent a conservation 
 
 {{< q-figure id="1.8" class="float-right" pdf="one-column" >}}
 
-More than a thousand cables, invisible to the viewer, are inside the sphere ([fig. 1.8](#1.8)). Most of these cables were cracked and missing insulation, and there was a high risk of a short circuit and electrocution. The glow lamps are now obsolete and can no longer be sourced. Complex questions arose around the programming pattern for the light bulbs. The timer/controller still functioned but it was not connected to the sculpture; therefore, it was impossible to document the original programming, written into the analog timer of the controller box.
+More than a thousand cables, invisible to the viewer, are inside the sphere ([fig. 1.8](#fig-1-8)). Most of these cables were cracked and missing insulation, and there was a high risk of a short circuit and electrocution. The glow lamps are now obsolete and can no longer be sourced. Complex questions arose around the programming pattern for the light bulbs. The timer/controller still functioned but it was not connected to the sculpture; therefore, it was impossible to document the original programming, written into the analog timer of the controller box.
 
 Because *Neon Medusa* was inoperable, the only way to understand its kinetic function was to reverse engineer the programming of the controller box in combination with the internal wiring of the sphere. Results were precise; however, a thorough understanding of <em>Neon Medusa</em>’s programming was elusive, and the diagrams were extremely puzzling to translate into the actual performance. The glow lamps are an immediate concern for the long-term preservation of the work. They are impossible to source, but the Neuberger Museum is in possession of two full sets of glow lamps, which will suffice for now.
 
@@ -124,7 +124,7 @@ Maintaining *Neon Medusa* is still possible by performing acceptable and unnotic
 
 ## Liz Larner
 
-Art historian Piper Marshall described *Corner Basher* ([fig. 1.9](#1.9)) by California artist Liz Larner (b. 1960)
+Art historian Piper Marshall described *Corner Basher* ([fig. 1.9](#fig-1-9)) by California artist Liz Larner (b. 1960)
 as
 
 > comprised of a column, a drive shaft, a steel ball and a steel chain. Positioned where two walls meet, a long cord extends from the machine—attached is a speed control with an on/off switch. From this panel, visitors can operate the motorized shaft to spin the column and lance the ball against the walls. The repeated blows leave indentations, impressions, and cracks. In some cases whole pieces of the wall flake off, laying bare the many coats of paint underneath as well as the material from which the walls are composed ({{< q-cite "Marshall 2010" "79" >}}).
@@ -135,7 +135,7 @@ In 2010, when *Corner Basher* (1988) was twenty-two years old and had been exhib
 
 > The Corner Basher is a machine, not an artifact, and should always be kept in best order. It is correct to change out any chain or part that is becoming worn. Please try and match whichever part to the new part and keep the original as a record of itself. I will leave it to the collector to decide whether these worn parts remain with the piece, with him, or with me. Please note, however, that the parts should remain with the piece until the exhibition closes in Basel and New York and the work is returned.[^3]
 
-Larner clearly stated that *Corner Basher* is a “machine, not an artifact,” and that it should “be kept in best order”: highly precise advice from an artist who is fully aware that her work is a potential hazard to the public if it is not carefully maintained ([fig. 1.10](#1.10)).
+Larner clearly stated that *Corner Basher* is a “machine, not an artifact,” and that it should “be kept in best order”: highly precise advice from an artist who is fully aware that her work is a potential hazard to the public if it is not carefully maintained ([fig. 1.10](#fig-1-10)).
 
 {{< q-figure id="1.10" >}}
 
@@ -147,7 +147,7 @@ The question of <em>Corner Basher</em>’s physical decline in relation to its p
 
 {{< q-figure id="1.11" >}}
 
-This case study discusses the work of a member of a younger generation of artists who depend mainly on off-the-shelf hardware and produce their own proprietary software. It illustrates how kinetic art and contemporary technology intersect and reveals their similar conservation challenges. *Flowers 8* ([figs. 1.11](#1.11), [1.12](#1.12)) from 2005 by Leo Villareal (b. 1967) comprises eight flowers, each of which consists of sixteen LED fixtures, for a total of 128 LED fixtures. The lights display a range of RGB-color- and light-changing effects. Twelve programmed DMX512[^5] sequences are randomly run off two data units linked to the eight flowers, resulting in a colorful light concert.
+This case study discusses the work of a member of a younger generation of artists who depend mainly on off-the-shelf hardware and produce their own proprietary software. It illustrates how kinetic art and contemporary technology intersect and reveals their similar conservation challenges. *Flowers 8* ([figs. 1.11](#fig-1-11), [1.12](#fig-1-12)) from 2005 by Leo Villareal (b. 1967) comprises eight flowers, each of which consists of sixteen LED fixtures, for a total of 128 LED fixtures. The lights display a range of RGB-color- and light-changing effects. Twelve programmed DMX512[^5] sequences are randomly run off two data units linked to the eight flowers, resulting in a colorful light concert.
 
 Three years after the work’s creation, the fabricator of the lightning system, a branch of Philips called Color Kinetics, discontinued the production of the low-voltage LED lamps, controllers, and cables in favor of a newly developed high-voltage system. The original lamps and controllers are no longer produced, and any updated LED lamp will not be supported by the obsolete data supply and vice versa.
 
