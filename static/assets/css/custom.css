@@ -98,19 +98,41 @@ a:active, a:focus, a:hover {
 /* Menu -- Dark Style */
 
 .quire-menu__background {
-  background-color: #727272;
+  background-color: #706c6d;
 }
 
+.quire-menu__inner .quire-title__subtitle {
+  font-weight: 700;
+}
 .quire-menu__inner .quire-title__contributors {
-  color: #313131;
+  /*color: #231f20;*/
+  /*color: #a29e9f;*/
+  color: #aaa6a7;
+  font-size: 75%;
+  font-weight: 400;
+  margin-top: 0;
 }
 
+.quire-menu__inner__links h3 button {
+  /*color: #a29e9f;*/
+  color: #aaa6a7;
+}
+
+.quire-menu__inner__links ul,
+.quire-menu__inner__links__citation {
+  color: #fff;
+}
+
+.quire-menu__inner__links {
+  /*border-top-color: #231f20;
+  border-bottom-color: #231f20;*/
+}
 .quire-menu__inner__footer {
-  color: #ffffff;
+  color: #fff;
 }
 
 .quire-menu__inner__footer a {
-  color: #ffffff;
+  color: #fff;
   text-decoration: underline;
   text-decoration-skip: ink;
 }
@@ -119,7 +141,7 @@ a:active, a:focus, a:hover {
 .quire-menu__inner__header .quire-title,
 .quire-menu__inner__header .quire-title a,
 .quire-menu__inner button {
-  color: #eaeaea;
+  color: #efebec;
 }
 
 /* Contributors list */
