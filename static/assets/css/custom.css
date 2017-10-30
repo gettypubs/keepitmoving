@@ -208,6 +208,10 @@ br.pdf-toc {
     background-color: transparent;
     color: cmyk(0,0,0,0.55);
     letter-spacing: 2pt;
+    margin-right: .25in;
+  }
+  .quire-body-type--cover .quire-cover__inner {
+    margin-right: .25in;
   }
   .quire-body-type--cover .quire-cover__inner__title {
     font-size: 36pt;
@@ -215,13 +219,13 @@ br.pdf-toc {
   }
   .quire-body-type--cover .quire-cover__inner__contributor {
     color: cmyk(0,0,0,1);
-    font-size: 18pt;
-    line-height: 24pt;
+    font-size: 16pt;
+    line-height: 22pt;
   }
   .quire-body-type--cover .quire-cover__inner__publisher {
     color: cmyk(0,0,0,0.55);
-    font-size: 15pt;
-    line-height: 24pt;
+    font-size: 14pt;
+    line-height: 20pt;
     margin-top: 4in;
   }
 
