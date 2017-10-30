@@ -5,7 +5,7 @@
   {{ range sort .Site.Data.bibliography.entries ($.Get "sort") }}
       <dt>{{ .short | markdownify }}</dt>
       <dd id="{{ .short | urlize }}">{{ .full | markdownify }}<br />
-        Cited in:
+        Referenced in:
         {{ $a := split .reference_for "," }}
         {{ $len := len $a }}
         {{ range $index, $element := $a }}
@@ -35,7 +35,7 @@
   {{ range .Site.Data.bibliography.entries }}
       <dt>{{ .short | markdownify }} [<a href="{{ .reference_for }}">{{ .reference_for }}</a>]</dt>
       <dd id="{{ .short | urlize }}">{{ .full | markdownify }}<br />
-        Cited in:
+        Referenced in:
         {{ $a := split .reference_for "," }}
         {{ $len := len $a }}
         {{ range $index, $element := $a }}

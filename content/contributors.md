@@ -4,6 +4,8 @@ weight: 600
 type: page
 ---
 
-Edited by [Rachel Rivenc](#rachel-rivenc) and [Reinhard Bek](#reinhard-bek)
+{{< q-contributors range="primary" >}}
+
+---
 
 {{< q-contributors range="all" >}}

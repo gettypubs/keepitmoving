@@ -1,10 +1,10 @@
 ---
 title: Preface
 type: page
+class: frontmatter
 contributor:
  - first_name: Rachel
    last_name: Rivenc
-   bio: Rachel Rivenc, associate scientist, has been working within the Modern and Contemporary Art Research Initiative at the Getty Conservation Institute since 2006. She studies the diverse materials and techniques used by contemporary artists, and their conservation. She is also coordinator for the Modern Materials and Contemporary Art working group of ICOM–CC. Rivenc holds an MA in paintings conservation from the Université Paris 1 Panthéon-Sorbonne and received a PhD in history from the Université de Versailles Saint-Quentin-en-Yvelines. She recently published the book *Made in Los Angeles: Materials, Processes, and the Birth of West Coast Minimalism*.
 weight: 4
 ---
 
@@ -28,4 +28,4 @@ The quality of the posters and the presentations given at the symposium was impr
 
 [^2]: {{< q-cite "Eco 1989" "86" >}}, quoted by Caianiello in this publication.
 
-[^3]: The question of change, identity, and authenticity in relationship to the conservation of contemporary art has long preoccupied the field, and much has been written about the topic. For an in-depth discussion of these notions centered around time-based media installations, which present many issues overlapping with kinetic art, see, for example, Pip Laurenson, “Authenticity, Change and Loss in the Conservation of Time-Based Media Installations,” *Tate Papers* 6 (Autumn 2006), [**www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations**](http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations). For a more recent discussion of identity as a continuum of change, see Muriel Verbeeck, “There Is Nothing More Practical than a Good Theory: Conceptual Tools for Conservation Practice,” in *Saving the Now: Crossing Boundaries to Conserve Contemporary Works, September 12–16, 2016*, *Preprints, Studies in Conservation Supplement 2*, International Institute for Conservation of Historic and Artistic Works (IIC), 2016.
+[^3]: The question of change, identity, and authenticity in relationship to the conservation of contemporary art has long preoccupied the field, and much has been written about the topic. For an in-depth discussion of these notions centered around time-based media installations, which present many issues overlapping with kinetic art, see, for example, Pip Laurenson, “Authenticity, Change and Loss in the Conservation of Time-Based Media Installations,” *Tate Papers* 6 (Autumn 2006), {{< q-url-link >}}http://www.tate.org.uk/research/publications/tate-papers/06/authenticity-change-and-loss-conservation-of-time-based-media-installations{{< /q-url-link >}}. For a more recent discussion of identity as a continuum of change, see Muriel Verbeeck, “There Is Nothing More Practical than a Good Theory: Conceptual Tools for Conservation Practice,” in *Saving the Now: Crossing Boundaries to Conserve Contemporary Works, September 12–16, 2016*, *Preprints, Studies in Conservation Supplement 2*, International Institute for Conservation of Historic and Artistic Works (IIC), 2016.

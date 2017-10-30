@@ -9,7 +9,7 @@
       {{ end }}
       </ul>
     {{ end }}
-    <nav class="quire-page__header__page-navigation" role="navigation" aria-label="page"><ul><li>Jump to: <a href="#essay-text">Main Text</a></li> <li><a href="#notes">Notes</a></li>{{ if ($.Scratch.GetSortedMapValues "cited") }} <li><a href="#bibliography">Bibliography</a></li>{{ end }}</ul></nav>
+    <nav class="quire-page__header__page-navigation" role="navigation" aria-label="page"><ul><li class="quire-page__header__page-navigation__main">Jump to: <a href="#essay-text">Main Text</a></li> <li class="quire-page__header__page-navigation__notes"><a href="#notes">Notes</a></li>{{ if ($.Scratch.GetSortedMapValues "cited") }} <li class="quire-page__header__page-navigation__bibliography"><a href="#bibliography">Bibliography</a></li>{{ end }}</ul></nav>
   </header>
   <div class="quire-page__content">
     <section class="quire-page__content__abstract">
@@ -22,6 +22,25 @@
     <section class="quire-page__content__main" id="essay-text">
       {{ .Content }}
     </section>
+
+    <!-- Duplicates part of the code from q-cite.html in order to add
+  additional_references to the page-level bibliography list -->
+    {{- range .Params.additional_references -}}
+      {{- $.Scratch.Set "full" "" -}}
+      {{- $short := . -}}
+      {{- range $.Site.Data.bibliography.entries -}}
+          {{- if eq .short $short -}}
+              {{- $.Scratch.Add "full" .full -}}
+          {{- end -}}
+      {{- end -}}
+      {{- $full := $.Scratch.Get "full" -}}
+      {{- $.Page.Scratch.SetInMap "entry" "0" $short -}}
+      {{- $.Page.Scratch.SetInMap "entry" "1" $full -}}
+      {{ $entry := ($.Page.Scratch.GetSortedMapValues "entry") }}
+      {{- $shortId := . | urlize -}}
+      {{- $.Page.Scratch.SetInMap "cited" $shortId $entry -}}
+    {{- end -}}
+
     {{ if ($.Scratch.GetSortedMapValues "cited") }}
     <section class="quire-page__content__references" id="bibliography">
       <h2>Bibliography</h2>

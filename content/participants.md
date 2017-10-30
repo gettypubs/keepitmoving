@@ -4,6 +4,8 @@ weight: 601
 type: page
 ---
 
+*Affiliations are given as of the time of the symposium.*
+
 - **Sara Abram**
 
     Centro Conservazione Restauro, “La Veneria Reale,” Turin
@@ -34,7 +36,7 @@ type: page
 
 - **Reinhard Bek**
 
-    [Bio](/contributors/#reinhard-bek)|[Contribution](/keynotes/1-bek/)
+    <span class="quire-noprint">[Bio](/contributors/#reinhard-bek)|[Contribution](/keynotes/1-bek/)</span>
 
     Bek & Frohnert LLC, New York
 
@@ -71,7 +73,7 @@ type: page
 
 - **Paul Brobbel**
 
-    [Bio](/contributors/#paul-brobbel)|[Contribution](/theoretical-issues/15-brobbel_rees/)
+    <span class="quire-noprint">[Bio](/contributors/#paul-brobbel)|[Contribution](/theoretical-issues/15-brobbel_rees/)</span>
 
     Govett-Brewster Art Gallery, New Plymouth
 
@@ -87,7 +89,7 @@ type: page
 
 - **Tiziana Caianiello**
 
-    [Bio](/contributors/#tiziana-caianiello)|[Contribution](/keynotes/2-caianiello/)
+    <span class="quire-noprint">[Bio](/contributors/#tiziana-caianiello)|[Contribution](/keynotes/2-caianiello/)</span>
 
     ZERO Foundation, Düsseldorf
 
@@ -96,7 +98,7 @@ type: page
 
 - **Marianna Cappellina**
 
-    [Bio](/contributors/#marianna-cappellina)|[Contribution](/posters/16-cappellina/)
+    <span class="quire-noprint">[Bio](/contributors/#marianna-cappellina)|[Contribution](/posters/16-cappellina/)</span>
 
     Strati s.n.c., in residence at Museo Nazionale della Scienza e della
 
@@ -142,7 +144,7 @@ type: page
 
 - **Manon D’haenens**
 
-    [Bio](/contributors/#manon-dhaenens)|[Contribution](/theoretical-issues/14-dhaenens/)
+    <span class="quire-noprint">[Bio](/contributors/#manon-dhaenens)|[Contribution](/theoretical-issues/14-dhaenens/)</span>
 
     Université de Liège
 
@@ -172,7 +174,7 @@ type: page
 
 - **Mine Erhan**
 
-    [Bio](/contributors/#mine-erhan)|[Contribution](/posters/17-erhan/)
+    <span class="quire-noprint">[Bio](/contributors/#mine-erhan)|[Contribution](/posters/17-erhan/)</span>
 
     Conservation Studio “Die Schmiede,” Duisberg
 
@@ -188,7 +190,7 @@ type: page
 
 - **Barbara Ferriani**
 
-    [Bio](/contributors/#barbara-ferriani)|[Contribution](/collections/10-pola_ferriani/)
+    <span class="quire-noprint">[Bio](/contributors/#barbara-ferriani)|[Contribution](/collections/10-pola_ferriani/)</span>
 
     Barbara Ferriani srl, Milan
 
@@ -218,7 +220,7 @@ type: page
 
 - **Julia Giebeler**
 
-    [Bio](/contributors/#julia-giebeler)|[Contribution](/theoretical-issues/12-heydenreich_giebeler/)
+    <span class="quire-noprint">[Bio](/contributors/#julia-giebeler)|[Contribution](/theoretical-issues/12-heydenreich_giebeler/)</span>
 
     Cologne Institute of Conservation Sciences/Cologne University of Applied
 Sciences
@@ -228,7 +230,7 @@ Sciences
 
 - **Mark Gilberg**
 
-    [Bio](/contributors/#mark-gilberg)|[Contribution](/case-studies/3-gilberg/)
+    <span class="quire-noprint">[Bio](/contributors/#mark-gilberg)|[Contribution](/case-studies/3-gilberg/)</span>
 
     Los Angeles County Museum of Art
 
@@ -237,7 +239,7 @@ Sciences
 
 - **Jane Gillies**
 
-    [Bio](/contributors/#jane-gillies)|[Contribution](/collections/9-gillies/)
+    <span class="quire-noprint">[Bio](/contributors/#jane-gillies)|[Contribution](/collections/9-gillies/)</span>
 
     Museum of Fine Arts, Houston, Texas
 
@@ -246,7 +248,7 @@ Sciences
 
 - **Claudio Giorgione**
 
-    [Bio](/contributors/#claudio-giorgione)|[Contribution](/posters/16-cappellina/)
+    <span class="quire-noprint">[Bio](/contributors/#claudio-giorgione)|[Contribution](/posters/16-cappellina/)</span>
 
     Museo Nazionale della Scienza e della Tecnologia “Leonardo da Vinci,”
 Milan
@@ -291,7 +293,7 @@ Milan
 
 - **Gunnar Heydenreich**
 
-    [Bio](/contributors/#gunnar-heydenreich)|[Contribution](/theoretical-issues/12-heydenreich_giebeler/)
+    <span class="quire-noprint">[Bio](/contributors/#gunnar-heydenreich)|[Contribution](/theoretical-issues/12-heydenreich_giebeler/)</span>
 
     Cologne Institute of Conservation Sciences/Cologne University of Applied
 Sciences
@@ -308,7 +310,7 @@ Sciences
 
 - **Paola Iazurlo**
 
-    [Bio](/contributors/#paola-iazurlo)|[Contribution](/posters/18-iazurlo/)
+    <span class="quire-noprint">[Bio](/contributors/#paola-iazurlo)|[Contribution](/posters/18-iazurlo/)</span>
 
     Istituto Superiore per la Conservazione ed il Restauro, Rome
 
@@ -373,7 +375,7 @@ Sciences
 
 - **Abigail Mack**
 
-    [Bio](/contributors/#abigail-mack)|[Contribution](/posters/19-mack/)
+    <span class="quire-noprint">[Bio](/contributors/#abigail-mack)|[Contribution](/posters/19-mack/)</span>
 
     Mack Art Conservation LLC, Red Hook, New York
 
@@ -396,7 +398,7 @@ Sciences
 
 - **Esther Meijer**
 
-    [Bio](/contributors/#esther-meijer)|[Contribution](/collections/11-meijer/)
+    <span class="quire-noprint">[Bio](/contributors/#esther-meijer)|[Contribution](/collections/11-meijer/)</span>
 
     Stedelijk Museum Amsterdam
 
@@ -405,7 +407,7 @@ Sciences
 
 - **Susanne Meijer**
 
-    [Bio](/contributors/#susanne-meijer)|[Contribution](/collections/11-meijer/)
+    <span class="quire-noprint">[Bio](/contributors/#susanne-meijer)|[Contribution](/collections/11-meijer/)</span>
 
     Stedelijk Museum Amsterdam
 
@@ -414,7 +416,7 @@ Sciences
 
 - **Vesna Meštrić**
 
-    [Bio](/contributors/#vesna-me%C5%A1tri%C4%87)|[Contribution](/collections/8-pavic_mestric/)
+    <span class="quire-noprint">[Bio](/contributors/#vesna-me%C5%A1tri%C4%87)|[Contribution](/collections/8-pavic_mestric/)</span>
 
     Museum of Contemporary Art, Zagreb
 
@@ -466,7 +468,7 @@ PATRIMA, Paris
 
 - **Mirta Pavić**
 
-    [Bio](/contributors/#mirta-pavi%C4%87)|[Contribution](/collections/8-pavic_mestric/)
+    <span class="quire-noprint">[Bio](/contributors/#mirta-pavi%C4%87)|[Contribution](/collections/8-pavic_mestric/)</span>
 
     Museum of Contemporary Art, Zagreb
 
@@ -475,7 +477,7 @@ PATRIMA, Paris
 
 - **Marlies Peller**
 
-    [Bio](/contributors/#marlies-peller)|[Contribution](/posters/20-peller/)
+    <span class="quire-noprint">[Bio](/contributors/#marlies-peller)|[Contribution](/posters/20-peller/)</span>
 
     Academy of Fine Arts, Vienna
 
@@ -491,7 +493,7 @@ PATRIMA, Paris
 
 - **Sherry Phillips**
 
-    [Bio](/contributors/#sherry-phillips)|[Contribution](/case-studies/6-phillips/)
+    <span class="quire-noprint">[Bio](/contributors/#sherry-phillips)|[Contribution](/case-studies/6-phillips/)</span>
 
     Art Gallery of Ontario, Toronto
 
@@ -500,7 +502,7 @@ PATRIMA, Paris
 
 - **Isabel Plante**
 
-    [Bio](/contributors/#isabel-plante)|[Contribution](/theoretical-issues/13-plante/)
+    <span class="quire-noprint">[Bio](/contributors/#isabel-plante)|[Contribution](/theoretical-issues/13-plante/)</span>
 
     Consejo Nacional de Investigaciones Científicas y Técnicas, Universidad
 Nacional de San Martín, Buenos Aires
@@ -517,7 +519,7 @@ Nacional de San Martín, Buenos Aires
 
 - **Francesca Pola**
 
-    [Bio](/contributors/#francesca-pola)|[Contribution](/collections/10-pola_ferriani/)
+    <span class="quire-noprint">[Bio](/contributors/#francesca-pola)|[Contribution](/collections/10-pola_ferriani/)</span>
 
     Conservator in private practice, Milan
 
@@ -547,7 +549,7 @@ Nacional de San Martín, Buenos Aires
 
 - **Iolanda Ratti**
 
-    [Bio](/contributors/#iolanda-ratti)|[Contribution](/opening-remarks/)
+    <span class="quire-noprint">[Bio](/contributors/#iolanda-ratti)|[Contribution](/opening-remarks/)</span>
 
     Museo del Novecento, Milan
 
@@ -556,7 +558,7 @@ Nacional de San Martín, Buenos Aires
 
 - **Simon Rees**
 
-    [Bio](/contributors/#simon-rees)|[Contribution](/theoretical-issues/15-brobbel_rees/)
+    <span class="quire-noprint">[Bio](/contributors/#simon-rees)|[Contribution](/theoretical-issues/15-brobbel_rees/)</span>
 
     Govett-Brewster Art Gallery, New Plymouth
 
@@ -565,7 +567,7 @@ Nacional de San Martín, Buenos Aires
 
 - **Rachel Rivenc**
 
-    [Bio](/contributors/#rachel-rivenc)|[Contribution](/preface/)
+    <span class="quire-noprint">[Bio](/contributors/#rachel-rivenc)|[Contribution](/preface/)</span>
 
     Getty Conservation Institute, Los Angeles
 
@@ -609,7 +611,7 @@ Nacional de San Martín, Buenos Aires
 
 - **Ingrid Seyb**
 
-    [Bio](/contributors/#ingrid-seyb)|[Contribution](/collections/9-gillies/)
+    <span class="quire-noprint">[Bio](/contributors/#ingrid-seyb)|[Contribution](/collections/9-gillies/)</span>
 
     Museum of Fine Arts, Houston
 
@@ -632,7 +634,7 @@ Nacional de San Martín, Buenos Aires
 
 - **Carol Snow**
 
-    [Bio](/contributors/#carol-snow)|[Contribution](/case-studies/4-snow/)
+    <span class="quire-noprint">[Bio](/contributors/#carol-snow)|[Contribution](/case-studies/4-snow/)</span>
 
     Yale University Art Gallery, New Haven, Connecticut
 
@@ -662,7 +664,7 @@ Nacional de San Martín, Buenos Aires
 
 - **Eugenia Stamatopoulou**
 
-    [Bio](/contributors/#eugenia-stamatopoulou)|[Contribution](/posters/21-stamatopoulou/)
+    <span class="quire-noprint">[Bio](/contributors/#eugenia-stamatopoulou)|[Contribution](/posters/21-stamatopoulou/)</span>
 
     Hellenic Ministry of Culture
 
@@ -671,7 +673,7 @@ Nacional de San Martín, Buenos Aires
 
 - **Erin Stephenson**
 
-    [Bio](/contributors/#erin-stephenson)|[Contribution](/collections/7-stephenson/)
+    <span class="quire-noprint">[Bio](/contributors/#erin-stephenson)|[Contribution](/collections/7-stephenson/)</span>
 
     National Gallery of Art
 
@@ -687,7 +689,7 @@ Nacional de San Martín, Buenos Aires
 
 - **Carien van Aubel**
 
-    [Bio](/contributors/#carien-van-aubel)|[Contribution](/posters/22-van_aubel/)
+    <span class="quire-noprint">[Bio](/contributors/#carien-van-aubel)|[Contribution](/posters/22-van_aubel/)</span>
 
     University of Amsterdam
 
@@ -696,7 +698,7 @@ Nacional de San Martín, Buenos Aires
 
 - **Nikki van Basten**
 
-    [Bio](/contributors/#nikki-van-basten)|[Contribution](/posters/22-van_aubel/)
+    <span class="quire-noprint">[Bio](/contributors/#nikki-van-basten)|[Contribution](/posters/22-van_aubel/)</span>
 
     Getty Conservation Institute, Los Angeles
 
@@ -705,7 +707,7 @@ Nacional de San Martín, Buenos Aires
 
 - **Arthur van Mourik**
 
-    [Bio](/contributors/#arthur-van-mourik)|[Contribution](/posters/23-van_mourik/)
+    <span class="quire-noprint">[Bio](/contributors/#arthur-van-mourik)|[Contribution](/posters/23-van_mourik/)</span>
 
     Centraal Museum, Utrecht
 
@@ -721,7 +723,7 @@ Nacional de San Martín, Buenos Aires
 
 - **Marcel Verner**
 
-    [Bio](/contributors/#marcel-verner)|[Contribution](/case-studies/6-phillips/)
+    <span class="quire-noprint">[Bio](/contributors/#marcel-verner)|[Contribution](/case-studies/6-phillips/)</span>
 
     Art Gallery of Ontario, Toronto
 
@@ -744,7 +746,7 @@ Nacional de San Martín, Buenos Aires
 
 - **Sandra Weerdenburg**
 
-    [Bio](/contributors/#sandra-weerdenburg)|[Contribution](/collections/11-meijer/)
+    <span class="quire-noprint">[Bio](/contributors/#sandra-weerdenburg)|[Contribution](/collections/11-meijer/)</span>
 
     Stedelijk Museum Amsterdam
 

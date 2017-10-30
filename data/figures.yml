@@ -66,18 +66,18 @@ figure_list:
       © 2017 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn.
 
   - id: "1.7"
-    src: fig-1-7-bek.jpg
+    src: lP8QLUGaupA
+    media_type: youtube
+    fallback: fig-1-7-video-bek.jpg
     caption: >
-      Detail of Otto Piene’s *Neon Medusa*, 1969. Collection Neuberger Museum of Art, Purchase College, State University of New York, gift of Leonore F. Rosenthal.
+      Otto Piene’s *Neon Medusa*, 1969, in operation. Collection Neuberger Museum of Art, Purchase College, State University of New York, gift of Leonore F. Rosenthal.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn.
 
   - id: "1.8"
-    src: lP8QLUGaupA
-    media_type: youtube
-    fallback: fig-1-8-video-bek.jpg
+    src: fig-1-8-bek.jpg
     caption: >
-      Otto Piene’s *Neon Medusa*, 1969, in operation. Collection Neuberger Museum of Art, Purchase College, State University of New York, gift of Leonore F. Rosenthal.
+      Detail of Otto Piene’s *Neon Medusa*, 1969. Collection Neuberger Museum of Art, Purchase College, State University of New York, gift of Leonore F. Rosenthal.
     credit: >
       © 2017 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn.
 

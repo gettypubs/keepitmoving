@@ -1,6 +1,7 @@
 ---
 title: Contents
-weight: 2
+weight: 3
 type: contents
+class: frontmatter
 toc: false
 ---
