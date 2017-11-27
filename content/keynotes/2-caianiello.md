@@ -32,7 +32,7 @@ In relation to texts, Eco spoke of a “hermeneutic circle”: “the text is an
 
 Eco’s lectures provoked a heated discussion. The American philosopher Richard Rorty denied that a work can impart its intention and introduced the example of a screwdriver. He claimed that the use made of a screwdriver to tighten screws was not imposed by the object itself ({{<q-cite "Rorty 1992" "103">}}). We would have the right to interpret a screwdriver as something useful to open a package or to scratch our ears.[^1] Eco replied:
 
-> A screwdriver can be inserted into a cavity and be turned inside, and in this sense could also be used to scratch one’s ear. But it is also too sharp and too long to be manoeuvred with millimetric care, and for this reason I usually refrain from introducing it into my ear.… I cannot use a screwdriver as an ashtray. I can use a paper glass as an ashtray but not as a screwdriver ({{<q-cite "Eco 1992" "145–46">}}).
+> A screwdriver can be inserted into a cavity and be turned inside, and in this sense could also be used to scratch one’s ear. But it is also too sharp and too long to be manoeuvred with millimetric care, and for this reason I usually refrain from introducing it into my ear. . . . I cannot use a screwdriver as an ashtray. I can use a paper glass as an ashtray but not as a screwdriver ({{<q-cite "Eco 1992" "145–46">}}).
 
 Eco intends to demonstrate that “it is not true that everything goes”:
 
