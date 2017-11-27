@@ -89,7 +89,7 @@ Due to wear and tear or degradation, this paint is not always in optimal conditi
 
 Alterations and additions were made to the artworks in the past, primarily to keep them operational. One recurrent issue is how to deal with those changes, especially if they are still functioning. Would replacing these additions or alterations be intrusive?
 
-The approach depends on the type of alteration. Some alterations were approved by Tinguely, and were done by him or under his supervision. It is uncertain whether other additions or alterations were performed with Tinguely’s approval. It is very likely that Tinguely did not object to some alterations, such as the replacement of drive belts.[^4] If no alternative treatment is available, we can consider replacing these parts and documenting and storing the original material for future reference ({{<q-cite "Bek 2013" "204">}}).
+The approach depends on the type of alteration. Some alterations were approved by Tinguely and were done by him or under his supervision. It is uncertain whether other additions or alterations were performed with Tinguely’s approval. It is very likely that Tinguely did not object to some alterations, such as the replacement of drive belts.[^4] If no alternative treatment is available, we can consider replacing these parts and documenting and storing the original material for future reference ({{<q-cite "Bek 2013" "204">}}).
 
 {{< q-figure id="11.6a" class="float-left" pdf="one-column" >}}
 {{< q-figure id="11.6b" class="float-left" pdf="one-column" >}}
