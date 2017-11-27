@@ -81,7 +81,7 @@ In the technical manual, Wilfred describes the precise type of 1,000W beacon bul
 
 Because the original Colorwall 30 rear projection screen provided by the Trans-Lux Corporation was deteriorated, yellowed, and brittle, a replacement screen had to be made. It is possible that the original was made from natural latex. Trans-Lux has agreed to search its archives and try to find a suitable replacement. New materials are available that increase the sharpness of the image and angle of focus, qualities that may be necessary in museum-gallery lighting conditions, where some ambient light is required for visitor safety. Research into rear projection screens continued as this paper went to press, but during treatment a sheet of high-density polyethylene was used for a temporary screen ([fig. 4.8](#fig-4-8)).
 
-{{< q-figure id="4.8" >}}
+{{< q-figure id="4.8" pdf="two-column" >}}
 
 A critical part of any treatment of kinetic art is documentation that includes high-resolution video. The Yale University Art Gallery is planning to do additional still-image and video documentation once an acceptable new screen is chosen. Simultaneous with the high-resolution video, several twelve-minute cycles of the work will be captured using multiple video cameras. Behind the screen, video cameras will film the mechanics of the various moving parts that create the projected image. Though Wilfred may not have approved of our revealing the interior kinetic components that produced his lumia, this may be the only opportunity to document *Lumia Suite, Opus 158* from the inside out ([fig. 4.9](#fig-4-9)).
 
