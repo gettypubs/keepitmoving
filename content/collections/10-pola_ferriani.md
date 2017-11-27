@@ -27,13 +27,13 @@ A human figure in motion means physical and psychical involvement, which is the 
 
 {{< q-figure id="10.1" >}}
 
-{{< q-figure id="10.2" >}}
+{{< q-figure id="10.2" pdf="two-column" >}}
 
 ## Case Study 1
 
 {{< q-figure id="10.3" >}}
 
-Gabriele Devecchi’s *Scultura da prendere a calci* (Sculpture to be kicked), one of the earliest kinetic behavioral pieces ([fig. 10.3](#fig-10-3)), was first presented after the artist’s death in 2011 at the exhibition *Tecnica mista: Come è fatta l’arte del Novecento*, at Milan’s Museo del Novecento in 2012.
+Gabriele Devecchi’s 1959 *Scultura da prendere a calci* (Sculpture to be kicked), one of the earliest kinetic behavioral pieces ([fig. 10.3](#fig-10-3)), was first presented after the artist’s death in 2011 at the exhibition *Tecnica mista: Come è fatta l’arte del Novecento*, at Milan’s Museo del Novecento in 2012.
 
 The replica, carried out by Ferriani, was executed following a prototype in the artist’s studio and directions from the artist’s son. The kinetics of the piece depend on the action of the spectator: the artwork has no meaning without interaction. The shape of the sculpture changes haphazardly after it is kicked—and it must be kicked—but this interaction means that the piece is gradually being destroyed.
 
