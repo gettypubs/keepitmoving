@@ -30,9 +30,9 @@ However, a significant crossroads was reached when Piene passed away in 2014. Th
 
 In 1960 the architect Paul Schneider-Esleben, who designed and executed Rolandschule, a primary school in Düsseldorf, hired four young local artists—Piene, Mack, Uecker, and Joseph Beuys—to each create an artwork for the school. The work by Beuys was not fully appreciated at the time, and the school decided to return it to him shortly after the opening. *Lichtballett* by Piene, *Farborgel* by Mack, and *Schattenspiel* by Uecker were installed at the school, where they are still in situ today. Together they form a successful symbiosis of social architecture, functionality, and modern art.
 
-{{< q-figure id="12.2" class="float-left" pdf="one-column" >}}
+{{< q-figure id="12.2" class="float-left" pdf="two-column" >}}
 
-{{< q-figure id="12.3" class="float-left" pdf="one-column" >}}
+{{< q-figure id="12.3" pdf="one-column" >}}
 
 In Piene’s *Lichtballett*, incandescent bulbs mounted behind perforated aluminum plates light up in a programmed order and create a spherical light environment ([fig. 12.1](#fig-12-1)). The white panels of Uecker’s *Schattenspiel* seem like heavenly bodies, simultaneously reflecting light and projecting shadows ([fig. 12.2](#fig-12-2)); the schoolchildren can move the panels and thereby influence the play of light. Mack’s *Farborgel* consists of large, colorfully painted wheels with rotor blades; children can set these in motion with a flywheel that changes the color combinations ([fig. 12.3](#fig-12-3)).
 
