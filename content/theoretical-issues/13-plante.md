@@ -74,7 +74,7 @@ As Hahn pointed out, opinions about multiples varied. Blurring the work’s aura
 
 1.  A Multiple is an art proposal conceived to be multiplied ad infinitum thanks to the industrial resources available. Every copy of a Multiple is identical and interchangeable with others. Each of them fully conveys the artist’s original proposal.
 
-2.  Conclusion: any work conceived as a Multiple eliminates the material notion of an original (scale model, etc.…), which blends with the rest of the copies.
+2.  Conclusion: any work conceived as a Multiple eliminates the material notion of an original (scale model, etc.  . . .), which blends with the rest of the copies.
 
 3.  The notion of an internal transformation for each of the copies accompanies that of multiplication. Each Multiple involves a limited diversity principle (through permutation) or an unlimited one (an “open” kinetic work). Though strictly identical from a material point of view, time, movement, light, etc. endow Multiples with an ever-changing appearance, which makes them look different to different viewers.
 
