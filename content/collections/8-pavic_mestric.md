@@ -14,7 +14,7 @@ abstract: |
     Aleksandar Srnec was a renowned member of the international New Tendencies movement (1961–73), and he created the first light-in-movement object in Croatian art (1967). Srnec’s luminokinetic objects, Luminoplastics, are a highlight of the Museum of Contemporary Art (MSU) in Zagreb, Croatia. Luminoplastics are activated by electric motors from sewing machines, and the combination of materials and “amateur” construction achieve a dynamic of movement and color. The first Luminoplastic features, along with sound and movement, a slide projection, which raises additional conservation issues. This paper presents the conservation strategy adopted for *Luminoplastic 1*, which included interdisciplinary research and individual decisions regarding the various components and materials that compose this exceptional work of art.
 additional_references:
   - Ashley-Smith 2009
-  - Bex 1969
+  - Bek 1969
 weight: 302
 ---
 
@@ -78,7 +78,7 @@ By comparing an analogue projection of the original slides (produced photochemic
 
 {{< q-figure id="8.9b" pdf="two-column" >}}
 
-The second problem related to (timed) interruptions in the slide projection, which is a feature of any DPL projector. This technology creates projections in repeated sequences; first the red content of the image, then green, and then blue. When images are projected onto a moving object, the human eye perceives only the order of the red, green, and blue excerpts. This effect is sometimes perceptible even on fixed objects viewed on an ordinary projection screen as a series of separate colors, and the disturbance is known as the rainbow effect ([fig. 8.10](#fig-8-10)). When affected by movement, the image is also quite different from that projected by an analogue projector, and therefore needs improvement ([fig. 8.11](#fig-8-11)). In contrast to Texas Instruments’ DLP technology, the JVC company has developed LCoS (Liquid Crystal on Silicon) projection technology, which is not affected to the same degree by problems linked to the rainbow effect. This type of projector would achieve the desired result; however, it is expensive, and the MSU is still waiting for funds to purchase it.
+The second problem was related to (timed) interruptions in the slide projection, which is a feature of any DPL projector. This technology creates projections in repeated sequences; first the red content of the image, then green, and then blue. When images are projected onto a moving object, the human eye perceives only the order of the red, green, and blue excerpts. This effect is sometimes perceptible even on fixed objects viewed on an ordinary projection screen as a series of separate colors, and the disturbance is known as the rainbow effect ([fig. 8.10](#fig-8-10)). When affected by movement, the image is also quite different from that projected by an analogue projector, and therefore needs improvement ([fig. 8.11](#fig-8-11)). In contrast to Texas Instruments’ DLP technology, the JVC company has developed LCoS (Liquid Crystal on Silicon) projection technology, which is not affected to the same degree by problems linked to the rainbow effect. This type of projector would achieve the desired result; however, it is expensive, and the MSU is still waiting for funds to purchase it.
 
 {{< q-figure id="8.10" >}}
 
