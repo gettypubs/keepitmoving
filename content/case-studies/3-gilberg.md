@@ -54,7 +54,7 @@ LACMA is the first and, thus far, only venue that has exhibited *Metropolis II*,
 
 {{< q-figure id="3.6" class="float-right" pdf="one-column" >}}
 
-The operators monitor the movement of the trains and make sure the cars do not jam at any brush over the roadway or at the bottom of the conveyor ramps. Operators share notes on successive days to communicate potential problems with a track or conveyor belts that require monitoring or repair ([fig. 3.6](#fig-3-6)).
+The operators monitor the movement of the trains and make sure the cars do not jam at any brush over the roadway or at the bottom of the conveyor ramps. Operators share notes on successive days to communicate potential problems with tracks or conveyor belts that require monitoring or repair ([fig. 3.6](#fig-3-6)).
 
 The sculpture has a number of built-in safety features, including overload switches (circuit breakers) for each conveyor motor, one photo-eye sensor for each conveyor belt, and one photo-eye sensor for each lower conveyor sprocket. There is also an emergency button that shuts down the entire system.
 
