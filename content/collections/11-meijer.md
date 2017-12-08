@@ -83,7 +83,7 @@ The non-original ring was replaced with iron wire resembling Tinguely’s origin
 
 Tinguely used a black matte paint on many of his works to give them a more uniform appearance and to obscure the origin of the material (see {{<q-cite "Violand-Hobi 1995" "">}}; {{<q-cite "Hulten 1975" "275">}}).
 
-Due to wear and tear or degradation, this paint is not always in optimal condition and sometimes is even partly lost. The paint will be conserved and analyzed for both conservation and identification purposes. The results can later be compared with Tinguely works in other museums to gain more knowledge about the type of paints he used and, possibly, to establish cross-links with works of a certain time period to see if there have been changes over time.
+Due to wear and tear or degradation, this paint is not always in optimal condition and is sometimes even partly lost. The paint will be conserved and analyzed for both conservation and identification purposes. The results can later be compared with Tinguely works in other museums to gain more knowledge about the type of paints he used and, possibly, to establish cross-links with works of a certain time period to see if there have been changes over time.
 
 ### Alterations and Additions
 
