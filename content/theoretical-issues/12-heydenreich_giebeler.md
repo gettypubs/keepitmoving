@@ -70,7 +70,7 @@ In 1991 the Kunstmuseum Düsseldorf acquired the available artworks from *Lichtr
 
 ### 2001 and 2005 Relocations
 
-With the growing interest in ZERO, the Museum Kunstpalast Düsseldorf wanted to show *Lichtraum (Hommage à Fontana)* in a more central exhibition space, and a new room was provided in 2001. It was significantly smaller than the 1992 space, and Piene again changed the artworks’ arrangement and adjusted their operating sequences. Although Mack criticized the new iteration, he accepted it; Uecker did not participate. In 2005 the installation was again changed, this time replicating the first presentation arrangement in 1964 in Kassel ([fig. 12.5c](#fig-12-5c)). Uecker considered this result to be highly successful.
+With the growing interest in ZERO, the Museum Kunstpalast Düsseldorf wanted to show *Lichtraum (Hommage à Fontana)* in a more central exhibition space, and a new room was provided in 2001. It was significantly smaller than the 1992 space, and Piene again changed the artworks’ arrangement and adjusted their operating sequences. Although Mack criticized the new iteration, he accepted it; Uecker did not participate. In 2005 the installation was again changed, this time replicating the first presentation arrangement of 1964 in Kassel ([fig. 12.5c](#fig-12-5c)). Uecker considered this result to be highly successful.
 
 {{< q-figure id="12.5c" >}}
 
