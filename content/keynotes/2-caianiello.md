@@ -113,7 +113,7 @@ Every reconstruction implies an interpretation. A certain range for decision mak
 
 ## Conclusions
 
-Although reconstructions leave considerable room for interpretation, they also present clear advantages: They bring forgotten works back to the collective memory and are an occasion to conduct in-depth research on the works and to exchange ideas with colleagues. They also ensure the conservation of original components.
+Although reconstructions leave considerable room for interpretation, they also present clear advantages: they bring forgotten works back to the collective memory and are an occasion to conduct in-depth research on the works and to exchange ideas with colleagues. They also ensure the conservation of original components.
 
 A reconstruction or a new staging reflects an interpretation of the work. We will never be able to draw a clear demarcation line between a right and a wrong interpretation; therefore, we can never be sure if a reconstruction or a staging is correct, although the consensus of the scientific community can give us an orientation. An interpretation can always be invalidated by new archival findings, new methodological approaches, and by interpretations that are more economical and consistent. So we will never know if our conjecture is definitely valid. But we can know if it is definitely wrong, if “it is not the case” ({{<q-cite "Eco 2012" "">}}). If we try to use a screwdriver as an ashtray, we will notice that it doesn’t work.
 
