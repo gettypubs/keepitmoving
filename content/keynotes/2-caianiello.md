@@ -20,7 +20,7 @@ In 1962, Italian semiotician Umberto Eco published his *Opera aperta* (*The Open
 
 Eco’s considerations about the open work were contemporary to the development of kinetic art. Significantly, in the same year as *The Open Work*, Eco also wrote a text for the catalogue of the exhibition *Arte programmata:* *Arte cinetica, opere moltiplicate, opera aperta*, which opened in 1962 in Milan, elaborating on some of the concepts from his book. He wrote that the “work in movement” didn’t have a fixed form; it was mutable even if it followed “determined lines of orientation” ({{<q-cite "Eco 1962" "">}}).
 
-But if a kinetic work is a “field of open possibilities,” if we can perceive and interpret it in different ways, what should we conserve or restore? How can we keep the different options open and at the same time be sure that we stay in the field of possibilities given by the work without overstepping its boundaries? In other words: How can the limits of permissible scope for interpretation be defined?
+But if a kinetic work is a “field of open possibilities,” if we can perceive and interpret it in different ways, what should we conserve or restore? How can we keep the different options open and at the same time be sure that we stay in the field of possibilities given by the work without overstepping its boundaries? In other words: how can the limits of permissible scope for interpretation be defined?
 
 In the Tanner Lectures on Human Values at the Cambridge University in 1990, Eco looked back on *The Open Work* and commented:
 
