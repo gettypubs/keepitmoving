@@ -51,7 +51,7 @@ Over time, the chrome surface had become oxidized and scratched. It had lost its
 
 With the assistance of an elderly technician who has a well-supplied warehouse, we decided to repair the motors, although the cubes’ movement is no longer completely smooth due to a distortion of the original metal tubing. We also found two new motors, similar in form and function, that can replace the originals if necessary.
 
-The surface degradation posed a more difficult question: Should it be left as is, or would it be better to re-chrome it? This treatment, although common in the art market, would have meant irreversibly tampering with the original and different aging of the various components, giving the work an imbalanced and incorrect appearance. We decided to create a replica of the chromed metal piece. This way, the work can be shown in its present state, as witness to its history, or the original motors and the chromed piece can be replaced, to give the work its original appearance.
+The surface degradation posed a more difficult question: should it be left as is, or would it be better to re-chrome it? This treatment, although common in the art market, would have meant irreversibly tampering with the original and different aging of the various components, giving the work an imbalanced and incorrect appearance. We decided to create a replica of the chromed metal piece. This way, the work can be shown in its present state, as witness to its history, or the original motors and the chromed piece can be replaced, to give the work its original appearance.
 
 ## Case Study 3
 
