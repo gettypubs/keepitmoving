@@ -20,7 +20,8 @@ Presenting the latest research and scholarship on the topic with fifteen essays 
 
 ### MLA
 
-<p>Rivenc, Rachel, and Reinhard Bek, eds. <em>Keep It Moving? Conserving Kinetic Art</em>. Getty Conservation Institute, 2018, <span class="cite-current-date" id="js-date">D MMMM YYYY</span>, http://www.getty.edu&#8203;/publications&#8203;/keepitmoving.</p>
+<p>Rivenc, Rachel, and Reinhard Bek, editors. <em>Keep It Moving? Conserving Kinetic Art</em>. Getty Conservation Institute, 2018.  http://www.getty.edu&#8203;/publications&#8203;/keepitmoving. Accessed
+<span class="cite-current-date" id="js-date">D MMMM YYYY</span>.</p>
 
 ### Permanent URL
 
