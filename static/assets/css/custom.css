@@ -1,35 +1,3 @@
-/* Primary Color, from application.css */
-
-a,
-code,
-.quire-menu__inner__header .quire-title,
-.quire-menu__inner__links button,
-.quire-cover__inner__title,
-.quire-page__header__title,
-.quire-page__section-list__link button {
-  color: #9eb300;
-}
-a:active, a:focus, a:hover {
-  color: shade(#9eb300, 25%);
-}
-
-.quire-nav svg,
-.quire-menu__button svg,
-.quire-search svg,
-.quire-page__section-list__link svg {
-  fill: #9eb300;
-}
-
-/* Primary Color, from overrides */
-
-.quire-cover__text__title {
-  color: #c4d544;
-}
-
-.quire-cover__footer {
-  background-color: #ecebf5;
-}
-
 /* Citations */
 
 .quire-citation {
@@ -37,13 +5,13 @@ a:active, a:focus, a:hover {
   text-align: inherit;
   box-sizing: inherit;
   border-width: 0;
-  background-color: #eaeaea;
+  background-color: #efebec;
   padding-left: .25em;
   padding-right: .25em;
   border-radius: .25em;
   font-size: .8em;
   font-weight: 400;
-  color: #727272;
+  color: #706c6d;
   cursor: pointer;
   white-space: nowrap;
 }
@@ -55,7 +23,7 @@ a:active, a:focus, a:hover {
   margin-top: 1em;
   font-size: .8em;
   line-height: 1.5;
-  background-color: #eee;
+  background-color: #efebec;
   border-radius: 10px;
   padding: 1em;
   max-width: 30em;
@@ -73,6 +41,12 @@ a:active, a:focus, a:hover {
 
 /* Cover */
 
+.quire-cover__text__title {
+  color: #c4d544;
+}
+.quire-cover__footer {
+  background-color: #ecebf5;
+}
 .quire-body.quire-body-type--cover .quire-nav-group {
   background-color: #000;
 }
@@ -105,17 +79,14 @@ a:active, a:focus, a:hover {
   font-weight: 700;
 }
 .quire-menu__inner .quire-title__contributors {
-  /*color: #231f20;*/
-  /*color: #a29e9f;*/
-  color: #aaa6a7;
+  color: #a29e9f;
   font-size: 75%;
   font-weight: 400;
   margin-top: 0;
 }
 
 .quire-menu__inner__links h3 button {
-  /*color: #a29e9f;*/
-  color: #aaa6a7;
+  color: #a29e9f;
 }
 
 .quire-menu__inner__links ul,
@@ -123,10 +94,6 @@ a:active, a:focus, a:hover {
   color: #fff;
 }
 
-.quire-menu__inner__links {
-  /*border-top-color: #231f20;
-  border-bottom-color: #231f20;*/
-}
 .quire-menu__inner__footer {
   color: #fff;
 }
@@ -142,6 +109,10 @@ a:active, a:focus, a:hover {
 .quire-menu__inner__header .quire-title a,
 .quire-menu__inner button {
   color: #efebec;
+}
+
+.quire-body-type--cover .quire-nav-group svg.quire-link-list__icon {
+  fill: #efebec;
 }
 
 /* Hide "Jump to Notes" link on pages without footnotes */
@@ -193,13 +164,8 @@ br.pdf-toc {
   a {
     color: cmyk(0,0,0,1);
   }
-
   .quire-body.quire-body-type--cover .quire-nav-group {
     background-color: transparent;
-  }
-
-  .quire-body.quire-body-type--cover .quire-nav-group a {
-    color: #9eb300;
   }
   .quire-body-type--cover .quire-cover__inner__title {
     width: auto;
@@ -240,10 +206,6 @@ br.pdf-toc {
 
   .quire-page__content__main h3 {
     margin-bottom: 6pt;
-  }
-
-  .quire-body-type--section-head .quire-page {
-    background-color: #9eb300;
   }
 
   .quire-citation {
