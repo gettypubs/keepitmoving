@@ -1,7 +1,7 @@
 ---
 id: "18"
 title: Conserving a Kinetic “Rotor”
-subtitle: <em>Light Dynamo</em> by Heinz Mack
+subtitle: <em>Light Dynamo</em> <span class="toc-break">by Heinz Mack</span>
 type: essay
 contributor:
  - first_name: Paola

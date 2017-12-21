@@ -1,6 +1,7 @@
 ---
 id: "4"
 title: Conserving Thomas Wilfred’s *Lumia Suite, Opus 158*
+short_title: Conserving Thomas Wilfred’s *Lumia Suite*
 type: essay
 contributor:
  - first_name: Carol

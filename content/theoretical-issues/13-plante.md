@@ -80,7 +80,7 @@ As Hahn pointed out, opinions about multiples varied. Blurring the work’s aura
 
 4.  To begin with, a Multiple may have a limited run. It can be gradually multiplied depending on the possibilities of the art market. However, it will be regarded as a Multiple as long as it is initially conceived as unlimited.
 
-5.  As part of its lack of limitations, the Multiple, which underscores the triumph of the artist’s thought above the dated, fetishist conception of the art piece, excludes the author’s signature. \[ . . . \]
+5.  As part of its lack of limitations, the Multiple, which underscores the triumph of the artist’s thought above the dated, fetishist conception of the art piece, excludes the author’s signature. [&#160;. . .&#160;]
 
 > The Multiple is located at the junction of artistic creation and industrial production. It protects the whole of the former as it offers the possibilities of the latter. This is one of the meeting points between art and the technology of our days.[^20]
 
