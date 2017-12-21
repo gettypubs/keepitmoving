@@ -87,9 +87,11 @@ copyright: © 2018 J. Paul Getty Trust
 
 license:
   name: Creative Commons Attribution 4.0 International License
+  name_short: CC BY
   link_relation: license
   url: http://creativecommons.org/licenses/by/4.0/
   icon: cc-by.png
+  scope: text-only # full | text-only | some-exceptions
   exceptions:
     online:
     pdf_ebook:
@@ -129,29 +131,29 @@ formats:
     link_relation: alternate
     url: http://www.getty.edu/publications/keepitmoving/downloads/KeepItMoving.epub
     identifier: 978-1-60606-538-9
-    file_size_mb:
-    icon:
+    note:
+    icon: download-icon
   - name: MOBI/KINDLE
     media_type: application/mobi
     link_relation: alternate
     url: http://www.getty.edu/publications/keepitmoving/downloads/KeepItMoving.mobi
     identifier: 978-1-60606-538-9
-    file_size_mb:
+    note:
     icon:
   - name: PDF
     media_type: application/pdf
     link_relation: alternate
     url: http://www.getty.edu/publications/keepitmoving/downloads/KeepItMoving.pdf
     identifier: 978-1-60606-537-2
-    file_size_mb:
+    note:
     icon:
   - name: Paperback
     media_type: print
     link_relation: alternate
     url: http://shop.getty.edu/products/keep-it-moving-978-1606065372
     identifier: 978-1-60606-537-2
-    file_size_mb:
-    icon:
+    note:
+    icon: cart-icon
 
 # related_resources:
 #   - name:
@@ -192,3 +194,5 @@ revision_history:
     summary:
       - First edition
 repository_url: http://www.github.com/gettypubs/keepitmoving
+
+google_analytics_id: UA-8087223-1

@@ -15,7 +15,7 @@
 baseurl: ""
 relativeURLs: true
 
-theme: "quire-base-theme"
+theme: "quire-prototype-starter-theme"
 footnoteReturnLinkContents: "↩"
 metaDataFormat: "yaml"
 
