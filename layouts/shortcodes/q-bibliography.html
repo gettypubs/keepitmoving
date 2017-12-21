@@ -4,7 +4,7 @@
   `bibliography.yml`. With options to display the short form,
   or not, and to sort by either short of long keys.
 
-  Was not part of the theme this book uses, but will be 
+  Was not part of the theme this book uses, but will be
   incorportated into Quire in the future.
 
 */}}
@@ -14,8 +14,8 @@
   <dl>
   {{ range sort .Site.Data.bibliography.entries ($.Get "sort") }}
       <dt>{{ .short | markdownify }}</dt>
-      <dd id="{{ .short | urlize }}">{{ .full | markdownify }}<br />
-        Referenced in:
+      <dd id="{{ .short | urlize }}">{{ .full | markdownify }}
+        <span class="referenced-in">Referenced in:
         {{ $a := split .reference_for "," }}
         {{ $len := len $a }}
         {{ range $index, $element := $a }}
@@ -28,7 +28,7 @@
             {{ $c := index $b 0 }}
             <a href="../{{ . }}">{{ $c }}</a>
           {{- end -}}{{ if eq (add $index 1) $len }}{{ else }},{{ end }}
-        {{ end }}
+        {{ end }}</span>
       </dd>
   {{ end }}
   </dl>
