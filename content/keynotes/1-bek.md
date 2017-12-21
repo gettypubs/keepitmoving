@@ -167,7 +167,7 @@ The previous dependency of artists on industrially manufactured devices is compa
 
 ## Notes
 
-[^1]: {{< q-cite "Tinguely 2012" "92" >}}. “Es bewegt sich alles, Stillstand gibt es nicht” (Everything moves, there is no standstill) . . . “Hört auf, der Veränderlichkeit zu widerstehen” (stop resisting change) . . . “Widersteht den angstvollen Schwächeanfällen, Bewegtes anzuhalten” (Bind the anxiety and resist the weakness to want to stop movement).
+[^1]: {{< q-cite "Tinguely 2012" "392" >}}. “Es bewegt sich alles, Stillstand gibt es nicht” (Everything moves, there is no standstill) . . . “Hört auf, der Veränderlichkeit zu widerstehen” (stop resisting change) . . . “Widersteht den angstvollen Schwächeanfällen, Bewegtes anzuhalten” (Bind the anxiety and resist the weakness to want to stop movement).
 
 [^2]: Otto Piene, e-mail to Bek & Frohnert, March 17, 2014.
 

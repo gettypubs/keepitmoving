@@ -6,7 +6,7 @@ contributor:
  - first_name: Timothy P.
    last_name: Whalen
    title: Director
-   affiliation: The Getty Conservation Institute
+   affiliation: The Getty Conservation Institute John E. and Louise Bryson Director Getty Conservation Institute
 contributor_byline: bottom
 weight: 4
 ---

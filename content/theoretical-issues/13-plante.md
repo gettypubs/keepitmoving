@@ -32,7 +32,7 @@ Unlike central vision, which privileges the recognition of objects, peripheral v
 
 {{< q-figure id="13.2" >}}
 
-In this paper, I analyze the kinetic multiple as a visual production that discovered its limits and contradictions amid the arguments about culture, standardization, and consumption around 1968. Although, as we shall see, kinetic multiples never achieved industrial production, within the context of the rise in the cultural market in Paris in the 1960s, kinetic artists (and some critics, such as Jean Clay) nonetheless felt that it could happen at any time. Focusing specifically on multiples—a crucial aspect of kinetic art production and circulation in the 1960s that art history has not previously problematized—may allow us to explore whether this industrial vocation could inform approaches to its conservation and restoration. Collaborative work between conservators and art historians on the materiality of kinetic art could lead to a pivotal question: Did the edition of multiples contribute to standardized models, components, and solutions? Although I do not provide an answer in the text that follows, I invite you to consider that we may have arrived at the point of being able to formulate new discussions.
+In this paper, I analyze the kinetic multiple as a visual production that discovered its limits and contradictions amid the arguments about culture, standardization, and consumption around 1968. Although, as we shall see, kinetic multiples never achieved industrial production, within the context of the rise in the cultural market in Paris in the 1960s, kinetic artists (and some critics, such as Jean Clay) nonetheless felt that it could happen at any time. Focusing specifically on multiples—a crucial aspect of kinetic art production and circulation in the 1960s that art history has not previously problematized—may allow us to explore whether this industrial vocation could inform approaches to its conservation and restoration. Collaborative work between conservators and art historians on the materiality of kinetic art could lead to a pivotal question: did the edition of multiples contribute to standardized models, components, and solutions? Although I do not provide an answer in the text that follows, I invite you to consider that we may have arrived at the point of being able to formulate new discussions.
 
 {{< q-figure id="13.3" class="float-left" pdf="one-column" >}}
 
@@ -74,7 +74,7 @@ As Hahn pointed out, opinions about multiples varied. Blurring the work’s aura
 
 1.  A Multiple is an art proposal conceived to be multiplied ad infinitum thanks to the industrial resources available. Every copy of a Multiple is identical and interchangeable with others. Each of them fully conveys the artist’s original proposal.
 
-2.  Conclusion: any work conceived as a Multiple eliminates the material notion of an original (scale model, etc.…), which blends with the rest of the copies.
+2.  Conclusion: any work conceived as a Multiple eliminates the material notion of an original (scale model, etc.  . . .), which blends with the rest of the copies.
 
 3.  The notion of an internal transformation for each of the copies accompanies that of multiplication. Each Multiple involves a limited diversity principle (through permutation) or an unlimited one (an “open” kinetic work). Though strictly identical from a material point of view, time, movement, light, etc. endow Multiples with an ever-changing appearance, which makes them look different to different viewers.
 

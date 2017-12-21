@@ -179,7 +179,7 @@ figure_list:
     media_type: youtube
     fallback: fig-3-1-video-gilberg.jpg
     caption: >
-      Chris Burden’s *Metropolis II* (2011) in action.
+      Chris Burden’s *Metropolis II* (2010) in action.
     credit: >
       © Chris Burden Estate. Courtesy of the Nicolas Berggruen Charitable Foundation. Photo: Mark Gilberg and Alison Walker.
 
@@ -337,7 +337,7 @@ figure_list:
   - id: "5.4"
     src: fig-5-4-lawson.jpg
     caption: >
-      Tate conservation manager Louise Lawson and Ming-Yi Tsai, the artist’s son, at Tate during the initial meeting in January 2016 (Wen-Ying Tsai).
+      Tate conservation manager Louise Lawson and Ming-Yi Tsai, the artist’s son, at Tate during the initial meeting in January 2016.
     credit: >
       Courtesy Tsai Art and Science Foundation. Photo: © Tate, London 2016.
 
@@ -623,7 +623,7 @@ figure_list:
     media_type: youtube
     fallback: fig-9-5-video-gillies.jpg
     caption: >
-      Horacio García Rossi’s *Structure à lumiere instable no. 29* (Unstable Light Structure No. 29), 1966, painted wood, Lucite rods, electric motor, and lights; after treatment. The Museum of Fine Arts, Houston, gift of Benbow and Jean Bullock, 2004.1618.
+      Horacio García Rossi’s *Structure à lumière instable no. 29* (Unstable Light Structure No. 29), 1966, painted wood, Lucite rods, electric motor, and lights; after treatment. The Museum of Fine Arts, Houston, gift of Benbow and Jean Bullock, 2004.1618.
     credit: >
       © Horacio García Rossi. Video: Matt Golden © The Museum of Fine Arts, Houston.
 
@@ -1046,7 +1046,7 @@ figure_list:
     caption: >
       Diagram of the mechanism that moves the leg of Jonathan Borofsky’s *Ballerina Clown*, 1990.
     credit: >
-      © Jonathan Borofsky. Illustrator: Mine Erhan (© “Die Schmeide”).
+      © Jonathan Borofsky. Illustrator: © Mine Erhan (“Die Schmeide”).
 
   - id: "18.1"
     src: fig-18-1-iazurlo.jpg
@@ -1079,7 +1079,7 @@ figure_list:
   - id: "22.1"
     src: fig-22-1-van-aubel.jpg
     caption: >
-      Components from Ray Staakman’s kinetic works, before treatment. This metal spring, two electric motors that move each other in the opposite direction when switched on, and a worn-down gear were not, and are not, robust enough to support the stresses generated during movement. Rijksdienst voor het Cultureel Erfgoed.
+      Components from Ray Staakman’s kinetic works, before treatment. The metal spring (left), two electric motors that move each other in the opposite direction when switched on (middle), and a worn-down gear (right) were not, and are not, robust enough to support the stresses generated during movement. Rijksdienst voor het Cultureel Erfgoed.
     credit: >
       © Ray Staakman
 
