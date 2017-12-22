@@ -12,6 +12,22 @@ Professionals responsible for conserving contemporary art are in the midst of re
 
 Presenting the latest research and scholarship on the topic with fifteen essays and eight posters, this online publication (also available for print-on-demand) includes videos to capture more accurately the effects conjured by kinetic artworks.
 
+---
+
+Proceedings from the meeting organized by the Getty Conservation Institute, the ICOM-CC Modern Materials and Contemporary Art Working Group, and Museo del Novecento
+
+Palazzo Reale, Milan, Italy, June 30–July 2, 2016
+
+{{< q-class "logo-block" >}}
+
+![logo](../assets/img/logo_gci.png)
+![logo](../assets/img/logo_novecento.png)
+![logo](../assets/img/logo_icom-cc.png)
+
+{{< /q-class >}}
+
+*The Working Group for Modern Materials and Contemporary Art is part of the Committee for Conservation (ICOM-CC), a committee of the International Council of Museums (ICOM) network.*
+
 ## Citation Information
 
 ### Chicago
@@ -51,6 +67,17 @@ www.getty.edu/publications
 
 {{< q-loc >}}
 
-Illustration Credits TK
+[Cover](/): Analogue projection of Aleksandar Srnec’s *Luminoplastic 1*, 1965–67 ([fig. 8.6](../collections/8-pavic_mestric/#fig-8-6)). Museum of Contemporary Art, Zagreb.
 
+{{< q-class "gci-block" >}}
 
+### Getty Conservation Institute
+
+- Timothy P. Whalen, *John E. and Louise Bryson Director*
+- Jeanne Marie Teutonico, *Associate Director, Programs*
+
+The Getty Conservation Institute (GCI) works internationally to advance conservation practice in the visual arts—broadly  interpreted to include objects, collections, architecture, and sites. The Institute serves the conservation community through scientific research, education and training, field projects, and the dissemination of information. In all its endeavors, the GCI creates and delivers knowledge that contributes to the conservation of the world’s cultural heritage.
+
+[http://www.getty.edu/conservation/](http://www.getty.edu/conservation/)
+
+{{< /q-class >}}

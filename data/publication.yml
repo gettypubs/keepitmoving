@@ -98,6 +98,15 @@ license:
     all:
 
 project_team:
+  - first_name: Greg
+    last_name: Albers
+    role: Digital Manager
+  - first_name: Eric
+    last_name: Gardner
+    role: Designer and Developer
+  - first_name: Nick
+    last_name: Geller
+    role: Assistant Digital Editor
   - first_name: Beatrice
     last_name: Hohenegger
     role: Project Editor
@@ -107,15 +116,9 @@ project_team:
   - first_name: Michelle
     last_name: Deemer
     role: Production
-  - first_name: Eric
-    last_name: Gardner
-    role: Designer and Developer
-  - first_name: Nick
-    last_name: Geller
-    role: Assistant Digital Editor
-  - first_name: Greg
-    last_name: Albers
-    role: Digital Manager
+  - first_name: Jeffrey
+    last_name: Cohen
+    role: Cover Design
 
 
 # FORMATS, DOWNLOADS & LINKS

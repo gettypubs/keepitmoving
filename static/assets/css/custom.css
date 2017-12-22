@@ -160,6 +160,8 @@
   margin-bottom: 0;
 }
 
+
+
 .quire-page__content__main blockquote > p {
   margin-bottom: .5rem;
 }
@@ -178,6 +180,38 @@ br.pdf-toc {
 
 #theoretical-issues-15-brobbel_rees .quire-page__content__main blockquote:nth-of-type(9) + p {
   text-indent: 2rem;
+}
+
+.q-figure + h3 {
+  margin-top: 2.25rem;
+}
+
+/* About page */
+
+#about .quire-page__content__main .logo-block img {
+  max-width: 30%;
+  float: left;
+  margin: 1rem 0 1rem;
+}
+
+#about .quire-page__content__main .logo-block img:nth-of-type(2) {
+  margin: 1rem 5% 1rem;
+}
+
+#about .quire-page__content__main .gci-block {
+  background-color: #efebec;
+  padding: 1rem;
+  border-radius: .5rem;
+  margin-top: 2rem;
+}
+
+#about .quire-page__content__main .gci-block ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#about .quire-page__content__main .gci-block ul li {
+  margin-bottom: 0;
 }
 
 /* Print */
@@ -211,11 +245,21 @@ br.pdf-toc {
     font-size: 16pt;
     line-height: 22pt;
   }
+  .quire-body-type--cover  .quire-cover__inner__title-page-text {
+    margin: .625in 0;
+    float: right;
+  }
+  .quire-body-type--cover  .quire-cover__inner__title-page-text p {
+    color: cmyk(0,0,0,0.55);
+    width: 3.5in;
+    margin-bottom: 1em;
+    margin-right: 0;
+  }
   .quire-body-type--cover .quire-cover__inner__publisher {
     color: cmyk(0,0,0,0.55);
     font-size: 14pt;
     line-height: 20pt;
-    margin-top: 4in;
+    margin-top: 4.25in;
   }
 
   /*Start main page numbering at Opening Remarks*/
@@ -324,6 +368,45 @@ br.pdf-toc {
   .referenced-in,
   .referenced-in a {
     color: cmyk(0,0,0,1);
+  }
+
+  .q-figure + h3 {
+    margin-top: 1.75em;
+  }
+
+  /* Copyright page */
+
+  .quire-body-class--copyright .quire-page {
+    margin-right: 0;
+  }
+
+  .quire-body-class--copyright .quire-page__content__main ul,
+  .quire-body-class--copyright .quire-page__content__main p {
+    margin-right: 2.4375in;
+  }
+
+  .quire-body-class--copyright .quire-page__content__main .logo-block,
+  .quire-body-class--copyright .quire-page__content__main .logo-block p {
+    margin-right: 0;
+  }
+
+  .quire-body-class--copyright .quire-page__content__main .logo-block {
+    width: 2.1875in;
+    float: right;
+  }
+
+  .quire-body-class--copyright .quire-page__content__main .logo-block img {
+    max-width: 90%;
+  }
+
+  #copyright .logo-block p {
+    margin-bottom: 0;
+  }
+
+  .quire-body-class--copyright .quire-page__content__main ul:first-of-type {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
   }
 
 }
