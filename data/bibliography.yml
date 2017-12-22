@@ -342,12 +342,12 @@ entries:
 
   - sort_by: Beerkens, Hummelen, and Sillé 1999
     short: Beerkens, Hummelen, and Sillé 1999
-    full: "Beerkens, Lydia, IJsbrand Hummelen, and Dionne Sillé. 1999. “Jean Tinguely’s *Gismo*: Reconstruction of a Moving Life.” In Hummelen and Sillé 1999. Amsterdam: Foundation for the Conservation of Modern Art; Netherlands Institute for Cultural Heritage."
+    full: "Beerkens, Lydia, IJsbrand Hummelen, and Dionne Sillé. 1999. “Jean Tinguely’s *Gismo*: Reconstruction of a Moving Life.” In Hummelen and Sillé 1999."
     reference_for: "collections/11-meijer"
 
   - sort_by: Beerkens 1999
     short: Beerkens 1999
-    full: "Beerkens, Lydia. 1999. “The Decision-Making Model for the Conservation and Restoration of Modern and Contemporary Art.” In *Modern Art: Who Cares? An Interdisciplinary Research Project and an International Symposium on the Conservation of Modern Art*, edited by IJsbrand Hummelen and Dionne Sillé. Amsterdam: Foundation for the Conservation of Modern Art; Netherlands Institute for Cultural Heritage."
+    full: "Beerkens, Lydia. 1999. “The Decision-Making Model for the Conservation and Restoration of Modern and Contemporary Art.” In Hummelen and Sillé 1999."
     reference_for: "collections/11-meijer"
 
   - sort_by: Bek 2011
@@ -490,9 +490,9 @@ entries:
     full: "Le Parc, Julio, Salas Nacionales de Exposición, and Dirección Nacional de Artes Visuales. 1988. *Julio Le Parc. Experiencias 30 años. 1958–1988.* Buenos Aires: Secretaría de Cultura de la Nación, Dirección Nacional de Artes Visuales."
     reference_for: "theoretical-issues/13-plante"
 
-  - sort_by: Moulin 1967
-    short: Moulin 1967
-    full: "Moulin, Raymonde. 1967. *Le marché de la peinture en France.* Paris: Minuit."
+  - sort_by: Hahn 1968
+    short: Hahn 1968
+    full: "Hahn, Otto. 1968. “Les multiples à Paris.” *Art Interanational* 12 (1): 47–49."
     reference_for: "theoretical-issues/13-plante"
 
   - sort_by: Moulin 1969
