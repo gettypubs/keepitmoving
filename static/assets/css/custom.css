@@ -140,6 +140,10 @@
   display: none;
 }
 
+.q-contributors__list__item__link {
+  display: block;
+}
+
 /* Symposium Participants list */
 
 #participants ul {
@@ -306,11 +310,6 @@ br.pdf-toc {
   #contributors hr {
     display: none;
   }
-
-  /*#videos [id="8-preserving-performativity-collections-8-pavic-mestric"] {
-    page-break-before: always;
-    background-color: #ffff00;
-  }*/
 
   #videos h2 {
     page-break-before: always;
