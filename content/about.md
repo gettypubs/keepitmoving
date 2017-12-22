@@ -25,7 +25,7 @@ Presenting the latest research and scholarship on the topic with fifteen essays 
 
 ### Permanent URL
 
-<p>http://www.getty.edu/&#8203;publications/&#8203;keepitmoving</p>
+<p>http://www.getty.edu&#8203;/publications&#8203;/keepitmoving</p>
 
 ## Revision History
 

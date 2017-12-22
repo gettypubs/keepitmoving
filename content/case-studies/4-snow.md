@@ -96,7 +96,7 @@ Wilfred’s groundbreaking contribution to kinetic art and time-based media is f
 
 ## Materials and Suppliers
 
-> Extruded aluminum: manufactured by 80/20<sup>®</sup> Inc., [https://www.8020.net](https://www.8020.net/); distributed by AIR, Inc., [http://airinc.net/&#8203;8020-extrusion](http://airinc.net/8020-extrusion/).
+> Extruded aluminum: manufactured by 80/20<sup>®</sup> Inc., [https://www.8020.net](https://www.8020.net/); distributed by AIR, Inc., [http://airinc.net&#8203;/8020-extrusion](http://airinc.net/8020-extrusion/).
 
 > Handmade tungsten-filament incandescent light bulbs: Dylan Kehde Roelofs, [http://www.incandescentsculpture.com](http://www.incandescentsculpture.com/).
 
