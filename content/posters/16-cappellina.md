@@ -2,6 +2,7 @@
 id: "16"
 title: Conserving Mechanical Elements in Technological Artifacts
 subtitle: Three Case Studies from Museo Nazionale della Scienza e della Tecnologia “Leonardo da Vinci,” Milan
+short_title: Conserving Mechanical Elements
 type: essay
 contributor:
  - first_name: Marianna

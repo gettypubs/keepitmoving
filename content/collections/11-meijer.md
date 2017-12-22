@@ -1,6 +1,7 @@
 ---
 id: "11"
 title: The Examination and Conservation of Thirteen Artworks by Jean Tinguely in the Collection of the Stedelijk Museum Amsterdam
+short_title: Examination and Conservation
 type: essay
 contributor:
  - first_name: Esther

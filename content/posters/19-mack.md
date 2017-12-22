@@ -1,6 +1,7 @@
 ---
 id: "19"
 title: Considering the Continuum of Care for Outdoor Kinetic Sculpture
+short_title: Considering the Continuum of Care
 type: essay
 contributor:
  - first_name: Abigail

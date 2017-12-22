@@ -2,6 +2,7 @@
 id: "10"
 title: Intertwined Strategies for Conservation and Display of Kinetic Art
 subtitle: Case Studies in the European Neo-Avant-Garde
+short_title: Intertwined Strategies for Conservation
 type: essay
 contributor:
  - first_name: Francesca

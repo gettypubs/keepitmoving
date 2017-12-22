@@ -1,6 +1,7 @@
 ---
 id: "12"
 title: The Hype about ZERO and Its Influence on the Conservation and Presentation of Early Kinetic Works
+short_title: The Hype about ZERO and Its Influence
 type: essay
 contributor:
  - first_name: Gunnar
