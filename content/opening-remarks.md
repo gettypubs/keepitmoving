@@ -31,12 +31,13 @@ The collaboration of artists, collectors, and archives (specifically the Archivi
 
 Kinetic artworks present considerable conservation and maintenance challenges and, beyond the specificities of individual cases, permanent display is the first matter to be considered. The Museo del Novecento is open seventy hours a week, and thirteen hours each on Thursdays and Saturdays. Artworks on view are activated for long periods, and this causes stress to lights and motors, especially to original motors that had not been designed for long-term use. To address the issue, sensors and timers were installed so that the works are activated only when visitors are present and only for about one minute. While this has considerably reduced the need for extraordinary interventions by technicians, wear and tear remain the primary conservation issues, especially after many years of display.
 
-{{< q-figure id="I.1" class="float-right" pdf="one-column" >}}
-{{< q-figure id="I.2" class="float-right" >}}
-
 The Museo del Novecento’s approach thus far has been that of preserving the original components by preemptively replacing them with new ones, even when the originals still work. In this case, the overall “authenticity” of the artwork is potentially preserved, since its original components, such as motors or rubber drive belts, are intact, functional, and available for a possible future reconstruction.
 
 This approach was used during the restoration of Colombo’s *Strutturazione pulsante*, a work composed of rectangular modular polystyrene panels combined orthogonally; behind the panels, a motor-driven system of slats produces the alternating movement of the panels ([fig. I.1](#I.1)). In conjunction with a cleaning of the polystyrene parts, the museum decided, with the approval of the Archivio Gianni Colombo, to replace the two still functional but very fragile plastic silicon belts (from the late 1950s) with new belts. The original belts were preserved in the archive, so the artwork could possibly be rebuilt with its original components in the future.
+
+{{< q-figure id="I.1"  >}}
+
+{{< q-figure id="I.2" class="float-right" >}}
 
 Preventive substitution was also adopted for Anceschi’s *Struttura tricroma* (1964), a work composed of four motorized cubes and three halogen lamps. The back projection, made by the lamps, creates a regular pattern of colored circles on the “screen” of the cubes’ faces ([fig. I.2](#I.2)). The four electromechanical 220V motors—one for each cube—were constantly under stress because the rotating blades, which produce the movement of the colored circles, were too heavy. The blades have been preventively replaced with new blades that are lighter in weight.
 

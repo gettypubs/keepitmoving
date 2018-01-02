@@ -145,13 +145,13 @@ The question of <em>Corner Basher</em>’s physical decline in relation to its p
 
 ## Leo Villareal
 
-{{< q-figure id="1.11" >}}
-
 This case study discusses the work of a member of a younger generation of artists who depend mainly on off-the-shelf hardware and produce their own proprietary software. It illustrates how kinetic art and contemporary technology intersect and reveals their similar conservation challenges. *Flowers 8* ([figs. 1.11](#fig-1-11), [1.12](#fig-1-12)) from 2005 by Leo Villareal (b. 1967) comprises eight flowers, each of which consists of sixteen LED fixtures, for a total of 128 LED fixtures. The lights display a range of RGB-color- and light-changing effects. Twelve programmed DMX512[^5] sequences are randomly run off two data units linked to the eight flowers, resulting in a colorful light concert.
 
-Three years after the work’s creation, the fabricator of the lightning system, a branch of Philips called Color Kinetics, discontinued the production of the low-voltage LED lamps, controllers, and cables in favor of a newly developed high-voltage system. The original lamps and controllers are no longer produced, and any updated LED lamp will not be supported by the obsolete data supply and vice versa.
+{{< q-figure id="1.11" >}}
 
 {{< q-figure id="1.12" >}}
+
+Three years after the work’s creation, the fabricator of the lightning system, a branch of Philips called Color Kinetics, discontinued the production of the low-voltage LED lamps, controllers, and cables in favor of a newly developed high-voltage system. The original lamps and controllers are no longer produced, and any updated LED lamp will not be supported by the obsolete data supply and vice versa.
 
 To preserve <em>Flowers 8</em>’s outdoor installation, the owner and the artist agreed to create an updated replica. The artist will produce this new version in close cooperation with Bek & Frohnert to document and support the transformation of the work from the original. This migration will happen when the LED lamps further deteriorate and become unrepairable. When such a metamorphosis occurs, it can be quite challenging to meet the expectations of the artist, the owner, and the conservator. It is possible that a new version of this work may not look like the original. The artist expressed the desire to archive the original hardware as evidence of the first version, but he did not approve the simultaneous existence of two versions of the same piece.
 

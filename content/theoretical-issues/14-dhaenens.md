@@ -24,8 +24,6 @@ additional_references:
 weight: 403
 ---
 
-
-
 ## Into the Artist’s Studio: From Kinetic to Cybernetic
 
 With more than 600 objects, the collection of Nicolas Schöffer (Hungarian, 1912–1992) is nearly complete. Currently installed in his Paris studio, it contains most of his unique artworks and at least one work from each of his series. In addition to paintings, drawings, archival materials, and plans, the collection is composed of kinetic, but mostly cybernetic, sculptures by the artist ([fig. 14.1](#fig-14-1)). His widow, Mrs. Eléonore de Lavandeyra Schöffer, manages their maintenance and exhibition and offers guided visits of the studio.

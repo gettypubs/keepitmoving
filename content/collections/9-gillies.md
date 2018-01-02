@@ -31,9 +31,9 @@ The demands of frequent exhibition have necessitated a practical approach and a 
 
 ## Gregorio Vardanega
 
-{{< q-figure id="9.1" >}}
-
 Gregorio Vardanega’s *Espaces chromatiques carrées en spirale* (Chromatic Spaces Turning in a Spiral) (1968) ([fig. 9.1](#fig-9-1)) had been shown at the museum twice before accessioning. When conservators first examined it in 2012, forty-nine of its sixty-three bulbs did not work.
+
+{{< q-figure id="9.1" >}}
 
 Offset white square panels, receding in size to the back of the artwork, have colored lights at each corner that produce the effect of a spiral. Behind each panel are groups of three small bulbs with blue and red plastic sleeves that create blue, red, and white light. The motor-driven analog sequencing system located inside the back panel works well, but the cylinder of hand-carved white plastic disks, which turn the switches on and off ([fig. 9.2](#fig-9-2)), will eventually deteriorate. Before that begins, this system should be documented, perhaps by 3-D scanning of the cylinder.
 

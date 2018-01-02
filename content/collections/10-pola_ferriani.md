@@ -28,13 +28,13 @@ A human figure in motion means physical and psychical involvement, which is the 
 
 {{< q-figure id="10.1" >}}
 
-{{< q-figure id="10.2" pdf="two-column" >}}
+{{< q-figure id="10.2" >}}
 
 ## Case Study 1
 
-{{< q-figure id="10.3" >}}
-
 Gabriele Devecchi’s 1959 *Scultura da prendere a calci* (Sculpture to be kicked), one of the earliest kinetic behavioral pieces ([fig. 10.3](#fig-10-3)), was first presented after the artist’s death in 2011 at the exhibition *Tecnica mista: Come è fatta l’arte del Novecento*, at Milan’s Museo del Novecento in 2012.
+
+{{< q-figure id="10.3" >}}
 
 The replica, carried out by Ferriani, was executed following a prototype in the artist’s studio and directions from the artist’s son. The kinetics of the piece depend on the action of the spectator: the artwork has no meaning without interaction. The shape of the sculpture changes haphazardly after it is kicked—and it must be kicked—but this interaction means that the piece is gradually being destroyed.
 
@@ -46,7 +46,7 @@ As the life span of the work is extremely short—&#8203;sometimes just a few ho
 
 In Gianni Colombo’s 1967 artwork *Spazio elastico—due cubi* (Elastic space—two cubes), the outline of two cubes sinks into a metallic surface in slow motion. The effect of movement is further enhanced by the reflectivity of the metal panel ([fig. 10.4](#fig-10-4)). The work is made of a flat, chromed metal surface inserted into a black-painted wooden frame. Eight holes in the metal plate allow eight metal tubes in the shape of two cubes to be pulled in and out. The back-and-forth movement of the cubes is created by two small, synchronized, single-phase motors. Inside the work, each cube is attached to a plastic plate. Each motor moves two levers, which in turn move two small wheels, raising and lowering the plastic plates, thereby moving the cubes up and down.
 
-{{< q-figure id="10.4" class="float-left" pdf="one-column">}}
+{{< q-figure id="10.4" class="float-right" pdf="one-column">}}
 
 Over time, the chrome surface had become oxidized and scratched. It had lost its brilliance and reflectivity and no longer mirrored the movement of the cubes. In addition, the motors had stopped working. We evaluated the work to decide if we should accept the degradations of the original technological apparatus and not repair the components, or if we should repair them, even though this required removing or replacing some of the original elements.
 
@@ -56,17 +56,17 @@ The surface degradation posed a more difficult question: should it be left as is
 
 ## Case Study 3
 
-{{< q-figure id="10.5" class="float-right" pdf="one-column">}}
-
 These two pieces by Gianni Colombo—*Spazio elastico: doppio quadrato bianco intermutabile* (Elastic space: intermutable double white square) from 1973–80 and *Spazio elastico: rettangolo* (Elastic space: rectangle) from 1974—belong to his cycle of *Intermutabili*, or Intermutables, which addresses painted versus physical geometry. The works feature a grid of elastic strings or tubes with springs superimposed on a background of painted wood. The viewer can alter the shape of the grid by hooking the ends of the elastic elements to different fixed nails. The monochrome background contrasts with the tone of the elastic elements. In some works, the symmetrical form of the grid is painted on the bottom, and it interferes with any alteration made by the observer. The pieces are meant to be a true physical and metaphorical “exercise of freedom,” with the spectator’s hands on the surface, interacting with them.
 
 The exhibition catalogue of the first show of *Intermutabili* at Studio Marconi in Milan in 1975 makes it clear that tactile involvement is essential to the behavioral kinetics of the artworks. In photographs taken by Maria Mulas, the artist himself is shown changing the configuration of the single pieces, and the catalogue’s cover illustration focuses on the details of his hands in action on the surface.
 
+{{< q-figure id="10.5" class="float-right" pdf="one-column">}}
+
 *Spazio elastico: doppio quadrato bianco intermutabile* (Elastic space: intermutable double white square) ([fig. 10.5](#fig-10-5)) is composed of a wooden board painted black; two square patterns are formed by white plastic tubes connected by a thin cord. Metal springs at the corners of the two squares can be anchored to any nail in a line of nails inserted along the perimeter of the black background, thereby changing the shape of the composition. Over time, the elastic springs that secure the squares had lost their elasticity and no longer functioned, and the white plastic tubes had weakened and, in some places, cracked.
 
-{{< q-figure id="10.6" >}}
-
 A similar problem occurred with *Spazio elastico: rettangolo* (Elastic space: rectangle) ([fig. 10.6](#fig-10-6)). It is composed of a wooden board painted black, with a white rectangular and linear pattern painted in the center. Another pattern can be created by white elastic strings, the shape of which can be altered by attaching black elastic strings to any nail in two lines of nails inserted on the perimeter of the black background. All the strings had lost their elasticity and were elongated.
+
+{{< q-figure id="10.6" >}}
 
 The question was: Should the various elements be replaced to make it possible to interact with the piece? Or should an exhibition copy be created, so that the interactive aspect could be retained while the original was preserved?
 
@@ -78,9 +78,9 @@ A similar solution was adopted for Jean Tinguely’s *Méta-Matic* *No. 10* (195
 
 ## Case Study 4
 
-{{< q-figure id="10.8" class="float-right" pdf="one-column">}}
-
 Gianni Colombo’s *Topoestesia* (*Tre zone contigue—Itinerario programmato*) (Topoesthesia \[Three contiguous zones—Programmed itinerary\]), 1965–70, is the most immersive work of these case studies ([fig. 10.8](#fig-10-8)). This environment can be experienced at the Museo del Novecento in Milan, where it was first reconstructed in 2012. It was presented in London in 2015, its first appearance outside Italy. The Archivio Gianni Colombo has the original drawings, detailed plans, and even samples of original materials, so an exact replica of the original could be made using new materials. Immersive and “walkable” interactive environments such as this are not objects but experiences. They are more like a performance to be enacted by the spectator than an image or object to be looked at. Every time a performance is interpreted, it is not a reenactment but the real piece. We could ask ourselves: can we apply this kind of performative category to Colombo’s “behavioral” environments?
+
+{{< q-figure id="10.8" >}}
 
 Colombo coined the word *topoestesia* for this work: a sensory experience (*esthesia*) of a place (*topos*). We could call it an environment–itinerary or an environment–behavior. As the title *Tre zone contigue* suggests, it consists of three successive and parallel corridors of the same length. It is an itinerary that can be experienced only by being followed: it invites visitors to effect a psychic and physical immersion that does not end with the purely visual dimension, not even when they simply enter the environment, but requires further involvement, that of following it through to the end. The piece is activated each time a spectator walks in, so we could say that the artwork is the experience, as well as the physical environment that makes it possible. It is precisely this reenactment of the experience whenever one walks through the environment that defines the uniqueness and the topicality of Colombo’s work. It is analogous to performance practice, but with the responsibility of the action transferred to the viewer.
 

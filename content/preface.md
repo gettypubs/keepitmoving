@@ -24,6 +24,10 @@ I would like to thank the Museo del Novecento for its generosity and wonderful a
 
 The quality of the posters and the presentations given at the symposium was impressive, and I am extremely grateful to all the presenters and authors who shared their work during the symposium and in these proceedings. I am also profoundly indebted to Reinhard Bek who coedited this volume—this project would not have been possible without his immense knowledge of and great enthusiasm for the topic, as well as his hard work and dedication. Finally, I am thankful to the talented staff at Getty Publications who turned our proceedings papers into a functional and beautiful publication: Beatrice Hohenegger, project editor; Jennifer Boynton, freelance manuscript editor; Greg Albers, digital publications manager; Eric Gardner, software engineer; Nick Geller, graduate intern; Nina Damavandi, image acquisition and permission; Rachel Barth, assistant editor; Zoe Goldman, editorial assistant; and Tom Fredrickson, proofreader.
 
+---
+
+## Notes
+
 [^1]: {{< q-cite "Lye 1984" "64" >}}, quoted by Brobbel and Rees in this publication.
 
 [^2]: {{< q-cite "Eco 1989" "86" >}}, quoted by Caianiello in this publication.
