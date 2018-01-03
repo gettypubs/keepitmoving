@@ -37,7 +37,7 @@ This approach was used during the restoration of Colombo’s *Strutturazione pul
 
 {{< q-figure id="I.1"  >}}
 
-{{< q-figure id="I.2" class="float-right" >}}
+{{< q-figure id="I.2" class="float-right" pdf="one-column" >}}
 
 Preventive substitution was also adopted for Anceschi’s *Struttura tricroma* (1964), a work composed of four motorized cubes and three halogen lamps. The back projection, made by the lamps, creates a regular pattern of colored circles on the “screen” of the cubes’ faces ([fig. I.2](#I.2)). The four electromechanical 220V motors—one for each cube—were constantly under stress because the rotating blades, which produce the movement of the colored circles, were too heavy. The blades have been preventively replaced with new blades that are lighter in weight.
 

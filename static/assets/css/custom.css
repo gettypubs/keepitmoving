@@ -323,6 +323,19 @@ br.pdf-toc {
   #videos h2:nth-of-type(2) {
     page-break-before: always;
   }
+
+  /* Force explicit page breaks so preceeding page will auto balance column lengths */
+  #fig-I-2,
+  #fig-1-11,
+  #fig-2-6,
+  #fig-3-6,
+  #fig-8-1,
+  #fig-15-2,
+  #fig-15-5,
+  #fig-15-7 {
+    page-break-before: always;
+  }
+
   #fig-1-9,
   #fig-2-4,
   #fig-2-7b + figcaption,
