@@ -221,6 +221,10 @@ br.pdf-toc {
   a {
     color: cmyk(0,0,0,1);
   }
+  /*Remove anchor links to figs*/
+  a[href^="#fig"] {
+    prince-link: none;
+  }  
   .quire-body.quire-body-type--cover .quire-nav-group {
     background-color: transparent;
   }
