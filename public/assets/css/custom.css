@@ -220,6 +220,12 @@ br.pdf-toc {
 
 @media print {
 
+  @page footer:right {
+    @bottom-left {
+      font-style: normal;
+    }
+  }
+
   a {
     color: cmyk(0,0,0,1);
   }
@@ -330,7 +336,7 @@ br.pdf-toc {
     page-break-before: always;
   }
 
-  /* Force explicit page breaks so preceeding page will auto balance column lengths */
+  /* Force explicit page breaks (except in Index of Videos) so preceeding page will auto balance column lengths */
   #fig-I-2,
   #fig-1-11,
   #fig-2-6,
@@ -340,6 +346,10 @@ br.pdf-toc {
   #fig-15-5,
   #fig-15-7 {
     page-break-before: always;
+  }
+  #videos #fig-15-2,
+  #videos #fig-15-5 {
+    page-break-before: avoid;
   }
 
   #fig-1-9,
