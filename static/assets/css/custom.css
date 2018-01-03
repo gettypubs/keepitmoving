@@ -368,7 +368,9 @@ br.pdf-toc {
     text-indent: 1.5em;
   }
 
-  #posters-18-iazurlo .quire-page__header__title {
+  #posters-18-iazurlo .quire-page__header__title,
+  #collections-10-pola_ferriani .quire-page__header__title,
+  #posters-16-cappellina .quire-page__header__title {
     max-width: 5.5in;
   }
 
