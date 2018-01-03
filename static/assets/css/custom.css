@@ -160,7 +160,9 @@
   margin-bottom: 0;
 }
 
-
+#about .quire-copyright p {
+  margin-bottom: 1em;
+}
 
 .quire-page__content__main blockquote > p {
   margin-bottom: .5rem;
@@ -224,7 +226,7 @@ br.pdf-toc {
   /*Remove anchor links to figs*/
   a[href^="#fig"] {
     prince-link: none;
-  }  
+  }
   .quire-body.quire-body-type--cover .quire-nav-group {
     background-color: transparent;
   }
@@ -395,6 +397,10 @@ br.pdf-toc {
   #videos h2:nth-of-type(3),
   #videos h2:nth-of-type(5) {
     page-break-before: avoid;
+  }
+
+  #bibliography dd {
+    page-break-inside: avoid;
   }
 
   .referenced-in,
