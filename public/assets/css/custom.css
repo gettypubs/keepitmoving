@@ -160,7 +160,8 @@
   margin-bottom: 0;
 }
 
-#about .quire-copyright p {
+#about .quire-copyright p,
+#copyright .quire-copyright p {
   margin-bottom: 1em;
 }
 
@@ -223,7 +224,90 @@ br.pdf-toc {
   @page footer:right {
     @bottom-left {
       font-style: normal;
+      color: cmyk(0,0,0,0.65);
     }
+  }
+  @page footer:left {
+    @bottom-right {
+      color: cmyk(0,0,0,0.65);
+    }
+  }
+
+  @page frontmatter:left {
+    @bottom-right {
+      content: string(papertitle);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt;
+      color: cmyk(0,0,0,0.65);
+    }
+  }
+
+  @page frontmatter:left:first {
+    @bottom-right {
+      content: none;
+    }
+  }
+
+  @page frontmatter:right {
+    @bottom-left {
+      content: string(papertitle);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt;
+      color: cmyk(0,0,0,0.65);
+    }
+  }
+
+  @page frontmatter:right:first {
+    @bottom-left {
+      content: none;
+    }
+  }
+
+  @page footer-nosection:left {
+    margin-bottom: 1in;
+    margin-left: 0.75in;
+    margin-right: 1in;
+    margin-top: 0.875in;
+    @bottom-left {
+      content: counter(page);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt; }
+    @bottom-right {
+      content: string(papertitle);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt;
+      color: cmyk(0,0,0,0.65); }
+  }
+  @page footer-nosection:right {
+    margin-bottom: 1in;
+    margin-left: 1in;
+    margin-right: 0.75in;
+    margin-top: 0.875in;
+    @bottom-right {
+      content: counter(page);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt; }
+    @bottom-left {
+      content: string(papernumber) string(papertitle);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt;
+      color: cmyk(0,0,0,0.65); }
+  }
+  @page footer-nosection:right:first {
+    @bottom-left {
+      content: none; }
+  }
+  @page footer-nosection:left:first {
+    @bottom-right {
+      content: none; }
+  }
+
+  #opening-remarks .quire-page,
+  #contributors .quire-page,
+  #participants .quire-page,
+  #videos .quire-page,
+  #bibliography .quire-page {
+    page: footer-nosection;
   }
 
   a {
@@ -276,6 +360,11 @@ br.pdf-toc {
 
   /*Insert a blank page so Opening Remarks starts on right-hand page*/
   #preface::after {
+    content: "#";
+    color: #fff;
+  }
+
+  #posters-index::before {
     content: "#";
     color: #fff;
   }
@@ -390,13 +479,22 @@ br.pdf-toc {
     max-width: 5.5in;
   }
 
-  #contributors .q-contributors__list:last-of-type,
-  #theoretical-issues-14-dhaenens #preservation-and-functionality {
-    column-break-before: always;
+  #contributors .q-contributors__list {
+    column-span: all;
+    column-count: 2;
+    column-gap: 0.25in;
   }
 
+  #contributors #grazia-de-cesare,
+  #contributors #sherry-phillips,
+  #contributors #simon-rees,
+  #contributors #eugenia-stamatopoulou,
+  #contributors #ming-yi-tsai,
+  #contributors #sjoukje-van-der-laan {
+    column-break-before: always;
+  }
   #contributors hr {
-    display: none;
+    column-span: all;
   }
 
   #videos h2 {
@@ -449,6 +547,9 @@ br.pdf-toc {
 
   #copyright .logo-block p {
     margin-bottom: 0;
+  }
+  #copyright .logo-block p:last-of-type {
+    margin-top: 1em;
   }
 
   .quire-body-class--copyright .quire-page__content__main ul:first-of-type {
