@@ -225,6 +225,78 @@ br.pdf-toc {
       font-style: normal;
     }
   }
+  @page frontmatter:left {
+    @bottom-right {
+      content: string(papertitle);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt;
+    }
+  }
+
+  @page frontmatter:left:first {
+    @bottom-right {
+      content: none;
+    }
+  }
+
+  @page frontmatter:right {
+    @bottom-left {
+      content: string(papertitle);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt;
+    }
+  }
+
+  @page frontmatter:right:first {
+    @bottom-left {
+      content: none;
+    }
+  }
+
+  @page footer-nosection:left {
+    margin-bottom: 1in;
+    margin-left: 0.75in;
+    margin-right: 1in;
+    margin-top: 0.875in;
+    @bottom-left {
+      content: counter(page);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt; }
+    @bottom-right {
+      content: string(papertitle);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt; }
+  }
+  @page footer-nosection:right {
+    margin-bottom: 1in;
+    margin-left: 1in;
+    margin-right: 0.75in;
+    margin-top: 0.875in;
+    @bottom-right {
+      content: counter(page);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt; }
+    @bottom-left {
+      content: string(papernumber) string(papertitle);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt; }
+  }
+  @page footer-nosection:right:first {
+    @bottom-left {
+      content: none; }
+  }
+  @page footer-nosection:left:first {
+    @bottom-right {
+      content: none; }
+  }
+
+  #opening-remarks .quire-page,
+  #contributors .quire-page,
+  #participants .quire-page,
+  #videos .quire-page,
+  #bibliography .quire-page {
+    page: footer-nosection;
+  }
 
   a {
     color: cmyk(0,0,0,1);
