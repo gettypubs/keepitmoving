@@ -224,13 +224,21 @@ br.pdf-toc {
   @page footer:right {
     @bottom-left {
       font-style: normal;
+      color: cmyk(0,0,0,0.65);
     }
   }
+  @page footer:left {
+    @bottom-right {
+      color: cmyk(0,0,0,0.65);
+    }
+  }
+
   @page frontmatter:left {
     @bottom-right {
       content: string(papertitle);
       font-family: "Open Sans", sans-serif;
       font-size: 7.5pt;
+      color: cmyk(0,0,0,0.65);
     }
   }
 
@@ -245,6 +253,7 @@ br.pdf-toc {
       content: string(papertitle);
       font-family: "Open Sans", sans-serif;
       font-size: 7.5pt;
+      color: cmyk(0,0,0,0.65);
     }
   }
 
@@ -266,7 +275,8 @@ br.pdf-toc {
     @bottom-right {
       content: string(papertitle);
       font-family: "Open Sans", sans-serif;
-      font-size: 7.5pt; }
+      font-size: 7.5pt;
+      color: cmyk(0,0,0,0.65); }
   }
   @page footer-nosection:right {
     margin-bottom: 1in;
@@ -280,7 +290,8 @@ br.pdf-toc {
     @bottom-left {
       content: string(papernumber) string(papertitle);
       font-family: "Open Sans", sans-serif;
-      font-size: 7.5pt; }
+      font-size: 7.5pt;
+      color: cmyk(0,0,0,0.65); }
   }
   @page footer-nosection:right:first {
     @bottom-left {
