@@ -20,11 +20,11 @@ additional_references:
 weight: 402
 ---
 
-{{< q-figure id="13.1" >}}
-
 In 1966, Julio Le Parc represented Argentina in the Venice Biennale ([fig. 13.1](#fig-13-1)) and received the international grand prize in painting. According to the reviews, his space was one of the most visited.[^1] As the appeal of kinetic art continued to grow and draw crowds to museums, kinetic artworks seemed to meet the most ambitious objective of the avant-garde: to integrate art and life.
 
 Kineticism[^2] was an international trend composed of different groups of artists who were in contact with one another, including the Groupe de Recherche d’Art Visuel (GRAV) in France, Gruppo T and Gruppo N in Italy, ZERO in Germany, Dwizjenije in Moscow, and USCO in New York. In 1964 the *Nouvelle tendance* exhibition at the Musée des Arts Décoratifs, Paris, had gathered about fifty artists from eleven countries.[^3] In Pascal Rousseau’s words, kinetic art was viewed “as a kind of Esperanto through which each individual would communicate with the world in the ecstatic intoxication of optical vibration” ({{<q-cite "Rousseau 2005" "142–150">}}).
+
+{{< q-figure id="13.1" >}}
 
 A cognitive understanding of perception allowed the kineticists to claim that optical effects were not merely illusions. Altering visual and synesthetic perception entailed the literal and symbolic alteration of the ways in which each participant perceived him or herself and the world. As Umberto Eco and Victor Vasarely pointed out in the early 1960s, while this art helped develop the sensorial capacity of modern viewers under new social and technological circumstances,[^4] the resources implemented by kinetic art also intended to call into question not only the system of the fine arts but also a society that artists such as Le Parc thought had become automated.
 

@@ -16,6 +16,12 @@ toc: false
 
 The Working Group for Modern Materials and Contemporary Art is part of the Committee for Conservation (ICOM-CC), a committee of the International Council of Museums (ICOM) network.
 
+---
+
+Front cover: Analogue projection of Aleksandar Srnec’s *Luminoplastic 1*, 1965–67 (fig. 8.6). Museum of Contemporary Art, Zagreb.
+
+Back cover: [TK]
+
 {{< /q-class >}}
 
 - Getty Conservation Institute
@@ -42,7 +48,3 @@ Distributed in the United States and Canada by the University of Chicago Press<b
 Distributed outside the United States and Canada by Yale University Press, London
 
 {{< q-loc >}}
-
-Front cover: Analogue projection of Aleksandar Srnec’s *Luminoplastic 1*, 1965–67 (fig. 8.6). Museum of Contemporary Art, Zagreb.
-
-Back cover: [TK]

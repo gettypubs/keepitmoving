@@ -42,7 +42,7 @@ entries:
 
   - sort_by: Eco 1962
     short: Eco 1962
-    full: "Eco, Umberto. 1962. Untitled essay in *Arte programmata: Arte cinetica, opere moltiplicate, opera aperta*. n.p. Milan: Olivetti. Exh. cat."
+    full: "Eco, Umberto. 1962. Untitled essay in *Arte programmata: Arte cinetica, opere moltiplicate, opera aperta*. n.p. Milan: Olivetti. Exh.&#160;cat."
     reference_for: "keynotes/2-caianiello"
 
   - sort_by: Eco 1989
@@ -77,7 +77,7 @@ entries:
 
   - sort_by: Weibel and Jansen 2006
     short: Weibel and Jansen 2006
-    full: "Weibel, Peter, and Gregor Jansen, eds. 2006. *Light Art from Artificial Light*. Karlsruhe: ZKM. Exh. cat."
+    full: "Weibel, Peter, and Gregor Jansen, eds. 2006. *Light Art from Artificial Light*. Karlsruhe: ZKM. Exh.&#160;cat."
     reference_for: "keynotes/2-caianiello"
 
   - sort_by: Zell 2015
@@ -247,7 +247,7 @@ entries:
 
   - sort_by: Bek 1969
     short: Bek 1969
-    full: "Bek, Božo, ed. 1969. *Tendencije 4: Zagreb, 1968–1969*. Zagreb: Gallery of Contemporary Art, Zagreb. Exh. cat."
+    full: "Bek, Božo, ed. 1969. *Tendencije 4: Zagreb, 1968–1969*. Zagreb: Gallery of Contemporary Art, Zagreb. Exh.&#160;cat."
     reference_for: "collections/8-pavic_mestric"
 
   - sort_by: Caple 2000

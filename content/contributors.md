@@ -6,6 +6,6 @@ type: page
 
 {{< q-contributors range="primary" >}}
 
----
+<hr />
 
 {{< q-contributors range="all" >}}

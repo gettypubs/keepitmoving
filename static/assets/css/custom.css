@@ -353,6 +353,11 @@ br.pdf-toc {
     color: #fff;
   }
 
+  #posters-index::before {
+    content: "#";
+    color: #fff;
+  }
+
   /*Start main page numbering at Opening Remarks*/
   .quire-body#opening-remarks {
     counter-reset: page 1;
@@ -463,13 +468,22 @@ br.pdf-toc {
     max-width: 5.5in;
   }
 
-  #contributors .q-contributors__list:last-of-type,
-  #theoretical-issues-14-dhaenens #preservation-and-functionality {
-    column-break-before: always;
+  #contributors .q-contributors__list {
+    column-span: all;
+    column-count: 2;
+    column-gap: 0.25in;
   }
 
+  #contributors #grazia-de-cesare,
+  #contributors #sherry-phillips,
+  #contributors #simon-rees,
+  #contributors #eugenia-stamatopoulou,
+  #contributors #ming-yi-tsai,
+  #contributors #sjoukje-van-der-laan {
+    column-break-before: always;
+  }
   #contributors hr {
-    display: none;
+    column-span: all;
   }
 
   #videos h2 {
@@ -522,6 +536,9 @@ br.pdf-toc {
 
   #copyright .logo-block p {
     margin-bottom: 0;
+  }
+  #copyright .logo-block p:last-of-type {
+    margin-top: 1em;
   }
 
   .quire-body-class--copyright .quire-page__content__main ul:first-of-type {
