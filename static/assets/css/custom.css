@@ -302,6 +302,17 @@ br.pdf-toc {
       content: none; }
   }
 
+  /* Match use of primary color to cover color and in CMYK */
+  .quire-body-type--cover .quire-nav,
+  .quire-body-type--cover .quire-nav a,
+  .quire-body-type--cover .quire-cover__inner__title,
+  .quire-page__header__title {
+    color: cmyk(.35,.15,1,0);
+  }
+  .quire-body-type--section-head .quire-page {
+    background-color: cmyk(.35,.15,1,0);
+  }
+
   #opening-remarks .quire-page,
   #contributors .quire-page,
   #participants .quire-page,
