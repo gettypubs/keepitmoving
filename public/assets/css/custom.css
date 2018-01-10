@@ -224,21 +224,13 @@ br.pdf-toc {
   @page footer:right {
     @bottom-left {
       font-style: normal;
-      color: cmyk(0,0,0,0.65);
     }
   }
-  @page footer:left {
-    @bottom-right {
-      color: cmyk(0,0,0,0.65);
-    }
-  }
-
   @page frontmatter:left {
     @bottom-right {
       content: string(papertitle);
       font-family: "Open Sans", sans-serif;
       font-size: 7.5pt;
-      color: cmyk(0,0,0,0.65);
     }
   }
 
@@ -253,7 +245,6 @@ br.pdf-toc {
       content: string(papertitle);
       font-family: "Open Sans", sans-serif;
       font-size: 7.5pt;
-      color: cmyk(0,0,0,0.65);
     }
   }
 
@@ -275,8 +266,7 @@ br.pdf-toc {
     @bottom-right {
       content: string(papertitle);
       font-family: "Open Sans", sans-serif;
-      font-size: 7.5pt;
-      color: cmyk(0,0,0,0.65); }
+      font-size: 7.5pt; }
   }
   @page footer-nosection:right {
     margin-bottom: 1in;
@@ -290,8 +280,7 @@ br.pdf-toc {
     @bottom-left {
       content: string(papernumber) string(papertitle);
       font-family: "Open Sans", sans-serif;
-      font-size: 7.5pt;
-      color: cmyk(0,0,0,0.65); }
+      font-size: 7.5pt; }
   }
   @page footer-nosection:right:first {
     @bottom-left {
@@ -300,6 +289,17 @@ br.pdf-toc {
   @page footer-nosection:left:first {
     @bottom-right {
       content: none; }
+  }
+
+  /* Match use of primary color to cover color and in CMYK */
+  .quire-body-type--cover .quire-nav,
+  .quire-body-type--cover .quire-nav a,
+  .quire-body-type--cover .quire-cover__inner__title,
+  .quire-page__header__title {
+    color: cmyk(.35,.15,1,0);
+  }
+  .quire-body-type--section-head .quire-page {
+    background-color: cmyk(.35,.15,1,0);
   }
 
   #opening-remarks .quire-page,
@@ -551,6 +551,16 @@ br.pdf-toc {
   #copyright .logo-block p:last-of-type {
     margin-top: 1em;
   }
+
+  #copyright .logo-block hr::after {
+    content: none;
+  }
+
+  #copyright .logo-block hr {
+    border: .25pt solid cmyk(0,0,0,0.65);
+    margin-right: .5in;
+  }
+
 
   .quire-body-class--copyright .quire-page__content__main ul:first-of-type {
     list-style-type: none;
