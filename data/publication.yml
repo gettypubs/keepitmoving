@@ -133,28 +133,28 @@ formats:
     media_type: application/epub+zip
     link_relation: alternate
     url: http://www.getty.edu/publications/keepitmoving/downloads/KeepItMoving.epub
-    identifier: 978-1-60606-538-9
+    identifier: 978-1-60606-537-2
     note:
     icon: download-icon
   - name: MOBI/KINDLE
     media_type: application/mobi
     link_relation: alternate
     url: http://www.getty.edu/publications/keepitmoving/downloads/KeepItMoving.mobi
-    identifier: 978-1-60606-538-9
+    identifier: 978-1-60606-537-2
     note:
     icon:
   - name: PDF
     media_type: application/pdf
     link_relation: alternate
     url: http://www.getty.edu/publications/keepitmoving/downloads/KeepItMoving.pdf
-    identifier: 978-1-60606-537-2
+    identifier: 978-1-60606-538-9
     note:
     icon:
   - name: Paperback
     media_type: print
     link_relation: alternate
     url: http://shop.getty.edu/products/keep-it-moving-978-1606065372
-    identifier: 978-1-60606-537-2
+    identifier: 978-1-60606-538-9
     note:
     icon: cart-icon
 
