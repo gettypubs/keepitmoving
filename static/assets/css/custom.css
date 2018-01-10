@@ -552,6 +552,16 @@ br.pdf-toc {
     margin-top: 1em;
   }
 
+  #copyright .logo-block hr::after {
+    content: none;
+  }
+
+  #copyright .logo-block hr {
+    border: .25pt solid cmyk(0,0,0,0.65);
+    margin-right: .5in;
+  }
+
+
   .quire-body-class--copyright .quire-page__content__main ul:first-of-type {
     list-style-type: none;
     padding-left: 0;

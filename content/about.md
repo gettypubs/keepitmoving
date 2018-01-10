@@ -67,7 +67,7 @@ www.getty.edu/publications
 
 {{< q-loc >}}
 
-[Cover](/): Analogue projection of Aleksandar Srnec’s *Luminoplastic 1*, 1965–67 ([fig. 8.6](../collections/8-pavic_mestric/#fig-8-6)). Museum of Contemporary Art, Zagreb.
+[Cover](/): Analogue projection of Aleksandar Srnec’s *Luminoplastic 1*, 1965–67. Video (see [fig. 8.6](../collections/8-pavic_mestric/#fig-8-6)). Museum of Contemporary Art, Zagreb.
 
 {{< q-class "gci-block" >}}
 

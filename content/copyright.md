@@ -18,9 +18,7 @@ The Working Group for Modern Materials and Contemporary Art is part of the Commi
 
 ---
 
-Front cover: Analogue projection of Aleksandar Srnec’s *Luminoplastic 1*, 1965–67 (fig. 8.6). Museum of Contemporary Art, Zagreb.
-
-Back cover: [TK]
+Front and back cover: Analogue projection of Aleksandar Srnec’s *Luminoplastic 1*, 1965–67. Video stills (see fig. 8.6). Museum of Contemporary Art, Zagreb.
 
 {{< /q-class >}}
 
