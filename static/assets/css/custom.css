@@ -217,6 +217,10 @@ br.pdf-toc {
   margin-bottom: 0;
 }
 
+#contents ul.quire-contents .quire-contents__page--video:first-child {
+  display: none;
+}
+
 /* Print */
 
 @media print {
@@ -460,7 +464,9 @@ br.pdf-toc {
   #videos .q-figure.q-figure-grid .q-figure__inner-figure.q-grid-2 {
     width: 48.4%;
   }
-  #fig-15-1,
+  #fig-15-1 {
+    width: 60%;
+  }
   #fig-20-1 {
     width: 70%;
   }
