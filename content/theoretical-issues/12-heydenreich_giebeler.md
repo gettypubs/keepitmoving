@@ -11,7 +11,7 @@ contributor:
    last_name: Giebeler
    bio: Julia Giebeler is a freelance conservator of historical, modern, and contemporary art. In 2012 she completed her MA at the Cologne Institute of Conservation Sciences (CICS) with a thesis on the preservation of Heinz Mack’s early light-kinetics as a case study in conservation theory. Since 2013 Giebeler has been a research assistant at CICS, focusing on theoretical conservation issues in contemporary art.
 abstract: |
-    Increasing consideration is given today to the early kinetic works of the ZERO founders Otto Piene (1928–2014), Heinz Mack (b. 1931), and Günther Uecker (b. 1930). But is this hype a stroke of luck or misfortune for the preservation of their works? Through three case studies, this paper analyzes the influence of growing public interest on the preservation and presentation of kinetic artworks by examining the following aspects in more detail: 1) a changing evaluation of work components; 2) rediscovery and value enhancement; and 3) influences of exhibitions.
+    Increasing consideration is given today to the early kinetic works of the ZERO founders Otto Piene (1928–2014), Heinz Mack (b. 1931), and Günther Uecker (b. 1930). But is this hype a stroke of luck or misfortune for the preservation of their works? Through three case studies, this paper analyzes the influence of growing public interest on the preservation and presentation of kinetic artworks by examining the following aspects in more detail: (1) a changing evaluation of work components; (2) rediscovery and value enhancement; and (3) influences of exhibitions.
 weight: 401
 ---
 
