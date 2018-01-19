@@ -117,7 +117,7 @@ figure_list:
     src: fig-2-1-caianiello.jpg
     caption: >
       A screwdriver cannot be used as an ashtray.
-    Credit: >
+    credit: >
       Photo: Tiziana Caianiello
 
   - id: "2.2"
