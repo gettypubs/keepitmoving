@@ -181,7 +181,7 @@ figure_list:
     media_type: youtube
     fallback: fig-3-1-video-gilberg.jpg
     caption: >
-      Chris Burden’s *Metropolis II* (2010) in action.
+      Chris Burden’s *Metropolis II*, 2011, in action.
     credit: >
       © Chris Burden Estate. Courtesy of the Nicolas Berggruen Charitable Foundation. Photo: Mark Gilberg and Alison Walker.
 
@@ -528,7 +528,7 @@ figure_list:
     caption: >
       Analogue projection of Aleksandar Srnec’s *Luminoplastic 1*, 1965–67.
     credit: >
-      Museum of Contemporary Art, Zagreb.
+      Video: Museum of Contemporary Art, Zagreb.
 
   - id: "8.7"
     src: fig-8-7-pavic.jpg
@@ -586,7 +586,7 @@ figure_list:
     caption: >
       Comparison of the analogue and digital projections.
     credit: >
-      Museum of Contemporary Art, Zagreb.
+      Video: Museum of Contemporary Art, Zagreb.
 
   - id: "9.1"
     src: zNr9YISTQfw
