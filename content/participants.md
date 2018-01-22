@@ -100,9 +100,7 @@ type: page
 
     <span class="quire-noprint">[Bio](/contributors/#marianna-cappellina)|[Contribution](/posters/16-cappellina/)</span>
 
-    Strati s.n.c., in residence at Museo Nazionale della Scienza e della
-
-    Tecnologia “Leonardo da Vinci,” Milan
+    Strati s.n.c., in residence at Museo Nazionale della Scienza e della Tecnologia “Leonardo da Vinci,” Milan
 
     Italy
 
@@ -160,7 +158,7 @@ type: page
 
 - **Matilde Dolcetti**
 
-    Matilde Dolcetti Restauri y Conservazione, Milan
+    Matilde Dolcetti Restauri e Conservazione, Milan
 
     Italy
 
@@ -675,9 +673,9 @@ Nacional de San Martín, Buenos Aires
 
     <span class="quire-noprint">[Bio](/contributors/#erin-stephenson)|[Contribution](/collections/7-stephenson/)</span>
 
-    National Gallery of Art
+    National Gallery of Art, Washington, DC
 
-    Washington, D.C., USA
+    USA
 
 
 - **David Strivay**
