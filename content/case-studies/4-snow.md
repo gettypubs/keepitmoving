@@ -1,6 +1,7 @@
 ---
 id: "4"
 title: Conserving Thomas Wilfred’s *Lumia Suite, Opus 158*
+short_title: Conserving Thomas Wilfred’s *Lumia Suite*
 type: essay
 contributor:
  - first_name: Carol
@@ -61,7 +62,7 @@ After unpacking the numerous crates and boxes sent by MoMA to Yale in early 2015
 A thorough condition assessment of the main components was performed: vertical projector, horizontal projector, reflector tower, elliptical convertor, two ultramarine flood lamps, lamp control unit, and the actuator. An important part of this assessment was checking the condition of the 1960s electrical wiring and testing the electrical components. A multimeter, an instrument that measures electric current, voltage, and resistance, was used to check all switching devices, motors, and fans. The electrical components of *Lumia Suite* looked good, including the hazardous asbestos wiring and mercury switches. Minor physical damage was discovered—the color wheel on the vertical projector was bent out of plane and the adhesion of some electrical tape had failed—but otherwise *Lumia Suite* was in robust condition.
 
 
-The next phase of the project was the design and construction of a portable system to replace MoMA’s original projection room, which had been built with lumber, drywall, and a firewall. Again, Wilfred’s meticulous descriptions, along with his scale drawings (1/4 in.:1 ft. and 1 in.:1 ft.), allowed for accurate reconstruction and reassembly ([fig. 4.4](#fig-4-4)). A T-slotted, anodized matte-black (to prevent light reflections), extruded aluminum track system was chosen to provide two lightweight, adjustable, and mobile framework systems to replace the opposing walls in the projection room. While the 80/20<sup>®</sup> aluminum frames were being fabricated, treatment of the components proceeded.
+The next phase of the project was the design and construction of a portable system to replace MoMA’s original projection room, which had been built with lumber, drywall, and a firewall. Again, Wilfred’s meticulous descriptions, along with his scale drawings (1/4 in.:1 ft. and 1 in.:1 ft.), allowed for accurate reconstruction and reassembly ([fig. 4.4](#fig-4-4)). A T-slotted, anodized matte-black (to prevent light reflections), extruded aluminum track system was chosen to provide two lightweight, adjustable, and mobile framework systems to replace the opposing walls in the projection room. While the 80/20 aluminum frames were being fabricated, treatment of the components proceeded.
 
 {{< q-figure id="4.4" class="float-right" pdf="one-column">}}
 
@@ -71,7 +72,7 @@ With the aluminum frameworks ready to receive the components, and the components
 
 {{< q-figure id="4.5" >}}
 
-The technical manual described the importance of the timing and synchronization of all components, so although brief tests were conducted on individual components, the installation was not plugged in for any length of time until all components were wired together as per Wilfred’s instructions. Once completely connected, *Lumia Suite* was plugged in simultaneously using one extension cord for the light bulbs and lamps and one extension cord for all motors and fans. That way all components were synchronized and followed precisely the twelve-minute cycle comprising the three movements: horizontal, vertical, and elliptical. The only components that needed to be replaced during the electrical setup were one small potentiometer that controlled the motion of the elliptical convertor and one 5 amp fuse in the lamp control unit, both still readily available. A thermal check with a FLIR ONE™ camera attachment for smartphones confirmed that the source of the greatest heat was the 1,000W beacon bulb in the horizontal projector ([fig. 4.6](#fig-4-6)).
+The technical manual described the importance of the timing and synchronization of all components, so although brief tests were conducted on individual components, the installation was not plugged in for any length of time until all components were wired together as per Wilfred’s instructions. Once completely connected, *Lumia Suite* was plugged in simultaneously using one extension cord for the light bulbs and lamps and one extension cord for all motors and fans. That way all components were synchronized and followed precisely the twelve-minute cycle comprising the three movements: horizontal, vertical, and elliptical. The only components that needed to be replaced during the electrical setup were one small potentiometer that controlled the motion of the elliptical convertor and one 5 amp fuse in the lamp control unit, both still readily available. A thermal check with a FLIR ONE camera attachment for smartphones confirmed that the source of the greatest heat was the 1,000W beacon bulb in the horizontal projector ([fig. 4.6](#fig-4-6)).
 
 {{< q-figure id="4.6" class="float-right" pdf="one-column" >}}
 
@@ -95,13 +96,13 @@ Wilfred’s groundbreaking contribution to kinetic art and time-based media is f
 
 ## Materials and Suppliers
 
-> Extruded aluminum: manufactured by 80/20<sup>®</sup> Inc., [https://www.8020.net](https://www.8020.net/); distributed by AIR, Inc., [http://airinc.net/&#8203;8020-extrusion](http://airinc.net/8020-extrusion/).
+> Extruded aluminum: manufactured by 80/20 Inc., [https://www.8020.net](https://www.8020.net/); distributed by AIR, Inc., [http://airinc.net&#8203;/8020-extrusion](http://airinc.net/8020-extrusion/).
 
 > Handmade tungsten-filament incandescent light bulbs: Dylan Kehde Roelofs, [http://www.incandescentsculpture.com](http://www.incandescentsculpture.com/).
 
 > Coiled tungsten filaments: R. D. Mathis, Long Beach, CA, [http://www.rdmathis.com](http://www.rdmathis.com/#filaments).
 
-> Infrared camera for smartphone: FLIR ONE™, [http://www.flir.com](http://www.flir.com/flirone/content/?id=62910).
+> Infrared camera for smartphone: FLIR ONE, [http://www.flir.com](http://www.flir.com/flirone/content/?id=62910).
 
 {{< /q-backmatter >}}
 

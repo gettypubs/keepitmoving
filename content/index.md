@@ -14,4 +14,6 @@ Presenting the latest research and scholarship on the topic with fifteen essays 
 
 ----
 
-*Keep it Moving? Conserving Kinetic Art* was a sympoisum organized by the Getty Conservation Institute and the Modern Materials and Contemporary Art (MMCA) working group of the International Council of Museums, Committee for Conservation (ICOM-CC), held at the Palazzo Reale and Museo del Novecento, Milan, June 30 to July 2, 2016.
+Proceedings from the meeting organized by the Getty Conservation Institute, the ICOM-CC Modern Materials and Contemporary Art Working Group, and Museo del Novecento
+
+Palazzo Reale, Milan, Italy, June 30–July 2, 2016

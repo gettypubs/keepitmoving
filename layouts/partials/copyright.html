@@ -1,0 +1,43 @@
+<div class="quire-copyright">
+
+{{- if .Site.Data.publication.copyright -}}
+  <p>{{ .Site.Data.publication.copyright }}</p>
+{{- end -}}
+
+  <p>Text by Rachel Rivenc, Reinhard Bek, and Timothy P. Whalen © 2018 J. Paul Getty Trust. All other text ©&#160;the authors.</p>
+
+{{- if .Site.Data.publication.license.name -}}
+
+{{- if .Site.Data.publication.license.icon -}}
+  <img src="{{ .Site.BaseURL }}/assets/img/{{ .Site.Data.publication.license.icon }}" alt="logo for {{ .Site.Data.publication.license.name }}" />
+{{- end -}}
+
+  <p>
+  {{- if eq .Site.Data.publication.license.scope "some-exceptions" -}}
+    Except where otherwise noted, this work is licensed under a {{ with .Site.Data.publication.license.url }}<a rel="license" href="{{ . }}">{{ end }}{{ .Site.Data.publication.license.name }}{{ with .Site.Data.publication.license.url }}</a>{{ end }}.
+  {{- else if eq .Site.Data.publication.license.scope "text-only" -}}
+    The text of this work is licensed under a {{ with .Site.Data.publication.license.url }}<a rel="license" href="{{ . }}">{{ end }}{{ .Site.Data.publication.license.name }}{{ with .Site.Data.publication.license.url }}</a>{{ end }}. Unless otherwise noted, all illustrations are excluded from the {{ if .Site.Data.publication.license.name_short }}{{ .Site.Data.publication.license.name_short }}{{ else }}{{ .Site.Data.publication.license.name }}{{ end }} license.
+  {{- else -}}
+    The text of this work and figs. 0.1–3, 1.9–12, 2.1, 6.2–6, 7.1–11, and 20.1 are licensed under a {{ with .Site.Data.publication.license.url }}<a rel="license" href="{{ . }}">{{ end }}{{ .Site.Data.publication.license.name }}{{ with .Site.Data.publication.license.url }}</a>{{ end }}. <span class="quire-noscreen">To view a copy of this license{{ with .Site.Data.publication.license.url }}, visit {{ . }}{{ end }}.</span> All other images are reproduced with the permission of the rights holders acknowledged in captions and are expressly excluded from the CC BY license covering the rest of this publication. These images may not be reproduced, copied, transmitted, or manipulated without consent from the owners, who reserve all rights.
+  {{- end -}}
+  </p>
+
+  {{- if .Site.Data.publication.license.exceptions.all -}}
+  <div>
+    {{ markdownify .Site.Data.publication.license.exceptions.all }}
+  </div>
+  {{- end -}}
+  {{- if .Site.Data.publication.license.exceptions.online -}}
+  <div class="quire-noprint">
+    {{ markdownify .Site.Data.publication.license.exceptions.online }}
+  </div>
+  {{- end -}}
+  {{- if .Site.Data.publication.license.exceptions.pdf_ebook -}}
+  <div class="quire-noscreen">
+    {{ markdownify .Site.Data.publication.license.exceptions.pdf_ebook }}
+  </div>
+  {{- end -}}
+
+{{- end -}}
+
+</div>

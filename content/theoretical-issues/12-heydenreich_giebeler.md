@@ -1,6 +1,7 @@
 ---
 id: "12"
 title: The Hype about ZERO and Its Influence on the Conservation and Presentation of Early Kinetic Works
+short_title: The Hype about ZERO and Its Influence
 type: essay
 contributor:
  - first_name: Gunnar
@@ -10,7 +11,7 @@ contributor:
    last_name: Giebeler
    bio: Julia Giebeler is a freelance conservator of historical, modern, and contemporary art. In 2012 she completed her MA at the Cologne Institute of Conservation Sciences (CICS) with a thesis on the preservation of Heinz Mack’s early light-kinetics as a case study in conservation theory. Since 2013 Giebeler has been a research assistant at CICS, focusing on theoretical conservation issues in contemporary art.
 abstract: |
-    Increasing consideration is given today to the early kinetic works of the ZERO founders Otto Piene (1928–2014), Heinz Mack (b. 1931), and Günther Uecker (b. 1930). But is this hype a stroke of luck or misfortune for the preservation of their works? Through three case studies, this paper analyzes the influence of growing public interest on the preservation and presentation of kinetic artworks by examining the following aspects in more detail: 1) a changing evaluation of work components; 2) rediscovery and value enhancement; and 3) influences of exhibitions.
+    Increasing consideration is given today to the early kinetic works of the ZERO founders Otto Piene (1928–2014), Heinz Mack (b. 1931), and Günther Uecker (b. 1930). But is this hype a stroke of luck or misfortune for the preservation of their works? Through three case studies, this paper analyzes the influence of growing public interest on the preservation and presentation of kinetic artworks by examining the following aspects in more detail: (1) a changing evaluation of work components; (2) rediscovery and value enhancement; and (3) influences of exhibitions.
 weight: 401
 ---
 
@@ -26,15 +27,15 @@ However, a significant crossroads was reached when Piene passed away in 2014. Th
 
 ## Case Study I: The Rolandschule in Düsseldorf
 
-{{< q-figure id="12.1" >}}
-
 In 1960 the architect Paul Schneider-Esleben, who designed and executed Rolandschule, a primary school in Düsseldorf, hired four young local artists—Piene, Mack, Uecker, and Joseph Beuys—to each create an artwork for the school. The work by Beuys was not fully appreciated at the time, and the school decided to return it to him shortly after the opening. *Lichtballett* by Piene, *Farborgel* by Mack, and *Schattenspiel* by Uecker were installed at the school, where they are still in situ today. Together they form a successful symbiosis of social architecture, functionality, and modern art.
 
-{{< q-figure id="12.2" class="float-left" pdf="two-column" >}}
-
-{{< q-figure id="12.3" pdf="one-column" >}}
-
 In Piene’s *Lichtballett*, incandescent bulbs mounted behind perforated aluminum plates light up in a programmed order and create a spherical light environment ([fig. 12.1](#fig-12-1)). The white panels of Uecker’s *Schattenspiel* seem like heavenly bodies, simultaneously reflecting light and projecting shadows ([fig. 12.2](#fig-12-2)); the schoolchildren can move the panels and thereby influence the play of light. Mack’s *Farborgel* consists of large, colorfully painted wheels with rotor blades; children can set these in motion with a flywheel that changes the color combinations ([fig. 12.3](#fig-12-3)).
+
+{{< q-figure id="12.1" >}}
+
+{{< q-figure id="12.2" >}}
+
+{{< q-figure id="12.3" >}}
 
 However, two days after the school opened, a girl ran into a pane of glass and injured her hand. Although the artworks were not involved in the accident, Mack’s and Uecker’s works were deemed not compliant with safety regulations and were turned off; Mack’s *Farborgel* was protected by a wire grid, and its flywheel was removed. Until recently, the children’s experience of the artworks was still limited: barriers prevented them from using the *Farborgel* as intended. Piene’s *Lichtballett* had been cleaned and decorated with plants; unfortunately, the control unit disappeared during renovation. Uecker’s *Schattenspiel* had been covered with heavy white boards and all the light elements were lost ([fig. 12.4](#fig-12-4)); at that time, the artist no longer considered the installation to be one of his works.
 
@@ -58,9 +59,9 @@ For the artworks in the Rolandschule, renewed appreciation for the ZERO movement
 
 ## Case Study II: *Lichtraum (Hommage à Fontana)*
 
-{{< q-figure id="12.5a" >}}
-
 In 1964 Piene, Uecker, and Mack assembled seven artworks to create *Lichtraum (Hommage à Fontana)* at documenta 3 in Kassel ([fig. 12.5a](#fig-12-5a)). The installation included both individual and collective works, as well as a slide projector that projected a photograph of a painting by Lucio Fontana on the wall. Because they received their invitation to documenta later, all the exhibition spaces had been reserved for other artists, and *Lichtraum* was exhibited in the Fridericianum garret. This small, long, angled room had a low, gabled roof, and it was windowless and very dark. The concrete walls were initially untreated but were painted white before the exhibition opened.
+
+{{< q-figure id="12.5a" >}}
 
 ### 1992 Kunstmuseum Düsseldorf
 
@@ -79,7 +80,9 @@ With the growing interest in ZERO, the Museum Kunstpalast Düsseldorf wanted to 
 The kinetic objects composing *Lichtraum* are very fragile, and loan requests were rejected for decades. However, after a long discussion phase while planning the ZERO exhibitions in Paris, New York, Berlin, and Amsterdam,[^5] the Museum Kunstpalast Düsseldorf decided to lend *Lichtraum* on the condition that replicas be used for the original light panels from *Weiße Lichtmühle* and *Lichtkugel*. For the New York exhibition, Guggenheim Museum curators reconstructed the spatial impression of the 1964 presentation by using fabric panels to suggest the slope of the ceiling, which unfortunately did not provide an ideal surface for slide projection ([fig. 12.5d](#fig-12-5d)). Piene had previously rejected this type of historicizing reconstruction.[^6] In Berlin, curators at Martin-Gropius-Bau arranged the artworks in a row in a comparatively large, bright exhibition space [fig. 12.5e](#fig-12-5e)), with the size of the room predetermined by the museum floor plans. At the Stedelijk Museum Amsterdam, a relatively small exhibition space was chosen to present *Lichtraum*, and the artworks were installed in a more dense arrangement ([fig. 12.5f](#fig-12-5f)). The strategy to adapt *Lichtraum* to new spatial conditions corresponds to the initial approach of the ZERO artists but caused some conflict with the artworks’ preprogrammed sequences of operation.
 
 {{< q-figure id="12.5d" >}}
+
 {{< q-figure id="12.5e" >}}
+
 {{< q-figure id="12.5f" >}}
 
 ### Second Interim Conclusion

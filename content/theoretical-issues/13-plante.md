@@ -20,11 +20,11 @@ additional_references:
 weight: 402
 ---
 
-{{< q-figure id="13.1" >}}
-
 In 1966, Julio Le Parc represented Argentina in the Venice Biennale ([fig. 13.1](#fig-13-1)) and received the international grand prize in painting. According to the reviews, his space was one of the most visited.[^1] As the appeal of kinetic art continued to grow and draw crowds to museums, kinetic artworks seemed to meet the most ambitious objective of the avant-garde: to integrate art and life.
 
-Kineticism[^2] was an international trend composed of different groups of artists who were in contact with one another, including the Groupe de Recherche d’Art Visuel (GRAV) in France, Gruppo T and Gruppo N in Italy, ZERO in Germany, Dwizjenije in Moscow, and USCO in New York. In 1964 the *Nouvelle tendance* exhibition at the Musée des Arts Décoratifs, Paris, had gathered about fifty artists from eleven countries.[^3] In Pascal Rousseau’s words, kinetic art was viewed “as a kind of Esperanto through which each individual would communicate with the world in the ecstatic intoxication of optical vibration” ({{<q-cite "Rousseau 2005" "142–150">}}).
+Kineticism[^2] was an international trend composed of different groups of artists who were in contact with one another, including the Groupe de Recherche d’Art Visuel (GRAV) in France, Gruppo T and Gruppo N in Italy, ZERO in Germany, Dwizjenije in Moscow, and USCO in New York. In 1964 the *Nouvelle tendance* exhibition at the Musée des Arts Décoratifs, Paris, had gathered about fifty artists from eleven countries.[^3] In Pascal Rousseau’s words, kinetic art was viewed “as a kind of Esperanto through which each individual would communicate with the world in the ecstatic intoxication of optical vibration” ({{<q-cite "Rousseau 2005" "142–50">}}).
+
+{{< q-figure id="13.1" >}}
 
 A cognitive understanding of perception allowed the kineticists to claim that optical effects were not merely illusions. Altering visual and synesthetic perception entailed the literal and symbolic alteration of the ways in which each participant perceived him or herself and the world. As Umberto Eco and Victor Vasarely pointed out in the early 1960s, while this art helped develop the sensorial capacity of modern viewers under new social and technological circumstances,[^4] the resources implemented by kinetic art also intended to call into question not only the system of the fine arts but also a society that artists such as Le Parc thought had become automated.
 
@@ -62,7 +62,7 @@ After 1965 an increasing number of galleries and artists produced and sold multi
 
 > In less than a year, this trend developed and grew to the extent that the word “multiple” now sounds like “open sesame.” Even lithographs use the sweet name of “Multiples.” \[ . . . \] Some want to do away with the structures of art distribution; others would socialize art. In times of euphoria, confusion is inevitable.[^18]
 
-Prices and options varied. The Galerie Givaudan opened in 1965 and specialized in multiples, following the model of publishing houses: large-scale editions, with the same price for famous artists and newcomers. Thus Givaudan aspired to moralize an art market that grew apace with France’s modernization without modifying its elitist logic (see {{<q-cite "Moulin 1967" "">}}).
+Prices and options varied. The Galerie Givaudan opened in 1965 and specialized in multiples, following the model of publishing houses: large-scale editions, with the same price for famous artists and newcomers. Thus Givaudan aspired to moralize an art market that grew apace with France’s modernization without modifying its elitist logic (see {{<q-cite "Hahn 1968" "">}}).
 
 René opted to have the production of the works supervised by their respective creators. Unlike Le Parc and GRAV members, she disliked unlimited editions. In her view, after 100 copies had been made, the others would be produced unsupervised by the artist, a fact that detracted from their quality. She also opposed the “demystification of art,” so much discussed by GRAV members, because she felt it meant equating an art object with a mere consumer item. She maintained that “art must keep its aura and continue to be a high quality product that bears witness to a way of thinking about the world.”[^19] Charging more accessible prices, René intended to spread modern art among social sectors whose purchasing power prevented them from buying unique works. For her, it was about democratizing access to ownership of art objects . . . and increasing sales.
 
@@ -80,7 +80,7 @@ As Hahn pointed out, opinions about multiples varied. Blurring the work’s aura
 
 4.  To begin with, a Multiple may have a limited run. It can be gradually multiplied depending on the possibilities of the art market. However, it will be regarded as a Multiple as long as it is initially conceived as unlimited.
 
-5.  As part of its lack of limitations, the Multiple, which underscores the triumph of the artist’s thought above the dated, fetishist conception of the art piece, excludes the author’s signature. \[ . . . \]
+5.  As part of its lack of limitations, the Multiple, which underscores the triumph of the artist’s thought above the dated, fetishist conception of the art piece, excludes the author’s signature. [&#160;. . .&#160;]
 
 > The Multiple is located at the junction of artistic creation and industrial production. It protects the whole of the former as it offers the possibilities of the latter. This is one of the meeting points between art and the technology of our days.[^20]
 

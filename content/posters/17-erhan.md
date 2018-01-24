@@ -33,3 +33,5 @@ The motion of the leg is powered by an electric motor that rotates a flywheel. T
 When the movable leg was examined to replace the torn steel cable, it was evident that the leg swung very strongly in both directions (see [fig. 17.1b](#fig-17-1b)), which raised the question of whether this was the original configuration. Further inspection of the flywheel revealed that one hole had distinct traces of wear, indicating that it had been used originally. Because the hole was already very worn, it could not continue to be used. After consultation with the museum, a new hole was drilled with the same distance to the center as the original. This allows the old hole to serve as a primary document.
 
 Additional treatments were performed to stabilize frail parts of the GRP, consolidate delamination, fill losses, and retouch this painted outdoor sculpture.
+
+---

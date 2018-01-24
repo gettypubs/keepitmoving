@@ -32,7 +32,7 @@ primary_contributor:
     role: Editor
     role_code: edc
     url:
-    bio: "Rachel Rivenc, associate scientist, has been working within the Modern and Contemporary Art Research Initiative at the Getty Conservation Institute since 2006. She studies the diverse materials and techniques used by contemporary artists, and their conservation. She is also coordinator for the Modern Materials and Contemporary Art working group of ICOM–CC. Rivenc holds an MA in paintings conservation from the Université Paris 1 Panthéon-Sorbonne and received a PhD in history from the Université de Versailles Saint-Quentin-en-Yvelines. She recently published the book *Made in Los Angeles: Materials, Processes, and the Birth of West Coast Minimalism*."
+    bio: "Rachel Rivenc, associate scientist, has been working within the Modern and Contemporary Art Research Initiative at the Getty Conservation Institute since 2006. She studies the diverse materials and techniques used by contemporary artists, and their conservation. She is also coordinator for the Modern Materials and Contemporary Art working group of ICOM–CC. Rivenc holds an MA in paintings conservation from the Université Paris 1 Panthéon-Sorbonne and received a PhD in history from the Université de Versailles Saint-Quentin-en-Yvelines. She recently published the book *Made in Los Angeles: Materials, Processes, and the Birth of West Coast Minimalism*.<span class='q-contributors__list__item__link'><a href='http://www.getty.edu/publications/keepitmoving/preface/'>Preface</a></span>"
     file_as: 1
   - id: 2
     first_name: Reinhard
@@ -42,7 +42,7 @@ primary_contributor:
     role: Editor
     role_code: edc
     url:
-    bio: "Reinhard Bek completed his training as an objects conservator in 2002. That same year, he joined the Museum Tinguely in Basel, Switzerland, as its first permanent conservator. Bek was a founding member of the European Union project Inside Installations in 2003, and he was hired in 2008 by the Museum of Modern Art, New York, to spearhead an assessment of their technology-based artwork. In 2012, with his partner Christine Frohnert, he founded Bek & Frohnert LLC, based in New York City. He has lectured internationally and published widely on contemporary art conservation."
+    bio: "Reinhard Bek completed his training as an objects conservator in 2002. That same year, he joined the Museum Tinguely in Basel, Switzerland, as its first permanent conservator. Bek was a founding member of the European Union project Inside Installations in 2003, and he was hired in 2008 by the Museum of Modern Art, New York, to spearhead an assessment of their technology-based artwork. In 2012, with his partner Christine Frohnert, he founded Bek & Frohnert LLC, based in New York City. He has lectured internationally and published widely on contemporary art conservation.<span class='q-contributors__list__item__link'><a href='http://www.getty.edu/publications/keepitmoving/keynotes/1-bek/'>1. A Question of KinEthics</a></span>"
     file_as: 2
 
 secondary_contributor:
@@ -54,7 +54,7 @@ marketing_graphic:
 description:
   one_line:
   full: |
-    Kinetic art not only includes movement, but often depends on it to produce its intended effect and therefore fully realize its nature as work of art. It can take a multiplicity of forms and include a wide range of motion, from motorized and electrically driven movement to motion as the result of wind, light, or other sources of energy. Kinetic art emerged throughout the twentieth century, and had its major developments in the 1950s and 1960s.
+    Kinetic art not only includes movement, but often depends on it to produce its intended effect and therefore fully realize its nature as work of art. It can take a multiplicity of forms and include a wide range of motion, from motorized and electrically driven movement to motion as the result of wind, light, or other sources of energy. Kinetic art emerged throughout the twentieth century and had its major developments in the 1950s and 1960s.
 
     Professionals responsible for conserving contemporary art are in the midst of rethinking the concept of authenticity and solving the dichotomy often felt between original materials and functionality of the work of art. The contrast is especially acute with kinetic art when a compromise between the two often seems impossible. Also to be considered are issues of technological obsolescence and the fact that an artist’s chosen technology often carries with it strong sociological and historical information and meanings.
 
@@ -74,11 +74,11 @@ subject_metadata:
 
 library_of_congress_cip_data:
   - "Names: Rivenc, Rachel, editor. | Bek, Reinhard, editor. | Getty Conservation Institute, issuing body, organizer. | ICOM Committee for Conservation. Working Group Modern Materials and Contemporary Art, organizer. | Museo del Novecento (Milan, Italy), organizer. | Palazzo reale di Milano, host institution."
-  - "Title: Keep it moving? : conserving kinetic art : proceedings from the meeting organized by the Getty Conservation Institute, the ICOM-CC Modern Materials and Contemporary Art Working Group, and Museo del Novecento, Palazzo Reale, Milan, Italy, June 30-July 2, 2016 / Rachel Rivenc and Reinhard Bek, editors."
+  - "Title: Keep it moving? : conserving kinetic art : proceedings from the meeting organized by the Getty Conservation Institute, the ICOM-CC Modern Materials and Contemporary Art Working Group, and Museo del Novecento, Palazzo Reale, Milan, Italy, June 30–July 2, 2016 / Rachel Rivenc and Reinhard Bek, editors."
   - "Other titles: Conserving kinetic art"
   - "Description: Los Angeles, CA : Getty Conservation Institute, [2017] | Includes bibliographical references."
-  - "Identifiers: LCCN 2017029127 (print) | LCCN 2017034944 (ebook) | ISBN 9781606065389 (epub) | ISBN 9781606065365 (online) | ISBN 9781606065372 (pbk.)"
-  - "Subjects:  LCSH: Kinetic art--Conservation and restoration--Congresses."
+  - "Identifiers: LCCN 2017029127 (print) | LCCN 2017034944 (ebook) | ISBN 9781606065372 (epub) | ISBN 9781606065365 (online) | ISBN 9781606065389 (pbk.)"
+  - "Subjects:  LCSH: Kinetic art—Conservation and restoration—Congresses."
   - "Classification: LCC N6494.K5 (ebook) | LCC N6494.K5 K44 2017 (print) | DDC 709.04/07--dc23"
   - "LC record available at <a href=\"https://lccn.loc.gov/2017029127\" target=\"_blank\">https://lccn.loc.gov/2017029127</a>"
 
@@ -91,7 +91,7 @@ license:
   link_relation: license
   url: http://creativecommons.org/licenses/by/4.0/
   icon: cc-by.png
-  scope: text-only # full | text-only | some-exceptions
+  scope: # full | text-only | some-exceptions
   exceptions:
     online:
     pdf_ebook:
@@ -104,18 +104,21 @@ project_team:
   - first_name: Jennifer
     last_name: Boynton
     role: Manuscript Editor
-  - first_name: Michelle
-    last_name: Deemer
-    role: Production
+  - first_name: Greg
+    last_name: Albers
+    role: Digital Manager
   - first_name: Eric
     last_name: Gardner
     role: Designer and Developer
   - first_name: Nick
     last_name: Geller
     role: Assistant Digital Editor
-  - first_name: Greg
-    last_name: Albers
-    role: Digital Manager
+  - first_name: Michelle
+    last_name: Deemer
+    role: Production
+  - first_name: Jeffrey
+    last_name: Cohen
+    role: Cover Design
 
 
 # FORMATS, DOWNLOADS & LINKS
@@ -129,29 +132,29 @@ formats:
   - name: EPUB
     media_type: application/epub+zip
     link_relation: alternate
-    url: http://www.getty.edu/publications/keepitmoving/downloads/KeepItMoving.epub
-    identifier: 978-1-60606-538-9
+    url: http://www.getty.edu/publications/keepitmoving/downloads/RivencBek_KeepItMoving.epub
+    identifier: 978-1-60606-537-2
     note:
     icon: download-icon
   - name: MOBI/KINDLE
     media_type: application/mobi
     link_relation: alternate
-    url: http://www.getty.edu/publications/keepitmoving/downloads/KeepItMoving.mobi
-    identifier: 978-1-60606-538-9
+    url: http://www.getty.edu/publications/keepitmoving/downloads/RivencBek_KeepItMoving.mobi
+    identifier: 978-1-60606-537-2
     note:
     icon:
   - name: PDF
     media_type: application/pdf
     link_relation: alternate
-    url: http://www.getty.edu/publications/keepitmoving/downloads/KeepItMoving.pdf
-    identifier: 978-1-60606-537-2
-    note:
+    url: http://www.getty.edu/publications/keepitmoving/downloads/RivencBek_KeepItMoving.pdf
+    identifier: 978-1-60606-538-9
+    note: 6.1 MB
     icon:
   - name: Paperback
     media_type: print
     link_relation: alternate
     url: http://shop.getty.edu/products/keep-it-moving-978-1606065372
-    identifier: 978-1-60606-537-2
+    identifier: 978-1-60606-538-9
     note:
     icon: cart-icon
 

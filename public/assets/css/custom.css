@@ -1,35 +1,3 @@
-/* Primary Color, from application.css */
-
-a,
-code,
-.quire-menu__inner__header .quire-title,
-.quire-menu__inner__links button,
-.quire-cover__inner__title,
-.quire-page__header__title,
-.quire-page__section-list__link button {
-  color: #9eb300;
-}
-a:active, a:focus, a:hover {
-  color: shade(#9eb300, 25%);
-}
-
-.quire-nav svg,
-.quire-menu__button svg,
-.quire-search svg,
-.quire-page__section-list__link svg {
-  fill: #9eb300;
-}
-
-/* Primary Color, from overrides */
-
-.quire-cover__text__title {
-  color: #c4d544;
-}
-
-.quire-cover__footer {
-  background-color: #ecebf5;
-}
-
 /* Citations */
 
 .quire-citation {
@@ -37,13 +5,13 @@ a:active, a:focus, a:hover {
   text-align: inherit;
   box-sizing: inherit;
   border-width: 0;
-  background-color: #eaeaea;
+  background-color: #efebec;
   padding-left: .25em;
   padding-right: .25em;
   border-radius: .25em;
   font-size: .8em;
   font-weight: 400;
-  color: #727272;
+  color: #706c6d;
   cursor: pointer;
   white-space: nowrap;
 }
@@ -55,7 +23,7 @@ a:active, a:focus, a:hover {
   margin-top: 1em;
   font-size: .8em;
   line-height: 1.5;
-  background-color: #eee;
+  background-color: #efebec;
   border-radius: 10px;
   padding: 1em;
   max-width: 30em;
@@ -71,8 +39,21 @@ a:active, a:focus, a:hover {
   display: block;
 }
 
+.referenced-in {
+  display: block;
+  text-transform: uppercase;
+  font-size: .85em;
+  color: #231f20;
+}
+
 /* Cover */
 
+.quire-cover__text__title {
+  color: #c4d544;
+}
+.quire-cover__footer {
+  background-color: #ecebf5;
+}
 .quire-body.quire-body-type--cover .quire-nav-group {
   background-color: #000;
 }
@@ -105,17 +86,14 @@ a:active, a:focus, a:hover {
   font-weight: 700;
 }
 .quire-menu__inner .quire-title__contributors {
-  /*color: #231f20;*/
-  /*color: #a29e9f;*/
-  color: #aaa6a7;
+  color: #a29e9f;
   font-size: 75%;
   font-weight: 400;
   margin-top: 0;
 }
 
 .quire-menu__inner__links h3 button {
-  /*color: #a29e9f;*/
-  color: #aaa6a7;
+  color: #a29e9f;
 }
 
 .quire-menu__inner__links ul,
@@ -123,10 +101,6 @@ a:active, a:focus, a:hover {
   color: #fff;
 }
 
-.quire-menu__inner__links {
-  /*border-top-color: #231f20;
-  border-bottom-color: #231f20;*/
-}
 .quire-menu__inner__footer {
   color: #fff;
 }
@@ -142,6 +116,10 @@ a:active, a:focus, a:hover {
 .quire-menu__inner__header .quire-title a,
 .quire-menu__inner button {
   color: #efebec;
+}
+
+.quire-menu__inner__links .quire-link-list__icon {
+  fill: #efebec;
 }
 
 /* Hide "Jump to Notes" link on pages without footnotes */
@@ -162,6 +140,10 @@ a:active, a:focus, a:hover {
   display: none;
 }
 
+.q-contributors__list__item__link {
+  display: block;
+}
+
 /* Symposium Participants list */
 
 #participants ul {
@@ -178,6 +160,11 @@ a:active, a:focus, a:hover {
   margin-bottom: 0;
 }
 
+#about .quire-copyright p,
+#copyright .quire-copyright p {
+  margin-bottom: 1em;
+}
+
 .quire-page__content__main blockquote > p {
   margin-bottom: .5rem;
 }
@@ -186,20 +173,156 @@ br.pdf-toc {
   display: none;
 }
 
+/* Dont’t indent paragraphs after blockquotes */
+
+.quire-page__content__main blockquote + p {
+  text-indent: 0;
+}
+
+/* But do indent this one */
+
+#theoretical-issues-15-brobbel_rees .quire-page__content__main blockquote:nth-of-type(9) + p {
+  text-indent: 2rem;
+}
+
+.q-figure + h3 {
+  margin-top: 2.25rem;
+}
+
+/* About page */
+
+#about .quire-page__content__main .logo-block img {
+  max-width: 30%;
+  float: left;
+  margin: 1rem 0 1rem;
+}
+
+#about .quire-page__content__main .logo-block img:nth-of-type(2) {
+  margin: 1rem 5% 1rem;
+}
+
+#about .quire-page__content__main .gci-block {
+  background-color: #efebec;
+  padding: 1rem;
+  border-radius: .5rem;
+  margin-top: 2rem;
+}
+
+#about .quire-page__content__main .gci-block ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#about .quire-page__content__main .gci-block ul li {
+  margin-bottom: 0;
+}
+
+#contents ul.quire-contents .quire-contents__page--video:first-child {
+  display: none;
+}
+
 /* Print */
 
 @media print {
 
+  @page footer:right {
+    @bottom-left {
+      font-style: normal;
+    }
+  }
+  @page frontmatter:left {
+    @bottom-right {
+      content: string(papertitle);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt;
+    }
+  }
+
+  @page frontmatter:left:first {
+    @bottom-right {
+      content: none;
+    }
+  }
+
+  @page frontmatter:right {
+    @bottom-left {
+      content: string(papertitle);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt;
+    }
+  }
+
+  @page frontmatter:right:first {
+    @bottom-left {
+      content: none;
+    }
+  }
+
+  @page footer-nosection:left {
+    margin-bottom: 1in;
+    margin-left: 0.75in;
+    margin-right: 1in;
+    margin-top: 0.875in;
+    @bottom-left {
+      content: counter(page);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt; }
+    @bottom-right {
+      content: string(papertitle);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt; }
+  }
+  @page footer-nosection:right {
+    margin-bottom: 1in;
+    margin-left: 1in;
+    margin-right: 0.75in;
+    margin-top: 0.875in;
+    @bottom-right {
+      content: counter(page);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt; }
+    @bottom-left {
+      content: string(papernumber) string(papertitle);
+      font-family: "Open Sans", sans-serif;
+      font-size: 7.5pt; }
+  }
+  @page footer-nosection:right:first {
+    @bottom-left {
+      content: none; }
+  }
+  @page footer-nosection:left:first {
+    @bottom-right {
+      content: none; }
+  }
+
+  /* Match use of primary color to cover color and in CMYK */
+  .quire-body-type--cover .quire-nav,
+  .quire-body-type--cover .quire-nav a,
+  .quire-body-type--cover .quire-cover__inner__title,
+  .quire-page__header__title {
+    color: cmyk(.35,.15,1,0);
+  }
+  .quire-body-type--section-head .quire-page {
+    background-color: cmyk(.35,.15,1,0);
+  }
+
+  #opening-remarks .quire-page,
+  #contributors .quire-page,
+  #participants .quire-page,
+  #videos .quire-page,
+  #bibliography .quire-page {
+    page: footer-nosection;
+  }
+
   a {
     color: cmyk(0,0,0,1);
   }
-
+  /*Remove anchor links to figs*/
+  a[href^="#fig"] {
+    prince-link: none;
+  }
   .quire-body.quire-body-type--cover .quire-nav-group {
     background-color: transparent;
-  }
-
-  .quire-body.quire-body-type--cover .quire-nav-group a {
-    color: #9eb300;
   }
   .quire-body-type--cover .quire-cover__inner__title {
     width: auto;
@@ -222,11 +345,32 @@ br.pdf-toc {
     font-size: 16pt;
     line-height: 22pt;
   }
+  .quire-body-type--cover  .quire-cover__inner__title-page-text {
+    margin: .625in 0;
+    float: right;
+  }
+  .quire-body-type--cover  .quire-cover__inner__title-page-text p {
+    color: cmyk(0,0,0,0.55);
+    width: 3.5in;
+    margin-bottom: 1em;
+    margin-right: 0;
+  }
   .quire-body-type--cover .quire-cover__inner__publisher {
     color: cmyk(0,0,0,0.55);
     font-size: 14pt;
     line-height: 20pt;
-    margin-top: 4in;
+    margin-top: 4.25in;
+  }
+
+  /*Insert a blank page so Opening Remarks starts on right-hand page*/
+  #preface::after {
+    content: "#";
+    color: #fff;
+  }
+
+  #posters-index::before {
+    content: "#";
+    color: #fff;
   }
 
   /*Start main page numbering at Opening Remarks*/
@@ -238,12 +382,16 @@ br.pdf-toc {
     display: inherit;
   }
 
-  .quire-page__content__main h3 {
-    margin-bottom: 6pt;
+  #contents ul.quire-contents .quire-contents__page--video:first-child {
+    display: none;
   }
 
-  .quire-body-type--section-head .quire-page {
-    background-color: #9eb300;
+  #contents ul.quire-contents .quire-contents__page--frontmatter a::after {
+    content: leader(dotted) ' ' target-counter(attr(href, url), page, lower-roman);
+  }
+
+  .quire-page__content__main h3 {
+    margin-bottom: 6pt;
   }
 
   .quire-citation {
@@ -280,20 +428,45 @@ br.pdf-toc {
   #videos h2:nth-of-type(2) {
     page-break-before: always;
   }
+
+  /* Force explicit page breaks (except in Index of Videos) so preceeding page will auto balance column lengths */
+  #fig-I-2,
+  #fig-1-11,
+  #fig-2-6,
+  #fig-3-6,
+  #fig-8-1,
+  #fig-15-2,
+  #fig-15-5,
+  #fig-15-7 {
+    page-break-before: always;
+  }
+  #videos #fig-15-2,
+  #videos #fig-15-5 {
+    page-break-before: avoid;
+  }
+
   #fig-1-9,
   #fig-2-4,
+  #fig-2-7b + figcaption,
   #fig-3-2,
   #fig-13-8,
   #fig-15-3,
   #fig-21-1 {
     page-break-after: always;
   }
+  #fig-2-6 {
+    column-break-after: always;
+  }
+  #fig-2-7a,
+  #fig-2-7b,
   #fig-13-7,
   #fig-13-8,
   #videos .q-figure.q-figure-grid .q-figure__inner-figure.q-grid-2 {
     width: 48.4%;
   }
-  #fig-15-1,
+  #fig-15-1 {
+    width: 65%;
+  }
   #fig-20-1 {
     width: 70%;
   }
@@ -301,4 +474,92 @@ br.pdf-toc {
   #fig-7-4 {
     width: 80%;
   }
+
+  #theoretical-issues-15-brobbel_rees .quire-page__content__main blockquote:nth-of-type(9) + p {
+    text-indent: 1.5em;
+  }
+
+  #posters-18-iazurlo .quire-page__header__title,
+  #collections-10-pola_ferriani .quire-page__header__title,
+  #posters-16-cappellina .quire-page__header__title {
+    max-width: 5.5in;
+  }
+
+  #contributors .q-contributors__list {
+    column-span: all;
+    column-count: 2;
+    column-gap: 0.25in;
+  }
+
+  #contributors #grazia-de-cesare,
+  #contributors #sherry-phillips,
+  #contributors #simon-rees,
+  #contributors #eugenia-stamatopoulou,
+  #contributors #ming-yi-tsai,
+  #contributors #sjoukje-van-der-laan {
+    column-break-before: always;
+  }
+  #contributors hr {
+    column-span: all;
+  }
+
+  #videos h2 {
+    page-break-before: always;
+  }
+
+  #videos h2:nth-of-type(1),
+  #videos h2:nth-of-type(3),
+  #videos h2:nth-of-type(5) {
+    page-break-before: avoid;
+  }
+
+  #bibliography dd {
+    page-break-inside: avoid;
+  }
+
+  .referenced-in,
+  .referenced-in a {
+    color: cmyk(0,0,0,1);
+  }
+
+  .q-figure + h3 {
+    margin-top: 1.75em;
+  }
+
+  /* Copyright page */
+
+  .quire-body-class--copyright .quire-page {
+    margin-right: 0;
+  }
+
+  .quire-body-class--copyright .quire-page__content__main ul,
+  .quire-body-class--copyright .quire-page__content__main p {
+    /*margin-right: 2.4375in;*/
+    margin-right: 2.4in;
+  }
+
+  .quire-body-class--copyright .quire-page__content__main .logo-block,
+  .quire-body-class--copyright .quire-page__content__main .logo-block p {
+    margin-right: 0;
+  }
+
+  .quire-body-class--copyright .quire-page__content__main .logo-block {
+    width: 2.1875in;
+    float: right;
+  }
+
+  .quire-body-class--copyright .quire-page__content__main .logo-block img {
+    max-width: 90%;
+  }
+
+  #copyright .logo-block p {
+    margin-bottom: 0;
+  }
+
+  .quire-body-class--copyright .quire-page__content__main ul:first-of-type {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+  }
+
 }

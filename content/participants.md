@@ -38,7 +38,7 @@ type: page
 
     <span class="quire-noprint">[Bio](/contributors/#reinhard-bek)|[Contribution](/keynotes/1-bek/)</span>
 
-    Bek & Frohnert LLC, New York
+    Bek & Frohnert LLC, Bronx, New York
 
     USA
 
@@ -52,7 +52,7 @@ type: page
 
 - **Anna Bogatin**
 
-    Private practice, Philadelphia
+    Private practice, Philadelphia, Pennsylvania
 
     USA
 
@@ -100,9 +100,7 @@ type: page
 
     <span class="quire-noprint">[Bio](/contributors/#marianna-cappellina)|[Contribution](/posters/16-cappellina/)</span>
 
-    Strati s.n.c., in residence at Museo Nazionale della Scienza e della
-
-    Tecnologia “Leonardo da Vinci,” Milan
+    Strati s.n.c., in residence at Museo Nazionale della Scienza e della Tecnologia “Leonardo da Vinci,” Milan
 
     Italy
 
@@ -130,7 +128,7 @@ type: page
 
 - **Kate Cuffari**
 
-    Philadelphia Museum of Art
+    Philadelphia Museum of Art, Pennsylvania
 
     USA
 
@@ -160,14 +158,14 @@ type: page
 
 - **Matilde Dolcetti**
 
-    Matilde Dolcetti Restauri y Conservazione, Milan
+    Matilde Dolcetti Restauri e Conservazione, Milan
 
     Italy
 
 
 - **Abigail Duckor**
 
-    Los Angeles County Museum of Art
+    Los Angeles County Museum of Art, California
 
     USA
 
@@ -232,7 +230,7 @@ Sciences
 
     <span class="quire-noprint">[Bio](/contributors/#mark-gilberg)|[Contribution](/case-studies/3-gilberg/)</span>
 
-    Los Angeles County Museum of Art
+    Los Angeles County Museum of Art, California
 
     USA
 
@@ -258,7 +256,7 @@ Milan
 
 - **Tim Griffiths**
 
-     Rowland Emett Society, Birmingham
+    Rowland Emett Society, Birmingham
 
     United Kingdom
 
@@ -354,7 +352,7 @@ Sciences
 
 - **Tom Learner**
 
-    Getty Conservation Institute, Los Angeles
+    Getty Conservation Institute, Los Angeles, California
 
     USA
 
@@ -447,14 +445,14 @@ PATRIMA, Paris
 
 - **Beau Ott**
 
-    Private collector, Philadelphia
+    Private collector, Philadelphia, Pennsylvania
 
     USA
 
 
 - **Samantha Owens**
 
-    Winterthur/University of Delaware Program in Art Conservation, Delaware
+    Winterthur/University of Delaware Program in Art Conservation, Newark, Delaware
 
     USA
 
@@ -512,9 +510,9 @@ Nacional de San Martín, Buenos Aires
 
 - **Thomas Podnar**
 
-    McKay Lodge Fine Art Conservation Laboratory, Inc., Oberlin
+    McKay Lodge Fine Art Conservation Laboratory, Inc., Oberlin, Ohio
 
-    Ohio, USA
+    USA
 
 
 - **Francesca Pola**
@@ -535,7 +533,7 @@ Nacional de San Martín, Buenos Aires
 
 - **Marina Pugliese**
 
-    California College of the Arts, Oakland
+    California College of the Arts, Oakland, California
 
     USA
 
@@ -569,7 +567,7 @@ Nacional de San Martín, Buenos Aires
 
     <span class="quire-noprint">[Bio](/contributors/#rachel-rivenc)|[Contribution](/preface/)</span>
 
-    Getty Conservation Institute, Los Angeles
+    Getty Conservation Institute, Los Angeles, California
 
     USA
 
@@ -583,9 +581,9 @@ Nacional de San Martín, Buenos Aires
 
 - **Kendra Roth**
 
-    Metropolitan Museum of Art
+    Metropolitan Museum of Art, New York, New York
 
-    New York, USA
+    USA
 
 
 - **Ulrik Runeberg**
@@ -613,9 +611,9 @@ Nacional de San Martín, Buenos Aires
 
     <span class="quire-noprint">[Bio](/contributors/#ingrid-seyb)|[Contribution](/collections/9-gillies/)</span>
 
-    Museum of Fine Arts, Houston
+    Museum of Fine Arts, Houston, Texas
 
-    Texas, USA
+    USA
 
 
 - **Antonio Sgamellotti**
@@ -675,9 +673,9 @@ Nacional de San Martín, Buenos Aires
 
     <span class="quire-noprint">[Bio](/contributors/#erin-stephenson)|[Contribution](/collections/7-stephenson/)</span>
 
-    National Gallery of Art
+    National Gallery of Art, Washington, DC
 
-    Washington, D.C., USA
+    USA
 
 
 - **David Strivay**
@@ -700,7 +698,7 @@ Nacional de San Martín, Buenos Aires
 
     <span class="quire-noprint">[Bio](/contributors/#nikki-van-basten)|[Contribution](/posters/22-van_aubel/)</span>
 
-    Getty Conservation Institute, Los Angeles
+    Getty Conservation Institute, Los Angeles, California
 
     USA
 

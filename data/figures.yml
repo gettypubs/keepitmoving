@@ -1,20 +1,20 @@
 figure_list:
 
-  - id: "I.1"
+  - id: "0.1"
     src: fig-i-1-ratti.jpg
     caption: >
-      Gianni Colombo, *Strutturazione pulsante*, 1959, polystyrene foam, wooden structure, metal, rubber foam, and electrical micromotor. The artwork is turned on for one minute every thirty minutes from 10 a.m. Museo del Novecento (long-term loan of the artist).
+      Gianni Colombo, *Strutturazione pulsante*, 1959, polystyrene foam, wooden structure, metal, rubber foam, and electrical micromotor. The artwork is turned on for one minute every thirty minutes from 10 a.m. Museo del Novecento (long-term loan by the artist).
     credit: >
       Archivio Gianni Colombo, Milan. Museo del Novecento, Milan © Comune di Milano. All rights reserved.
 
-  - id: "I.2"
+  - id: "0.2"
     src: fig-i-2-ratti.jpg
     caption: >
-      Giovanni Anceschi, *Struttura tricroma*, 1964, four cube-shaped elements in wood and metal, inbuilt screen, back projection with additive color synthesis, and four 220V electromechanical motors. Museo del Novecento (long-term loan of the artist, Milan).
+      Giovanni Anceschi, *Struttura tricroma*, 1964, four cube-shaped elements in wood and metal, inbuilt screen, back projection with additive color synthesis, and four 220V electromechanical motors. Museo del Novecento (long-term loan by the artist).
     credit: >
       © Giovanni Anceschi. Museo del Novecento, Milan © Comune di Milano. All rights reserved.
 
-  - id: "I.3"
+  - id: "0.3"
     src: fig-i-3-ratti.jpg
     caption: >
       Giovanni Anceschi, *Ambiente a shock luminosi*, 1964, environment with plasterboard walls and canvas ceiling, two stroboscopic luminous appliqués, and timer. Museo del Novecento.
@@ -25,7 +25,7 @@ figure_list:
     caption: >
       *Kinetic Construction* (*Standing Wave*), 1919–20, by Naum Gabo (1890–1977); replica 1985.
     credit: >
-      The Work of Naum Gabo © Nina & Graham Williams. Photo: © Tate, London 2016.
+      The Work of Naum Gabo © Nina & Graham Williams. Photos: © Tate, London 2016.
 
   - id: "1.2"
     src: fig-1-2-bek.jpg
@@ -117,6 +117,8 @@ figure_list:
     src: fig-2-1-caianiello.jpg
     caption: >
       A screwdriver cannot be used as an ashtray.
+    credit: >
+      Photo: Tiziana Caianiello.
 
   - id: "2.2"
     src: fig-2-2-caianiello.jpg
@@ -179,7 +181,7 @@ figure_list:
     media_type: youtube
     fallback: fig-3-1-video-gilberg.jpg
     caption: >
-      Chris Burden’s *Metropolis II* (2010) in action.
+      Chris Burden’s *Metropolis II*, 2011, in action.
     credit: >
       © Chris Burden Estate. Courtesy of the Nicolas Berggruen Charitable Foundation. Photo: Mark Gilberg and Alison Walker.
 
@@ -277,7 +279,7 @@ figure_list:
   - id: "4.6"
     src: fig-4-6-snow.jpg
     caption: >
-      FLIR ONE™ thermal image of the horizontal projector.
+      FLIR ONE thermal image of the horizontal projector.
     credit: >
       Photo: Yale University Art Gallery.
 
@@ -459,7 +461,7 @@ figure_list:
     caption: >
       Operation of Takis’s *Ballet Magnetique*, 1961, after conservation treatment. The Menil Collection, Houston.
     credit: >
-      © Takis Foundation. Video capture: The Menil Collection, Houston, Adam Baker
+      © Takis Foundation. Video capture: The Menil Collection, Houston, Adam Baker.
 
   - id: "7.11"
     src: fig-7-11-stephenson.jpg
@@ -496,14 +498,14 @@ figure_list:
     caption: >
       Examples of slides from Aleksandar Srnec’s *Luminoplastic 1*, 1965–67.
     credit: >
-      Museum of Contemporary Art, Zagreb. Photo: © Kreso Vlahek.
+      Photo: © Kreso Vlahek.
 
   - id: "8.4b"
     src: fig-8-4b-pavic.jpg
     caption: >
       Examples of slides from Aleksandar Srnec’s *Luminoplastic 1*, 1965–67.
     credit: >
-      Museum of Contemporary Art, Zagreb. Photo: © Kreso Vlahek.
+      Photo: © Kreso Vlahek.
 
   - id: "8.5a"
     src: fig-8-5a-pavic.jpg
@@ -526,7 +528,7 @@ figure_list:
     caption: >
       Analogue projection of Aleksandar Srnec’s *Luminoplastic 1*, 1965–67.
     credit: >
-      Museum of Contemporary Art, Zagreb.
+      Video: Museum of Contemporary Art, Zagreb.
 
   - id: "8.7"
     src: fig-8-7-pavic.jpg
@@ -584,7 +586,7 @@ figure_list:
     caption: >
       Comparison of the analogue and digital projections.
     credit: >
-      Museum of Contemporary Art, Zagreb.
+      Video: Museum of Contemporary Art, Zagreb.
 
   - id: "9.1"
     src: zNr9YISTQfw
@@ -879,7 +881,7 @@ figure_list:
     caption: >
       Julio Le Parc’s space at the Venice Biennale, 1966. The priest trying on Le Parc’s eyeglasses may give an idea of the wider audiences artists hope to reach through art multiples. Denise René Archive.
     credit: >
-      © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris / Photo: © Andre Morain, Paris.
+      © 2017 Artists Rights Society (ARS), New York / ADAGP, Paris. Photo: © Andre Morain, Paris.
 
   - id: "13.3"
     src: fig-13-3-plante.jpg
@@ -900,7 +902,7 @@ figure_list:
     caption: >
       <em>Multiples</em> by Hugo Demarco, featured in the Galerie Denise René exhibition <em>Demarco: Dynamique de l’image</em> (April–May 1968) and the accompanying catalogue. The Parisian gallery supported the production of multiples and reserved a section for them in its exhibition catalogues.
     credit: >
-      From *Demarco: Dynamique de l’image, Galerie Denise René, Paris . . . avril–mai 1968*. Paris: Galerie Denise René; Société Mondial d’Impression, 1968. Reproduced with permission / © Hugo Demarco
+      From *Demarco: Dynamique de l’image, Galerie Denise René, Paris . . . avril–mai 1968*. Paris: Galerie Denise René; Société Mondial d’Impression, 1968. Reproduced with permission. © Hugo Demarco.
 
   - id: "13.6"
     src: fig-13-6-plante.jpg
@@ -995,7 +997,7 @@ figure_list:
     caption: >
       Len Lye’s *Loop*, ca. 1964, after its 2016 restoration. The Art Institute of Chicago, Barbara Neff Smith and Solomon Byron Smith Purchase Fund.
     credit: >
-      © Len Lye Foundation Collection.
+      Len Lye Foundation Collection.
 
   - id: "15.5"
     src: t_Or2bTzcbg

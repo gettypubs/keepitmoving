@@ -1,7 +1,7 @@
 ---
 id: "18"
 title: Conserving a Kinetic “Rotor”
-subtitle: <em>Light Dynamo</em> by Heinz Mack
+subtitle: <em>Light Dynamo</em> <span class="toc-break">by Heinz Mack</span>
 type: essay
 contributor:
  - first_name: Paola
@@ -26,7 +26,7 @@ A condition assessment revealed that the work appeared to be seriously deteriora
 
 As with most kinetic works, the problem presented by the treatment was how to balance the exigency of preservation of the original materials with the exigency of functionality.
 
-The issue of preservation of the original materials was addressed according to a strictly conservative approach in terms of compatibility and reversibility. The particleboard panels were consolidated with a hydrocarbon resin (Regalrez™ 1126), the paint layer and the aluminum sheets were cleaned with a solution of triammonium citrate, and the small lacunae were filled with synthetic stucco and inpainted with a cellulose ether medium, to respect the opacity and solubility of the original paint layer.
+The issue of preservation of the original materials was addressed according to a strictly conservative approach in terms of compatibility and reversibility. The particleboard panels were consolidated with a hydrocarbon resin (Regalrez 1126), the paint layer and the aluminum sheets were cleaned with a solution of triammonium citrate, and the small lacunae were filled with synthetic stucco and inpainted with a cellulose ether medium, to respect the opacity and solubility of the original paint layer.
 
 {{< q-figure id="18.1" pdf="two-column" >}}
 

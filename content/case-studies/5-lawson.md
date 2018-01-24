@@ -43,7 +43,7 @@ Gabo used primitive techniques and reclaimed materials in the manufacture of *Ki
 
 ## Wen-Ying Tsai’s *Umbrella*
 
-Wen-Ying Tsai (1928–2013) began to make cybernetic sculpture in 1966. Each sculpture consists of a number of stainless-steel rods set on a platform, vibrating at a constant rate of 20Hz to 30Hz (cycles per second). These vibrating rods are lit by high-frequency strobes that capture their movement, allowing the viewer to see them as slowly undulating standing waves. The standing waves appear to immediately respond to a loud noise—the clap of a hand or a loud voice—by quickening their motion ({{<q-cite "Alley 1981" "730-31">}}).
+Wen-Ying Tsai (1928–2013) began to make cybernetic sculpture in 1966. Each sculpture consists of a number of stainless-steel rods set on a platform, vibrating at a constant rate of 20Hz to 30Hz (cycles per second). These vibrating rods are lit by high-frequency strobes that capture their movement, allowing the viewer to see them as slowly undulating standing waves. The standing waves appear to immediately respond to a loud noise—the clap of a hand or a loud voice—by quickening their motion ({{<q-cite "Alley 1981" "730–31">}}).
 
 {{< q-figure id="5.1" >}}
 
