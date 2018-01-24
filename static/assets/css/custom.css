@@ -368,7 +368,8 @@ br.pdf-toc {
     color: #fff;
   }
 
-  #posters-index::before {
+  #posters-index::before,
+  #contributors::before {
     content: "#";
     color: #fff;
   }
