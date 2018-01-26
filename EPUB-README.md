@@ -6,7 +6,7 @@ The way `pe-epub` is currently working, it requires `pe-epub-fs` to also be used
 
 ## STEP 1
 
-Temporarily simplify the `layouts/_default/baseof.html` and `layouts/section-head/single.html` templates to remove unneeded navigational/interface elements, including the abstract listings in `section-head`.
+Temporarily simplify the `layouts/_default/baseof.html`, `layouts/essay/single.html` and `layouts/section-head/single.html` templates to remove unneeded navigational/interface elements, including the abstract listings in `section-head`.
 
 ## STEP 2
 
@@ -32,17 +32,11 @@ java -jar [FILEPATH]/epubcheck-3.0.1.jar [FILEPATH]/keepitmoving.epub
 
 ## BEFORE EPUB CONVERSION -- CHANGES TO `PUBLIC` DIRECTORY
 
-// Remove cover video asset, and adjust controls and poster
+// Remove cover video asset, and adjust controls and poster, may need to go to index.html file manually if project-level search doesn't work.
 
 ```
-<source src="./assets/img/cover_bg.mp4" type="video/mp4">
+<video class="quire-cover__video"(.|\s)+?</video>
 ```
-
-```
-playsinline autoplay muted\sposter="../assets/img/
-poster="file:///Users/galbers/GitHub/keepitmoving/public/assets/img/
-```
-
 
 // image source for figures in essays within subdirectories:
 
