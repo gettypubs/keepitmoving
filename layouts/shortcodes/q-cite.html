@@ -5,8 +5,10 @@
   a hover and link, and adds the citation to the
   bibliography presented at the end of the paper.
 
-  Was not part of the theme this book uses, but will be 
+  Was not part of the theme this book uses, but will be
   incorportated into Quire in the future.
+
+  Rather than use Hugo's built-in urlize function, he IDs here are contructed to remove special characters with diactrics that are not allowed in EPUB valid XML. The same process is used for the biblio and contributors.
 
 */}}
 {{- if eq (len .Params) 3 -}}
@@ -28,4 +30,4 @@
 {{ $entry := ($.Page.Scratch.GetSortedMapValues "entry") }}
 {{- $shortId := .Get 0 | urlize -}}
 {{- $.Page.Scratch.SetInMap "cited" $shortId $entry -}}
-<a href="#{{ $short | urlize }}" class="quire-citation"><span class="visually-hidden">Citation: </span>{{- markdownify $shortDisplay -}}{{ with .Get 1 }}{{ $.Site.Params.citationPageLocationDivider  }}{{ . }}{{ end }}</a><span class="quire-citation-content"><span class="quire-citation-content__no-css"> [</span>{{- markdownify ($.Scratch.Get "full") -}}<span class="quire-citation-content__no-css">]</span></span>
+<a href="#{{ replace $short " " "-" | replaceRE "[^a-zA-Z0-9|-]+" "" | lower }}" class="quire-citation"><span class="visually-hidden">Citation: </span>{{- markdownify $shortDisplay -}}{{ with .Get 1 }}{{ $.Site.Params.citationPageLocationDivider  }}{{ . }}{{ end }}</a><span class="quire-citation-content"><span class="quire-citation-content__no-css"> [</span>{{- markdownify ($.Scratch.Get "full") -}}<span class="quire-citation-content__no-css">]</span></span>
