@@ -141,7 +141,7 @@ formats:
     link_relation: alternate
     url: http://www.getty.edu/publications/keepitmoving/downloads/RivencBek_KeepItMoving.mobi
     identifier: 978-1-60606-537-2
-    note:
+    note: 42.7 MB
     icon:
   - name: PDF
     media_type: application/pdf
