@@ -1,0 +1,224 @@
+{
+  "title": "Keep It Moving?: Conserving Kinetic Art ()",
+  "cover": "file:///Users/galbers/GitHub/keepitmoving/public/assets/img/cover_graphic.jpg",
+  "url": "http://www.getty.edu/publications/keepitmoving",
+  "isbn": "978-1-60606-536-5",
+  "languages": "en",
+  "date": "2018-02-01",
+  "creator": [
+    {
+      "name": "Rachel Rivenc",
+      "role": "Editor",
+      "file-as": "Rivenc, Rachel"
+    },{
+      "name": "Reinhard Bek",
+      "role": "Editor",
+      "file-as": "Bek, Reinhard"
+    }
+  ],
+  "publisher": [
+    "Getty Conservation Institute, Los Angeles"
+  ],
+  "description": "Kinetic art not only includes movement, but often depends on it to produce its intended effect and therefore fully realize its nature as work of art. It can take a multiplicity of forms and include a wide range of motion, from motorized and electrically driven movement to motion as the result of wind, light, or other sources of energy. Kinetic art emerged throughout the twentieth century and had its major developments in the 1950s and 1960s.Professionals responsible for conserving contemporary art are in the midst of rethinking the concept of authenticity and solving the dichotomy often felt between original materials and functionality of the work of art. The contrast is especially acute with kinetic art when a compromise between the two often seems impossible. Also to be considered are issues of technological obsolescence and the fact that an artist’s chosen technology often carries with it strong sociological and historical information and meanings.Presenting the latest research and scholarship on the topic with fifteen essays and eight posters, this online publication (also available for print-on-demand) includes videos to capture more accurately the effects conjured by kinetic artworks.",
+  "rights" : "© 2018 J. Paul Getty Trust",
+  "css": "file:///Users/galbers/GitHub/keepitmoving/public/assets/css/epub.css",
+  "pages": [
+    
+    {
+      "title": "Cover",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/index.html",
+      "href": "index.xhtml",
+      "toc": true
+    },{
+      "title": "Copyright",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/copyright/index.html",
+      "href": "copyright.xhtml",
+      "toc": true
+    },{
+      "title": "Contents",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/contents/index.html",
+      "href": "contents.xhtml",
+      "toc": true
+    },{
+      "title": "Foreword",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/foreword/index.html",
+      "href": "foreword.xhtml",
+      "toc": true
+    },{
+      "title": "Preface",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/preface/index.html",
+      "href": "preface.xhtml",
+      "toc": true
+    },{
+      "title": "Opening Remarks: The Kinetic Collection at the Museo del Novecento, Milan",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/opening-remarks/index.html",
+      "href": "opening-remarks.xhtml",
+      "toc": true
+    },{
+      "title": "Part 1. Keynotes",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/keynotes/index.html",
+      "href": "keynotes.xhtml",
+      "toc": true
+    },{
+      "title": "1. A Question of KinEthics",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/keynotes/1-bek/index.html",
+      "href": "keynotes-1-bek.xhtml",
+      "toc": true
+    },{
+      "title": "2. The Fluid Boundaries between Interpretation and Overinterpretation: Collecting, Conserving, and Staging Kinetic Art Installations",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/keynotes/2-caianiello/index.html",
+      "href": "keynotes-2-caianiello.xhtml",
+      "toc": true
+    },{
+      "title": "Part 2. Case Studies",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/case-studies/index.html",
+      "href": "case-studies.xhtml",
+      "toc": true
+    },{
+      "title": "3. Fast and Furious: Operation, Maintenance, and Repair of Chris Burden’s Metropolis II at LACMA",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/case-studies/3-gilberg/index.html",
+      "href": "case-studies-3-gilberg.xhtml",
+      "toc": true
+    },{
+      "title": "4. Conserving Thomas Wilfred’s Lumia Suite, Opus 158",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/case-studies/4-snow/index.html",
+      "href": "case-studies-4-snow.xhtml",
+      "toc": true
+    },{
+      "title": "5. Cybernetic Umbrella: A Case Study in Collaboration",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/case-studies/5-lawson/index.html",
+      "href": "case-studies-5-lawson.xhtml",
+      "toc": true
+    },{
+      "title": "6. Moving with the Times: The Refurbishment and Restoration of a Choreographed Robotic Arm",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/case-studies/6-phillips/index.html",
+      "href": "case-studies-6-phillips.xhtml",
+      "toc": true
+    },{
+      "title": "Part 3. Collections/Artists’ Oeuvres",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/collections/index.html",
+      "href": "collections.xhtml",
+      "toc": true
+    },{
+      "title": "7. Takis and the Fourth Dimension",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/collections/7-stephenson/index.html",
+      "href": "collections-7-stephenson.xhtml",
+      "toc": true
+    },{
+      "title": "8. Preserving Performativity: Conserving the Elusive in Aleksandar Srnec’s Artwork",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/collections/8-pavic_mestric/index.html",
+      "href": "collections-8-pavic_mestric.xhtml",
+      "toc": true
+    },{
+      "title": "9. Engineering a Solution: Latin American Light-Based Kinetic Art at the Museum of Fine Arts, Houston",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/collections/9-gillies/index.html",
+      "href": "collections-9-gillies.xhtml",
+      "toc": true
+    },{
+      "title": "10. Intertwined Strategies for Conservation and Display of Kinetic Art: Case Studies in the European Neo-Avant-Garde",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/collections/10-pola_ferriani/index.html",
+      "href": "collections-10-pola_ferriani.xhtml",
+      "toc": true
+    },{
+      "title": "11. The Examination and Conservation of Thirteen Artworks by Jean Tinguely in the Collection of the Stedelijk Museum Amsterdam",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/collections/11-meijer/index.html",
+      "href": "collections-11-meijer.xhtml",
+      "toc": true
+    },{
+      "title": "Part 4. Theoretical Issues",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/theoretical-issues/index.html",
+      "href": "theoretical-issues.xhtml",
+      "toc": true
+    },{
+      "title": "12. The Hype about ZERO and Its Influence on the Conservation and Presentation of Early Kinetic Works",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/theoretical-issues/12-heydenreich_giebeler/index.html",
+      "href": "theoretical-issues-12-heydenreich_giebeler.xhtml",
+      "toc": true
+    },{
+      "title": "13. Kinetic Multiples: Between Industrial Vocation and Handcrafted Solutions",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/theoretical-issues/13-plante/index.html",
+      "href": "theoretical-issues-13-plante.xhtml",
+      "toc": true
+    },{
+      "title": "14. The Collection of Nicolas Schöffer: From the Artist’s Studio to the Museum",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/theoretical-issues/14-dhaenens/index.html",
+      "href": "theoretical-issues-14-dhaenens.xhtml",
+      "toc": true
+    },{
+      "title": "15. “Pretty Good for the 21st Century”: Restoration, Reconstruction, and Realization of Len Lye’s “Tangible Motion Sculpture”",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/theoretical-issues/15-brobbel_rees/index.html",
+      "href": "theoretical-issues-15-brobbel_rees.xhtml",
+      "toc": true
+    },{
+      "title": "Part 5. Posters",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/posters/index.html",
+      "href": "posters.xhtml",
+      "toc": true
+    },{
+      "title": "16. Conserving Mechanical Elements in Technological Artifacts: Three Case Studies from Museo Nazionale della Scienza e della Tecnologia “Leonardo da Vinci,” Milan",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/posters/16-cappellina/index.html",
+      "href": "posters-16-cappellina.xhtml",
+      "toc": true
+    },{
+      "title": "17. Think Big! The Conservation of Ballerina Clown, a Kinetic Work of Art by Jonathan Borofsky",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/posters/17-erhan/index.html",
+      "href": "posters-17-erhan.xhtml",
+      "toc": true
+    },{
+      "title": "18. Conserving a Kinetic “Rotor”: Light Dynamo by Heinz Mack",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/posters/18-iazurlo/index.html",
+      "href": "posters-18-iazurlo.xhtml",
+      "toc": true
+    },{
+      "title": "19. Considering the Continuum of Care for Outdoor Kinetic Sculpture",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/posters/19-mack/index.html",
+      "href": "posters-19-mack.xhtml",
+      "toc": true
+    },{
+      "title": "20. Gianni Colombo’s Strutturazione cinevisuale abitabile: From Flickering to Light",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/posters/20-peller/index.html",
+      "href": "posters-20-peller.xhtml",
+      "toc": true
+    },{
+      "title": "21. Death of a moment: Management, Installation, and Maintenance of a Site-Specific Kinetic Sculpture",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/posters/21-stamatopoulou/index.html",
+      "href": "posters-21-stamatopoulou.xhtml",
+      "toc": true
+    },{
+      "title": "22. Future in Motion: Conservation Issues of Seven Kinetic Artworks by Dutch Artist Ray Staakman",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/posters/22-van_aubel/index.html",
+      "href": "posters-22-van_aubel.xhtml",
+      "toc": true
+    },{
+      "title": "23. The Conservation Ethics of and Strategies for Preserving and Exhibiting an Operational Car: The Motion and Standstill of Joost Conijn’s Hout Auto (Wood Car)",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/posters/23-van_mourik/index.html",
+      "href": "posters-23-van_mourik.xhtml",
+      "toc": true
+    },{
+      "title": "Contributors",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/contributors/index.html",
+      "href": "contributors.xhtml",
+      "toc": true
+    },{
+      "title": "Symposium Participants",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/participants/index.html",
+      "href": "participants.xhtml",
+      "toc": true
+    },{
+      "title": "Index of Videos",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/videos/index.html",
+      "href": "videos.xhtml",
+      "toc": true
+    },{
+      "title": "Bibliography",
+      "body": "file:///Users/galbers/GitHub/keepitmoving/public/bibliography/index.html",
+      "href": "bibliography.xhtml",
+      "toc": true
+    }
+  ]
+}
+
+
+
+
+
