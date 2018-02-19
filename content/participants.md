@@ -414,7 +414,7 @@ Sciences
 
 - **Vesna Meštrić**
 
-    <span class="quire-noprint">[Bio](/contributors/#vesna-me%C5%A1tri%C4%87)|[Contribution](/collections/8-pavic_mestric/)</span>
+    <span class="quire-noprint">[Bio](/contributors/#vesna-metri)|[Contribution](/collections/8-pavic_mestric/)</span>
 
     Museum of Contemporary Art, Zagreb
 
@@ -466,7 +466,7 @@ PATRIMA, Paris
 
 - **Mirta Pavić**
 
-    <span class="quire-noprint">[Bio](/contributors/#mirta-pavi%C4%87)|[Contribution](/collections/8-pavic_mestric/)</span>
+    <span class="quire-noprint">[Bio](/contributors/#mirta-pavi)|[Contribution](/collections/8-pavic_mestric/)</span>
 
     Museum of Contemporary Art, Zagreb
 

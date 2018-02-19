@@ -87,6 +87,7 @@ In looking at Lye’s practice through a single work in *Fountain*, we encounter
 Through the remaining years of his life, Lye’s energies as a sculptor were spent conceptualizing large-scale applications for his works, rendering his kinetic oeuvre (as witnessed in *Art of the Sixties*) as models for a more vividly empathetic vision.
 
 {{< q-figure id="15.6" class="float-left" pdf="one-column" >}}
+
 {{< q-figure id="15.7" class="float-left" pdf="one-column" >}}
 
 Lye’s ambitions were for large environmental settings for scaled-up, monumental versions of his tangibles—sculpture parks, for want of a better term—or, in Lye’s vision, projects such as *Universe Walk* (ca. 1960), a giant gateway version of *Universe* (or *Loop*) through which the audience entered a walkway between an avenue of multiple spinning *Twisters*. The notion of composition is apparent here, with various artworks being combined into a new sculptural arrangement. The most ambitious of Lye’s large-scale endeavors was the *Temple* complex, a theoretical composition in which his artworks (including *Wind Wands*) were each located in the “leaf” of a clover-shaped lake. In the center of the lake would stand the *Temple*, a cloud-shaped home to <em>Sun, Land, and Sea</em>—a composed work in which a 46m *Sea Serpent* performed a rucking motion and fired a bolt of lightning through an undulating *Flip* ([fig. 15.6](#fig-15-6)). Lye demonstrated a model *Sea Serpent* and *Flip* at the conclusion of *Art of the Sixties*, proving his concept as far as he was capable in his lifetime.

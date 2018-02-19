@@ -7,6 +7,8 @@
   Was not part of the theme this book uses, but will be
   incorportated into Quire in the future.
 
+  Rather than use Hugo's built-in urlize function, he IDs here are contructed to remove special characters with diactrics that are not allowed in EPUB valid XML. The same process is used for citations and contributors
+
 */}}
 <section class="quire-page__content__references">
 {{ if .Get "sort" }}
@@ -14,19 +16,19 @@
   <dl>
   {{ range sort .Site.Data.bibliography.entries ($.Get "sort") }}
       <dt>{{ .short | markdownify }}</dt>
-      <dd id="{{ .short | urlize }}">{{ .full | markdownify }}
+      <dd id="{{ replace .short " " "-" | replaceRE "[^a-zA-Z0-9|-]+" "" | lower }}">{{ .full | markdownify }}
         <span class="referenced-in">Referenced in:
         {{ $a := split .reference_for "," }}
         {{ $len := len $a }}
         {{ range $index, $element := $a }}
           {{ if eq . "preface" }}
-            <a href="../{{ . }}">{{ . | title }}</a>
+            <a href="../{{ . }}/">{{ . | title }}</a>
           {{- else -}}
             {{ $x := split . "/" }}
             {{ $y := index $x 1 }}
             {{ $b := split $y "-" }}
             {{ $c := index $b 0 }}
-            <a href="../{{ . }}">{{ $c }}</a>
+            <a href="../{{ replace . " " "" }}">{{ $c }}</a>
           {{- end -}}{{ if eq (add $index 1) $len }}{{ else }},{{ end }}
         {{ end }}</span>
       </dd>
@@ -35,7 +37,7 @@
   {{ else }}
   <ul>
   {{ range sort .Site.Data.bibliography.entries ($.Get "sort") }}
-      <li id="{{ .short | urlize }}">{{ .full | markdownify }}</li>
+      <li id="{{ replace .short " " "-" | replaceRE "[^a-zA-Z0-9|-]+" "" | lower }}">{{ .full | markdownify }}</li>
   {{ end }}
   </ul>
   {{ end }}
@@ -44,7 +46,7 @@
   <dl>
   {{ range .Site.Data.bibliography.entries }}
       <dt>{{ .short | markdownify }} [<a href="{{ .reference_for }}">{{ .reference_for }}</a>]</dt>
-      <dd id="{{ .short | urlize }}">{{ .full | markdownify }}<br />
+      <dd id="{{ replace .short " " "-" | replaceRE "[^a-zA-Z0-9|-]+" "" | lower }}">{{ .full | markdownify }}<br />
         Referenced in:
         {{ $a := split .reference_for "," }}
         {{ $len := len $a }}
@@ -56,7 +58,7 @@
             {{ $y := index $x 1 }}
             {{ $b := split $y "-" }}
             {{ $c := index $b 0 }}
-            <a href="../{{ . }}">{{ $c }}</a>
+            <a href="../{{ replace . " " "" }}">{{ $c }}</a>
           {{- end -}}{{ if eq (add $index 1) $len }}{{ else }},{{ end }}
         {{ end }}
       </dd>
@@ -65,7 +67,7 @@
   {{ else }}
   <ul>
   {{ range .Site.Data.bibliography.entries }}
-      <li id="{{ .short | urlize }}">{{ .full | markdownify }}</li>
+      <li id="{{ replace .short " " "-" | replaceRE "[^a-zA-Z0-9|-]+" "" | lower }}">{{ .full | markdownify }}</li>
   {{ end }}
   </ul>
   {{ end }}

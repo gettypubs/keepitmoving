@@ -6,6 +6,8 @@
   This is a feature that will be included in Quire in the future,
   but was not a core part of the theme used for this book.
 
+  Rather than use Hugo's built-in urlize function, he IDs here are contructed to remove special characters with diactrics that are not allowed in EPUB valid XML. The same process is used for the biblio shortcode, citations and contributors.
+
 */}}
 {{ define "main" }}
 <div class="quire-page">
@@ -56,7 +58,7 @@
       <dl>
       {{ range ($.Scratch.GetSortedMapValues "cited") }}
           <dt>{{ markdownify (index . 0) }}</dt>
-          <dd id="{{ urlize (index . 0) }}">{{ markdownify (index . 1)}}</dd>
+          <dd id="{{ replace (index . 0) " " "-" | replaceRE "[^a-zA-Z0-9|-]+" "" | lower }}">{{ markdownify (index . 1)}}</dd>
       {{ end }}
       </dl>
     </section>
