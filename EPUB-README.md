@@ -45,6 +45,13 @@ src="../../assets/img/figures/
 src="file:///Users/galbers/GitHub/keepitmoving/public/assets/img/figures/
 ```
 
+// image source for figures in pages within root directory:
+
+```
+src="\.{1,2}/assets/img/figures/
+src="file:///Users/galbers/GitHub/keepitmoving/public/assets/img/figures/
+```
+
 // image source for figures and non-figures in pages within root directory:
 
 ```
