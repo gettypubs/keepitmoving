@@ -5,13 +5,13 @@ import debounce from 'lodash.debounce'
 // When Quire supports different environments ("dev" vs "production"), this will switch to the proper URL automatically
 
 // Local
-const BASEURL =  process.env['NODE_ENV'] === 'production' ? '../' : ''
+// const BASEURL =  process.env['NODE_ENV'] === 'production' ? '../' : ''
 
 // Artistry in Bronze
 // const BASEURL =  process.env['NODE_ENV'] === 'production' ? 'http://www.getty.edu/publications/artistryinbronze' : ''
 
 // Keep it Moving
-// const BASEURL =  process.env['NODE_ENV'] === 'production' ? 'http://www.getty.edu/publications/keepitmoving' : ''
+const BASEURL =  process.env['NODE_ENV'] === 'production' ? 'http://www.getty.edu/publications/keepitmoving' : ''
 
 let Search = Vue.extend({
   name: 'Search',

@@ -46,7 +46,7 @@ block-scoped .Scratch inside the `range` loop.
 {{- .Scratch.Set "parentSection" "" -}}
 {{- .Scratch.Set "pageType" "" -}}
 
-{{- if gt (len $page.Content) 0 -}}
+{{- if ne $page.Params.layout "abstract-only" -}}
 {{- .Scratch.Set "searchContent" $page.Plain -}}
 {{- .Scratch.Set "pageURL" $page.RelPermalink -}}
 {{- .Scratch.Set "pageType" $page.Type -}}
@@ -59,7 +59,8 @@ block-scoped .Scratch inside the `range` loop.
 {{- .Scratch.Set "pageType" "abstract" -}}
 
 {{- end -}}
-{{- .Scratch.Set "pageData" (dict "id" $index "title" $page.Title "url" (.Scratch.Get "pageURL") "type" (.Scratch.Get "pageType") "content" (.Scratch.Get "searchContent")) -}}
+{{ $pageTitle := ($page.Title | markdownify) }}
+{{- .Scratch.Set "pageData" (dict "id" $index "title" $pageTitle "url" (.Scratch.Get "pageURL") "type" (.Scratch.Get "pageType") "content" (.Scratch.Get "searchContent")) -}}
 
 {{- $.Scratch.Add "index" (.Scratch.Get "pageData") -}}
 {{- end -}}
