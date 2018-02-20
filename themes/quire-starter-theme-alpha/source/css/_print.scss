@@ -25,7 +25,7 @@ $print-paragraph-indent: 0.25in;
 
 $print-text-color: cmyk(0,0,0,1);
 
-$print-dark-neutral: cmyk(0,0,0,0.65);
+$print-dark-neutral: cmyk(0,0,0,0.7);
 $print-mid-neutral: cmyk(0,0,0,0.55);
 $print-light-neutral: cmyk(0,0,0,0.1);
 
@@ -578,6 +578,11 @@ $print-page-number-size: 7.5pt;
         }
         a::after {
           content: leader(dotted) ' ' target-counter(attr(href, url), page);
+        }
+        &--frontmatter {
+          a::after {
+            content: leader(dotted) ' ' target-counter(attr(href, url), page, lower-roman);
+          }
         }
       }
 
