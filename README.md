@@ -40,6 +40,17 @@ cd themes/quire-starter-theme-alpha
 npm install
 ```
 
+### The Theme
+
+This project uses [`quire-starter-theme-alpha`](https://github.com/gettypubs/quire-starter-theme-alpha), which as its name suggests, is an alpha version of the main [`quire-starter-theme`](https://github.com/gettypubs/quire-starter-theme-alpha) being developed for Quire. 
+
+Two files within the `quire-starter-theme-alpha` directory have been modified specifically for this publication:
+
+1. `source/css/_variables.scss`: the `$primary-color` variable has been set to `#994e1a`
+2. `source/js/search.js`: the `BASEURL` for the search index has been set to `http://www.getty.edu/publications/artistryinbronze`
+
+This is also the same themme used in [*Artistry in Bronze: The Greeks and Their Legacy*](https://github.com/gettypubs/artistryinbronze). Other than for the two exceptions noted above, all differences between the two publications are done with local overrides in the specific project’s `layouts` and `static` directories. 
+
 ## License
 
 © 2018 J. Paul Getty Trust.
