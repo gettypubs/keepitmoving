@@ -25,12 +25,19 @@ The primary content pieces of the book can be found in the `data` and `content` 
 - Hugo v0.31
 - PrinceXML 11
 
-### Images Submodule
+### Cloning with the Images Submodule
 
 The figure images for this publication are kept in a separate, private repository and linked to this main publication repository as a submodule. When cloning the repo for further development, you’ll need to do so recursively in order to clone both the main repo and the submodule.
 
 ```
 git clone --recursive https://github.com/gettypubs/keepitmoving.git
+```
+
+Once cloned, you’ll need to change into the theme directory and install the project theme’s dependencies before running `quire preview`.
+
+```
+cd themes/quire-starter-theme-alpha
+npm install
 ```
 
 ## License
