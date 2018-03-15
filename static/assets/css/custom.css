@@ -221,6 +221,52 @@ br.pdf-toc {
   display: none;
 }
 
+.quire-cover__inner__series {
+  padding-left: 8%;
+  line-height: 3vh;
+}
+
+@media screen and (max-width: 690px) {
+
+  .quire-cover__background {
+    background-image: none;
+    background-color: #000;
+  }
+
+  .quire-cover__video-wrapper {
+    height: 50%;
+  }
+
+  .quire-cover__video-wrapper video {
+    width: 100%;
+  }
+
+  .quire-cover__inner {
+    text-align: center;
+  }
+
+  .quire-cover__inner__title,
+  .quire-cover__inner__subtitle {
+    font-size: 6vh;
+    line-height: 6.75vh;
+  }
+
+  .quire-cover__inner__series {
+    padding-left: 2.8vh;
+    padding-right: 2.8vh;
+    text-align: center;
+    left: 0;
+    line-height:
+  }
+
+  #about .quire-page__content__main .logo-block img {
+    float: none;
+    max-width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+}
+
 /* Print */
 
 @media print {
