@@ -46,8 +46,8 @@ This project uses [`quire-starter-theme-alpha`](https://github.com/gettypubs/qui
 
 Two files within the `quire-starter-theme-alpha` directory have been modified specifically for this publication:
 
-1. `source/css/_variables.scss`: the `$primary-color` variable has been set to `#994e1a`
-2. `source/js/search.js`: the `BASEURL` for the search index has been set to `http://www.getty.edu/publications/artistryinbronze`
+1. `source/css/_variables.scss`: the `$primary-color` variable has been set to `#9eb300`
+2. `source/js/search.js`: the `BASEURL` for the search index has been set to `http://www.getty.edu/publications/keepitmoving`
 
 This is also the same themme used in [*Artistry in Bronze: The Greeks and Their Legacy*](https://github.com/gettypubs/artistryinbronze). Other than for the two exceptions noted above, all differences between the two publications are done with local overrides in the specific project’s `layouts` and `static` directories. 
 
