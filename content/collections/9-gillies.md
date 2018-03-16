@@ -115,7 +115,7 @@ The expanding role of MFAH conservators in the display of these objects has been
 
 ## Notes
 
-[^1]: Orbitec E10 230V 15W. Don Schnapp Specialty Bulbs, 2600 Pope Canyon Road, Saint Helena, CA, 94574; {{< q-url-link >}}http://www.donsbulbs.com/cgi-bin/r/b.pl/e5850~orbitec.html{{< /q-url-link >}}.
+[^1]: Orbitec E10 230V 15W. Don Schnapp Specialty Bulbs, 2600 Pope Canyon Road, Saint Helena, CA, 94574. Don Schnapp has since retired.
 
 [^2]: Alejandro Marcos, in discussion with the authors, April 2015.
 
