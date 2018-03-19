@@ -8,7 +8,7 @@
 # update the value here too.
 
 # Use these settings for serving/building to a path other than root
-baseurl: "https://gettypubs.github.io/keepitmoving"
+baseurl: "http://www.getty.edu/publications/keepitmoving"
 canonifyURLs: true
 
 # Use these settings for serving/building to the root path
