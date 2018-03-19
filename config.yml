@@ -8,12 +8,12 @@
 # update the value here too.
 
 # Use these settings for serving/building to a path other than root
-# baseurl: "https://gettypubs.github.io/keepitmoving"
-# canonifyURLs: true
+baseurl: "http://www.getty.edu/publications/keepitmoving"
+canonifyURLs: true
 
 # Use these settings for serving/building to the root path
-baseurl: ""
-relativeURLs: true
+# baseurl: ""
+# relativeURLs: true
 
 theme: "quire-starter-theme-alpha"
 footnoteReturnLinkContents: "↩"

@@ -153,7 +153,7 @@ formats:
   - name: Paperback
     media_type: print
     link_relation: alternate
-    url: http://shop.getty.edu/products/keep-it-moving-978-1606065372
+    url: https://shop.getty.edu/products/keep-it-moving-conserving-kinetic-art-978-1606065389
     identifier: 978-1-60606-538-9
     note:
     icon: cart-icon
@@ -193,7 +193,7 @@ footer_links:
 # REVISIONS & VERSION CONTROL
 
 revision_history:
-  - date: 2018-02-01
+  - date: 2018-03-15
     summary:
       - First edition
 repository_url: http://www.github.com/gettypubs/keepitmoving

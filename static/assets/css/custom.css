@@ -28,6 +28,7 @@
   padding: 1em;
   max-width: 30em;
   text-indent: 0;
+  z-index: 1;
 }
 
 .quire-citation-content__no-css {
@@ -124,6 +125,7 @@
 
 /* Hide "Jump to Notes" link on pages without footnotes */
 
+#collections-10-pola_ferriani .quire-page__header__page-navigation__notes,
 #posters-16-cappellina .quire-page__header__page-navigation__notes,
 #posters-17-erhan .quire-page__header__page-navigation__notes,
 #posters-18-iazurlo .quire-page__header__page-navigation__notes,

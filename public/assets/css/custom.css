@@ -28,6 +28,7 @@
   padding: 1em;
   max-width: 30em;
   text-indent: 0;
+  z-index: 1;
 }
 
 .quire-citation-content__no-css {
@@ -124,6 +125,7 @@
 
 /* Hide "Jump to Notes" link on pages without footnotes */
 
+#collections-10-pola_ferriani .quire-page__header__page-navigation__notes,
 #posters-16-cappellina .quire-page__header__page-navigation__notes,
 #posters-17-erhan .quire-page__header__page-navigation__notes,
 #posters-18-iazurlo .quire-page__header__page-navigation__notes,
@@ -219,6 +221,52 @@ br.pdf-toc {
 
 #contents ul.quire-contents .quire-contents__page--video:first-child {
   display: none;
+}
+
+.quire-cover__inner__series {
+  padding-left: 8%;
+  line-height: 3vh;
+}
+
+@media screen and (max-width: 690px) {
+
+  .quire-cover__background {
+    background-image: none;
+    background-color: #000;
+  }
+
+  .quire-cover__video-wrapper {
+    height: 50%;
+  }
+
+  .quire-cover__video-wrapper video {
+    width: 100%;
+  }
+
+  .quire-cover__inner {
+    text-align: center;
+  }
+
+  .quire-cover__inner__title,
+  .quire-cover__inner__subtitle {
+    font-size: 6vh;
+    line-height: 6.75vh;
+  }
+
+  .quire-cover__inner__series {
+    padding-left: 2.8vh;
+    padding-right: 2.8vh;
+    text-align: center;
+    left: 0;
+    line-height:
+  }
+
+  #about .quire-page__content__main .logo-block img {
+    float: none;
+    max-width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
 }
 
 /* Print */
