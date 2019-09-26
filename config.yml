@@ -10,6 +10,7 @@
 # Use these settings for serving/building to a path other than root
 baseurl: "http://www.getty.edu/publications/keepitmoving"
 canonifyURLs: true
+relativeURLs: true
 
 # Use these settings for serving/building to the root path
 # baseurl: ""
