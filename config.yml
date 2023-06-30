@@ -39,4 +39,5 @@ params:
   tocType: "full"
   menuType:  "short"
   citationPageLocationDivider: ":"
+  GoogleAnalytics4: GTM-NRDC63K
 
