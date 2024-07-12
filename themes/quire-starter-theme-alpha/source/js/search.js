@@ -11,7 +11,7 @@ import debounce from 'lodash.debounce'
 // const BASEURL =  process.env['NODE_ENV'] === 'production' ? 'http://www.getty.edu/publications/artistryinbronze' : ''
 
 // Keep it Moving
-const BASEURL =  process.env['NODE_ENV'] === 'production' ? 'http://www.getty.edu/publications/keepitmoving' : ''
+const BASEURL =  process.env['NODE_ENV'] === 'production' ? 'https://www.getty.edu/publications/keepitmoving' : ''
 
 let Search = Vue.extend({
   name: 'Search',

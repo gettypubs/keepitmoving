@@ -35951,7 +35951,7 @@
 	// const BASEURL =  process.env['NODE_ENV'] === 'production' ? 'http://www.getty.edu/publications/artistryinbronze' : ''
 
 	// Keep it Moving
-	var BASEURL = ({"NODE_ENV":"production"})['NODE_ENV'] === 'production' ? 'http://www.getty.edu/publications/keepitmoving' : '';
+	var BASEURL = ({"NODE_ENV":"production"})['NODE_ENV'] === 'production' ? 'https://www.getty.edu/publications/keepitmoving' : '';
 
 	var Search = _vue2.default.extend({
 	  name: 'Search',
